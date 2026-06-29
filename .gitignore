@@ -1,0 +1,32 @@
+# === 数据仓库 .gitignore ===
+# 公共数据仓库只跟踪 CVE 数据文件，不包含源码
+
+# Go 源码
+*.go
+go.mod
+go.sum
+
+# CI 配置
+.github/
+
+# 配置文件
+blacklist.yaml
+
+# 编译产物
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+poc-monitor
+*.test
+*.out
+
+# IDE 和系统文件
+.idea/
+.vscode/
+.DS_Store
+.workbuddy/
+
+# 临时文件
+*.tmp

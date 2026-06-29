@@ -1,0 +1,134 @@
+# 2007 List
+
+---
+## CVE-2007-6755 (2013-10-11T22:55:00)
+> The NIST SP 800-90A default statement of the Dual Elliptic Curve Deterministic Random Bit Generation (Dual_EC_DRBG) algorithm contains point Q constants with a possible relationship to certain "skeleton key" values, which might allow context-dependent attackers to defeat cryptographic protection mechanisms by leveraging knowledge of those values.  NOTE: this is a preliminary CVE for Dual_EC_DRBG; future research may provide additional details about point Q and associated attacks, and could potentially lead to a RECAST or REJECT of this CVE.
+- [Live-Hack-CVE/CVE-2007-6755](https://github.com/Live-Hack-CVE/CVE-2007-6755)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-6755">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-6755">
+
+---
+## CVE-2007-6750 ()
+> 
+- [RhzVenom/CVE-2007-6750](https://github.com/RhzVenom/CVE-2007-6750)	<img alt="forks" src="https://img.shields.io/github/forks/RhzVenom/CVE-2007-6750">	<img alt="stars" src="https://img.shields.io/github/stars/RhzVenom/CVE-2007-6750">
+
+---
+## CVE-2007-6601 (2008-01-09T21:46:00)
+> The DBLink module in PostgreSQL 8.2 before 8.2.6, 8.1 before 8.1.11, 8.0 before 8.0.15, 7.4 before 7.4.19, and 7.3 before 7.3.21, when local trust or ident authentication is used, allows remote attackers to gain privileges via unspecified vectors.  NOTE: this issue exists because of an incomplete fix for CVE-2007-3278.
+- [Live-Hack-CVE/CVE-2007-6601](https://github.com/Live-Hack-CVE/CVE-2007-6601)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-6601">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-6601">
+
+---
+## CVE-2007-5962 (2008-05-22T13:09:00)
+> Memory leak in a certain Red Hat patch, applied to vsftpd 2.0.5 on Red Hat Enterprise Linux (RHEL) 5 and Fedora 6 through 8, and on Foresight Linux and rPath appliances, allows remote attackers to cause a denial of service (memory consumption) via a large number of CWD commands, as demonstrated by an attack on a daemon with the deny_file configuration option.
+- [antogit-sys/CVE-2007-5962](https://github.com/antogit-sys/CVE-2007-5962)	<img alt="forks" src="https://img.shields.io/github/forks/antogit-sys/CVE-2007-5962">	<img alt="stars" src="https://img.shields.io/github/stars/antogit-sys/CVE-2007-5962">
+
+---
+## CVE-2007-5536 (2007-10-18T00:17:00)
+> Unspecified vulnerability in OpenSSL before A.00.09.07l on HP-UX B.11.11, B.11.23, and B.11.31 allows local users to cause a denial of service via unspecified vectors.
+- [Live-Hack-CVE/CVE-2007-5536](https://github.com/Live-Hack-CVE/CVE-2007-5536)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-5536">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-5536">
+
+---
+## CVE-2007-4560 ()
+> 
+- [strikoder/sendmail-clamav-exploit-CVE-2007-4560](https://github.com/strikoder/sendmail-clamav-exploit-CVE-2007-4560)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/sendmail-clamav-exploit-CVE-2007-4560">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/sendmail-clamav-exploit-CVE-2007-4560">
+- [0x1sac/ClamAV-Milter-Sendmail-0.91.2-Remote-Code-Execution](https://github.com/0x1sac/ClamAV-Milter-Sendmail-0.91.2-Remote-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/0x1sac/ClamAV-Milter-Sendmail-0.91.2-Remote-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/0x1sac/ClamAV-Milter-Sendmail-0.91.2-Remote-Code-Execution">
+
+---
+## CVE-2007-4559 (2007-08-28T01:17:00)
+> Directory traversal vulnerability in the (1) extract and (2) extractall functions in the tarfile module in Python allows user-assisted remote attackers to overwrite arbitrary files via a .. (dot dot) sequence in filenames in a TAR archive, a related issue to CVE-2001-1267.
+- [davidholiday/CVE-2007-4559](https://github.com/davidholiday/CVE-2007-4559)	<img alt="forks" src="https://img.shields.io/github/forks/davidholiday/CVE-2007-4559">	<img alt="stars" src="https://img.shields.io/github/stars/davidholiday/CVE-2007-4559">
+- [Ooscaar/MALW](https://github.com/Ooscaar/MALW)	<img alt="forks" src="https://img.shields.io/github/forks/Ooscaar/MALW">	<img alt="stars" src="https://img.shields.io/github/stars/Ooscaar/MALW">
+- [advanced-threat-research/Creosote](https://github.com/advanced-threat-research/Creosote)	<img alt="forks" src="https://img.shields.io/github/forks/advanced-threat-research/Creosote">	<img alt="stars" src="https://img.shields.io/github/stars/advanced-threat-research/Creosote">
+- [depers-rus/CVE-2007-4559](https://github.com/depers-rus/CVE-2007-4559)	<img alt="forks" src="https://img.shields.io/github/forks/depers-rus/CVE-2007-4559">	<img alt="stars" src="https://img.shields.io/github/stars/depers-rus/CVE-2007-4559">
+- [m0d0ri205/wargame-tarpioka](https://github.com/m0d0ri205/wargame-tarpioka)	<img alt="forks" src="https://img.shields.io/github/forks/m0d0ri205/wargame-tarpioka">	<img alt="stars" src="https://img.shields.io/github/stars/m0d0ri205/wargame-tarpioka">
+- [luigigubello/trellix-tarslip-patch-bypass](https://github.com/luigigubello/trellix-tarslip-patch-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/luigigubello/trellix-tarslip-patch-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/luigigubello/trellix-tarslip-patch-bypass">
+- [localh0ste/CVE-2007-4559](https://github.com/localh0ste/CVE-2007-4559)	<img alt="forks" src="https://img.shields.io/github/forks/localh0ste/CVE-2007-4559">	<img alt="stars" src="https://img.shields.io/github/stars/localh0ste/CVE-2007-4559">
+- [jithinodattu/CVE-2007-4559-lab](https://github.com/jithinodattu/CVE-2007-4559-lab)	<img alt="forks" src="https://img.shields.io/github/forks/jithinodattu/CVE-2007-4559-lab">	<img alt="stars" src="https://img.shields.io/github/stars/jithinodattu/CVE-2007-4559-lab">
+
+---
+## CVE-2007-3847 (2007-08-23T22:17:00)
+> The date handling code in modules/proxy/proxy_util.c (mod_proxy) in Apache 2.3.0, when using a threaded MPM, allows remote origin servers to cause a denial of service (caching forward proxy process crash) via crafted date headers that trigger a buffer over-read.
+- [Live-Hack-CVE/CVE-2007-3847](https://github.com/Live-Hack-CVE/CVE-2007-3847)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-3847">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-3847">
+
+---
+## CVE-2007-3007 (2007-06-04T17:30:00)
+> PHP 5 before 5.2.3 does not enforce the open_basedir or safe_mode restriction in certain cases, which allows context-dependent attackers to determine the existence of arbitrary files by checking if the readfile function returns a string.  NOTE: this issue might also involve the realpath function.
+- [Live-Hack-CVE/CVE-2007-3007](https://github.com/Live-Hack-CVE/CVE-2007-3007)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-3007">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-3007">
+
+---
+## CVE-2007-2447 (2007-05-14T21:19:00)
+> The MS-RPC functionality in smbd in Samba 3.0.0 through 3.0.25rc3 allows remote attackers to execute arbitrary commands via shell metacharacters involving the (1) SamrChangePassword function, when the "username map script" smb.conf option is enabled, and allows remote authenticated users to execute commands via shell metacharacters involving other MS-RPC functions in the (2) remote printer and (3) file share management.
+- [b33m0x00/CVE-2007-2447](https://github.com/b33m0x00/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/b33m0x00/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/b33m0x00/CVE-2007-2447">
+- [testaross4/CVE-2007-2447](https://github.com/testaross4/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/testaross4/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/testaross4/CVE-2007-2447">
+- [Nosferatuvjr/Samba-Usermap-exploit](https://github.com/Nosferatuvjr/Samba-Usermap-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nosferatuvjr/Samba-Usermap-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nosferatuvjr/Samba-Usermap-exploit">
+- [k4u5h41/usermap_script_CVE-2007-2447](https://github.com/k4u5h41/usermap_script_CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/k4u5h41/usermap_script_CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/k4u5h41/usermap_script_CVE-2007-2447">
+- [0xConstant/CVE-2007-2447](https://github.com/0xConstant/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/0xConstant/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/0xConstant/CVE-2007-2447">
+- [s4msec/CVE-2007-2447](https://github.com/s4msec/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/s4msec/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/s4msec/CVE-2007-2447">
+- [xbufu/CVE-2007-2447](https://github.com/xbufu/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/xbufu/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/xbufu/CVE-2007-2447">
+- [3t4n/samba-3.0.24-CVE-2007-2447-vunerable-](https://github.com/3t4n/samba-3.0.24-CVE-2007-2447-vunerable-)	<img alt="forks" src="https://img.shields.io/github/forks/3t4n/samba-3.0.24-CVE-2007-2447-vunerable-">	<img alt="stars" src="https://img.shields.io/github/stars/3t4n/samba-3.0.24-CVE-2007-2447-vunerable-">
+- [Alien0ne/CVE-2007-2447](https://github.com/Alien0ne/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/Alien0ne/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/Alien0ne/CVE-2007-2447">
+- [cherrera0001/CVE-2007-2447](https://github.com/cherrera0001/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/cherrera0001/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/cherrera0001/CVE-2007-2447">
+- [G01d3nW01f/CVE-2007-2447](https://github.com/G01d3nW01f/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/G01d3nW01f/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/G01d3nW01f/CVE-2007-2447">
+- [un4gi/CVE-2007-2447](https://github.com/un4gi/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/un4gi/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/un4gi/CVE-2007-2447">
+- [ozuma/CVE-2007-2447](https://github.com/ozuma/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/ozuma/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/ozuma/CVE-2007-2447">
+- [0xKn/CVE-2007-2447](https://github.com/0xKn/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/0xKn/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/0xKn/CVE-2007-2447">
+- [Ziemni/CVE-2007-2447-in-Python](https://github.com/Ziemni/CVE-2007-2447-in-Python)	<img alt="forks" src="https://img.shields.io/github/forks/Ziemni/CVE-2007-2447-in-Python">	<img alt="stars" src="https://img.shields.io/github/stars/Ziemni/CVE-2007-2447-in-Python">
+- [WildfootW/CVE-2007-2447_Samba_3.0.25rc3](https://github.com/WildfootW/CVE-2007-2447_Samba_3.0.25rc3)	<img alt="forks" src="https://img.shields.io/github/forks/WildfootW/CVE-2007-2447_Samba_3.0.25rc3">	<img alt="stars" src="https://img.shields.io/github/stars/WildfootW/CVE-2007-2447_Samba_3.0.25rc3">
+- [xlcc4096/exploit-CVE-2007-2447](https://github.com/xlcc4096/exploit-CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/xlcc4096/exploit-CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/xlcc4096/exploit-CVE-2007-2447">
+- [amriunix/CVE-2007-2447](https://github.com/amriunix/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/amriunix/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/amriunix/CVE-2007-2447">
+- [3x1t1um/CVE-2007-2447](https://github.com/3x1t1um/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/3x1t1um/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/3x1t1um/CVE-2007-2447">
+- [JoseBarrios/CVE-2007-2447](https://github.com/JoseBarrios/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/JoseBarrios/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/JoseBarrios/CVE-2007-2447">
+- [b1fair/smb_usermap](https://github.com/b1fair/smb_usermap)	<img alt="forks" src="https://img.shields.io/github/forks/b1fair/smb_usermap">	<img alt="stars" src="https://img.shields.io/github/stars/b1fair/smb_usermap">
+- [Unix13/metasploitable2](https://github.com/Unix13/metasploitable2)	<img alt="forks" src="https://img.shields.io/github/forks/Unix13/metasploitable2">	<img alt="stars" src="https://img.shields.io/github/stars/Unix13/metasploitable2">
+- [Aviksaikat/CVE-2007-2447](https://github.com/Aviksaikat/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/Aviksaikat/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/Aviksaikat/CVE-2007-2447">
+- [HerculesRD/PyUsernameMapScriptRCE](https://github.com/HerculesRD/PyUsernameMapScriptRCE)	<img alt="forks" src="https://img.shields.io/github/forks/HerculesRD/PyUsernameMapScriptRCE">	<img alt="stars" src="https://img.shields.io/github/stars/HerculesRD/PyUsernameMapScriptRCE">
+- [h3x0v3rl0rd/CVE-2007-2447](https://github.com/h3x0v3rl0rd/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/h3x0v3rl0rd/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/h3x0v3rl0rd/CVE-2007-2447">
+- [bdunlap9/CVE-2007-2447_python](https://github.com/bdunlap9/CVE-2007-2447_python)	<img alt="forks" src="https://img.shields.io/github/forks/bdunlap9/CVE-2007-2447_python">	<img alt="stars" src="https://img.shields.io/github/stars/bdunlap9/CVE-2007-2447_python">
+- [MikeRega7/CVE-2007-2447-RCE](https://github.com/MikeRega7/CVE-2007-2447-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/MikeRega7/CVE-2007-2447-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/MikeRega7/CVE-2007-2447-RCE">
+- [0xTabun/CVE-2007-2447](https://github.com/0xTabun/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/0xTabun/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/0xTabun/CVE-2007-2447">
+- [ShivamDey/Samba-CVE-2007-2447-Exploit](https://github.com/ShivamDey/Samba-CVE-2007-2447-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ShivamDey/Samba-CVE-2007-2447-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ShivamDey/Samba-CVE-2007-2447-Exploit">
+- [mmezirard/cve-2007-2447](https://github.com/mmezirard/cve-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/mmezirard/cve-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/mmezirard/cve-2007-2447">
+- [Juantos/cve-2007-2447](https://github.com/Juantos/cve-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/Juantos/cve-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/Juantos/cve-2007-2447">
+- [IamLucif3r/CVE-2007-2447-Exploit](https://github.com/IamLucif3r/CVE-2007-2447-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IamLucif3r/CVE-2007-2447-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IamLucif3r/CVE-2007-2447-Exploit">
+- [VuThanhLong012/VulnerabilityResearch-CVE-2007-2447](https://github.com/VuThanhLong012/VulnerabilityResearch-CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/VuThanhLong012/VulnerabilityResearch-CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/VuThanhLong012/VulnerabilityResearch-CVE-2007-2447">
+- [foudadev/CVE-2007-2447](https://github.com/foudadev/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/foudadev/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/foudadev/CVE-2007-2447">
+- [elphon/CVE-2007-2447-Exploit](https://github.com/elphon/CVE-2007-2447-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/elphon/CVE-2007-2447-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/elphon/CVE-2007-2447-Exploit">
+- [DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2](https://github.com/DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2)	<img alt="forks" src="https://img.shields.io/github/forks/DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2">	<img alt="stars" src="https://img.shields.io/github/stars/DevinLiggins14/SMB-PenTest-Exploiting-CVE-2007-2447-on-Metasploitable-2">
+- [MrRoma577/exploit_cve-2007-2447_again](https://github.com/MrRoma577/exploit_cve-2007-2447_again)	<img alt="forks" src="https://img.shields.io/github/forks/MrRoma577/exploit_cve-2007-2447_again">	<img alt="stars" src="https://img.shields.io/github/stars/MrRoma577/exploit_cve-2007-2447_again">
+- [nika0x38/CVE-2007-2447](https://github.com/nika0x38/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/nika0x38/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/nika0x38/CVE-2007-2447">
+- [nulltrace1336/Samba-Exploit-CVE-2007-2447](https://github.com/nulltrace1336/Samba-Exploit-CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/nulltrace1336/Samba-Exploit-CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/nulltrace1336/Samba-Exploit-CVE-2007-2447">
+- [SeifEldienAhmad/Penetration-Testing-on-Metasploitable2](https://github.com/SeifEldienAhmad/Penetration-Testing-on-Metasploitable2)	<img alt="forks" src="https://img.shields.io/github/forks/SeifEldienAhmad/Penetration-Testing-on-Metasploitable2">	<img alt="stars" src="https://img.shields.io/github/stars/SeifEldienAhmad/Penetration-Testing-on-Metasploitable2">
+- [abdulsaabir/CVE-2007-2447](https://github.com/abdulsaabir/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/abdulsaabir/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/abdulsaabir/CVE-2007-2447">
+- [r3vpwnx/CVE-2007-2447](https://github.com/r3vpwnx/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2007-2447">
+- [Daviddoctor/Samba-CVE-2007-2447-Exploit-Username-Map-Script](https://github.com/Daviddoctor/Samba-CVE-2007-2447-Exploit-Username-Map-Script)	<img alt="forks" src="https://img.shields.io/github/forks/Daviddoctor/Samba-CVE-2007-2447-Exploit-Username-Map-Script">	<img alt="stars" src="https://img.shields.io/github/stars/Daviddoctor/Samba-CVE-2007-2447-Exploit-Username-Map-Script">
+- [Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report](https://github.com/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report)	<img alt="forks" src="https://img.shields.io/github/forks/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report">	<img alt="stars" src="https://img.shields.io/github/stars/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report">
+- [vig9610/Exploiting-Samba-on-Metasploitable-2](https://github.com/vig9610/Exploiting-Samba-on-Metasploitable-2)	<img alt="forks" src="https://img.shields.io/github/forks/vig9610/Exploiting-Samba-on-Metasploitable-2">	<img alt="stars" src="https://img.shields.io/github/stars/vig9610/Exploiting-Samba-on-Metasploitable-2">
+- [ToxicRootVip/CVE-2007-2447](https://github.com/ToxicRootVip/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/ToxicRootVip/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/ToxicRootVip/CVE-2007-2447">
+
+---
+## CVE-2007-2444 (2007-05-14T21:19:00)
+> Logic error in the SID/Name translation functionality in smbd in Samba 3.0.23d through 3.0.25pre2 allows local users to gain temporary privileges and execute SMB/CIFS protocol operations via unspecified vectors that cause the daemon to transition to the root user.
+- [Live-Hack-CVE/CVE-2007-2444](https://github.com/Live-Hack-CVE/CVE-2007-2444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-2444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-2444">
+
+---
+## CVE-2007-2426 (2007-05-02T00:19:00)
+> PHP remote file inclusion vulnerability in myfunctions/mygallerybrowser.php in the myGallery 1.4b4 and earlier plugin for WordPress allows remote attackers to execute arbitrary PHP code via a URL in the myPath parameter.
+- [goudunz1/CVE-2007-2426](https://github.com/goudunz1/CVE-2007-2426)	<img alt="forks" src="https://img.shields.io/github/forks/goudunz1/CVE-2007-2426">	<img alt="stars" src="https://img.shields.io/github/stars/goudunz1/CVE-2007-2426">
+
+---
+## CVE-2007-20001 (2022-02-06T21:15:00)
+> A flaw was found in StarWind iSCSI target. An attacker could script standard iSCSI Initiator operation(s) to exhaust the StarWind service socket, which could lead to denial of service. This affects iSCSI SAN (Windows Native) Version 3.2.2 build 2007-02-20.
+- [Live-Hack-CVE/CVE-2007-20001](https://github.com/Live-Hack-CVE/CVE-2007-20001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-20001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-20001">
+
+---
+## CVE-2007-1567 ()
+> 
+- [TheMalwareGuardian/CVE-2007-1567](https://github.com/TheMalwareGuardian/CVE-2007-1567)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2007-1567">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2007-1567">
+
+---
+## CVE-2007-10002 (2023-01-08T10:15:00)
+> A vulnerability, which was classified as critical, has been found in web-cyradm. Affected by this issue is some unknown functionality of the file auth.inc.php. The manipulation of the argument login/login_password/LANG leads to sql injection. The attack may be launched remotely. The name of the patch is 2bcbead3bdb5f118bf2c38c541eaa73c29dcc90f. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-217640.
+- [Live-Hack-CVE/CVE-2007-10002](https://github.com/Live-Hack-CVE/CVE-2007-10002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-10002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-10002">
+
+---
+## CVE-2007-10001 (2023-01-05T12:15:00)
+> A vulnerability classified as problematic has been found in web-cyradm. This affects an unknown part of the file search.php. The manipulation of the argument searchstring leads to sql injection. It is recommended to apply a patch to fix this issue. The identifier VDB-217449 was assigned to this vulnerability.
+- [Live-Hack-CVE/CVE-2007-10001](https://github.com/Live-Hack-CVE/CVE-2007-10001)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2007-10001">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2007-10001">
