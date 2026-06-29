@@ -7,6 +7,11 @@
 - [RizeKishimaro/CVE-2005-3299](https://github.com/RizeKishimaro/CVE-2005-3299)	<img alt="forks" src="https://img.shields.io/github/forks/RizeKishimaro/CVE-2005-3299">	<img alt="stars" src="https://img.shields.io/github/stars/RizeKishimaro/CVE-2005-3299">
 
 ---
+## CVE-2005-2428 ()
+> 
+- [schwankner/CVE-2005-2428-IBM-Lotus-Domino-R8-Password-Hash-Extraction-Exploit](https://github.com/schwankner/CVE-2005-2428-IBM-Lotus-Domino-R8-Password-Hash-Extraction-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/schwankner/CVE-2005-2428-IBM-Lotus-Domino-R8-Password-Hash-Extraction-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/schwankner/CVE-2005-2428-IBM-Lotus-Domino-R8-Password-Hash-Extraction-Exploit">
+
+---
 ## CVE-2005-2 ()
 > 
 - [kullai-secasure/CVE-2005-2x8x](https://github.com/kullai-secasure/CVE-2005-2x8x)	<img alt="forks" src="https://img.shields.io/github/forks/kullai-secasure/CVE-2005-2x8x">	<img alt="stars" src="https://img.shields.io/github/stars/kullai-secasure/CVE-2005-2x8x">
@@ -29,9 +34,19 @@
 - [schwankner/CVE-2005-2428-IBM-Lotus-Domino-R8-Password-Hash-Extraction-Exploit](https://github.com/schwankner/CVE-2005-2428-IBM-Lotus-Domino-R8-Password-Hash-Extraction-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/schwankner/CVE-2005-2428-IBM-Lotus-Domino-R8-Password-Hash-Extraction-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/schwankner/CVE-2005-2428-IBM-Lotus-Domino-R8-Password-Hash-Extraction-Exploit">
 
 ---
+## CVE-2005-1794 ()
+> 
+- [InitRoot/CVE-2005-1794Scanner](https://github.com/InitRoot/CVE-2005-1794Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/InitRoot/CVE-2005-1794Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/InitRoot/CVE-2005-1794Scanner">
+
+---
 ## CVE-2005-1125 (2005-05-02T04:00:00)
 > Race condition in libsafe 2.0.16 and earlier, when running in multi-threaded applications, allows attackers to bypass libsafe protection and exploit other vulnerabilities before the _libsafe_die function call is completed.
 - [tagatac/libsafe-CVE-2005-1125](https://github.com/tagatac/libsafe-CVE-2005-1125)	<img alt="forks" src="https://img.shields.io/github/forks/tagatac/libsafe-CVE-2005-1125">	<img alt="stars" src="https://img.shields.io/github/stars/tagatac/libsafe-CVE-2005-1125">
+
+---
+## CVE-2005-0603 ()
+> 
+- [Parcer0/CVE-2005-0603-phpBB-2.0.12-Full-path-disclosure](https://github.com/Parcer0/CVE-2005-0603-phpBB-2.0.12-Full-path-disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/Parcer0/CVE-2005-0603-phpBB-2.0.12-Full-path-disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/Parcer0/CVE-2005-0603-phpBB-2.0.12-Full-path-disclosure">
 
 ---
 ## CVE-2005-0575 (2005-05-02T04:00:00)

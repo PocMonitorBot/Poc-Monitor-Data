@@ -11,9 +11,15 @@
 - [shoucheng3/x-stream__xstream_CVE-2013-7285_1-4-6](https://github.com/shoucheng3/x-stream__xstream_CVE-2013-7285_1-4-6)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/x-stream__xstream_CVE-2013-7285_1-4-6">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/x-stream__xstream_CVE-2013-7285_1-4-6">
 
 ---
+## CVE-2013-6987 ()
+> 
+- [stoicboomer/CVE-2013-6987](https://github.com/stoicboomer/CVE-2013-6987)	<img alt="forks" src="https://img.shields.io/github/forks/stoicboomer/CVE-2013-6987">	<img alt="stars" src="https://img.shields.io/github/stars/stoicboomer/CVE-2013-6987">
+
+---
 ## CVE-2013-6668 (2014-03-05T05:11:00)
 > Multiple unspecified vulnerabilities in Google V8 before 3.24.35.10, as used in Google Chrome before 33.0.1750.146, allow attackers to cause a denial of service or possibly have other impact via unknown vectors.
 - [Live-Hack-CVE/CVE-2013-6668](https://github.com/Live-Hack-CVE/CVE-2013-6668)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6668">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6668">
+- [sdneon/CveTest](https://github.com/sdneon/CveTest)	<img alt="forks" src="https://img.shields.io/github/forks/sdneon/CveTest">	<img alt="stars" src="https://img.shields.io/github/stars/sdneon/CveTest">
 
 ---
 ## CVE-2013-6646 (2014-01-16T12:17:00)
@@ -61,6 +67,25 @@
 - [Live-Hack-CVE/CVE-2013-6406](https://github.com/Live-Hack-CVE/CVE-2013-6406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-6406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-6406">
 
 ---
+## CVE-2013-6375 ()
+> 
+- [bl4ck5un/cve-2013-6375](https://github.com/bl4ck5un/cve-2013-6375)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ck5un/cve-2013-6375">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ck5un/cve-2013-6375">
+
+---
+## CVE-2013-6282 ()
+> 
+- [fi01/libput_user_exploit](https://github.com/fi01/libput_user_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fi01/libput_user_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fi01/libput_user_exploit">
+- [fi01/libget_user_exploit](https://github.com/fi01/libget_user_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fi01/libget_user_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fi01/libget_user_exploit">
+- [jeboo/bypasslkm](https://github.com/jeboo/bypasslkm)	<img alt="forks" src="https://img.shields.io/github/forks/jeboo/bypasslkm">	<img alt="stars" src="https://img.shields.io/github/stars/jeboo/bypasslkm">
+- [timwr/CVE-2013-6282](https://github.com/timwr/CVE-2013-6282)	<img alt="forks" src="https://img.shields.io/github/forks/timwr/CVE-2013-6282">	<img alt="stars" src="https://img.shields.io/github/stars/timwr/CVE-2013-6282">
+
+---
+## CVE-2013-6117 ()
+> 
+- [milo2012/CVE-2013-6117](https://github.com/milo2012/CVE-2013-6117)	<img alt="forks" src="https://img.shields.io/github/forks/milo2012/CVE-2013-6117">	<img alt="stars" src="https://img.shields.io/github/stars/milo2012/CVE-2013-6117">
+- [fsn4k3/dahua-dvr-metasploit](https://github.com/fsn4k3/dahua-dvr-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/fsn4k3/dahua-dvr-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/fsn4k3/dahua-dvr-metasploit">
+
+---
 ## CVE-2013-5960 ()
 > 
 - [andikahilmy/CVE-2013-5960-esapi-java-legacy-vulnerable](https://github.com/andikahilmy/CVE-2013-5960-esapi-java-legacy-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2013-5960-esapi-java-legacy-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2013-5960-esapi-java-legacy-vulnerable">
@@ -76,6 +101,7 @@
 > Unspecified vulnerability in Oracle Java SE 7u40 and earlier, Java SE 6u60 and earlier, Java SE 5.0u51 and earlier, and Java SE Embedded 7u40 and earlier allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors related to Libraries, a different vulnerability than CVE-2013-5850.
 - [Live-Hack-CVE/CVE-2013-5842](https://github.com/Live-Hack-CVE/CVE-2013-5842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5842">
 - [Live-Hack-CVE/CVE-2013-5842](https://github.com/Live-Hack-CVE/CVE-2013-5842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-5842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-5842">
+- [guhe120/CVE-2013-5842](https://github.com/guhe120/CVE-2013-5842)	<img alt="forks" src="https://img.shields.io/github/forks/guhe120/CVE-2013-5842">	<img alt="stars" src="https://img.shields.io/github/stars/guhe120/CVE-2013-5842">
 
 ---
 ## CVE-2013-5830 (2013-10-16T17:55:00)
@@ -95,6 +121,11 @@
 - [andikahilmy/CVE-2013-5679-esapi-java-legacy-vulnerable](https://github.com/andikahilmy/CVE-2013-5679-esapi-java-legacy-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2013-5679-esapi-java-legacy-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2013-5679-esapi-java-legacy-vulnerable">
 
 ---
+## CVE-2013-5664 ()
+> 
+- [phusion/rails-cve-2012-5664-test](https://github.com/phusion/rails-cve-2012-5664-test)	<img alt="forks" src="https://img.shields.io/github/forks/phusion/rails-cve-2012-5664-test">	<img alt="stars" src="https://img.shields.io/github/stars/phusion/rails-cve-2012-5664-test">
+
+---
 ## CVE-2013-5211 (2014-01-02T14:59:00)
 > The monlist feature in ntp_request.c in ntpd in NTP before 4.2.7p26 allows remote attackers to cause a denial of service (traffic amplification) via forged (1) REQ_MON_GETLIST or (2) REQ_MON_GETLIST_1 requests, as exploited in the wild in December 2013.
 - [0xhav0c/CVE-2013-5211](https://github.com/0xhav0c/CVE-2013-5211)	<img alt="forks" src="https://img.shields.io/github/forks/0xhav0c/CVE-2013-5211">	<img alt="stars" src="https://img.shields.io/github/stars/0xhav0c/CVE-2013-5211">
@@ -103,6 +134,36 @@
 - [dani87/ntpscanner](https://github.com/dani87/ntpscanner)	<img alt="forks" src="https://img.shields.io/github/forks/dani87/ntpscanner">	<img alt="stars" src="https://img.shields.io/github/stars/dani87/ntpscanner">
 - [requiempentest/NTP_CVE-2013-5211](https://github.com/requiempentest/NTP_CVE-2013-5211)	<img alt="forks" src="https://img.shields.io/github/forks/requiempentest/NTP_CVE-2013-5211">	<img alt="stars" src="https://img.shields.io/github/stars/requiempentest/NTP_CVE-2013-5211">
 - [requiempentest/-exploit-check-CVE-2013-5211](https://github.com/requiempentest/-exploit-check-CVE-2013-5211)	<img alt="forks" src="https://img.shields.io/github/forks/requiempentest/-exploit-check-CVE-2013-5211">	<img alt="stars" src="https://img.shields.io/github/stars/requiempentest/-exploit-check-CVE-2013-5211">
+
+---
+## CVE-2013-5065 ()
+> 
+- [Friarfukd/RobbinHood](https://github.com/Friarfukd/RobbinHood)	<img alt="forks" src="https://img.shields.io/github/forks/Friarfukd/RobbinHood">	<img alt="stars" src="https://img.shields.io/github/stars/Friarfukd/RobbinHood">
+
+---
+## CVE-2013-4786 ()
+> 
+- [fin3ss3g0d/CosmicRakp](https://github.com/fin3ss3g0d/CosmicRakp)	<img alt="forks" src="https://img.shields.io/github/forks/fin3ss3g0d/CosmicRakp">	<img alt="stars" src="https://img.shields.io/github/stars/fin3ss3g0d/CosmicRakp">
+
+---
+## CVE-2013-4784 ()
+> 
+- [alexoslabs/ipmitest](https://github.com/alexoslabs/ipmitest)	<img alt="forks" src="https://img.shields.io/github/forks/alexoslabs/ipmitest">	<img alt="stars" src="https://img.shields.io/github/stars/alexoslabs/ipmitest">
+
+---
+## CVE-2013-4730 ()
+> 
+- [t0rt3ll1n0/PCmanBoF](https://github.com/t0rt3ll1n0/PCmanBoF)	<img alt="forks" src="https://img.shields.io/github/forks/t0rt3ll1n0/PCmanBoF">	<img alt="stars" src="https://img.shields.io/github/stars/t0rt3ll1n0/PCmanBoF">
+
+---
+## CVE-2013-4710 ()
+> 
+- [Snip3R69/CVE-2013-4710-WebView-RCE-Vulnerability](https://github.com/Snip3R69/CVE-2013-4710-WebView-RCE-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Snip3R69/CVE-2013-4710-WebView-RCE-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Snip3R69/CVE-2013-4710-WebView-RCE-Vulnerability">
+
+---
+## CVE-2013-4660 ()
+> 
+- [leehunkoo/cve-2013-4660_PoC](https://github.com/leehunkoo/cve-2013-4660_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/leehunkoo/cve-2013-4660_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/leehunkoo/cve-2013-4660_PoC">
 
 ---
 ## CVE-2013-4547 ()
@@ -114,6 +175,27 @@
 ## CVE-2013-4496 (2014-03-14T10:55:00)
 > Samba 3.x before 3.6.23, 4.0.x before 4.0.16, and 4.1.x before 4.1.6 does not enforce the password-guessing protection mechanism for all interfaces, which makes it easier for remote attackers to obtain access via brute-force ChangePasswordUser2 (1) SAMR or (2) RAP attempts.
 - [Live-Hack-CVE/CVE-2013-4496](https://github.com/Live-Hack-CVE/CVE-2013-4496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-4496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-4496">
+
+---
+## CVE-2013-4434 ()
+> 
+- [styx00/Dropbear_CVE-2013-4434](https://github.com/styx00/Dropbear_CVE-2013-4434)	<img alt="forks" src="https://img.shields.io/github/forks/styx00/Dropbear_CVE-2013-4434">	<img alt="stars" src="https://img.shields.io/github/stars/styx00/Dropbear_CVE-2013-4434">
+
+---
+## CVE-2013-4378 ()
+> 
+- [theratpack/grails-javamelody-sample-app](https://github.com/theratpack/grails-javamelody-sample-app)	<img alt="forks" src="https://img.shields.io/github/forks/theratpack/grails-javamelody-sample-app">	<img alt="stars" src="https://img.shields.io/github/stars/theratpack/grails-javamelody-sample-app">
+- [epicosy/VUL4J-50](https://github.com/epicosy/VUL4J-50)	<img alt="forks" src="https://img.shields.io/github/forks/epicosy/VUL4J-50">	<img alt="stars" src="https://img.shields.io/github/stars/epicosy/VUL4J-50">
+
+---
+## CVE-2013-4362 ()
+> 
+- [notclement/Automatic-davfs2-1.4.6-1.4.7-Local-Privilege-Escalation](https://github.com/notclement/Automatic-davfs2-1.4.6-1.4.7-Local-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/notclement/Automatic-davfs2-1.4.6-1.4.7-Local-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/notclement/Automatic-davfs2-1.4.6-1.4.7-Local-Privilege-Escalation">
+
+---
+## CVE-2013-4348 ()
+> 
+- [bl4ck5un/cve-2013-4348](https://github.com/bl4ck5un/cve-2013-4348)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ck5un/cve-2013-4348">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ck5un/cve-2013-4348">
 
 ---
 ## CVE-2013-4322 ()
@@ -141,9 +223,19 @@
 - [Live-Hack-CVE/CVE-2013-4235](https://github.com/Live-Hack-CVE/CVE-2013-4235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-4235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-4235">
 
 ---
+## CVE-2013-4175 ()
+> 
+- [hartwork/mysecureshell-issues](https://github.com/hartwork/mysecureshell-issues)	<img alt="forks" src="https://img.shields.io/github/forks/hartwork/mysecureshell-issues">	<img alt="stars" src="https://img.shields.io/github/stars/hartwork/mysecureshell-issues">
+
+---
 ## CVE-2013-4113 (2013-07-13T13:10:00)
 > ext/xml/xml.c in PHP before 5.3.27 does not properly consider parsing depth, which allows remote attackers to cause a denial of service (heap memory corruption) or possibly have unspecified other impact via a crafted document that is processed by the xml_parse_into_struct function.
 - [Live-Hack-CVE/CVE-2013-4113](https://github.com/Live-Hack-CVE/CVE-2013-4113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-4113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-4113">
+
+---
+## CVE-2013-4002 ()
+> 
+- [tafamace/CVE-2013-4002](https://github.com/tafamace/CVE-2013-4002)	<img alt="forks" src="https://img.shields.io/github/forks/tafamace/CVE-2013-4002">	<img alt="stars" src="https://img.shields.io/github/stars/tafamace/CVE-2013-4002">
 
 ---
 ## CVE-2013-3900 (2013-12-11T00:55:00)
@@ -176,9 +268,40 @@
 - [Live-Hack-CVE/CVE-2013-3812](https://github.com/Live-Hack-CVE/CVE-2013-3812)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-3812">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-3812">
 
 ---
+## CVE-2013-3664 ()
+> 
+- [defrancescojp/CVE-2013-3664_MAC](https://github.com/defrancescojp/CVE-2013-3664_MAC)	<img alt="forks" src="https://img.shields.io/github/forks/defrancescojp/CVE-2013-3664_MAC">	<img alt="stars" src="https://img.shields.io/github/stars/defrancescojp/CVE-2013-3664_MAC">
+- [defrancescojp/CVE-2013-3664_BMP](https://github.com/defrancescojp/CVE-2013-3664_BMP)	<img alt="forks" src="https://img.shields.io/github/forks/defrancescojp/CVE-2013-3664_BMP">	<img alt="stars" src="https://img.shields.io/github/stars/defrancescojp/CVE-2013-3664_BMP">
+
+---
+## CVE-2013-3660 ()
+> 
+- [ExploitCN/CVE-2013-3660-x64-WIN7](https://github.com/ExploitCN/CVE-2013-3660-x64-WIN7)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitCN/CVE-2013-3660-x64-WIN7">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitCN/CVE-2013-3660-x64-WIN7">
+
+---
+## CVE-2013-3651 ()
+> 
+- [motikan2010/CVE-2013-3651](https://github.com/motikan2010/CVE-2013-3651)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2013-3651">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2013-3651">
+
+---
 ## CVE-2013-36025 ()
 > 
 - [Krisgeil/CVE-2013-36025](https://github.com/Krisgeil/CVE-2013-36025)	<img alt="forks" src="https://img.shields.io/github/forks/Krisgeil/CVE-2013-36025">	<img alt="stars" src="https://img.shields.io/github/stars/Krisgeil/CVE-2013-36025">
+
+---
+## CVE-2013-3319 ()
+> 
+- [devoteam-cybertrust/cve-2013-3319](https://github.com/devoteam-cybertrust/cve-2013-3319)	<img alt="forks" src="https://img.shields.io/github/forks/devoteam-cybertrust/cve-2013-3319">	<img alt="stars" src="https://img.shields.io/github/stars/devoteam-cybertrust/cve-2013-3319">
+
+---
+## CVE-2013-3214 ()
+> 
+- [shadofren/CVE-2013-3214](https://github.com/shadofren/CVE-2013-3214)	<img alt="forks" src="https://img.shields.io/github/forks/shadofren/CVE-2013-3214">	<img alt="stars" src="https://img.shields.io/github/stars/shadofren/CVE-2013-3214">
+
+---
+## CVE-2013-2977 ()
+> 
+- [defrancescojp/CVE-2013-2977](https://github.com/defrancescojp/CVE-2013-2977)	<img alt="forks" src="https://img.shields.io/github/forks/defrancescojp/CVE-2013-2977">	<img alt="stars" src="https://img.shields.io/github/stars/defrancescojp/CVE-2013-2977">
 
 ---
 ## CVE-2013-2882 (2013-07-31T13:20:00)
@@ -186,9 +309,44 @@
 - [Live-Hack-CVE/CVE-2013-2882](https://github.com/Live-Hack-CVE/CVE-2013-2882)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-2882">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-2882">
 
 ---
+## CVE-2013-2842 ()
+> 
+- [173210/spider](https://github.com/173210/spider)	<img alt="forks" src="https://img.shields.io/github/forks/173210/spider">	<img alt="stars" src="https://img.shields.io/github/stars/173210/spider">
+
+---
+## CVE-2013-2730 ()
+> 
+- [feliam/CVE-2013-2730](https://github.com/feliam/CVE-2013-2730)	<img alt="forks" src="https://img.shields.io/github/forks/feliam/CVE-2013-2730">	<img alt="stars" src="https://img.shields.io/github/stars/feliam/CVE-2013-2730">
+
+---
+## CVE-2013-2729 ()
+> 
+- [feliam/CVE-2013-2729](https://github.com/feliam/CVE-2013-2729)	<img alt="forks" src="https://img.shields.io/github/forks/feliam/CVE-2013-2729">	<img alt="stars" src="https://img.shields.io/github/stars/feliam/CVE-2013-2729">
+
+---
+## CVE-2013-2597 ()
+> 
+- [fi01/libmsm_acdb_exploit](https://github.com/fi01/libmsm_acdb_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fi01/libmsm_acdb_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fi01/libmsm_acdb_exploit">
+
+---
+## CVE-2013-2596 ()
+> 
+- [hiikezoe/libfb_mem_exploit](https://github.com/hiikezoe/libfb_mem_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/hiikezoe/libfb_mem_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/hiikezoe/libfb_mem_exploit">
+
+---
+## CVE-2013-2595 ()
+> 
+- [fi01/libmsm_cameraconfig_exploit](https://github.com/fi01/libmsm_cameraconfig_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fi01/libmsm_cameraconfig_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fi01/libmsm_cameraconfig_exploit">
+
+---
 ## CVE-2013-2251 (2013-07-20T03:37:00)
 > Apache Struts 2.0.0 through 2.3.15 allows remote attackers to execute arbitrary OGNL expressions via a parameter with a crafted (1) action:, (2) redirect:, or (3) redirectAction: prefix.
 - [nth347/CVE-2013-2251](https://github.com/nth347/CVE-2013-2251)	<img alt="forks" src="https://img.shields.io/github/forks/nth347/CVE-2013-2251">	<img alt="stars" src="https://img.shields.io/github/stars/nth347/CVE-2013-2251">
+
+---
+## CVE-2013-225 ()
+> 
+- [PentestinGxRoot/ShellEvil](https://github.com/PentestinGxRoot/ShellEvil)	<img alt="forks" src="https://img.shields.io/github/forks/PentestinGxRoot/ShellEvil">	<img alt="stars" src="https://img.shields.io/github/stars/PentestinGxRoot/ShellEvil">
 
 ---
 ## CVE-2013-2249 (2013-07-23T17:20:00)
@@ -196,9 +354,31 @@
 - [Live-Hack-CVE/CVE-2013-2249](https://github.com/Live-Hack-CVE/CVE-2013-2249)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-2249">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-2249">
 
 ---
+## CVE-2013-2217 ()
+> 
+- [Osirium/suds](https://github.com/Osirium/suds)	<img alt="forks" src="https://img.shields.io/github/forks/Osirium/suds">	<img alt="stars" src="https://img.shields.io/github/stars/Osirium/suds">
+
+---
+## CVE-2013-2186 ()
+> 
+- [GrrrDog/ACEDcup](https://github.com/GrrrDog/ACEDcup)	<img alt="forks" src="https://img.shields.io/github/forks/GrrrDog/ACEDcup">	<img alt="stars" src="https://img.shields.io/github/stars/GrrrDog/ACEDcup">
+- [sa1g0n1337/Payload_CVE_2013_2186](https://github.com/sa1g0n1337/Payload_CVE_2013_2186)	<img alt="forks" src="https://img.shields.io/github/forks/sa1g0n1337/Payload_CVE_2013_2186">	<img alt="stars" src="https://img.shields.io/github/stars/sa1g0n1337/Payload_CVE_2013_2186">
+- [sa1g0n1337/CVE_2013_2186](https://github.com/sa1g0n1337/CVE_2013_2186)	<img alt="forks" src="https://img.shields.io/github/forks/sa1g0n1337/CVE_2013_2186">	<img alt="stars" src="https://img.shields.io/github/stars/sa1g0n1337/CVE_2013_2186">
+
+---
 ## CVE-2013-2172 ()
 > 
 - [andikahilmy/CVE-2013-2172-santuario-java-vulnerable](https://github.com/andikahilmy/CVE-2013-2172-santuario-java-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2013-2172-santuario-java-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2013-2172-santuario-java-vulnerable">
+
+---
+## CVE-2013-2171 ()
+> 
+- [0xGabe/FreeBSD-9.0-9.1-Privilege-Escalation](https://github.com/0xGabe/FreeBSD-9.0-9.1-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/0xGabe/FreeBSD-9.0-9.1-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/0xGabe/FreeBSD-9.0-9.1-Privilege-Escalation">
+
+---
+## CVE-2013-2165 ()
+> 
+- [Pastea/CVE-2013-2165](https://github.com/Pastea/CVE-2013-2165)	<img alt="forks" src="https://img.shields.io/github/forks/Pastea/CVE-2013-2165">	<img alt="stars" src="https://img.shields.io/github/stars/Pastea/CVE-2013-2165">
 
 ---
 ## CVE-2013-2094 ()
@@ -210,6 +390,11 @@
 - [Pashkela/CVE-2013-2094](https://github.com/Pashkela/CVE-2013-2094)	<img alt="forks" src="https://img.shields.io/github/forks/Pashkela/CVE-2013-2094">	<img alt="stars" src="https://img.shields.io/github/stars/Pashkela/CVE-2013-2094">
 - [realtalk/cve-2013-2094](https://github.com/realtalk/cve-2013-2094)	<img alt="forks" src="https://img.shields.io/github/forks/realtalk/cve-2013-2094">	<img alt="stars" src="https://img.shields.io/github/stars/realtalk/cve-2013-2094">
 - [tarunyadav/fix-cve-2013-2094](https://github.com/tarunyadav/fix-cve-2013-2094)	<img alt="forks" src="https://img.shields.io/github/forks/tarunyadav/fix-cve-2013-2094">	<img alt="stars" src="https://img.shields.io/github/stars/tarunyadav/fix-cve-2013-2094">
+
+---
+## CVE-2013-2072 ()
+> 
+- [bl4ck5un/cve-2013-2072](https://github.com/bl4ck5un/cve-2013-2072)	<img alt="forks" src="https://img.shields.io/github/forks/bl4ck5un/cve-2013-2072">	<img alt="stars" src="https://img.shields.io/github/stars/bl4ck5un/cve-2013-2072">
 
 ---
 ## CVE-2013-2028 (2013-07-20T03:37:00)
@@ -230,9 +415,19 @@
 - [ann0906/proxylogon](https://github.com/ann0906/proxylogon)	<img alt="forks" src="https://img.shields.io/github/forks/ann0906/proxylogon">	<img alt="stars" src="https://img.shields.io/github/stars/ann0906/proxylogon">
 
 ---
+## CVE-2013-2006 ()
+> 
+- [LogSec/CVE-2013-2006](https://github.com/LogSec/CVE-2013-2006)	<img alt="forks" src="https://img.shields.io/github/forks/LogSec/CVE-2013-2006">	<img alt="stars" src="https://img.shields.io/github/stars/LogSec/CVE-2013-2006">
+
+---
 ## CVE-2013-20004 (2022-02-06T21:15:00)
 > A flaw was found in StarWind iSCSI target. StarWind service does not limit client connections and allocates memory on each connection attempt. An attacker could create a denial of service state by trying to connect a non-existent target multiple times. This affects iSCSI SAN (Windows Native) Version 6.0, build 2013-01-16.
 - [Live-Hack-CVE/CVE-2013-20004](https://github.com/Live-Hack-CVE/CVE-2013-20004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-20004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-20004">
+
+---
+## CVE-2013-1965 ()
+> 
+- [cinno/CVE-2013-1965](https://github.com/cinno/CVE-2013-1965)	<img alt="forks" src="https://img.shields.io/github/forks/cinno/CVE-2013-1965">	<img alt="stars" src="https://img.shields.io/github/stars/cinno/CVE-2013-1965">
 
 ---
 ## CVE-2013-1896 (2013-07-10T20:55:00)
@@ -250,14 +445,49 @@
 - [Live-Hack-CVE/CVE-2013-1824](https://github.com/Live-Hack-CVE/CVE-2013-1824)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1824">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1824">
 
 ---
+## CVE-2013-1814 ()
+> 
+- [dannyEndorTest/java-vulnerable](https://github.com/dannyEndorTest/java-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/dannyEndorTest/java-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/dannyEndorTest/java-vulnerable">
+
+---
+## CVE-2013-1775 ()
+> 
+- [bekhzod0725/perl-CVE-2013-1775](https://github.com/bekhzod0725/perl-CVE-2013-1775)	<img alt="forks" src="https://img.shields.io/github/forks/bekhzod0725/perl-CVE-2013-1775">	<img alt="stars" src="https://img.shields.io/github/stars/bekhzod0725/perl-CVE-2013-1775">
+
+---
 ## CVE-2013-1763 (2013-02-28T19:55:00)
 > Array index error in the __sock_diag_rcv_msg function in net/core/sock_diag.c in the Linux kernel before 3.7.10 allows local users to gain privileges via a large family value in a Netlink message.
 - [qkrtjsrbs315/CVE-2013-1763](https://github.com/qkrtjsrbs315/CVE-2013-1763)	<img alt="forks" src="https://img.shields.io/github/forks/qkrtjsrbs315/CVE-2013-1763">	<img alt="stars" src="https://img.shields.io/github/stars/qkrtjsrbs315/CVE-2013-1763">
 
 ---
+## CVE-2013-1690 ()
+> 
+- [vlad902/annotated-fbi-tbb-exploit](https://github.com/vlad902/annotated-fbi-tbb-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/vlad902/annotated-fbi-tbb-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/vlad902/annotated-fbi-tbb-exploit">
+
+---
 ## CVE-2013-1511 (2013-04-17T12:14:00)
 > Unspecified vulnerability in Oracle MySQL 5.5.30 and earlier and 5.6.10 and earlier allows remote authenticated users to affect availability via unknown vectors related to InnoDB.
 - [Live-Hack-CVE/CVE-2013-1511](https://github.com/Live-Hack-CVE/CVE-2013-1511)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2013-1511">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2013-1511">
+
+---
+## CVE-2013-1491 ()
+> 
+- [guhe120/CVE20131491-JIT](https://github.com/guhe120/CVE20131491-JIT)	<img alt="forks" src="https://img.shields.io/github/forks/guhe120/CVE20131491-JIT">	<img alt="stars" src="https://img.shields.io/github/stars/guhe120/CVE20131491-JIT">
+
+---
+## CVE-2013-1488 ()
+> 
+- [v-p-b/buherablog-cve-2013-1488](https://github.com/v-p-b/buherablog-cve-2013-1488)	<img alt="forks" src="https://img.shields.io/github/forks/v-p-b/buherablog-cve-2013-1488">	<img alt="stars" src="https://img.shields.io/github/stars/v-p-b/buherablog-cve-2013-1488">
+
+---
+## CVE-2013-1300 ()
+> 
+- [Meatballs1/cve-2013-1300](https://github.com/Meatballs1/cve-2013-1300)	<img alt="forks" src="https://img.shields.io/github/forks/Meatballs1/cve-2013-1300">	<img alt="stars" src="https://img.shields.io/github/stars/Meatballs1/cve-2013-1300">
+
+---
+## CVE-2013-1081 ()
+> 
+- [steponequit/CVE-2013-1081](https://github.com/steponequit/CVE-2013-1081)	<img alt="forks" src="https://img.shields.io/github/forks/steponequit/CVE-2013-1081">	<img alt="stars" src="https://img.shields.io/github/stars/steponequit/CVE-2013-1081">
 
 ---
 ## CVE-2013-1059 (2013-07-08T17:55:00)
@@ -410,9 +640,29 @@
 - [heroku/heroku-CVE-2013-0333](https://github.com/heroku/heroku-CVE-2013-0333)	<img alt="forks" src="https://img.shields.io/github/forks/heroku/heroku-CVE-2013-0333">	<img alt="stars" src="https://img.shields.io/github/stars/heroku/heroku-CVE-2013-0333">
 
 ---
+## CVE-2013-0303 ()
+> 
+- [CiscoCXSecurity/ownCloud_RCE_CVE-2013-0303](https://github.com/CiscoCXSecurity/ownCloud_RCE_CVE-2013-0303)	<img alt="forks" src="https://img.shields.io/github/forks/CiscoCXSecurity/ownCloud_RCE_CVE-2013-0303">	<img alt="stars" src="https://img.shields.io/github/stars/CiscoCXSecurity/ownCloud_RCE_CVE-2013-0303">
+
+---
 ## CVE-2013-0269 ()
 > 
 - [heroku/heroku-CVE-2013-0269](https://github.com/heroku/heroku-CVE-2013-0269)	<img alt="forks" src="https://img.shields.io/github/forks/heroku/heroku-CVE-2013-0269">	<img alt="stars" src="https://img.shields.io/github/stars/heroku/heroku-CVE-2013-0269">
+
+---
+## CVE-2013-0229 ()
+> 
+- [lochiiconnectivity/vulnupnp](https://github.com/lochiiconnectivity/vulnupnp)	<img alt="forks" src="https://img.shields.io/github/forks/lochiiconnectivity/vulnupnp">	<img alt="stars" src="https://img.shields.io/github/stars/lochiiconnectivity/vulnupnp">
+
+---
+## CVE-2013-0212 ()
+> 
+- [LogSec/CVE-2013-0212](https://github.com/LogSec/CVE-2013-0212)	<img alt="forks" src="https://img.shields.io/github/forks/LogSec/CVE-2013-0212">	<img alt="stars" src="https://img.shields.io/github/stars/LogSec/CVE-2013-0212">
+
+---
+## CVE-2013-0169 ()
+> 
+- [wearohat/lucky13](https://github.com/wearohat/lucky13)	<img alt="forks" src="https://img.shields.io/github/forks/wearohat/lucky13">	<img alt="stars" src="https://img.shields.io/github/stars/wearohat/lucky13">
 
 ---
 ## CVE-2013-0156 (2013-01-13T22:55:00)
@@ -426,3 +676,8 @@
 - [josal/crack-0.1.8-fixed](https://github.com/josal/crack-0.1.8-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/josal/crack-0.1.8-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/josal/crack-0.1.8-fixed">
 - [terracatta/name_reverser](https://github.com/terracatta/name_reverser)	<img alt="forks" src="https://img.shields.io/github/forks/terracatta/name_reverser">	<img alt="stars" src="https://img.shields.io/github/stars/terracatta/name_reverser">
 - [7s26simon/CVE-2013-0156](https://github.com/7s26simon/CVE-2013-0156)	<img alt="forks" src="https://img.shields.io/github/forks/7s26simon/CVE-2013-0156">	<img alt="stars" src="https://img.shields.io/github/stars/7s26simon/CVE-2013-0156">
+
+---
+## CVE-2013-0007 ()
+> 
+- [jyyjw/msxml4-remediation](https://github.com/jyyjw/msxml4-remediation)	<img alt="forks" src="https://img.shields.io/github/forks/jyyjw/msxml4-remediation">	<img alt="stars" src="https://img.shields.io/github/stars/jyyjw/msxml4-remediation">

@@ -1,6 +1,11 @@
 # 2000 List
 
 ---
+## CVE-2000-0979 ()
+> 
+- [Z6543/CVE-2000-0979](https://github.com/Z6543/CVE-2000-0979)	<img alt="forks" src="https://img.shields.io/github/forks/Z6543/CVE-2000-0979">	<img alt="stars" src="https://img.shields.io/github/stars/Z6543/CVE-2000-0979">
+
+---
 ## CVE-2000-0649 (2000-07-13T04:00:00)
 > IIS 4.0 allows remote attackers to obtain the internal IP address of the server via an HTTP 1.0 request for a web page which is protected by basic authentication and has no realm defined.
 - [rafaelh/CVE-2000-0649](https://github.com/rafaelh/CVE-2000-0649)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelh/CVE-2000-0649">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelh/CVE-2000-0649">
@@ -17,6 +22,16 @@
 > iPlanet Web Server 4.1 allows remote attackers to cause a denial of service via a large number of GET commands, which consumes memory and causes a kernel panic.
 - [Live-Hack-CVE/CVE-2000-0182](https://github.com/Live-Hack-CVE/CVE-2000-0182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0182">
 - [Live-Hack-CVE/CVE-2000-0182](https://github.com/Live-Hack-CVE/CVE-2000-0182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0182">
+
+---
+## CVE-2000-0170 ()
+> 
+- [mike182/exploit](https://github.com/mike182/exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mike182/exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mike182/exploit">
+
+---
+## CVE-2000-0168 ()
+> 
+- [adk86/CVE-Vulnerability-Research-Exploit-Analysis](https://github.com/adk86/CVE-Vulnerability-Research-Exploit-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/adk86/CVE-Vulnerability-Research-Exploit-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/adk86/CVE-Vulnerability-Research-Exploit-Analysis">
 
 ---
 ## CVE-2000-0145 (2000-02-05T05:00:00)

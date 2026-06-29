@@ -16,6 +16,21 @@
 - [Live-Hack-CVE/CVE-2010-5250](https://github.com/Live-Hack-CVE/CVE-2010-5250)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-5250">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-5250">
 
 ---
+## CVE-2010-5230 ()
+> 
+- [otofoto/CVE-2010-5230](https://github.com/otofoto/CVE-2010-5230)	<img alt="forks" src="https://img.shields.io/github/forks/otofoto/CVE-2010-5230">	<img alt="stars" src="https://img.shields.io/github/stars/otofoto/CVE-2010-5230">
+
+---
+## CVE-2010-5195 ()
+> 
+- [CristinaPravata/dirtycaw-projet](https://github.com/CristinaPravata/dirtycaw-projet)	<img alt="forks" src="https://img.shields.io/github/forks/CristinaPravata/dirtycaw-projet">	<img alt="stars" src="https://img.shields.io/github/stars/CristinaPravata/dirtycaw-projet">
+
+---
+## CVE-2010-4804 ()
+> 
+- [thomascannon/android-cve-2010-4804](https://github.com/thomascannon/android-cve-2010-4804)	<img alt="forks" src="https://img.shields.io/github/forks/thomascannon/android-cve-2010-4804">	<img alt="stars" src="https://img.shields.io/github/stars/thomascannon/android-cve-2010-4804">
+
+---
 ## CVE-2010-4669 (2011-01-07T12:00:00)
 > The Neighbor Discovery (ND) protocol implementation in the IPv6 stack in Microsoft Windows XP, Windows Server 2003, Windows Vista, Windows Server 2008, and Windows 7 allows remote attackers to cause a denial of service (CPU consumption and system hang) by sending many Router Advertisement (RA) messages with different source addresses, as demonstrated by the flood_router6 program in the thc-ipv6 package.
 - [wrong-commit/CVE-2010-4669](https://github.com/wrong-commit/CVE-2010-4669)	<img alt="forks" src="https://img.shields.io/github/forks/wrong-commit/CVE-2010-4669">	<img alt="stars" src="https://img.shields.io/github/stars/wrong-commit/CVE-2010-4669">
@@ -36,6 +51,11 @@
 - [Exploitables/CVE-2010-4502](https://github.com/Exploitables/CVE-2010-4502)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2010-4502">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2010-4502">
 
 ---
+## CVE-2010-4476 ()
+> 
+- [grzegorzblaszczyk/CVE-2010-4476-check](https://github.com/grzegorzblaszczyk/CVE-2010-4476-check)	<img alt="forks" src="https://img.shields.io/github/forks/grzegorzblaszczyk/CVE-2010-4476-check">	<img alt="stars" src="https://img.shields.io/github/stars/grzegorzblaszczyk/CVE-2010-4476-check">
+
+---
 ## CVE-2010-4296 (2010-12-06T21:05:00)
 > vmware-mount in VMware Workstation 7.x before 7.1.2 build 301548 on Linux, VMware Player 3.1.x before 3.1.2 build 301548 on Linux, VMware Server 2.0.2 on Linux, and VMware Fusion 3.1.x before 3.1.2 build 332101 does not properly load libraries, which allows host OS users to gain privileges via vectors involving shared object files.
 - [Live-Hack-CVE/CVE-2010-4296](https://github.com/Live-Hack-CVE/CVE-2010-4296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-4296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-4296">
@@ -51,9 +71,25 @@
 - [K3ysTr0K3R/CVE-2010-4231-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2010-4231-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2010-4231-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2010-4231-EXPLOIT">
 
 ---
+## CVE-2010-4221 ()
+> 
+- [M41doror/cve-2010-4221](https://github.com/M41doror/cve-2010-4221)	<img alt="forks" src="https://img.shields.io/github/forks/M41doror/cve-2010-4221">	<img alt="stars" src="https://img.shields.io/github/stars/M41doror/cve-2010-4221">
+- [Mafiosohack/Offensive-lab-2](https://github.com/Mafiosohack/Offensive-lab-2)	<img alt="forks" src="https://img.shields.io/github/forks/Mafiosohack/Offensive-lab-2">	<img alt="stars" src="https://img.shields.io/github/stars/Mafiosohack/Offensive-lab-2">
+
+---
 ## CVE-2010-4180 (2010-12-06T21:05:00)
 > OpenSSL before 0.9.8q, and 1.0.x before 1.0.0c, when SSL_OP_NETSCAPE_REUSE_CIPHER_CHANGE_BUG is enabled, does not properly prevent modification of the ciphersuite in the session cache, which allows remote attackers to force the downgrade to an unintended cipher via vectors involving sniffing network traffic to discover a session identifier.
 - [protonnegativo/CVE-2010-4180-by-ChatGPT](https://github.com/protonnegativo/CVE-2010-4180-by-ChatGPT)	<img alt="forks" src="https://img.shields.io/github/forks/protonnegativo/CVE-2010-4180-by-ChatGPT">	<img alt="stars" src="https://img.shields.io/github/stars/protonnegativo/CVE-2010-4180-by-ChatGPT">
+
+---
+## CVE-2010-3971 ()
+> 
+- [nektra/CVE-2010-3971-hotpatch](https://github.com/nektra/CVE-2010-3971-hotpatch)	<img alt="forks" src="https://img.shields.io/github/forks/nektra/CVE-2010-3971-hotpatch">	<img alt="stars" src="https://img.shields.io/github/stars/nektra/CVE-2010-3971-hotpatch">
+
+---
+## CVE-2010-3904 ()
+> 
+- [redhatkaty/-cve-2010-3904-report](https://github.com/redhatkaty/-cve-2010-3904-report)	<img alt="forks" src="https://img.shields.io/github/forks/redhatkaty/-cve-2010-3904-report">	<img alt="stars" src="https://img.shields.io/github/stars/redhatkaty/-cve-2010-3904-report">
 
 ---
 ## CVE-2010-3870 (2010-11-12T21:00:00)
@@ -66,9 +102,24 @@
 - [sh1inroot-alt/shiro-cve-2010-3863](https://github.com/sh1inroot-alt/shiro-cve-2010-3863)	<img alt="forks" src="https://img.shields.io/github/forks/sh1inroot-alt/shiro-cve-2010-3863">	<img alt="stars" src="https://img.shields.io/github/stars/sh1inroot-alt/shiro-cve-2010-3863">
 
 ---
+## CVE-2010-3847 ()
+> 
+- [magisterquis/cve-2010-3847](https://github.com/magisterquis/cve-2010-3847)	<img alt="forks" src="https://img.shields.io/github/forks/magisterquis/cve-2010-3847">	<img alt="stars" src="https://img.shields.io/github/stars/magisterquis/cve-2010-3847">
+
+---
 ## CVE-2010-3709 (2010-11-09T01:00:00)
 > The ZipArchive::getArchiveComment function in PHP 5.2.x through 5.2.14 and 5.3.x through 5.3.3 allows context-dependent attackers to cause a denial of service (NULL pointer dereference and application crash) via a crafted ZIP archive.
 - [Live-Hack-CVE/CVE-2010-3709](https://github.com/Live-Hack-CVE/CVE-2010-3709)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-3709">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-3709">
+
+---
+## CVE-2010-3600 ()
+> 
+- [LAITRUNGMINHDUC/CVE-2010-3600-PythonHackOracle11gR2](https://github.com/LAITRUNGMINHDUC/CVE-2010-3600-PythonHackOracle11gR2)	<img alt="forks" src="https://img.shields.io/github/forks/LAITRUNGMINHDUC/CVE-2010-3600-PythonHackOracle11gR2">	<img alt="stars" src="https://img.shields.io/github/stars/LAITRUNGMINHDUC/CVE-2010-3600-PythonHackOracle11gR2">
+
+---
+## CVE-2010-3490 ()
+> 
+- [moayadalmalat/CVE-2010-3490](https://github.com/moayadalmalat/CVE-2010-3490)	<img alt="forks" src="https://img.shields.io/github/forks/moayadalmalat/CVE-2010-3490">	<img alt="stars" src="https://img.shields.io/github/stars/moayadalmalat/CVE-2010-3490">
 
 ---
 ## CVE-2010-3333 (2010-11-10T03:00:00)
@@ -76,6 +127,12 @@
 - [Sunqiz/CVE-2010-3333-reproduction](https://github.com/Sunqiz/CVE-2010-3333-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2010-3333-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2010-3333-reproduction">
 - [whiteHat001/cve-2010-3333](https://github.com/whiteHat001/cve-2010-3333)	<img alt="forks" src="https://img.shields.io/github/forks/whiteHat001/cve-2010-3333">	<img alt="stars" src="https://img.shields.io/github/stars/whiteHat001/cve-2010-3333">
 - [Sunqiz/CVE-2010-3333-reproduction](https://github.com/Sunqiz/CVE-2010-3333-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2010-3333-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2010-3333-reproduction">
+- [gousseine-systems/vuln-rabilit-windows7](https://github.com/gousseine-systems/vuln-rabilit-windows7)	<img alt="forks" src="https://img.shields.io/github/forks/gousseine-systems/vuln-rabilit-windows7">	<img alt="stars" src="https://img.shields.io/github/stars/gousseine-systems/vuln-rabilit-windows7">
+
+---
+## CVE-2010-3332 ()
+> 
+- [bongbongco/MS10-070](https://github.com/bongbongco/MS10-070)	<img alt="forks" src="https://img.shields.io/github/forks/bongbongco/MS10-070">	<img alt="stars" src="https://img.shields.io/github/stars/bongbongco/MS10-070">
 
 ---
 ## CVE-2010-3124 (2010-08-26T18:36:00)
@@ -83,6 +140,7 @@
 
 'CWE-426: Untrusted Search Path'
 - [Nhom6KTLT/CVE-2010-3124](https://github.com/Nhom6KTLT/CVE-2010-3124)	<img alt="forks" src="https://img.shields.io/github/forks/Nhom6KTLT/CVE-2010-3124">	<img alt="stars" src="https://img.shields.io/github/stars/Nhom6KTLT/CVE-2010-3124">
+- [KOBUKOVUI/DLL_Injection_On_VLC](https://github.com/KOBUKOVUI/DLL_Injection_On_VLC)	<img alt="forks" src="https://img.shields.io/github/forks/KOBUKOVUI/DLL_Injection_On_VLC">	<img alt="stars" src="https://img.shields.io/github/stars/KOBUKOVUI/DLL_Injection_On_VLC">
 
 ---
 ## CVE-2010-3069 (2010-09-15T18:00:00)
@@ -93,6 +151,11 @@
 ## CVE-2010-2883 ()
 > 
 - [avielzecharia/CVE-2010-2883](https://github.com/avielzecharia/CVE-2010-2883)	<img alt="forks" src="https://img.shields.io/github/forks/avielzecharia/CVE-2010-2883">	<img alt="stars" src="https://img.shields.io/github/stars/avielzecharia/CVE-2010-2883">
+
+---
+## CVE-2010-2861 ()
+> 
+- [greysneakthief/14641-v2](https://github.com/greysneakthief/14641-v2)	<img alt="forks" src="https://img.shields.io/github/forks/greysneakthief/14641-v2">	<img alt="stars" src="https://img.shields.io/github/stars/greysneakthief/14641-v2">
 
 ---
 ## CVE-2010-2553 (2010-08-11T18:47:00)
@@ -109,6 +172,16 @@
 ## CVE-2010-2531 (2010-08-20T22:00:00)
 > The var_export function in PHP 5.2 before 5.2.14 and 5.3 before 5.3.3 flushes the output buffer to the user when certain fatal errors occur, even if display_errors is off, which allows remote attackers to obtain sensitive information by causing the application to exceed limits for memory, execution time, or recursion.
 - [Live-Hack-CVE/CVE-2010-2531](https://github.com/Live-Hack-CVE/CVE-2010-2531)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-2531">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-2531">
+
+---
+## CVE-2010-2387 ()
+> 
+- [LogSec/CVE-2010-2387](https://github.com/LogSec/CVE-2010-2387)	<img alt="forks" src="https://img.shields.io/github/forks/LogSec/CVE-2010-2387">	<img alt="stars" src="https://img.shields.io/github/stars/LogSec/CVE-2010-2387">
+
+---
+## CVE-2010-2333 ()
+> 
+- [jmonge12/Home-Network-Vulnerability-Assessment](https://github.com/jmonge12/Home-Network-Vulnerability-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/jmonge12/Home-Network-Vulnerability-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/jmonge12/Home-Network-Vulnerability-Assessment">
 
 ---
 ## CVE-2010-2089 (2010-05-27T19:30:00)
@@ -133,6 +206,9 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [chancej715/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution](https://github.com/chancej715/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/chancej715/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/chancej715/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution">
 - [imperialbyte/CVE-2010-2075](https://github.com/imperialbyte/CVE-2010-2075)	<img alt="forks" src="https://img.shields.io/github/forks/imperialbyte/CVE-2010-2075">	<img alt="stars" src="https://img.shields.io/github/stars/imperialbyte/CVE-2010-2075">
 - [Tc-XoNoR/CVE-2010-2075](https://github.com/Tc-XoNoR/CVE-2010-2075)	<img alt="forks" src="https://img.shields.io/github/forks/Tc-XoNoR/CVE-2010-2075">	<img alt="stars" src="https://img.shields.io/github/stars/Tc-XoNoR/CVE-2010-2075">
+- [JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution](https://github.com/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution">
+- [earthbendergara/unrealircd3.2.8.1-local-exploit](https://github.com/earthbendergara/unrealircd3.2.8.1-local-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/earthbendergara/unrealircd3.2.8.1-local-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/earthbendergara/unrealircd3.2.8.1-local-exploit">
+- [mishaqdev/cve-2010-2075-analysis](https://github.com/mishaqdev/cve-2010-2075-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/mishaqdev/cve-2010-2075-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/mishaqdev/cve-2010-2075-analysis">
 
 ---
 ## CVE-2010-2063 (2010-06-17T16:30:00)
@@ -163,6 +239,11 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [E-bounce/cve-2010-1622_learning_environment](https://github.com/E-bounce/cve-2010-1622_learning_environment)	<img alt="forks" src="https://img.shields.io/github/forks/E-bounce/cve-2010-1622_learning_environment">	<img alt="stars" src="https://img.shields.io/github/stars/E-bounce/cve-2010-1622_learning_environment">
 
 ---
+## CVE-2010-1411 ()
+> 
+- [MAVProxyUser/httpfuzz-robomiller](https://github.com/MAVProxyUser/httpfuzz-robomiller)	<img alt="forks" src="https://img.shields.io/github/forks/MAVProxyUser/httpfuzz-robomiller">	<img alt="stars" src="https://img.shields.io/github/stars/MAVProxyUser/httpfuzz-robomiller">
+
+---
 ## CVE-2010-1281 (2010-05-13T17:30:00)
 > iml32.dll in Adobe Shockwave Player before 11.5.7.609 does not validate a certain value from a file before using it in file-pointer calculations, which allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted .dir (aka Director) file.
 - [Live-Hack-CVE/CVE-2010-1281](https://github.com/Live-Hack-CVE/CVE-2010-1281)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-1281">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-1281">
@@ -175,6 +256,11 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [omarothmann/Embedded-Backdoor-Connection](https://github.com/omarothmann/Embedded-Backdoor-Connection)	<img alt="forks" src="https://img.shields.io/github/forks/omarothmann/Embedded-Backdoor-Connection">	<img alt="stars" src="https://img.shields.io/github/stars/omarothmann/Embedded-Backdoor-Connection">
 - [Jasmoon99/Embedded-PDF](https://github.com/Jasmoon99/Embedded-PDF)	<img alt="forks" src="https://img.shields.io/github/forks/Jasmoon99/Embedded-PDF">	<img alt="stars" src="https://img.shields.io/github/stars/Jasmoon99/Embedded-PDF">
 - [12345qwert123456/CVE-2010-1240](https://github.com/12345qwert123456/CVE-2010-1240)	<img alt="forks" src="https://img.shields.io/github/forks/12345qwert123456/CVE-2010-1240">	<img alt="stars" src="https://img.shields.io/github/stars/12345qwert123456/CVE-2010-1240">
+
+---
+## CVE-2010-1205 ()
+> 
+- [mk219533/CVE-2010-1205](https://github.com/mk219533/CVE-2010-1205)	<img alt="forks" src="https://img.shields.io/github/forks/mk219533/CVE-2010-1205">	<img alt="stars" src="https://img.shields.io/github/stars/mk219533/CVE-2010-1205">
 
 ---
 ## CVE-2010-10009 (2023-01-18T21:15:00)
@@ -210,6 +296,17 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 ## CVE-2010-10002 (2023-01-01T17:15:00)
 > ** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability classified as problematic has been found in SimpleSAMLphp simplesamlphp-module-openid. Affected is an unknown function of the file templates/consumer.php of the component OpenID Handler. The manipulation of the argument AuthState leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version 1.0 is able to address this issue. The name of the patch is d652d41ccaf8c45d5707e741c0c5d82a2365a9a3. It is recommended to upgrade the affected component. VDB-217170 is the identifier assigned to this vulnerability. NOTE: This vulnerability only affects products that are no longer supported by the maintainer.
 - [Live-Hack-CVE/CVE-2010-10002](https://github.com/Live-Hack-CVE/CVE-2010-10002)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2010-10002">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2010-10002">
+
+---
+## CVE-2010-0832 ()
+> 
+- [R3fr4kt/Popcorn-TJNULL-OSCP-](https://github.com/R3fr4kt/Popcorn-TJNULL-OSCP-)	<img alt="forks" src="https://img.shields.io/github/forks/R3fr4kt/Popcorn-TJNULL-OSCP-">	<img alt="stars" src="https://img.shields.io/github/stars/R3fr4kt/Popcorn-TJNULL-OSCP-">
+
+---
+## CVE-2010-0738 ()
+> 
+- [1872892142/jboss-autopwn-1](https://github.com/1872892142/jboss-autopwn-1)	<img alt="forks" src="https://img.shields.io/github/forks/1872892142/jboss-autopwn-1">	<img alt="stars" src="https://img.shields.io/github/stars/1872892142/jboss-autopwn-1">
+- [gitcollect/jboss-autopwn](https://github.com/gitcollect/jboss-autopwn)	<img alt="forks" src="https://img.shields.io/github/forks/gitcollect/jboss-autopwn">	<img alt="stars" src="https://img.shields.io/github/stars/gitcollect/jboss-autopwn">
 
 ---
 ## CVE-2010-0434 (2010-03-05T19:30:00)

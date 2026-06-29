@@ -1,6 +1,21 @@
 # 2021 List
 
 ---
+## CVE-2021-6901 ()
+> 
+- [mooneee/cve-2021-6901](https://github.com/mooneee/cve-2021-6901)	<img alt="forks" src="https://img.shields.io/github/forks/mooneee/cve-2021-6901">	<img alt="stars" src="https://img.shields.io/github/stars/mooneee/cve-2021-6901">
+
+---
+## CVE-2021-6857 ()
+> 
+- [zi0n8/CVE-2021-6857](https://github.com/zi0n8/CVE-2021-6857)	<img alt="forks" src="https://img.shields.io/github/forks/zi0n8/CVE-2021-6857">	<img alt="stars" src="https://img.shields.io/github/stars/zi0n8/CVE-2021-6857">
+
+---
+## CVE-2021-56789 ()
+> 
+- [DataSurgeon-ds/ds-cve-plugin](https://github.com/DataSurgeon-ds/ds-cve-plugin)	<img alt="forks" src="https://img.shields.io/github/forks/DataSurgeon-ds/ds-cve-plugin">	<img alt="stars" src="https://img.shields.io/github/stars/DataSurgeon-ds/ds-cve-plugin">
+
+---
 ## CVE-2021-521 ()
 > 
 - [NagendraPittu/CVE-2021-521](https://github.com/NagendraPittu/CVE-2021-521)	<img alt="forks" src="https://img.shields.io/github/forks/NagendraPittu/CVE-2021-521">	<img alt="stars" src="https://img.shields.io/github/stars/NagendraPittu/CVE-2021-521">
@@ -180,10 +195,20 @@
 - [tucommenceapousser/CVE-2021-46422](https://github.com/tucommenceapousser/CVE-2021-46422)	<img alt="forks" src="https://img.shields.io/github/forks/tucommenceapousser/CVE-2021-46422">	<img alt="stars" src="https://img.shields.io/github/stars/tucommenceapousser/CVE-2021-46422">
 
 ---
+## CVE-2021-46417 ()
+> 
+- [Henry4E36/CVE-2021-46417](https://github.com/Henry4E36/CVE-2021-46417)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/CVE-2021-46417">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/CVE-2021-46417">
+
+---
 ## CVE-2021-46398 (2022-02-04T16:15:00)
 > A Cross-Site Request Forgery vulnerability exists in Filebrowser < 2.18.0 that allows attackers to create a backdoor user with admin privilege and get access to the filesystem via a malicious HTML webpage that is sent to the victim. An admin can run commands using the FileBrowser and hence it leads to RCE.
 - [LalieA/CVE-2021-46398](https://github.com/LalieA/CVE-2021-46398)	<img alt="forks" src="https://img.shields.io/github/forks/LalieA/CVE-2021-46398">	<img alt="stars" src="https://img.shields.io/github/stars/LalieA/CVE-2021-46398">
 - [febinrev/CVE-2021-46398_Chamilo-LMS-RCE](https://github.com/febinrev/CVE-2021-46398_Chamilo-LMS-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/febinrev/CVE-2021-46398_Chamilo-LMS-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/febinrev/CVE-2021-46398_Chamilo-LMS-RCE">
+
+---
+## CVE-2021-46381 ()
+> 
+- [JCPpeiqi/-cve-2021-46381](https://github.com/JCPpeiqi/-cve-2021-46381)	<img alt="forks" src="https://img.shields.io/github/forks/JCPpeiqi/-cve-2021-46381">	<img alt="stars" src="https://img.shields.io/github/stars/JCPpeiqi/-cve-2021-46381">
 
 ---
 ## CVE-2021-46366 (2022-02-11T21:15:00)
@@ -228,6 +253,11 @@
 - [nanopathi/external_expat_AOSP10_r33_CVE-2021-46143](https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/external_expat_AOSP10_r33_CVE-2021-46143">
 
 ---
+## CVE-2021-46108 ()
+> 
+- [g-rubert/CVE-2021-46108](https://github.com/g-rubert/CVE-2021-46108)	<img alt="forks" src="https://img.shields.io/github/forks/g-rubert/CVE-2021-46108">	<img alt="stars" src="https://img.shields.io/github/stars/g-rubert/CVE-2021-46108">
+
+---
 ## CVE-2021-46080 ()
 > 
 - [sanupl/CVE-2021-46080](https://github.com/sanupl/CVE-2021-46080)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46080">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46080">
@@ -249,6 +279,7 @@
 ## CVE-2021-46076 ()
 > 
 - [sanupl/CVE-2021-46076](https://github.com/sanupl/CVE-2021-46076)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46076">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46076">
+- [sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Code-Execution](https://github.com/sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Code-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Code-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Multiple-File-upload-Leads-to-Code-Execution">
 
 ---
 ## CVE-2021-46075 ()
@@ -266,16 +297,19 @@
 ## CVE-2021-46073 ()
 > 
 - [sanupl/CVE-2021-46073](https://github.com/sanupl/CVE-2021-46073)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46073">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46073">
+- [sanupl/Vehicle-Service-Management-System-User-List-Stored-Cross-Site-Scripting-XSS](https://github.com/sanupl/Vehicle-Service-Management-System-User-List-Stored-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-User-List-Stored-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-User-List-Stored-Cross-Site-Scripting-XSS">
 
 ---
 ## CVE-2021-46072 ()
 > 
 - [sanupl/CVE-2021-46072](https://github.com/sanupl/CVE-2021-46072)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46072">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46072">
+- [sanupl/Vehicle-Service-Management-System-Service-List-Stored-Cross-Site-Scripting-XSS](https://github.com/sanupl/Vehicle-Service-Management-System-Service-List-Stored-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Service-List-Stored-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Service-List-Stored-Cross-Site-Scripting-XSS">
 
 ---
 ## CVE-2021-46071 ()
 > 
 - [sanupl/CVE-2021-46071](https://github.com/sanupl/CVE-2021-46071)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46071">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46071">
+- [sanupl/Vehicle-Service-Management-System-Category-List-Stored-Cross-Site-Scripting-XSS](https://github.com/sanupl/Vehicle-Service-Management-System-Category-List-Stored-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Category-List-Stored-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Category-List-Stored-Cross-Site-Scripting-XSS">
 
 ---
 ## CVE-2021-46070 ()
@@ -287,16 +321,19 @@
 ## CVE-2021-46069 ()
 > 
 - [sanupl/CVE-2021-46069](https://github.com/sanupl/CVE-2021-46069)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46069">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46069">
+- [sanupl/Vehicle-Service-Management-System-Mechanic-List-Stored-Cross-Site-Scripting-XSS](https://github.com/sanupl/Vehicle-Service-Management-System-Mechanic-List-Stored-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Mechanic-List-Stored-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Mechanic-List-Stored-Cross-Site-Scripting-XSS">
 
 ---
 ## CVE-2021-46068 ()
 > 
 - [sanupl/CVE-2021-46068](https://github.com/sanupl/CVE-2021-46068)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46068">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46068">
+- [sanupl/Vehicle-Service-Management-System-MyAccount-Stored-Cross-Site-Scripting-XSS](https://github.com/sanupl/Vehicle-Service-Management-System-MyAccount-Stored-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-MyAccount-Stored-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-MyAccount-Stored-Cross-Site-Scripting-XSS">
 
 ---
 ## CVE-2021-46067 ()
 > 
 - [sanupl/CVE-2021-46067](https://github.com/sanupl/CVE-2021-46067)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-46067">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-46067">
+- [sanupl/Vehicle-Service-Management-System-Multiple-Cookie-Stealing-Leads-to-Full-Account-Takeover](https://github.com/sanupl/Vehicle-Service-Management-System-Multiple-Cookie-Stealing-Leads-to-Full-Account-Takeover)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Vehicle-Service-Management-System-Multiple-Cookie-Stealing-Leads-to-Full-Account-Takeover">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Vehicle-Service-Management-System-Multiple-Cookie-Stealing-Leads-to-Full-Account-Takeover">
 
 ---
 ## CVE-2021-46063 (2022-02-18T20:15:00)
@@ -405,11 +442,13 @@
 ## CVE-2021-45745 ()
 > 
 - [sanupl/CVE-2021-45745](https://github.com/sanupl/CVE-2021-45745)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-45745">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-45745">
+- [sanupl/Bludit-3.13.1-About-Plugin-Stored-Cross-Site-Scripting-XSS](https://github.com/sanupl/Bludit-3.13.1-About-Plugin-Stored-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Bludit-3.13.1-About-Plugin-Stored-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Bludit-3.13.1-About-Plugin-Stored-Cross-Site-Scripting-XSS">
 
 ---
 ## CVE-2021-45744 ()
 > 
 - [sanupl/CVE-2021-45744](https://github.com/sanupl/CVE-2021-45744)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/CVE-2021-45744">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/CVE-2021-45744">
+- [sanupl/Bludit-3.13.1-TAGS-Field-Stored-Cross-Site-Scripting-XSS](https://github.com/sanupl/Bludit-3.13.1-TAGS-Field-Stored-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/sanupl/Bludit-3.13.1-TAGS-Field-Stored-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/sanupl/Bludit-3.13.1-TAGS-Field-Stored-Cross-Site-Scripting-XSS">
 
 ---
 ## CVE-2021-45710 (2021-12-27T00:15:00)
@@ -423,6 +462,11 @@
 - [Live-Hack-CVE/CVE-2021-45707](https://github.com/Live-Hack-CVE/CVE-2021-45707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45707">
 
 ---
+## CVE-2021-45485 ()
+> 
+- [Satheesh575555/linux-4.19.72_CVE-2021-45485](https://github.com/Satheesh575555/linux-4.19.72_CVE-2021-45485)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/linux-4.19.72_CVE-2021-45485">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/linux-4.19.72_CVE-2021-45485">
+
+---
 ## CVE-2021-45476 (2022-10-27T10:15:00)
 > Yordam Library Information Document Automation product before version 19.02 has an unauthenticated reflected XSS vulnerability.
 - [Live-Hack-CVE/CVE-2021-45476](https://github.com/Live-Hack-CVE/CVE-2021-45476)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45476">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45476">
@@ -431,6 +475,11 @@
 ## CVE-2021-45475 (2022-10-27T10:15:00)
 > Yordam Library Information Document Automation product before version 19.02 has an unauthenticated Information disclosure vulnerability.
 - [Live-Hack-CVE/CVE-2021-45475](https://github.com/Live-Hack-CVE/CVE-2021-45475)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-45475">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-45475">
+
+---
+## CVE-2021-45468 ()
+> 
+- [0xhaggis/Imperva_gzip_bypass](https://github.com/0xhaggis/Imperva_gzip_bypass)	<img alt="forks" src="https://img.shields.io/github/forks/0xhaggis/Imperva_gzip_bypass">	<img alt="stars" src="https://img.shields.io/github/stars/0xhaggis/Imperva_gzip_bypass">
 
 ---
 ## CVE-2021-45451 (2021-12-21T07:15:00)
@@ -533,6 +582,7 @@
 - [iAmSOScArEd/log4j2_dos_exploit](https://github.com/iAmSOScArEd/log4j2_dos_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iAmSOScArEd/log4j2_dos_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iAmSOScArEd/log4j2_dos_exploit">
 - [tejas-nagchandi/CVE-2021-45105](https://github.com/tejas-nagchandi/CVE-2021-45105)	<img alt="forks" src="https://img.shields.io/github/forks/tejas-nagchandi/CVE-2021-45105">	<img alt="stars" src="https://img.shields.io/github/stars/tejas-nagchandi/CVE-2021-45105">
 - [cckuailong/Log4j_dos_CVE-2021-45105](https://github.com/cckuailong/Log4j_dos_CVE-2021-45105)	<img alt="forks" src="https://img.shields.io/github/forks/cckuailong/Log4j_dos_CVE-2021-45105">	<img alt="stars" src="https://img.shields.io/github/stars/cckuailong/Log4j_dos_CVE-2021-45105">
+- [pravin-pp/log4j2-CVE-2021-45105](https://github.com/pravin-pp/log4j2-CVE-2021-45105)	<img alt="forks" src="https://img.shields.io/github/forks/pravin-pp/log4j2-CVE-2021-45105">	<img alt="stars" src="https://img.shields.io/github/stars/pravin-pp/log4j2-CVE-2021-45105">
 
 ---
 ## CVE-2021-45088 (2021-12-16T03:15:00)
@@ -590,6 +640,22 @@
 - [shaily29-eng/CyberSecurity_CVE-2021-45046](https://github.com/shaily29-eng/CyberSecurity_CVE-2021-45046)	<img alt="forks" src="https://img.shields.io/github/forks/shaily29-eng/CyberSecurity_CVE-2021-45046">	<img alt="stars" src="https://img.shields.io/github/stars/shaily29-eng/CyberSecurity_CVE-2021-45046">
 - [khulnasoft-lab/awesome-security](https://github.com/khulnasoft-lab/awesome-security)	<img alt="forks" src="https://img.shields.io/github/forks/khulnasoft-lab/awesome-security">	<img alt="stars" src="https://img.shields.io/github/stars/khulnasoft-lab/awesome-security">
 - [demonrvm/Log4ShellRemediation](https://github.com/demonrvm/Log4ShellRemediation)	<img alt="forks" src="https://img.shields.io/github/forks/demonrvm/Log4ShellRemediation">	<img alt="stars" src="https://img.shields.io/github/stars/demonrvm/Log4ShellRemediation">
+- [cckuailong/Log4j_CVE-2021-45046](https://github.com/cckuailong/Log4j_CVE-2021-45046)	<img alt="forks" src="https://img.shields.io/github/forks/cckuailong/Log4j_CVE-2021-45046">	<img alt="stars" src="https://img.shields.io/github/stars/cckuailong/Log4j_CVE-2021-45046">
+- [tejas-nagchandi/CVE-2021-45046](https://github.com/tejas-nagchandi/CVE-2021-45046)	<img alt="forks" src="https://img.shields.io/github/forks/tejas-nagchandi/CVE-2021-45046">	<img alt="stars" src="https://img.shields.io/github/stars/tejas-nagchandi/CVE-2021-45046">
+- [pravin-pp/log4j2-CVE-2021-45046](https://github.com/pravin-pp/log4j2-CVE-2021-45046)	<img alt="forks" src="https://img.shields.io/github/forks/pravin-pp/log4j2-CVE-2021-45046">	<img alt="stars" src="https://img.shields.io/github/stars/pravin-pp/log4j2-CVE-2021-45046">
+- [ludy-dev/cve-2021-45046](https://github.com/ludy-dev/cve-2021-45046)	<img alt="forks" src="https://img.shields.io/github/forks/ludy-dev/cve-2021-45046">	<img alt="stars" src="https://img.shields.io/github/stars/ludy-dev/cve-2021-45046">
+- [lijiejie/log4j2_vul_local_scanner](https://github.com/lijiejie/log4j2_vul_local_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/lijiejie/log4j2_vul_local_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/lijiejie/log4j2_vul_local_scanner">
+- [ifconfig-me/Log4Shell-Payloads](https://github.com/ifconfig-me/Log4Shell-Payloads)	<img alt="forks" src="https://img.shields.io/github/forks/ifconfig-me/Log4Shell-Payloads">	<img alt="stars" src="https://img.shields.io/github/stars/ifconfig-me/Log4Shell-Payloads">
+
+---
+## CVE-2021-45043 ()
+> 
+- [crypt0g30rgy/cve-2021-45043](https://github.com/crypt0g30rgy/cve-2021-45043)	<img alt="forks" src="https://img.shields.io/github/forks/crypt0g30rgy/cve-2021-45043">	<img alt="stars" src="https://img.shields.io/github/stars/crypt0g30rgy/cve-2021-45043">
+
+---
+## CVE-2021-45041 ()
+> 
+- [manuelz120/CVE-2021-45041](https://github.com/manuelz120/CVE-2021-45041)	<img alt="forks" src="https://img.shields.io/github/forks/manuelz120/CVE-2021-45041">	<img alt="stars" src="https://img.shields.io/github/stars/manuelz120/CVE-2021-45041">
 
 ---
 ## CVE-2021-45036 (2022-11-28T16:15:00)
@@ -625,6 +691,7 @@
 - [godylockz/CVE-2021-44967](https://github.com/godylockz/CVE-2021-44967)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2021-44967">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2021-44967">
 - [N4s1rl1/Limesurvey-6.6.4-RCE](https://github.com/N4s1rl1/Limesurvey-6.6.4-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/N4s1rl1/Limesurvey-6.6.4-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/N4s1rl1/Limesurvey-6.6.4-RCE">
 - [monke443/CVE-2021-44967](https://github.com/monke443/CVE-2021-44967)	<img alt="forks" src="https://img.shields.io/github/forks/monke443/CVE-2021-44967">	<img alt="stars" src="https://img.shields.io/github/stars/monke443/CVE-2021-44967">
+- [kikechans/-Limesurvey-RCE-CVE-2021-44967](https://github.com/kikechans/-Limesurvey-RCE-CVE-2021-44967)	<img alt="forks" src="https://img.shields.io/github/forks/kikechans/-Limesurvey-RCE-CVE-2021-44967">	<img alt="stars" src="https://img.shields.io/github/stars/kikechans/-Limesurvey-RCE-CVE-2021-44967">
 
 ---
 ## CVE-2021-44910 ()
@@ -647,6 +714,18 @@
 > An issue was discovered in BS_RCIO64.sys in Biostar RACING GT Evo 2.1.1905.1700. A low-integrity process can open the driver's device object and issue IOCTLs to read or write to arbitrary physical memory locations (or call an arbitrary address), leading to execution of arbitrary code. This is associated with 0x226040, 0x226044, and 0x226000.
 - [Exploitables/CVE-2021-44852](https://github.com/Exploitables/CVE-2021-44852)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-44852">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-44852">
 - [Exploitables/CVE-2021-44852](https://github.com/Exploitables/CVE-2021-44852)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-44852">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-44852">
+- [CrackerCat/CVE-2021-44852](https://github.com/CrackerCat/CVE-2021-44852)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2021-44852">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2021-44852">
+
+---
+## CVE-2021-44832 ()
+> 
+- [cckuailong/log4j_RCE_CVE-2021-44832](https://github.com/cckuailong/log4j_RCE_CVE-2021-44832)	<img alt="forks" src="https://img.shields.io/github/forks/cckuailong/log4j_RCE_CVE-2021-44832">	<img alt="stars" src="https://img.shields.io/github/stars/cckuailong/log4j_RCE_CVE-2021-44832">
+- [name/log4j-scanner](https://github.com/name/log4j-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/name/log4j-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/name/log4j-scanner">
+
+---
+## CVE-2021-44827 ()
+> 
+- [full-disclosure/CVE-2021-44827](https://github.com/full-disclosure/CVE-2021-44827)	<img alt="forks" src="https://img.shields.io/github/forks/full-disclosure/CVE-2021-44827">	<img alt="stars" src="https://img.shields.io/github/stars/full-disclosure/CVE-2021-44827">
 
 ---
 ## CVE-2021-44790 (2021-12-20T12:15:00)
@@ -667,6 +746,11 @@
 ## CVE-2021-44735 (2022-01-20T17:15:00)
 > Embedded web server command injection vulnerability in Lexmark devices through 2021-12-07.
 - [defensor/CVE-2021-44735](https://github.com/defensor/CVE-2021-44735)	<img alt="forks" src="https://img.shields.io/github/forks/defensor/CVE-2021-44735">	<img alt="stars" src="https://img.shields.io/github/stars/defensor/CVE-2021-44735">
+
+---
+## CVE-2021-44733 ()
+> 
+- [pjlantz/optee-qemu](https://github.com/pjlantz/optee-qemu)	<img alt="forks" src="https://img.shields.io/github/forks/pjlantz/optee-qemu">	<img alt="stars" src="https://img.shields.io/github/stars/pjlantz/optee-qemu">
 
 ---
 ## CVE-2021-44731 (2022-02-17T23:15:00)
@@ -715,6 +799,11 @@
 ## CVE-2021-44595 (2022-04-29T12:15:00)
 > Wondershare Dr. Fone Latest version as of 2021-12-06 is vulnerable to Incorrect Access Control. A normal user can send manually crafted packets to the ElevationService.exe and execute arbitrary code without any validation with SYSTEM privileges.
 - [Live-Hack-CVE/CVE-2021-44595](https://github.com/Live-Hack-CVE/CVE-2021-44595)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44595">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44595">
+
+---
+## CVE-2021-44582 ()
+> 
+- [warmachine-57/CVE-2021-44582](https://github.com/warmachine-57/CVE-2021-44582)	<img alt="forks" src="https://img.shields.io/github/forks/warmachine-57/CVE-2021-44582">	<img alt="stars" src="https://img.shields.io/github/stars/warmachine-57/CVE-2021-44582">
 
 ---
 ## CVE-2021-44537 (2022-01-15T21:15:00)
@@ -904,6 +993,11 @@
 ## CVE-2021-44269 (2022-03-10T17:44:00)
 > An out of bounds read was found in Wavpack 5.4.0 in processing *.WAV files. This issue triggered in function WavpackPackSamples of file src/pack_utils.c, tainted variable cnt is too large, that makes pointer sptr read beyond heap bound.
 - [Live-Hack-CVE/CVE-2021-44269](https://github.com/Live-Hack-CVE/CVE-2021-44269)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44269">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44269">
+
+---
+## CVE-2021-44255 ()
+> 
+- [pizza-power/motioneye-authenticated-RCE](https://github.com/pizza-power/motioneye-authenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/pizza-power/motioneye-authenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/pizza-power/motioneye-authenticated-RCE">
 
 ---
 ## CVE-2021-44231 (2021-12-14T16:15:00)
@@ -1207,11 +1301,293 @@
 - [sajanapamuditha/Cyber-Attack-Simulation-](https://github.com/sajanapamuditha/Cyber-Attack-Simulation-)	<img alt="forks" src="https://img.shields.io/github/forks/sajanapamuditha/Cyber-Attack-Simulation-">	<img alt="stars" src="https://img.shields.io/github/stars/sajanapamuditha/Cyber-Attack-Simulation-">
 - [tieupham267/log4shell-coraza](https://github.com/tieupham267/log4shell-coraza)	<img alt="forks" src="https://img.shields.io/github/forks/tieupham267/log4shell-coraza">	<img alt="stars" src="https://img.shields.io/github/stars/tieupham267/log4shell-coraza">
 - [jomjosh17/Log4Shell-CVE-2021-44228-](https://github.com/jomjosh17/Log4Shell-CVE-2021-44228-)	<img alt="forks" src="https://img.shields.io/github/forks/jomjosh17/Log4Shell-CVE-2021-44228-">	<img alt="stars" src="https://img.shields.io/github/stars/jomjosh17/Log4Shell-CVE-2021-44228-">
+- [jacobtread/L4J-Vuln-Patch](https://github.com/jacobtread/L4J-Vuln-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/jacobtread/L4J-Vuln-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/jacobtread/L4J-Vuln-Patch">
+- [jas502n/Log4j2-CVE-2021-44228](https://github.com/jas502n/Log4j2-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/Log4j2-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/Log4j2-CVE-2021-44228">
+- [HyCraftHD/Log4J-RCE-Proof-Of-Concept](https://github.com/HyCraftHD/Log4J-RCE-Proof-Of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/HyCraftHD/Log4J-RCE-Proof-Of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/HyCraftHD/Log4J-RCE-Proof-Of-Concept">
+- [boundaryx/cloudrasp-log4j2](https://github.com/boundaryx/cloudrasp-log4j2)	<img alt="forks" src="https://img.shields.io/github/forks/boundaryx/cloudrasp-log4j2">	<img alt="stars" src="https://img.shields.io/github/stars/boundaryx/cloudrasp-log4j2">
+- [dbgee/CVE-2021-44228](https://github.com/dbgee/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/dbgee/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/dbgee/CVE-2021-44228">
+- [DragonSurvivalEU/RCE](https://github.com/DragonSurvivalEU/RCE)	<img alt="forks" src="https://img.shields.io/github/forks/DragonSurvivalEU/RCE">	<img alt="stars" src="https://img.shields.io/github/stars/DragonSurvivalEU/RCE">
+- [simonis/Log4jPatch](https://github.com/simonis/Log4jPatch)	<img alt="forks" src="https://img.shields.io/github/forks/simonis/Log4jPatch">	<img alt="stars" src="https://img.shields.io/github/stars/simonis/Log4jPatch">
+- [zlepper/CVE-2021-44228-Test-Server](https://github.com/zlepper/CVE-2021-44228-Test-Server)	<img alt="forks" src="https://img.shields.io/github/forks/zlepper/CVE-2021-44228-Test-Server">	<img alt="stars" src="https://img.shields.io/github/stars/zlepper/CVE-2021-44228-Test-Server">
+- [NorthwaveSecurity/log4jcheck](https://github.com/NorthwaveSecurity/log4jcheck)	<img alt="forks" src="https://img.shields.io/github/forks/NorthwaveSecurity/log4jcheck">	<img alt="stars" src="https://img.shields.io/github/stars/NorthwaveSecurity/log4jcheck">
+- [nkoneko/VictimApp](https://github.com/nkoneko/VictimApp)	<img alt="forks" src="https://img.shields.io/github/forks/nkoneko/VictimApp">	<img alt="stars" src="https://img.shields.io/github/stars/nkoneko/VictimApp">
+- [lhotari/pulsar-docker-images-patch-CVE-2021-44228](https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/lhotari/pulsar-docker-images-patch-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/lhotari/pulsar-docker-images-patch-CVE-2021-44228">
+- [1in9e/Apache-Log4j2-RCE](https://github.com/1in9e/Apache-Log4j2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/1in9e/Apache-Log4j2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/1in9e/Apache-Log4j2-RCE">
+- [KosmX/CVE-2021-44228-example](https://github.com/KosmX/CVE-2021-44228-example)	<img alt="forks" src="https://img.shields.io/github/forks/KosmX/CVE-2021-44228-example">	<img alt="stars" src="https://img.shields.io/github/stars/KosmX/CVE-2021-44228-example">
+- [greymd/CVE-2021-44228](https://github.com/greymd/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/greymd/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/greymd/CVE-2021-44228">
+- [mubix/CVE-2021-44228-Log4Shell-Hashes](https://github.com/mubix/CVE-2021-44228-Log4Shell-Hashes)	<img alt="forks" src="https://img.shields.io/github/forks/mubix/CVE-2021-44228-Log4Shell-Hashes">	<img alt="stars" src="https://img.shields.io/github/stars/mubix/CVE-2021-44228-Log4Shell-Hashes">
+- [OopsieWoopsie/mc-log4j-patcher](https://github.com/OopsieWoopsie/mc-log4j-patcher)	<img alt="forks" src="https://img.shields.io/github/forks/OopsieWoopsie/mc-log4j-patcher">	<img alt="stars" src="https://img.shields.io/github/stars/OopsieWoopsie/mc-log4j-patcher">
+- [wheezysec/CVE-2021-44228-kusto](https://github.com/wheezysec/CVE-2021-44228-kusto)	<img alt="forks" src="https://img.shields.io/github/forks/wheezysec/CVE-2021-44228-kusto">	<img alt="stars" src="https://img.shields.io/github/stars/wheezysec/CVE-2021-44228-kusto">
+- [izzyacademy/log4shell-mitigation](https://github.com/izzyacademy/log4shell-mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/izzyacademy/log4shell-mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/izzyacademy/log4shell-mitigation">
+- [Kadantte/CVE-2021-44228-poc](https://github.com/Kadantte/CVE-2021-44228-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Kadantte/CVE-2021-44228-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Kadantte/CVE-2021-44228-poc">
+- [takito1812/log4j-detect](https://github.com/takito1812/log4j-detect)	<img alt="forks" src="https://img.shields.io/github/forks/takito1812/log4j-detect">	<img alt="stars" src="https://img.shields.io/github/stars/takito1812/log4j-detect">
+- [Azeemering/CVE-2021-44228-DFIR-Notes](https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes)	<img alt="forks" src="https://img.shields.io/github/forks/Azeemering/CVE-2021-44228-DFIR-Notes">	<img alt="stars" src="https://img.shields.io/github/stars/Azeemering/CVE-2021-44228-DFIR-Notes">
+- [Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words)	<img alt="forks" src="https://img.shields.io/github/forks/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words">	<img alt="stars" src="https://img.shields.io/github/stars/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words">
+- [alexandreroman/cve-2021-44228-workaround-buildpack](https://github.com/alexandreroman/cve-2021-44228-workaround-buildpack)	<img alt="forks" src="https://img.shields.io/github/forks/alexandreroman/cve-2021-44228-workaround-buildpack">	<img alt="stars" src="https://img.shields.io/github/stars/alexandreroman/cve-2021-44228-workaround-buildpack">
+- [Adikso/minecraft-log4j-honeypot](https://github.com/Adikso/minecraft-log4j-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/Adikso/minecraft-log4j-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/Adikso/minecraft-log4j-honeypot">
+- [TheArqsz/CVE-2021-44228-PoC](https://github.com/TheArqsz/CVE-2021-44228-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TheArqsz/CVE-2021-44228-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TheArqsz/CVE-2021-44228-PoC">
+- [1lann/log4shelldetect](https://github.com/1lann/log4shelldetect)	<img alt="forks" src="https://img.shields.io/github/forks/1lann/log4shelldetect">	<img alt="stars" src="https://img.shields.io/github/stars/1lann/log4shelldetect">
+- [binganao/Log4j2-RCE](https://github.com/binganao/Log4j2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/binganao/Log4j2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/binganao/Log4j2-RCE">
+- [phoswald/sample-ldap-exploit](https://github.com/phoswald/sample-ldap-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/phoswald/sample-ldap-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/phoswald/sample-ldap-exploit">
+- [rakutentech/jndi-ldap-test-server](https://github.com/rakutentech/jndi-ldap-test-server)	<img alt="forks" src="https://img.shields.io/github/forks/rakutentech/jndi-ldap-test-server">	<img alt="stars" src="https://img.shields.io/github/stars/rakutentech/jndi-ldap-test-server">
+- [uint0/cve-2021-44228--spring-hibernate](https://github.com/uint0/cve-2021-44228--spring-hibernate)	<img alt="forks" src="https://img.shields.io/github/forks/uint0/cve-2021-44228--spring-hibernate">	<img alt="stars" src="https://img.shields.io/github/stars/uint0/cve-2021-44228--spring-hibernate">
+- [saharNooby/log4j-vulnerability-patcher-agent](https://github.com/saharNooby/log4j-vulnerability-patcher-agent)	<img alt="forks" src="https://img.shields.io/github/forks/saharNooby/log4j-vulnerability-patcher-agent">	<img alt="stars" src="https://img.shields.io/github/stars/saharNooby/log4j-vulnerability-patcher-agent">
+- [M1ngGod/CVE-2021-44228-Log4j-lookup-Rce](https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce)	<img alt="forks" src="https://img.shields.io/github/forks/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce">	<img alt="stars" src="https://img.shields.io/github/stars/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce">
+- [byteboycn/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/byteboycn/CVE-2021-44228-Apache-Log4j-Rce)	<img alt="forks" src="https://img.shields.io/github/forks/byteboycn/CVE-2021-44228-Apache-Log4j-Rce">	<img alt="stars" src="https://img.shields.io/github/stars/byteboycn/CVE-2021-44228-Apache-Log4j-Rce">
+- [lhotari/log4shell-mitigation-tester](https://github.com/lhotari/log4shell-mitigation-tester)	<img alt="forks" src="https://img.shields.io/github/forks/lhotari/log4shell-mitigation-tester">	<img alt="stars" src="https://img.shields.io/github/stars/lhotari/log4shell-mitigation-tester">
+- [toramanemre/log4j-rce-detect-waf-bypass](https://github.com/toramanemre/log4j-rce-detect-waf-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/toramanemre/log4j-rce-detect-waf-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/toramanemre/log4j-rce-detect-waf-bypass">
+- [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner">
+- [vorburger/Log4j_CVE-2021-44228](https://github.com/vorburger/Log4j_CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/vorburger/Log4j_CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/vorburger/Log4j_CVE-2021-44228">
+- [gauthamg/log4j2021_vul_test](https://github.com/gauthamg/log4j2021_vul_test)	<img alt="forks" src="https://img.shields.io/github/forks/gauthamg/log4j2021_vul_test">	<img alt="stars" src="https://img.shields.io/github/stars/gauthamg/log4j2021_vul_test">
+- [leetxyz/CVE-2021-44228-Advisories](https://github.com/leetxyz/CVE-2021-44228-Advisories)	<img alt="forks" src="https://img.shields.io/github/forks/leetxyz/CVE-2021-44228-Advisories">	<img alt="stars" src="https://img.shields.io/github/stars/leetxyz/CVE-2021-44228-Advisories">
+- [cado-security/log4shell](https://github.com/cado-security/log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/cado-security/log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/cado-security/log4shell">
+- [WYSIIWYG/Log4J_0day_RCE](https://github.com/WYSIIWYG/Log4J_0day_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/WYSIIWYG/Log4J_0day_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/WYSIIWYG/Log4J_0day_RCE">
+- [mkhazamipour/log4j-vulnerable-app-cve-2021-44228-terraform](https://github.com/mkhazamipour/log4j-vulnerable-app-cve-2021-44228-terraform)	<img alt="forks" src="https://img.shields.io/github/forks/mkhazamipour/log4j-vulnerable-app-cve-2021-44228-terraform">	<img alt="stars" src="https://img.shields.io/github/stars/mkhazamipour/log4j-vulnerable-app-cve-2021-44228-terraform">
+- [Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs](https://github.com/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs)	<img alt="forks" src="https://img.shields.io/github/forks/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs">	<img alt="stars" src="https://img.shields.io/github/stars/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs">
+- [zzzz0317/log4j2-vulnerable-spring-app](https://github.com/zzzz0317/log4j2-vulnerable-spring-app)	<img alt="forks" src="https://img.shields.io/github/forks/zzzz0317/log4j2-vulnerable-spring-app">	<img alt="stars" src="https://img.shields.io/github/stars/zzzz0317/log4j2-vulnerable-spring-app">
+- [datadavev/test-44228](https://github.com/datadavev/test-44228)	<img alt="forks" src="https://img.shields.io/github/forks/datadavev/test-44228">	<img alt="stars" src="https://img.shields.io/github/stars/datadavev/test-44228">
+- [LemonCraftRu/JndiRemover](https://github.com/LemonCraftRu/JndiRemover)	<img alt="forks" src="https://img.shields.io/github/forks/LemonCraftRu/JndiRemover">	<img alt="stars" src="https://img.shields.io/github/stars/LemonCraftRu/JndiRemover">
+- [zhangxvx/Log4j-Rec-CVE-2021-44228](https://github.com/zhangxvx/Log4j-Rec-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/zhangxvx/Log4j-Rec-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/zhangxvx/Log4j-Rec-CVE-2021-44228">
+- [darkarnium/Log4j-CVE-Detect](https://github.com/darkarnium/Log4j-CVE-Detect)	<img alt="forks" src="https://img.shields.io/github/forks/darkarnium/Log4j-CVE-Detect">	<img alt="stars" src="https://img.shields.io/github/stars/darkarnium/Log4j-CVE-Detect">
+- [chilliwebs/CVE-2021-44228_Example](https://github.com/chilliwebs/CVE-2021-44228_Example)	<img alt="forks" src="https://img.shields.io/github/forks/chilliwebs/CVE-2021-44228_Example">	<img alt="stars" src="https://img.shields.io/github/stars/chilliwebs/CVE-2021-44228_Example">
+- [irgoncalves/f5-waf-enforce-sig-CVE-2021-44228](https://github.com/irgoncalves/f5-waf-enforce-sig-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/irgoncalves/f5-waf-enforce-sig-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/irgoncalves/f5-waf-enforce-sig-CVE-2021-44228">
+- [jeffbryner/log4j-docker-vaccine](https://github.com/jeffbryner/log4j-docker-vaccine)	<img alt="forks" src="https://img.shields.io/github/forks/jeffbryner/log4j-docker-vaccine">	<img alt="stars" src="https://img.shields.io/github/stars/jeffbryner/log4j-docker-vaccine">
+- [mergebase/log4j-detector](https://github.com/mergebase/log4j-detector)	<img alt="forks" src="https://img.shields.io/github/forks/mergebase/log4j-detector">	<img alt="stars" src="https://img.shields.io/github/stars/mergebase/log4j-detector">
+- [unlimitedsola/log4j2-rce-poc](https://github.com/unlimitedsola/log4j2-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/unlimitedsola/log4j2-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/unlimitedsola/log4j2-rce-poc">
+- [Jeromeyoung/log4j2burpscanner](https://github.com/Jeromeyoung/log4j2burpscanner)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/log4j2burpscanner">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/log4j2burpscanner">
+- [alexandre-lavoie/python-log4rce](https://github.com/alexandre-lavoie/python-log4rce)	<img alt="forks" src="https://img.shields.io/github/forks/alexandre-lavoie/python-log4rce">	<img alt="stars" src="https://img.shields.io/github/stars/alexandre-lavoie/python-log4rce">
+- [RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs](https://github.com/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs)	<img alt="forks" src="https://img.shields.io/github/forks/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs">	<img alt="stars" src="https://img.shields.io/github/stars/RedDrip7/Log4Shell_CVE-2021-44228_related_attacks_IOCs">
+- [mzlogin/CVE-2021-44228-Demo](https://github.com/mzlogin/CVE-2021-44228-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/mzlogin/CVE-2021-44228-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/mzlogin/CVE-2021-44228-Demo">
+- [blake-fm/vcenter-log4j](https://github.com/blake-fm/vcenter-log4j)	<img alt="forks" src="https://img.shields.io/github/forks/blake-fm/vcenter-log4j">	<img alt="stars" src="https://img.shields.io/github/stars/blake-fm/vcenter-log4j">
+- [creamIcec/CVE-2021-44228-Apache-Log4j-Rce__review](https://github.com/creamIcec/CVE-2021-44228-Apache-Log4j-Rce__review)	<img alt="forks" src="https://img.shields.io/github/forks/creamIcec/CVE-2021-44228-Apache-Log4j-Rce__review">	<img alt="stars" src="https://img.shields.io/github/stars/creamIcec/CVE-2021-44228-Apache-Log4j-Rce__review">
+- [uint0/cve-2021-44228-helpers](https://github.com/uint0/cve-2021-44228-helpers)	<img alt="forks" src="https://img.shields.io/github/forks/uint0/cve-2021-44228-helpers">	<img alt="stars" src="https://img.shields.io/github/stars/uint0/cve-2021-44228-helpers">
+- [sud0x00/log4j-CVE-2021-44228](https://github.com/sud0x00/log4j-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/sud0x00/log4j-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/sud0x00/log4j-CVE-2021-44228">
+- [DiCanio/CVE-2021-44228-docker-example](https://github.com/DiCanio/CVE-2021-44228-docker-example)	<img alt="forks" src="https://img.shields.io/github/forks/DiCanio/CVE-2021-44228-docker-example">	<img alt="stars" src="https://img.shields.io/github/stars/DiCanio/CVE-2021-44228-docker-example">
+- [mrlnstk/cve-2021-44228-minecraft-poc](https://github.com/mrlnstk/cve-2021-44228-minecraft-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mrlnstk/cve-2021-44228-minecraft-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mrlnstk/cve-2021-44228-minecraft-poc">
+- [RrUZi/Awesome-CVE-2021-44228](https://github.com/RrUZi/Awesome-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/RrUZi/Awesome-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/RrUZi/Awesome-CVE-2021-44228">
+- [future-client/CVE-2021-44228](https://github.com/future-client/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/future-client/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/future-client/CVE-2021-44228">
+- [CodeShield-Security/Log4JShell-Bytecode-Detector](https://github.com/CodeShield-Security/Log4JShell-Bytecode-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/CodeShield-Security/Log4JShell-Bytecode-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/CodeShield-Security/Log4JShell-Bytecode-Detector">
+- [Crane-Mocker/log4j-poc](https://github.com/Crane-Mocker/log4j-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Crane-Mocker/log4j-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Crane-Mocker/log4j-poc">
+- [dtact/divd-2021-00038--log4j-scanner](https://github.com/dtact/divd-2021-00038--log4j-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/dtact/divd-2021-00038--log4j-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/dtact/divd-2021-00038--log4j-scanner">
+- [kali-dass/CVE-2021-44228-log4Shell](https://github.com/kali-dass/CVE-2021-44228-log4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/kali-dass/CVE-2021-44228-log4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/kali-dass/CVE-2021-44228-log4Shell">
+- [pravin-pp/log4j2-CVE-2021-44228](https://github.com/pravin-pp/log4j2-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/pravin-pp/log4j2-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/pravin-pp/log4j2-CVE-2021-44228">
+- [Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228](https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228">
+- [urholaukkarinen/docker-log4shell](https://github.com/urholaukkarinen/docker-log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/urholaukkarinen/docker-log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/urholaukkarinen/docker-log4shell">
+- [ssl/scan4log4j](https://github.com/ssl/scan4log4j)	<img alt="forks" src="https://img.shields.io/github/forks/ssl/scan4log4j">	<img alt="stars" src="https://img.shields.io/github/stars/ssl/scan4log4j">
+- [infiniroot/nginx-mitigate-log4shell](https://github.com/infiniroot/nginx-mitigate-log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/infiniroot/nginx-mitigate-log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/infiniroot/nginx-mitigate-log4shell">
+- [lohanichaten/log4j-cve-2021-44228](https://github.com/lohanichaten/log4j-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/lohanichaten/log4j-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/lohanichaten/log4j-cve-2021-44228">
+- [authomize/log4j-log4shell-affected](https://github.com/authomize/log4j-log4shell-affected)	<img alt="forks" src="https://img.shields.io/github/forks/authomize/log4j-log4shell-affected">	<img alt="stars" src="https://img.shields.io/github/stars/authomize/log4j-log4shell-affected">
+- [guardicode/CVE-2021-44228_IoCs](https://github.com/guardicode/CVE-2021-44228_IoCs)	<img alt="forks" src="https://img.shields.io/github/forks/guardicode/CVE-2021-44228_IoCs">	<img alt="stars" src="https://img.shields.io/github/stars/guardicode/CVE-2021-44228_IoCs">
+- [fireflyingup/log4j-poc](https://github.com/fireflyingup/log4j-poc)	<img alt="forks" src="https://img.shields.io/github/forks/fireflyingup/log4j-poc">	<img alt="stars" src="https://img.shields.io/github/stars/fireflyingup/log4j-poc">
+- [qingtengyun/cve-2021-44228-qingteng-patch](https://github.com/qingtengyun/cve-2021-44228-qingteng-patch)	<img alt="forks" src="https://img.shields.io/github/forks/qingtengyun/cve-2021-44228-qingteng-patch">	<img alt="stars" src="https://img.shields.io/github/stars/qingtengyun/cve-2021-44228-qingteng-patch">
+- [nccgroup/log4j-jndi-be-gone](https://github.com/nccgroup/log4j-jndi-be-gone)	<img alt="forks" src="https://img.shields.io/github/forks/nccgroup/log4j-jndi-be-gone">	<img alt="stars" src="https://img.shields.io/github/stars/nccgroup/log4j-jndi-be-gone">
+- [qingtengyun/cve-2021-44228-qingteng-online-patch](https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch)	<img alt="forks" src="https://img.shields.io/github/forks/qingtengyun/cve-2021-44228-qingteng-online-patch">	<img alt="stars" src="https://img.shields.io/github/stars/qingtengyun/cve-2021-44228-qingteng-online-patch">
+- [tasooshi/horrors-log4shell](https://github.com/tasooshi/horrors-log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/tasooshi/horrors-log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/tasooshi/horrors-log4shell">
+- [Hydragyrum/evil-rmi-server](https://github.com/Hydragyrum/evil-rmi-server)	<img alt="forks" src="https://img.shields.io/github/forks/Hydragyrum/evil-rmi-server">	<img alt="stars" src="https://img.shields.io/github/stars/Hydragyrum/evil-rmi-server">
+- [twseptian/spring-boot-log4j-cve-2021-44228-docker-lab](https://github.com/twseptian/spring-boot-log4j-cve-2021-44228-docker-lab)	<img alt="forks" src="https://img.shields.io/github/forks/twseptian/spring-boot-log4j-cve-2021-44228-docker-lab">	<img alt="stars" src="https://img.shields.io/github/stars/twseptian/spring-boot-log4j-cve-2021-44228-docker-lab">
+- [OlafHaalstra/log4jcheck](https://github.com/OlafHaalstra/log4jcheck)	<img alt="forks" src="https://img.shields.io/github/forks/OlafHaalstra/log4jcheck">	<img alt="stars" src="https://img.shields.io/github/stars/OlafHaalstra/log4jcheck">
+- [Panyaprach/Prove-CVE-2021-44228](https://github.com/Panyaprach/Prove-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Panyaprach/Prove-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Panyaprach/Prove-CVE-2021-44228">
+- [momos1337/Log4j-RCE](https://github.com/momos1337/Log4j-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/momos1337/Log4j-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/momos1337/Log4j-RCE">
+- [corneacristian/Log4J-CVE-2021-44228-RCE](https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/corneacristian/Log4J-CVE-2021-44228-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/corneacristian/Log4J-CVE-2021-44228-RCE">
+- [Diverto/nse-log4shell](https://github.com/Diverto/nse-log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/Diverto/nse-log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/Diverto/nse-log4shell">
+- [dotPY-hax/log4py](https://github.com/dotPY-hax/log4py)	<img alt="forks" src="https://img.shields.io/github/forks/dotPY-hax/log4py">	<img alt="stars" src="https://img.shields.io/github/stars/dotPY-hax/log4py">
+- [sunnyvale-it/CVE-2021-44228-PoC](https://github.com/sunnyvale-it/CVE-2021-44228-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sunnyvale-it/CVE-2021-44228-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sunnyvale-it/CVE-2021-44228-PoC">
+- [maxant/log4j2-CVE-2021-44228](https://github.com/maxant/log4j2-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/maxant/log4j2-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/maxant/log4j2-CVE-2021-44228">
+- [atnetws/fail2ban-log4j](https://github.com/atnetws/fail2ban-log4j)	<img alt="forks" src="https://img.shields.io/github/forks/atnetws/fail2ban-log4j">	<img alt="stars" src="https://img.shields.io/github/stars/atnetws/fail2ban-log4j">
+- [kimobu/cve-2021-44228](https://github.com/kimobu/cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/kimobu/cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/kimobu/cve-2021-44228">
+- [ph0lk3r/anti-jndi](https://github.com/ph0lk3r/anti-jndi)	<img alt="forks" src="https://img.shields.io/github/forks/ph0lk3r/anti-jndi">	<img alt="stars" src="https://img.shields.io/github/stars/ph0lk3r/anti-jndi">
+- [bigsizeme/Log4j-check](https://github.com/bigsizeme/Log4j-check)	<img alt="forks" src="https://img.shields.io/github/forks/bigsizeme/Log4j-check">	<img alt="stars" src="https://img.shields.io/github/stars/bigsizeme/Log4j-check">
+- [pedrohavay/exploit-CVE-2021-44228](https://github.com/pedrohavay/exploit-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/pedrohavay/exploit-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/pedrohavay/exploit-CVE-2021-44228">
+- [fireeye/CVE-2021-44228](https://github.com/fireeye/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/fireeye/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/fireeye/CVE-2021-44228">
+- [rubo77/log4j_checker_beta](https://github.com/rubo77/log4j_checker_beta)	<img alt="forks" src="https://img.shields.io/github/forks/rubo77/log4j_checker_beta">	<img alt="stars" src="https://img.shields.io/github/stars/rubo77/log4j_checker_beta">
+- [halibobor/log4j2](https://github.com/halibobor/log4j2)	<img alt="forks" src="https://img.shields.io/github/forks/halibobor/log4j2">	<img alt="stars" src="https://img.shields.io/github/stars/halibobor/log4j2">
+- [sourcegraph/log4j-cve-code-search-resources](https://github.com/sourcegraph/log4j-cve-code-search-resources)	<img alt="forks" src="https://img.shields.io/github/forks/sourcegraph/log4j-cve-code-search-resources">	<img alt="stars" src="https://img.shields.io/github/stars/sourcegraph/log4j-cve-code-search-resources">
+- [thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832](https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832)	<img alt="forks" src="https://img.shields.io/github/forks/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832">	<img alt="stars" src="https://img.shields.io/github/stars/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832">
+- [helsecert/CVE-2021-44228](https://github.com/helsecert/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/helsecert/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/helsecert/CVE-2021-44228">
+- [markuman/aws-log4j-mitigations](https://github.com/markuman/aws-log4j-mitigations)	<img alt="forks" src="https://img.shields.io/github/forks/markuman/aws-log4j-mitigations">	<img alt="stars" src="https://img.shields.io/github/stars/markuman/aws-log4j-mitigations">
+- [tuyenee/Log4shell](https://github.com/tuyenee/Log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/tuyenee/Log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/tuyenee/Log4shell">
+- [JiuBanSec/Log4j-CVE-2021-44228](https://github.com/JiuBanSec/Log4j-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/JiuBanSec/Log4j-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/JiuBanSec/Log4j-CVE-2021-44228">
+- [ycdxsb/Log4Shell-CVE-2021-44228-ENV](https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV)	<img alt="forks" src="https://img.shields.io/github/forks/ycdxsb/Log4Shell-CVE-2021-44228-ENV">	<img alt="stars" src="https://img.shields.io/github/stars/ycdxsb/Log4Shell-CVE-2021-44228-ENV">
+- [george-petrakis/log4j-scanner-CVE-2021-44228](https://github.com/george-petrakis/log4j-scanner-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/george-petrakis/log4j-scanner-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/george-petrakis/log4j-scanner-CVE-2021-44228">
+- [Camphul/log4shell-spring-framework-research](https://github.com/Camphul/log4shell-spring-framework-research)	<img alt="forks" src="https://img.shields.io/github/forks/Camphul/log4shell-spring-framework-research">	<img alt="stars" src="https://img.shields.io/github/stars/Camphul/log4shell-spring-framework-research">
+- [lov3r/cve-2021-44228-log4j-exploits](https://github.com/lov3r/cve-2021-44228-log4j-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/lov3r/cve-2021-44228-log4j-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/lov3r/cve-2021-44228-log4j-exploits">
+- [sinakeshmiri/log4jScan](https://github.com/sinakeshmiri/log4jScan)	<img alt="forks" src="https://img.shields.io/github/forks/sinakeshmiri/log4jScan">	<img alt="stars" src="https://img.shields.io/github/stars/sinakeshmiri/log4jScan">
+- [0xDexter0us/Log4J-Scanner](https://github.com/0xDexter0us/Log4J-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xDexter0us/Log4J-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xDexter0us/Log4J-Scanner">
+- [LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228](https://github.com/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228">
+- [1hakusai1/log4j-rce-CVE-2021-44228](https://github.com/1hakusai1/log4j-rce-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/1hakusai1/log4j-rce-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/1hakusai1/log4j-rce-CVE-2021-44228">
+- [jeffli1024/log4j-rce-test](https://github.com/jeffli1024/log4j-rce-test)	<img alt="forks" src="https://img.shields.io/github/forks/jeffli1024/log4j-rce-test">	<img alt="stars" src="https://img.shields.io/github/stars/jeffli1024/log4j-rce-test">
+- [zsolt-halo/Log4J-Log4Shell-CVE-2021-44228-Spring-Boot-Test-Service](https://github.com/zsolt-halo/Log4J-Log4Shell-CVE-2021-44228-Spring-Boot-Test-Service)	<img alt="forks" src="https://img.shields.io/github/forks/zsolt-halo/Log4J-Log4Shell-CVE-2021-44228-Spring-Boot-Test-Service">	<img alt="stars" src="https://img.shields.io/github/stars/zsolt-halo/Log4J-Log4Shell-CVE-2021-44228-Spring-Boot-Test-Service">
+- [manuel-alvarez-alvarez/log4j-cve-2021-44228](https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/manuel-alvarez-alvarez/log4j-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/manuel-alvarez-alvarez/log4j-cve-2021-44228">
+- [VNYui/CVE-2021-44228](https://github.com/VNYui/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/VNYui/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/VNYui/CVE-2021-44228">
+- [flxhaas/Scan-CVE-2021-44228](https://github.com/flxhaas/Scan-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/flxhaas/Scan-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/flxhaas/Scan-CVE-2021-44228">
+- [justakazh/Log4j-CVE-2021-44228](https://github.com/justakazh/Log4j-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/justakazh/Log4j-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/justakazh/Log4j-CVE-2021-44228">
+- [irgoncalves/f5-waf-quick-patch-cve-2021-44228](https://github.com/irgoncalves/f5-waf-quick-patch-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/irgoncalves/f5-waf-quick-patch-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/irgoncalves/f5-waf-quick-patch-cve-2021-44228">
+- [madCdan/JndiLookup](https://github.com/madCdan/JndiLookup)	<img alt="forks" src="https://img.shields.io/github/forks/madCdan/JndiLookup">	<img alt="stars" src="https://img.shields.io/github/stars/madCdan/JndiLookup">
+- [Koupah/MC-Log4j-Patcher](https://github.com/Koupah/MC-Log4j-Patcher)	<img alt="forks" src="https://img.shields.io/github/forks/Koupah/MC-Log4j-Patcher">	<img alt="stars" src="https://img.shields.io/github/stars/Koupah/MC-Log4j-Patcher">
+- [AlexandreHeroux/Fix-CVE-2021-44228](https://github.com/AlexandreHeroux/Fix-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/AlexandreHeroux/Fix-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/AlexandreHeroux/Fix-CVE-2021-44228">
+- [kossatzd/log4j-CVE-2021-44228-test](https://github.com/kossatzd/log4j-CVE-2021-44228-test)	<img alt="forks" src="https://img.shields.io/github/forks/kossatzd/log4j-CVE-2021-44228-test">	<img alt="stars" src="https://img.shields.io/github/stars/kossatzd/log4j-CVE-2021-44228-test">
+- [tobiasoed/log4j-CVE-2021-44228](https://github.com/tobiasoed/log4j-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/tobiasoed/log4j-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/tobiasoed/log4j-CVE-2021-44228">
+- [hackinghippo/log4shell_ioc_ips](https://github.com/hackinghippo/log4shell_ioc_ips)	<img alt="forks" src="https://img.shields.io/github/forks/hackinghippo/log4shell_ioc_ips">	<img alt="stars" src="https://img.shields.io/github/stars/hackinghippo/log4shell_ioc_ips">
+- [p3dr16k/log4j-1.2.15-mod](https://github.com/p3dr16k/log4j-1.2.15-mod)	<img alt="forks" src="https://img.shields.io/github/forks/p3dr16k/log4j-1.2.15-mod">	<img alt="stars" src="https://img.shields.io/github/stars/p3dr16k/log4j-1.2.15-mod">
+- [claranet/ansible-role-log4shell](https://github.com/claranet/ansible-role-log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/claranet/ansible-role-log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/claranet/ansible-role-log4shell">
+- [taurusxin/CVE-2021-44228](https://github.com/taurusxin/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/taurusxin/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/taurusxin/CVE-2021-44228">
+- [rodfer0x80/log4j2-prosecutor](https://github.com/rodfer0x80/log4j2-prosecutor)	<img alt="forks" src="https://img.shields.io/github/forks/rodfer0x80/log4j2-prosecutor">	<img alt="stars" src="https://img.shields.io/github/stars/rodfer0x80/log4j2-prosecutor">
+- [yanghaoi/CVE-2021-44228_Log4Shell](https://github.com/yanghaoi/CVE-2021-44228_Log4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/yanghaoi/CVE-2021-44228_Log4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/yanghaoi/CVE-2021-44228_Log4Shell">
+- [lfama/log4j_checker](https://github.com/lfama/log4j_checker)	<img alt="forks" src="https://img.shields.io/github/forks/lfama/log4j_checker">	<img alt="stars" src="https://img.shields.io/github/stars/lfama/log4j_checker">
+- [threatmonit/Log4j-IOCs](https://github.com/threatmonit/Log4j-IOCs)	<img alt="forks" src="https://img.shields.io/github/forks/threatmonit/Log4j-IOCs">	<img alt="stars" src="https://img.shields.io/github/stars/threatmonit/Log4j-IOCs">
+- [ben-smash/l4j-info](https://github.com/ben-smash/l4j-info)	<img alt="forks" src="https://img.shields.io/github/forks/ben-smash/l4j-info">	<img alt="stars" src="https://img.shields.io/github/stars/ben-smash/l4j-info">
+- [strawhatasif/log4j-test](https://github.com/strawhatasif/log4j-test)	<img alt="forks" src="https://img.shields.io/github/forks/strawhatasif/log4j-test">	<img alt="stars" src="https://img.shields.io/github/stars/strawhatasif/log4j-test">
+- [giterlizzi/nmap-log4shell](https://github.com/giterlizzi/nmap-log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/giterlizzi/nmap-log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/giterlizzi/nmap-log4shell">
+- [tica506/Siem-queries-for-CVE-2021-44228](https://github.com/tica506/Siem-queries-for-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/tica506/Siem-queries-for-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/tica506/Siem-queries-for-CVE-2021-44228">
+- [chilit-nl/log4shell-example](https://github.com/chilit-nl/log4shell-example)	<img alt="forks" src="https://img.shields.io/github/forks/chilit-nl/log4shell-example">	<img alt="stars" src="https://img.shields.io/github/stars/chilit-nl/log4shell-example">
+- [Occamsec/log4j-checker](https://github.com/Occamsec/log4j-checker)	<img alt="forks" src="https://img.shields.io/github/forks/Occamsec/log4j-checker">	<img alt="stars" src="https://img.shields.io/github/stars/Occamsec/log4j-checker">
+- [snatalius/log4j2-CVE-2021-44228-poc-local](https://github.com/snatalius/log4j2-CVE-2021-44228-poc-local)	<img alt="forks" src="https://img.shields.io/github/forks/snatalius/log4j2-CVE-2021-44228-poc-local">	<img alt="stars" src="https://img.shields.io/github/stars/snatalius/log4j2-CVE-2021-44228-poc-local">
+- [back2root/log4shell-rex](https://github.com/back2root/log4shell-rex)	<img alt="forks" src="https://img.shields.io/github/forks/back2root/log4shell-rex">	<img alt="stars" src="https://img.shields.io/github/stars/back2root/log4shell-rex">
+- [perryflynn/find-log4j](https://github.com/perryflynn/find-log4j)	<img alt="forks" src="https://img.shields.io/github/forks/perryflynn/find-log4j">	<img alt="stars" src="https://img.shields.io/github/stars/perryflynn/find-log4j">
+- [alpacamybags118/log4j-cve-2021-44228-sample](https://github.com/alpacamybags118/log4j-cve-2021-44228-sample)	<img alt="forks" src="https://img.shields.io/github/forks/alpacamybags118/log4j-cve-2021-44228-sample">	<img alt="stars" src="https://img.shields.io/github/stars/alpacamybags118/log4j-cve-2021-44228-sample">
+- [sandarenu/log4j2-issue-check](https://github.com/sandarenu/log4j2-issue-check)	<img alt="forks" src="https://img.shields.io/github/forks/sandarenu/log4j2-issue-check">	<img alt="stars" src="https://img.shields.io/github/stars/sandarenu/log4j2-issue-check">
+- [roticagas/CVE-2021-44228-Demo](https://github.com/roticagas/CVE-2021-44228-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/roticagas/CVE-2021-44228-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/roticagas/CVE-2021-44228-Demo">
+- [Woahd/log4j-urlscanner](https://github.com/Woahd/log4j-urlscanner)	<img alt="forks" src="https://img.shields.io/github/forks/Woahd/log4j-urlscanner">	<img alt="stars" src="https://img.shields.io/github/stars/Woahd/log4j-urlscanner">
+- [faisalfs10x/Log4j2-CVE-2021-44228-revshell](https://github.com/faisalfs10x/Log4j2-CVE-2021-44228-revshell)	<img alt="forks" src="https://img.shields.io/github/forks/faisalfs10x/Log4j2-CVE-2021-44228-revshell">	<img alt="stars" src="https://img.shields.io/github/stars/faisalfs10x/Log4j2-CVE-2021-44228-revshell">
+- [gcmurphy/chk_log4j](https://github.com/gcmurphy/chk_log4j)	<img alt="forks" src="https://img.shields.io/github/forks/gcmurphy/chk_log4j">	<img alt="stars" src="https://img.shields.io/github/stars/gcmurphy/chk_log4j">
+- [toramanemre/apache-solr-log4j-CVE-2021-44228](https://github.com/toramanemre/apache-solr-log4j-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/toramanemre/apache-solr-log4j-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/toramanemre/apache-solr-log4j-CVE-2021-44228">
+- [codiobert/log4j-scanner](https://github.com/codiobert/log4j-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/codiobert/log4j-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/codiobert/log4j-scanner">
+- [cbuschka/log4j2-rce-recap](https://github.com/cbuschka/log4j2-rce-recap)	<img alt="forks" src="https://img.shields.io/github/forks/cbuschka/log4j2-rce-recap">	<img alt="stars" src="https://img.shields.io/github/stars/cbuschka/log4j2-rce-recap">
+- [andrii-kovalenko-celonis/log4j-vulnerability-demo](https://github.com/andrii-kovalenko-celonis/log4j-vulnerability-demo)	<img alt="forks" src="https://img.shields.io/github/forks/andrii-kovalenko-celonis/log4j-vulnerability-demo">	<img alt="stars" src="https://img.shields.io/github/stars/andrii-kovalenko-celonis/log4j-vulnerability-demo">
+- [dark-ninja10/Log4j-CVE-2021-44228](https://github.com/dark-ninja10/Log4j-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/dark-ninja10/Log4j-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/dark-ninja10/Log4j-CVE-2021-44228">
+- [34zY/JNDI-Exploit-1.2-log4shell](https://github.com/34zY/JNDI-Exploit-1.2-log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/JNDI-Exploit-1.2-log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/JNDI-Exploit-1.2-log4shell">
+- [didoatanasov/cve-2021-44228](https://github.com/didoatanasov/cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/didoatanasov/cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/didoatanasov/cve-2021-44228">
+- [ShaneKingBlog/org.shaneking.demo.cve.y2021.s44228](https://github.com/ShaneKingBlog/org.shaneking.demo.cve.y2021.s44228)	<img alt="forks" src="https://img.shields.io/github/forks/ShaneKingBlog/org.shaneking.demo.cve.y2021.s44228">	<img alt="stars" src="https://img.shields.io/github/stars/ShaneKingBlog/org.shaneking.demo.cve.y2021.s44228">
+- [wortell/log4j](https://github.com/wortell/log4j)	<img alt="forks" src="https://img.shields.io/github/forks/wortell/log4j">	<img alt="stars" src="https://img.shields.io/github/stars/wortell/log4j">
+- [municipalparkingservices/CVE-2021-44228-Scanner](https://github.com/municipalparkingservices/CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/municipalparkingservices/CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/municipalparkingservices/CVE-2021-44228-Scanner">
+- [BinaryDefense/log4j-honeypot-flask](https://github.com/BinaryDefense/log4j-honeypot-flask)	<img alt="forks" src="https://img.shields.io/github/forks/BinaryDefense/log4j-honeypot-flask">	<img alt="stars" src="https://img.shields.io/github/stars/BinaryDefense/log4j-honeypot-flask">
+- [MalwareTech/Log4jTools](https://github.com/MalwareTech/Log4jTools)	<img alt="forks" src="https://img.shields.io/github/forks/MalwareTech/Log4jTools">	<img alt="stars" src="https://img.shields.io/github/stars/MalwareTech/Log4jTools">
+- [mufeedvh/log4jail](https://github.com/mufeedvh/log4jail)	<img alt="forks" src="https://img.shields.io/github/forks/mufeedvh/log4jail">	<img alt="stars" src="https://img.shields.io/github/stars/mufeedvh/log4jail">
+- [guerzon/log4shellpoc](https://github.com/guerzon/log4shellpoc)	<img alt="forks" src="https://img.shields.io/github/forks/guerzon/log4shellpoc">	<img alt="stars" src="https://img.shields.io/github/stars/guerzon/log4shellpoc">
+- [ab0x90/CVE-2021-44228_PoC](https://github.com/ab0x90/CVE-2021-44228_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ab0x90/CVE-2021-44228_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ab0x90/CVE-2021-44228_PoC">
+- [xsultan/log4jshield](https://github.com/xsultan/log4jshield)	<img alt="forks" src="https://img.shields.io/github/forks/xsultan/log4jshield">	<img alt="stars" src="https://img.shields.io/github/stars/xsultan/log4jshield">
+- [0xThiebaut/CVE-2021-44228](https://github.com/0xThiebaut/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/0xThiebaut/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/0xThiebaut/CVE-2021-44228">
+- [CERTCC/CVE-2021-44228_scanner](https://github.com/CERTCC/CVE-2021-44228_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/CERTCC/CVE-2021-44228_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/CERTCC/CVE-2021-44228_scanner">
+- [CrackerCat/CVE-2021-44228-Log4j-Payloads](https://github.com/CrackerCat/CVE-2021-44228-Log4j-Payloads)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2021-44228-Log4j-Payloads">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2021-44228-Log4j-Payloads">
+- [dbzoo/log4j_scanner](https://github.com/dbzoo/log4j_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/dbzoo/log4j_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/dbzoo/log4j_scanner">
+- [jeremyrsellars/CVE-2021-44228_scanner](https://github.com/jeremyrsellars/CVE-2021-44228_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/jeremyrsellars/CVE-2021-44228_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/jeremyrsellars/CVE-2021-44228_scanner">
+- [VinniMarcon/Log4j-Updater](https://github.com/VinniMarcon/Log4j-Updater)	<img alt="forks" src="https://img.shields.io/github/forks/VinniMarcon/Log4j-Updater">	<img alt="stars" src="https://img.shields.io/github/stars/VinniMarcon/Log4j-Updater">
+- [avirahul007/CVE-2021-44228](https://github.com/avirahul007/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/avirahul007/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/avirahul007/CVE-2021-44228">
+- [rgl/log4j-log4shell-playground](https://github.com/rgl/log4j-log4shell-playground)	<img alt="forks" src="https://img.shields.io/github/forks/rgl/log4j-log4shell-playground">	<img alt="stars" src="https://img.shields.io/github/stars/rgl/log4j-log4shell-playground">
+- [anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228](https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228">
+- [KeysAU/Get-log4j-Windows.ps1](https://github.com/KeysAU/Get-log4j-Windows.ps1)	<img alt="forks" src="https://img.shields.io/github/forks/KeysAU/Get-log4j-Windows.ps1">	<img alt="stars" src="https://img.shields.io/github/stars/KeysAU/Get-log4j-Windows.ps1">
+- [kubearmor/log4j-CVE-2021-44228](https://github.com/kubearmor/log4j-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/kubearmor/log4j-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/kubearmor/log4j-CVE-2021-44228">
+- [jyotisahu98/logpresso-CVE-2021-44228-Scanner](https://github.com/jyotisahu98/logpresso-CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/jyotisahu98/logpresso-CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/jyotisahu98/logpresso-CVE-2021-44228-Scanner">
+- [mss/log4shell-hotfix-side-effect](https://github.com/mss/log4shell-hotfix-side-effect)	<img alt="forks" src="https://img.shields.io/github/forks/mss/log4shell-hotfix-side-effect">	<img alt="stars" src="https://img.shields.io/github/stars/mss/log4shell-hotfix-side-effect">
+- [MeterianHQ/log4j-vuln-coverage-check](https://github.com/MeterianHQ/log4j-vuln-coverage-check)	<img alt="forks" src="https://img.shields.io/github/forks/MeterianHQ/log4j-vuln-coverage-check">	<img alt="stars" src="https://img.shields.io/github/stars/MeterianHQ/log4j-vuln-coverage-check">
+- [mitiga/log4shell-cloud-scanner](https://github.com/mitiga/log4shell-cloud-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/mitiga/log4shell-cloud-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/mitiga/log4shell-cloud-scanner">
+- [honeynet/log4shell-data](https://github.com/honeynet/log4shell-data)	<img alt="forks" src="https://img.shields.io/github/forks/honeynet/log4shell-data">	<img alt="stars" src="https://img.shields.io/github/stars/honeynet/log4shell-data">
+- [b1tm0n3r/CVE-2021-44228](https://github.com/b1tm0n3r/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/b1tm0n3r/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/b1tm0n3r/CVE-2021-44228">
+- [VerveIndustrialProtection/CVE-2021-44228-Log4j](https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j)	<img alt="forks" src="https://img.shields.io/github/forks/VerveIndustrialProtection/CVE-2021-44228-Log4j">	<img alt="stars" src="https://img.shields.io/github/stars/VerveIndustrialProtection/CVE-2021-44228-Log4j">
+- [alenazi90/log4j](https://github.com/alenazi90/log4j)	<img alt="forks" src="https://img.shields.io/github/forks/alenazi90/log4j">	<img alt="stars" src="https://img.shields.io/github/stars/alenazi90/log4j">
+- [pmontesd/log4j-cve-2021-44228](https://github.com/pmontesd/log4j-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/pmontesd/log4j-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/pmontesd/log4j-cve-2021-44228">
+- [LiveOverflow/log4shell](https://github.com/LiveOverflow/log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/LiveOverflow/log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/LiveOverflow/log4shell">
+- [ubitech/cve-2021-44228-rce-poc](https://github.com/ubitech/cve-2021-44228-rce-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ubitech/cve-2021-44228-rce-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ubitech/cve-2021-44228-rce-poc">
+- [rv4l3r3/log4v-vuln-check](https://github.com/rv4l3r3/log4v-vuln-check)	<img alt="forks" src="https://img.shields.io/github/forks/rv4l3r3/log4v-vuln-check">	<img alt="stars" src="https://img.shields.io/github/stars/rv4l3r3/log4v-vuln-check">
+- [dpomnean/log4j_scanner_wrapper](https://github.com/dpomnean/log4j_scanner_wrapper)	<img alt="forks" src="https://img.shields.io/github/forks/dpomnean/log4j_scanner_wrapper">	<img alt="stars" src="https://img.shields.io/github/stars/dpomnean/log4j_scanner_wrapper">
+- [roxas-tan/CVE-2021-44228](https://github.com/roxas-tan/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/roxas-tan/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/roxas-tan/CVE-2021-44228">
+- [shamo0/CVE-2021-44228](https://github.com/shamo0/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/shamo0/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/shamo0/CVE-2021-44228">
+- [snow0715/log4j-Scan-Burpsuite](https://github.com/snow0715/log4j-Scan-Burpsuite)	<img alt="forks" src="https://img.shields.io/github/forks/snow0715/log4j-Scan-Burpsuite">	<img alt="stars" src="https://img.shields.io/github/stars/snow0715/log4j-Scan-Burpsuite">
+- [Nanitor/log4fix](https://github.com/Nanitor/log4fix)	<img alt="forks" src="https://img.shields.io/github/forks/Nanitor/log4fix">	<img alt="stars" src="https://img.shields.io/github/stars/Nanitor/log4fix">
+- [recanavar/vuln_spring_log4j2](https://github.com/recanavar/vuln_spring_log4j2)	<img alt="forks" src="https://img.shields.io/github/forks/recanavar/vuln_spring_log4j2">	<img alt="stars" src="https://img.shields.io/github/stars/recanavar/vuln_spring_log4j2">
+- [DXC-StrikeForce/Burp-Log4j-HammerTime](https://github.com/DXC-StrikeForce/Burp-Log4j-HammerTime)	<img alt="forks" src="https://img.shields.io/github/forks/DXC-StrikeForce/Burp-Log4j-HammerTime">	<img alt="stars" src="https://img.shields.io/github/stars/DXC-StrikeForce/Burp-Log4j-HammerTime">
+- [andalik/log4j-filescan](https://github.com/andalik/log4j-filescan)	<img alt="forks" src="https://img.shields.io/github/forks/andalik/log4j-filescan">	<img alt="stars" src="https://img.shields.io/github/stars/andalik/log4j-filescan">
+- [lonecloud/CVE-2021-44228-Apache-Log4j](https://github.com/lonecloud/CVE-2021-44228-Apache-Log4j)	<img alt="forks" src="https://img.shields.io/github/forks/lonecloud/CVE-2021-44228-Apache-Log4j">	<img alt="stars" src="https://img.shields.io/github/stars/lonecloud/CVE-2021-44228-Apache-Log4j">
+- [gyaansastra/CVE-2021-44228](https://github.com/gyaansastra/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/gyaansastra/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/gyaansastra/CVE-2021-44228">
+- [kal1gh0st/MyLog4Shell](https://github.com/kal1gh0st/MyLog4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/kal1gh0st/MyLog4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/kal1gh0st/MyLog4Shell">
+- [hozyx/log4shell](https://github.com/hozyx/log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/hozyx/log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/hozyx/log4shell">
+- [andypitcher/Log4J_checker](https://github.com/andypitcher/Log4J_checker)	<img alt="forks" src="https://img.shields.io/github/forks/andypitcher/Log4J_checker">	<img alt="stars" src="https://img.shields.io/github/stars/andypitcher/Log4J_checker">
+- [Vulnmachines/log4j-cve-2021-44228](https://github.com/Vulnmachines/log4j-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/log4j-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/log4j-cve-2021-44228">
+- [kannthu/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/kannthu/CVE-2021-44228-Apache-Log4j-Rce)	<img alt="forks" src="https://img.shields.io/github/forks/kannthu/CVE-2021-44228-Apache-Log4j-Rce">	<img alt="stars" src="https://img.shields.io/github/stars/kannthu/CVE-2021-44228-Apache-Log4j-Rce">
+- [Kr0ff/CVE-2021-44228](https://github.com/Kr0ff/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Kr0ff/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Kr0ff/CVE-2021-44228">
+- [suuhm/log4shell4shell](https://github.com/suuhm/log4shell4shell)	<img alt="forks" src="https://img.shields.io/github/forks/suuhm/log4shell4shell">	<img alt="stars" src="https://img.shields.io/github/stars/suuhm/log4shell4shell">
+- [wajda/log4shell-test-exploit](https://github.com/wajda/log4shell-test-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/wajda/log4shell-test-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/wajda/log4shell-test-exploit">
+- [obscuritylabs/log4shell-poc-lab](https://github.com/obscuritylabs/log4shell-poc-lab)	<img alt="forks" src="https://img.shields.io/github/forks/obscuritylabs/log4shell-poc-lab">	<img alt="stars" src="https://img.shields.io/github/stars/obscuritylabs/log4shell-poc-lab">
+- [Fazmin/vCenter-Server-Workaround-Script-CVE-2021-44228](https://github.com/Fazmin/vCenter-Server-Workaround-Script-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Fazmin/vCenter-Server-Workaround-Script-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Fazmin/vCenter-Server-Workaround-Script-CVE-2021-44228">
+- [Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE](https://github.com/Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE">
+- [sysadmin0815/Fix-Log4j-PowershellScript](https://github.com/sysadmin0815/Fix-Log4j-PowershellScript)	<img alt="forks" src="https://img.shields.io/github/forks/sysadmin0815/Fix-Log4j-PowershellScript">	<img alt="stars" src="https://img.shields.io/github/stars/sysadmin0815/Fix-Log4j-PowershellScript">
+- [RenYuH/log4j-lookups-vulnerability](https://github.com/RenYuH/log4j-lookups-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/RenYuH/log4j-lookups-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/RenYuH/log4j-lookups-vulnerability">
+- [scheibling/py-log4shellscanner](https://github.com/scheibling/py-log4shellscanner)	<img alt="forks" src="https://img.shields.io/github/forks/scheibling/py-log4shellscanner">	<img alt="stars" src="https://img.shields.io/github/stars/scheibling/py-log4shellscanner">
+- [zaneef/CVE-2021-44228](https://github.com/zaneef/CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/zaneef/CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/zaneef/CVE-2021-44228">
+- [metodidavidovic/log4j-quick-scan](https://github.com/metodidavidovic/log4j-quick-scan)	<img alt="forks" src="https://img.shields.io/github/forks/metodidavidovic/log4j-quick-scan">	<img alt="stars" src="https://img.shields.io/github/stars/metodidavidovic/log4j-quick-scan">
+- [WatchGuard-Threat-Lab/log4shell-iocs](https://github.com/WatchGuard-Threat-Lab/log4shell-iocs)	<img alt="forks" src="https://img.shields.io/github/forks/WatchGuard-Threat-Lab/log4shell-iocs">	<img alt="stars" src="https://img.shields.io/github/stars/WatchGuard-Threat-Lab/log4shell-iocs">
+- [Aschen/log4j-patched](https://github.com/Aschen/log4j-patched)	<img alt="forks" src="https://img.shields.io/github/forks/Aschen/log4j-patched">	<img alt="stars" src="https://img.shields.io/github/stars/Aschen/log4j-patched">
+- [nikolas-charalambidis/cve-2021-44228](https://github.com/nikolas-charalambidis/cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/nikolas-charalambidis/cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/nikolas-charalambidis/cve-2021-44228">
+- [m0rath/detect-log4j-exploitable](https://github.com/m0rath/detect-log4j-exploitable)	<img alt="forks" src="https://img.shields.io/github/forks/m0rath/detect-log4j-exploitable">	<img alt="stars" src="https://img.shields.io/github/stars/m0rath/detect-log4j-exploitable">
+- [ankur-katiyar/log4j-docker](https://github.com/ankur-katiyar/log4j-docker)	<img alt="forks" src="https://img.shields.io/github/forks/ankur-katiyar/log4j-docker">	<img alt="stars" src="https://img.shields.io/github/stars/ankur-katiyar/log4j-docker">
+- [immunityinc/Log4j-JNDIServer](https://github.com/immunityinc/Log4j-JNDIServer)	<img alt="forks" src="https://img.shields.io/github/forks/immunityinc/Log4j-JNDIServer">	<img alt="stars" src="https://img.shields.io/github/stars/immunityinc/Log4j-JNDIServer">
+- [DANSI/PowerShell-Log4J-Scanner](https://github.com/DANSI/PowerShell-Log4J-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/DANSI/PowerShell-Log4J-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/DANSI/PowerShell-Log4J-Scanner">
+- [suniastar/scan-log4shell](https://github.com/suniastar/scan-log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/suniastar/scan-log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/suniastar/scan-log4shell">
+- [shivakumarjayaraman/log4jvulnerability-CVE-2021-44228](https://github.com/shivakumarjayaraman/log4jvulnerability-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/shivakumarjayaraman/log4jvulnerability-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/shivakumarjayaraman/log4jvulnerability-CVE-2021-44228">
+- [j3kz/CVE-2021-44228-PoC](https://github.com/j3kz/CVE-2021-44228-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/j3kz/CVE-2021-44228-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/j3kz/CVE-2021-44228-PoC">
+- [Apipia/log4j-pcap-activity](https://github.com/Apipia/log4j-pcap-activity)	<img alt="forks" src="https://img.shields.io/github/forks/Apipia/log4j-pcap-activity">	<img alt="stars" src="https://img.shields.io/github/stars/Apipia/log4j-pcap-activity">
+- [axelcurmi/log4shell-docker-lab](https://github.com/axelcurmi/log4shell-docker-lab)	<img alt="forks" src="https://img.shields.io/github/forks/axelcurmi/log4shell-docker-lab">	<img alt="stars" src="https://img.shields.io/github/stars/axelcurmi/log4shell-docker-lab">
+- [otaviokr/log4j-2021-vulnerability-study](https://github.com/otaviokr/log4j-2021-vulnerability-study)	<img alt="forks" src="https://img.shields.io/github/forks/otaviokr/log4j-2021-vulnerability-study">	<img alt="stars" src="https://img.shields.io/github/stars/otaviokr/log4j-2021-vulnerability-study">
+- [kkyehit/log4j_CVE-2021-44228](https://github.com/kkyehit/log4j_CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/kkyehit/log4j_CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/kkyehit/log4j_CVE-2021-44228">
+- [trickyearlobe/inspec-log4j](https://github.com/trickyearlobe/inspec-log4j)	<img alt="forks" src="https://img.shields.io/github/forks/trickyearlobe/inspec-log4j">	<img alt="stars" src="https://img.shields.io/github/stars/trickyearlobe/inspec-log4j">
+- [TheInterception/Log4J-Simulation-Tool](https://github.com/TheInterception/Log4J-Simulation-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/TheInterception/Log4J-Simulation-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/TheInterception/Log4J-Simulation-Tool">
+- [KeysAU/Get-log4j-Windows-local](https://github.com/KeysAU/Get-log4j-Windows-local)	<img alt="forks" src="https://img.shields.io/github/forks/KeysAU/Get-log4j-Windows-local">	<img alt="stars" src="https://img.shields.io/github/stars/KeysAU/Get-log4j-Windows-local">
+- [mschmnet/Log4Shell-demo](https://github.com/mschmnet/Log4Shell-demo)	<img alt="forks" src="https://img.shields.io/github/forks/mschmnet/Log4Shell-demo">	<img alt="stars" src="https://img.shields.io/github/stars/mschmnet/Log4Shell-demo">
+- [Rk-000/Log4j_scan_Advance](https://github.com/Rk-000/Log4j_scan_Advance)	<img alt="forks" src="https://img.shields.io/github/forks/Rk-000/Log4j_scan_Advance">	<img alt="stars" src="https://img.shields.io/github/stars/Rk-000/Log4j_scan_Advance">
+- [puzzlepeaches/Log4jCenter](https://github.com/puzzlepeaches/Log4jCenter)	<img alt="forks" src="https://img.shields.io/github/forks/puzzlepeaches/Log4jCenter">	<img alt="stars" src="https://img.shields.io/github/stars/puzzlepeaches/Log4jCenter">
+- [Labout/log4shell-rmi-poc](https://github.com/Labout/log4shell-rmi-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Labout/log4shell-rmi-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Labout/log4shell-rmi-poc">
+- [TotallyNotAHaxxer/f-for-java](https://github.com/TotallyNotAHaxxer/f-for-java)	<img alt="forks" src="https://img.shields.io/github/forks/TotallyNotAHaxxer/f-for-java">	<img alt="stars" src="https://img.shields.io/github/stars/TotallyNotAHaxxer/f-for-java">
+- [spasam/log4j2-exploit](https://github.com/spasam/log4j2-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/spasam/log4j2-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/spasam/log4j2-exploit">
+- [bumheehan/cve-2021-44228-log4j-test](https://github.com/bumheehan/cve-2021-44228-log4j-test)	<img alt="forks" src="https://img.shields.io/github/forks/bumheehan/cve-2021-44228-log4j-test">	<img alt="stars" src="https://img.shields.io/github/stars/bumheehan/cve-2021-44228-log4j-test">
+- [Y0-kan/Log4jShell-Scan](https://github.com/Y0-kan/Log4jShell-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/Y0-kan/Log4jShell-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/Y0-kan/Log4jShell-Scan">
+- [chandru-gunasekaran/log4j-fix-CVE-2021-44228](https://github.com/chandru-gunasekaran/log4j-fix-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/chandru-gunasekaran/log4j-fix-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/chandru-gunasekaran/log4j-fix-CVE-2021-44228">
+- [snapattack/damn-vulnerable-log4j-app](https://github.com/snapattack/damn-vulnerable-log4j-app)	<img alt="forks" src="https://img.shields.io/github/forks/snapattack/damn-vulnerable-log4j-app">	<img alt="stars" src="https://img.shields.io/github/stars/snapattack/damn-vulnerable-log4j-app">
+- [sassoftware/loguccino](https://github.com/sassoftware/loguccino)	<img alt="forks" src="https://img.shields.io/github/forks/sassoftware/loguccino">	<img alt="stars" src="https://img.shields.io/github/stars/sassoftware/loguccino">
+- [xx-zhang/apache-log4j2-CVE-2021-44228](https://github.com/xx-zhang/apache-log4j2-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/xx-zhang/apache-log4j2-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/xx-zhang/apache-log4j2-CVE-2021-44228">
+- [r00thunter/Log4Shell-Scanner](https://github.com/r00thunter/Log4Shell-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/r00thunter/Log4Shell-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/r00thunter/Log4Shell-Scanner">
+- [mn-io/log4j-spring-vuln-poc](https://github.com/mn-io/log4j-spring-vuln-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mn-io/log4j-spring-vuln-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mn-io/log4j-spring-vuln-poc">
+- [lucab85/log4j-cve-2021-44228](https://github.com/lucab85/log4j-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/lucab85/log4j-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/lucab85/log4j-cve-2021-44228">
+- [BabooPan/Log4Shell-CVE-2021-44228-Demo](https://github.com/BabooPan/Log4Shell-CVE-2021-44228-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/BabooPan/Log4Shell-CVE-2021-44228-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/BabooPan/Log4Shell-CVE-2021-44228-Demo">
+- [ossie-git/log4shell_sentinel](https://github.com/ossie-git/log4shell_sentinel)	<img alt="forks" src="https://img.shields.io/github/forks/ossie-git/log4shell_sentinel">	<img alt="stars" src="https://img.shields.io/github/stars/ossie-git/log4shell_sentinel">
+- [r00thunter/Log4Shell](https://github.com/r00thunter/Log4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/r00thunter/Log4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/r00thunter/Log4Shell">
+- [ssl-user-en/Log4j-Scanner-Exploit](https://github.com/ssl-user-en/Log4j-Scanner-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ssl-user-en/Log4j-Scanner-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ssl-user-en/Log4j-Scanner-Exploit">
+- [BJLIYANLIANG/log4j-scanner](https://github.com/BJLIYANLIANG/log4j-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/BJLIYANLIANG/log4j-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/BJLIYANLIANG/log4j-scanner">
+- [badb33f/Apache-Log4j-POC](https://github.com/badb33f/Apache-Log4j-POC)	<img alt="forks" src="https://img.shields.io/github/forks/badb33f/Apache-Log4j-POC">	<img alt="stars" src="https://img.shields.io/github/stars/badb33f/Apache-Log4j-POC">
+- [TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit](https://github.com/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit">
+- [lucab85/ansible-role-log4shell](https://github.com/lucab85/ansible-role-log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/lucab85/ansible-role-log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/lucab85/ansible-role-log4shell">
+- [grimch/log4j-CVE-2021-44228-workaround](https://github.com/grimch/log4j-CVE-2021-44228-workaround)	<img alt="forks" src="https://img.shields.io/github/forks/grimch/log4j-CVE-2021-44228-workaround">	<img alt="stars" src="https://img.shields.io/github/stars/grimch/log4j-CVE-2021-44228-workaround">
+- [cybersecurityworks553/log4j-shell-csw](https://github.com/cybersecurityworks553/log4j-shell-csw)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityworks553/log4j-shell-csw">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityworks553/log4j-shell-csw">
+- [Toolsec/log4j-scan](https://github.com/Toolsec/log4j-scan)	<img alt="forks" src="https://img.shields.io/github/forks/Toolsec/log4j-scan">	<img alt="stars" src="https://img.shields.io/github/stars/Toolsec/log4j-scan">
+- [many-fac3d-g0d/apache-tomcat-log4j](https://github.com/many-fac3d-g0d/apache-tomcat-log4j)	<img alt="forks" src="https://img.shields.io/github/forks/many-fac3d-g0d/apache-tomcat-log4j">	<img alt="stars" src="https://img.shields.io/github/stars/many-fac3d-g0d/apache-tomcat-log4j">
+- [ToxicEnvelope/XSYS-Log4J2Shell-Ex](https://github.com/ToxicEnvelope/XSYS-Log4J2Shell-Ex)	<img alt="forks" src="https://img.shields.io/github/forks/ToxicEnvelope/XSYS-Log4J2Shell-Ex">	<img alt="stars" src="https://img.shields.io/github/stars/ToxicEnvelope/XSYS-Log4J2Shell-Ex">
+- [felipe8398/ModSec-log4j2](https://github.com/felipe8398/ModSec-log4j2)	<img alt="forks" src="https://img.shields.io/github/forks/felipe8398/ModSec-log4j2">	<img alt="stars" src="https://img.shields.io/github/stars/felipe8398/ModSec-log4j2">
+- [c3-h2/Log4j_Attacker_IPList](https://github.com/c3-h2/Log4j_Attacker_IPList)	<img alt="forks" src="https://img.shields.io/github/forks/c3-h2/Log4j_Attacker_IPList">	<img alt="stars" src="https://img.shields.io/github/stars/c3-h2/Log4j_Attacker_IPList">
+- [xungzzz/VTI-IOCs-CVE-2021-44228](https://github.com/xungzzz/VTI-IOCs-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/xungzzz/VTI-IOCs-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/xungzzz/VTI-IOCs-CVE-2021-44228">
+- [Ravid-CheckMarx/CVE-2021-44228-Apache-Log4j-Rce-main](https://github.com/Ravid-CheckMarx/CVE-2021-44228-Apache-Log4j-Rce-main)	<img alt="forks" src="https://img.shields.io/github/forks/Ravid-CheckMarx/CVE-2021-44228-Apache-Log4j-Rce-main">	<img alt="stars" src="https://img.shields.io/github/stars/Ravid-CheckMarx/CVE-2021-44228-Apache-Log4j-Rce-main">
+- [yesspider-hacker/log4j-payload-generator](https://github.com/yesspider-hacker/log4j-payload-generator)	<img alt="forks" src="https://img.shields.io/github/forks/yesspider-hacker/log4j-payload-generator">	<img alt="stars" src="https://img.shields.io/github/stars/yesspider-hacker/log4j-payload-generator">
+- [LinkMJB/log4shell_scanner](https://github.com/LinkMJB/log4shell_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/LinkMJB/log4shell_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/LinkMJB/log4shell_scanner">
+- [NS-Sp4ce/Vm4J](https://github.com/NS-Sp4ce/Vm4J)	<img alt="forks" src="https://img.shields.io/github/forks/NS-Sp4ce/Vm4J">	<img alt="stars" src="https://img.shields.io/github/stars/NS-Sp4ce/Vm4J">
+- [PoneyClairDeLune/LogJackFix](https://github.com/PoneyClairDeLune/LogJackFix)	<img alt="forks" src="https://img.shields.io/github/forks/PoneyClairDeLune/LogJackFix">	<img alt="stars" src="https://img.shields.io/github/stars/PoneyClairDeLune/LogJackFix">
+- [MarceloLeite2604/log4j-vulnerability](https://github.com/MarceloLeite2604/log4j-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/MarceloLeite2604/log4j-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/MarceloLeite2604/log4j-vulnerability">
+- [romanutti/log4shell-vulnerable-app](https://github.com/romanutti/log4shell-vulnerable-app)	<img alt="forks" src="https://img.shields.io/github/forks/romanutti/log4shell-vulnerable-app">	<img alt="stars" src="https://img.shields.io/github/stars/romanutti/log4shell-vulnerable-app">
+- [Sumitpathania03/LOG4J-CVE-2021-44228](https://github.com/Sumitpathania03/LOG4J-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Sumitpathania03/LOG4J-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Sumitpathania03/LOG4J-CVE-2021-44228">
+- [roshanshibu/Odysseus](https://github.com/roshanshibu/Odysseus)	<img alt="forks" src="https://img.shields.io/github/forks/roshanshibu/Odysseus">	<img alt="stars" src="https://img.shields.io/github/stars/roshanshibu/Odysseus">
+- [NikitaPark/Log4Shell-PoC-Application](https://github.com/NikitaPark/Log4Shell-PoC-Application)	<img alt="forks" src="https://img.shields.io/github/forks/NikitaPark/Log4Shell-PoC-Application">	<img alt="stars" src="https://img.shields.io/github/stars/NikitaPark/Log4Shell-PoC-Application">
+- [bhimsekhar/vulnerable-java-app](https://github.com/bhimsekhar/vulnerable-java-app)	<img alt="forks" src="https://img.shields.io/github/forks/bhimsekhar/vulnerable-java-app">	<img alt="stars" src="https://img.shields.io/github/stars/bhimsekhar/vulnerable-java-app">
+- [horrister/log4shell-cve-2021-44228](https://github.com/horrister/log4shell-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/horrister/log4shell-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/horrister/log4shell-cve-2021-44228">
+- [hmxh123/Log4Shell-Vulnerability-Replication](https://github.com/hmxh123/Log4Shell-Vulnerability-Replication)	<img alt="forks" src="https://img.shields.io/github/forks/hmxh123/Log4Shell-Vulnerability-Replication">	<img alt="stars" src="https://img.shields.io/github/stars/hmxh123/Log4Shell-Vulnerability-Replication">
+- [limxuan/ehir-vuln-enterprise-login](https://github.com/limxuan/ehir-vuln-enterprise-login)	<img alt="forks" src="https://img.shields.io/github/forks/limxuan/ehir-vuln-enterprise-login">	<img alt="stars" src="https://img.shields.io/github/stars/limxuan/ehir-vuln-enterprise-login">
+- [DAADAISMYLIFE/log4shell-lab](https://github.com/DAADAISMYLIFE/log4shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/DAADAISMYLIFE/log4shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/DAADAISMYLIFE/log4shell-lab">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
 > Razer Synapse before 3.7.0228.022817 allows privilege escalation because it relies on %PROGRAMDATA%\Razer\Synapse3\Service\bin even if %PROGRAMDATA%\Razer has been created by any unprivileged user before Synapse is installed. The unprivileged user may have placed Trojan horse DLLs there.
 - [Live-Hack-CVE/CVE-2021-44226](https://github.com/Live-Hack-CVE/CVE-2021-44226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-44226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-44226">
+
+---
+## CVE-2021-44217 ()
+> 
+- [Hyperkopite/CVE-2021-44217](https://github.com/Hyperkopite/CVE-2021-44217)	<img alt="forks" src="https://img.shields.io/github/forks/Hyperkopite/CVE-2021-44217">	<img alt="stars" src="https://img.shields.io/github/stars/Hyperkopite/CVE-2021-44217">
 
 ---
 ## CVE-2021-44186 (2021-12-07T14:15:00)
@@ -1237,6 +1613,11 @@
 - [gudyrmik/CVE-2021-44142](https://github.com/gudyrmik/CVE-2021-44142)	<img alt="forks" src="https://img.shields.io/github/forks/gudyrmik/CVE-2021-44142">	<img alt="stars" src="https://img.shields.io/github/stars/gudyrmik/CVE-2021-44142">
 - [horizon3ai/CVE-2021-44142](https://github.com/horizon3ai/CVE-2021-44142)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/CVE-2021-44142">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/CVE-2021-44142">
 - [hrsman/Samba-CVE-2021-44142](https://github.com/hrsman/Samba-CVE-2021-44142)	<img alt="forks" src="https://img.shields.io/github/forks/hrsman/Samba-CVE-2021-44142">	<img alt="stars" src="https://img.shields.io/github/stars/hrsman/Samba-CVE-2021-44142">
+
+---
+## CVE-2021-44117 ()
+> 
+- [warmachine-57/CVE-2021-44117](https://github.com/warmachine-57/CVE-2021-44117)	<img alt="forks" src="https://img.shields.io/github/forks/warmachine-57/CVE-2021-44117">	<img alt="stars" src="https://img.shields.io/github/stars/warmachine-57/CVE-2021-44117">
 
 ---
 ## CVE-2021-44103 (2022-03-28T14:15:00)
@@ -1265,6 +1646,7 @@
 - [pentesttoolscom/roundcube-cve-2021-44026](https://github.com/pentesttoolscom/roundcube-cve-2021-44026)	<img alt="forks" src="https://img.shields.io/github/forks/pentesttoolscom/roundcube-cve-2021-44026">	<img alt="stars" src="https://img.shields.io/github/stars/pentesttoolscom/roundcube-cve-2021-44026">
 - [skyllpro/CVE-2021-44026-PoC](https://github.com/skyllpro/CVE-2021-44026-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/skyllpro/CVE-2021-44026-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/skyllpro/CVE-2021-44026-PoC">
 - [pappafrank/Fixed-PoC-Roundcube-CVE-2021-44026](https://github.com/pappafrank/Fixed-PoC-Roundcube-CVE-2021-44026)	<img alt="forks" src="https://img.shields.io/github/forks/pappafrank/Fixed-PoC-Roundcube-CVE-2021-44026">	<img alt="stars" src="https://img.shields.io/github/stars/pappafrank/Fixed-PoC-Roundcube-CVE-2021-44026">
+- [shanglyu/roundcube-cve-2021-44026](https://github.com/shanglyu/roundcube-cve-2021-44026)	<img alt="forks" src="https://img.shields.io/github/forks/shanglyu/roundcube-cve-2021-44026">	<img alt="stars" src="https://img.shields.io/github/stars/shanglyu/roundcube-cve-2021-44026">
 
 ---
 ## CVE-2021-44014 (2021-12-14T12:15:00)
@@ -1297,9 +1679,19 @@
 - [Live-Hack-CVE/CVE-2021-43980](https://github.com/Live-Hack-CVE/CVE-2021-43980)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43980">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43980">
 
 ---
+## CVE-2021-43936 ()
+> 
+- [LongWayHomie/CVE-2021-43936](https://github.com/LongWayHomie/CVE-2021-43936)	<img alt="forks" src="https://img.shields.io/github/forks/LongWayHomie/CVE-2021-43936">	<img alt="stars" src="https://img.shields.io/github/stars/LongWayHomie/CVE-2021-43936">
+
+---
 ## CVE-2021-43933 (2022-04-20T16:15:00)
 > The affected product is vulnerable to a network-based attack by threat actors sending unimpeded requests to the receiving server, which could cause a denial-of-service condition due to lack of heap memory resources.
 - [Live-Hack-CVE/CVE-2021-43933](https://github.com/Live-Hack-CVE/CVE-2021-43933)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43933">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43933">
+
+---
+## CVE-2021-43908 ()
+> 
+- [Sudistark/vscode-rce-electrovolt](https://github.com/Sudistark/vscode-rce-electrovolt)	<img alt="forks" src="https://img.shields.io/github/forks/Sudistark/vscode-rce-electrovolt">	<img alt="stars" src="https://img.shields.io/github/stars/Sudistark/vscode-rce-electrovolt">
 
 ---
 ## CVE-2021-43896 (2021-12-15T15:15:00)
@@ -1308,9 +1700,19 @@
 - [Live-Hack-CVE/CVE-2021-43896](https://github.com/Live-Hack-CVE/CVE-2021-43896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43896">
 
 ---
+## CVE-2021-43891 ()
+> 
+- [parsiya/code-wsl-rce](https://github.com/parsiya/code-wsl-rce)	<img alt="forks" src="https://img.shields.io/github/forks/parsiya/code-wsl-rce">	<img alt="stars" src="https://img.shields.io/github/stars/parsiya/code-wsl-rce">
+
+---
 ## CVE-2021-43890 (2021-12-15T15:15:00)
 > Windows AppX Installer Spoofing Vulnerability
 - [yonggui-li/CVE-2021-43890_poc](https://github.com/yonggui-li/CVE-2021-43890_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yonggui-li/CVE-2021-43890_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yonggui-li/CVE-2021-43890_poc">
+
+---
+## CVE-2021-43883 ()
+> 
+- [jbaines-r7/shakeitoff](https://github.com/jbaines-r7/shakeitoff)	<img alt="forks" src="https://img.shields.io/github/forks/jbaines-r7/shakeitoff">	<img alt="stars" src="https://img.shields.io/github/stars/jbaines-r7/shakeitoff">
 
 ---
 ## CVE-2021-43859 ()
@@ -1338,6 +1740,11 @@
 - [Live-Hack-CVE/CVE-2021-43845](https://github.com/Live-Hack-CVE/CVE-2021-43845)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43845">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43845">
 
 ---
+## CVE-2021-43821 ()
+> 
+- [Jackey0/opencast-CVE-2021-43821-env](https://github.com/Jackey0/opencast-CVE-2021-43821-env)	<img alt="forks" src="https://img.shields.io/github/forks/Jackey0/opencast-CVE-2021-43821-env">	<img alt="stars" src="https://img.shields.io/github/stars/Jackey0/opencast-CVE-2021-43821-env">
+
+---
 ## CVE-2021-43811 (2021-12-08T23:15:00)
 > Sockeye is an open-source sequence-to-sequence framework for Neural Machine Translation built on PyTorch. Sockeye uses YAML to store model and data configurations on disk. Versions below 2.3.24 use unsafe YAML loading, which can be made to execute arbitrary code embedded in config files. An attacker can add malicious code to the config file of a trained model and attempt to convince users to download and run it. If users run the model, the embedded code will run locally. The issue is fixed in version 2.3.24.
 - [s-index/CVE-2021-43811](https://github.com/s-index/CVE-2021-43811)	<img alt="forks" src="https://img.shields.io/github/forks/s-index/CVE-2021-43811">	<img alt="stars" src="https://img.shields.io/github/stars/s-index/CVE-2021-43811">
@@ -1346,6 +1753,11 @@
 ## CVE-2021-43804 (2021-12-22T18:15:00)
 > PJSIP is a free and open source multimedia communication library written in C language implementing standard based protocols such as SIP, SDP, RTP, STUN, TURN, and ICE. In affected versions if the incoming RTCP BYE message contains a reason's length, this declared length is not checked against the actual received packet size, potentially resulting in an out-of-bound read access. This issue affects all users that use PJMEDIA and RTCP. A malicious actor can send a RTCP BYE message with an invalid reason length. Users are advised to upgrade as soon as possible. There are no known workarounds.
 - [Live-Hack-CVE/CVE-2021-43804](https://github.com/Live-Hack-CVE/CVE-2021-43804)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43804">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43804">
+
+---
+## CVE-2021-43799 ()
+> 
+- [scopion/CVE-2021-43799](https://github.com/scopion/CVE-2021-43799)	<img alt="forks" src="https://img.shields.io/github/forks/scopion/CVE-2021-43799">	<img alt="stars" src="https://img.shields.io/github/stars/scopion/CVE-2021-43799">
 
 ---
 ## CVE-2021-43798 (2021-12-07T19:15:00)
@@ -1419,6 +1831,10 @@
 - [kikechans/-Grafana-LFI-CVE-2021-43798](https://github.com/kikechans/-Grafana-LFI-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/kikechans/-Grafana-LFI-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/kikechans/-Grafana-LFI-CVE-2021-43798">
 - [Okymi-X/CVE-2021-43798](https://github.com/Okymi-X/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Okymi-X/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Okymi-X/CVE-2021-43798">
 - [Asbawy/GrafTraverse-CVE-2021-43798](https://github.com/Asbawy/GrafTraverse-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Asbawy/GrafTraverse-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Asbawy/GrafTraverse-CVE-2021-43798">
+- [taythebot/CVE-2021-43798](https://github.com/taythebot/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/taythebot/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/taythebot/CVE-2021-43798">
+- [zer0yu/CVE-2021-43798](https://github.com/zer0yu/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/zer0yu/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/zer0yu/CVE-2021-43798">
+- [Mr-xn/CVE-2021-43798](https://github.com/Mr-xn/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2021-43798">
+- [kenuosec/grafanaExp](https://github.com/kenuosec/grafanaExp)	<img alt="forks" src="https://img.shields.io/github/forks/kenuosec/grafanaExp">	<img alt="stars" src="https://img.shields.io/github/stars/kenuosec/grafanaExp">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
@@ -1443,6 +1859,11 @@
 > Nodebb is an open source Node.js based forum software. In affected versions a prototype pollution vulnerability in the uploader module allowed a malicious user to inject arbitrary data (i.e. javascript) into the DOM, theoretically allowing for an account takeover when used in conjunction with a path traversal vulnerability disclosed at the same time as this report. The vulnerability has been patched as of v1.18.5. Users are advised to upgrade as soon as possible.
 - [Live-Hack-CVE/CVE-2021-43787](https://github.com/Live-Hack-CVE/CVE-2021-43787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43787">
 - [Live-Hack-CVE/CVE-2021-43787](https://github.com/Live-Hack-CVE/CVE-2021-43787)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43787">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43787">
+
+---
+## CVE-2021-43778 ()
+> 
+- [AK-blank/CVE-2021-43778](https://github.com/AK-blank/CVE-2021-43778)	<img alt="forks" src="https://img.shields.io/github/forks/AK-blank/CVE-2021-43778">	<img alt="stars" src="https://img.shields.io/github/stars/AK-blank/CVE-2021-43778">
 
 ---
 ## CVE-2021-43775 (2021-11-23T21:15:00)
@@ -1505,6 +1926,11 @@
 - [Live-Hack-CVE/CVE-2021-43566](https://github.com/Live-Hack-CVE/CVE-2021-43566)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43566">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43566">
 
 ---
+## CVE-2021-43557 ()
+> 
+- [xvnpw/k8s-CVE-2021-43557-poc](https://github.com/xvnpw/k8s-CVE-2021-43557-poc)	<img alt="forks" src="https://img.shields.io/github/forks/xvnpw/k8s-CVE-2021-43557-poc">	<img alt="stars" src="https://img.shields.io/github/stars/xvnpw/k8s-CVE-2021-43557-poc">
+
+---
 ## CVE-2021-43545 (2021-12-08T22:15:00)
 > Using the Location API in a loop could have caused severe application hangs and crashes. This vulnerability affects Thunderbird < 91.4.0, Firefox ESR < 91.4.0, and Firefox < 95.
 - [Live-Hack-CVE/CVE-2021-43545](https://github.com/Live-Hack-CVE/CVE-2021-43545)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43545">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43545">
@@ -1553,6 +1979,17 @@
 ## CVE-2021-43503 (2022-04-08T18:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
 - [kang8/CVE-2021-43503](https://github.com/kang8/CVE-2021-43503)	<img alt="forks" src="https://img.shields.io/github/forks/kang8/CVE-2021-43503">	<img alt="stars" src="https://img.shields.io/github/stars/kang8/CVE-2021-43503">
+- [guoyanan1g/Laravel-vul](https://github.com/guoyanan1g/Laravel-vul)	<img alt="forks" src="https://img.shields.io/github/forks/guoyanan1g/Laravel-vul">	<img alt="stars" src="https://img.shields.io/github/stars/guoyanan1g/Laravel-vul">
+
+---
+## CVE-2021-43471 ()
+> 
+- [cxaqhq/CVE-2021-43471](https://github.com/cxaqhq/CVE-2021-43471)	<img alt="forks" src="https://img.shields.io/github/forks/cxaqhq/CVE-2021-43471">	<img alt="stars" src="https://img.shields.io/github/stars/cxaqhq/CVE-2021-43471">
+
+---
+## CVE-2021-43469 ()
+> 
+- [badboycxcc/CVE-2021-43469](https://github.com/badboycxcc/CVE-2021-43469)	<img alt="forks" src="https://img.shields.io/github/forks/badboycxcc/CVE-2021-43469">	<img alt="stars" src="https://img.shields.io/github/stars/badboycxcc/CVE-2021-43469">
 
 ---
 ## CVE-2021-43466 (2021-11-09T12:15:00)
@@ -1580,6 +2017,11 @@
 - [Live-Hack-CVE/CVE-2021-43444](https://github.com/Live-Hack-CVE/CVE-2021-43444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43444">
 
 ---
+## CVE-2021-43408 ()
+> 
+- [tuannq2299/CVE-2021-43408](https://github.com/tuannq2299/CVE-2021-43408)	<img alt="forks" src="https://img.shields.io/github/forks/tuannq2299/CVE-2021-43408">	<img alt="stars" src="https://img.shields.io/github/stars/tuannq2299/CVE-2021-43408">
+
+---
 ## CVE-2021-43403 (2022-09-29T03:15:00)
 > An issue was discovered in FusionPBX before 4.5.30. The log_viewer.php Log View page allows an authenticated user to choose an arbitrary filename for download (i.e., not necessarily freeswitch.log in the intended directory).
 - [Live-Hack-CVE/CVE-2021-43403](https://github.com/Live-Hack-CVE/CVE-2021-43403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43403">
@@ -1604,6 +2046,11 @@
 ## CVE-2021-43329 (2022-08-25T22:15:00)
 > A SQL injection vulnerability in license_update.php in Mumara Classic through 2.93 allows a remote unauthenticated attacker to execute arbitrary SQL commands via the license parameter.
 - [Live-Hack-CVE/CVE-2021-43329](https://github.com/Live-Hack-CVE/CVE-2021-43329)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43329">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43329">
+
+---
+## CVE-2021-43326 ()
+> 
+- [gfoss/CVE-2021-43326_Exploit](https://github.com/gfoss/CVE-2021-43326_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gfoss/CVE-2021-43326_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gfoss/CVE-2021-43326_Exploit">
 
 ---
 ## CVE-2021-43309 (2022-08-24T16:15:00)
@@ -1646,6 +2093,11 @@
 - [Live-Hack-CVE/CVE-2021-43299](https://github.com/Live-Hack-CVE/CVE-2021-43299)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43299">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43299">
 
 ---
+## CVE-2021-43287 ()
+> 
+- [Wrin9/CVE-2021-43287](https://github.com/Wrin9/CVE-2021-43287)	<img alt="forks" src="https://img.shields.io/github/forks/Wrin9/CVE-2021-43287">	<img alt="stars" src="https://img.shields.io/github/stars/Wrin9/CVE-2021-43287">
+
+---
 ## CVE-2021-43267 ()
 > 
 - [YunchoHang/CVE-2021-43267](https://github.com/YunchoHang/CVE-2021-43267)	<img alt="forks" src="https://img.shields.io/github/forks/YunchoHang/CVE-2021-43267">	<img alt="stars" src="https://img.shields.io/github/stars/YunchoHang/CVE-2021-43267">
@@ -1670,6 +2122,11 @@
 - [Rosayxy/cve-2021-43226PoC](https://github.com/Rosayxy/cve-2021-43226PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Rosayxy/cve-2021-43226PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Rosayxy/cve-2021-43226PoC">
 
 ---
+## CVE-2021-43224 ()
+> 
+- [KaLendsi/CVE-2021-43224-POC](https://github.com/KaLendsi/CVE-2021-43224-POC)	<img alt="forks" src="https://img.shields.io/github/forks/KaLendsi/CVE-2021-43224-POC">	<img alt="stars" src="https://img.shields.io/github/stars/KaLendsi/CVE-2021-43224-POC">
+
+---
 ## CVE-2021-43217 (2021-12-15T15:15:00)
 > Windows Encrypting File System (EFS) Remote Code Execution Vulnerability
 - [JolynNgSC/EFS_CVE-2021-43217](https://github.com/JolynNgSC/EFS_CVE-2021-43217)	<img alt="forks" src="https://img.shields.io/github/forks/JolynNgSC/EFS_CVE-2021-43217">	<img alt="stars" src="https://img.shields.io/github/stars/JolynNgSC/EFS_CVE-2021-43217">
@@ -1678,6 +2135,11 @@
 ## CVE-2021-4315 (2023-01-28T23:15:00)
 > A vulnerability has been found in NYUCCL psiTurk up to 3.2.0 and classified as critical. This vulnerability affects unknown code of the file psiturk/experiment.py. The manipulation of the argument mode leads to improper neutralization of special elements used in a template engine. The exploit has been disclosed to the public and may be used. Upgrading to version 3.2.1 is able to address this issue. The name of the patch is 47787e15cecd66f2aa87687bf852ae0194a4335f. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-219676.
 - [Live-Hack-CVE/CVE-2021-4315](https://github.com/Live-Hack-CVE/CVE-2021-4315)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4315">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4315">
+
+---
+## CVE-2021-43141 ()
+> 
+- [Jeromeyoung/CVE-2021-43141](https://github.com/Jeromeyoung/CVE-2021-43141)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-43141">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-43141">
 
 ---
 ## CVE-2021-4314 (2023-01-18T16:15:00)
@@ -1695,6 +2157,11 @@
 ## CVE-2021-4313 (2023-01-16T12:15:00)
 > A vulnerability was found in NethServer phonenehome. It has been rated as critical. This issue affects the function get_info/get_country_coor of the file server/index.php. The manipulation leads to sql injection. The name of the patch is 759c30b0ddd7d493836bbdf695cf71624b377391. It is recommended to apply a patch to fix this issue. The identifier VDB-218393 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4313](https://github.com/Live-Hack-CVE/CVE-2021-4313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4313">
+
+---
+## CVE-2021-43129 ()
+> 
+- [Skotizo/CVE-2021-43129](https://github.com/Skotizo/CVE-2021-43129)	<img alt="forks" src="https://img.shields.io/github/forks/Skotizo/CVE-2021-43129">	<img alt="stars" src="https://img.shields.io/github/stars/Skotizo/CVE-2021-43129">
 
 ---
 ## CVE-2021-4312 (2023-01-13T18:15:00)
@@ -1753,6 +2220,11 @@
 - [Live-Hack-CVE/CVE-2021-43042](https://github.com/Live-Hack-CVE/CVE-2021-43042)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43042">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43042">
 - [Live-Hack-CVE/CVE-2021-43041](https://github.com/Live-Hack-CVE/CVE-2021-43041)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43041">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43041">
 - [Live-Hack-CVE/CVE-2021-43040](https://github.com/Live-Hack-CVE/CVE-2021-43040)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43040">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43040">
+
+---
+## CVE-2021-43032 ()
+> 
+- [SakuraSamuraii/CVE-2021-43032](https://github.com/SakuraSamuraii/CVE-2021-43032)	<img alt="forks" src="https://img.shields.io/github/forks/SakuraSamuraii/CVE-2021-43032">	<img alt="stars" src="https://img.shields.io/github/stars/SakuraSamuraii/CVE-2021-43032">
 
 ---
 ## CVE-2021-4303 (2023-01-05T09:15:00)
@@ -1841,6 +2313,11 @@
 - [dhammon/HotelDruid-CVE-2021-42948](https://github.com/dhammon/HotelDruid-CVE-2021-42948)	<img alt="forks" src="https://img.shields.io/github/forks/dhammon/HotelDruid-CVE-2021-42948">	<img alt="stars" src="https://img.shields.io/github/stars/dhammon/HotelDruid-CVE-2021-42948">
 
 ---
+## CVE-2021-42913 ()
+> 
+- [kernel-cyber/CVE-2021-42913](https://github.com/kernel-cyber/CVE-2021-42913)	<img alt="forks" src="https://img.shields.io/github/forks/kernel-cyber/CVE-2021-42913">	<img alt="stars" src="https://img.shields.io/github/stars/kernel-cyber/CVE-2021-42913">
+
+---
 ## CVE-2021-4291 (2022-12-27T23:15:00)
 > A vulnerability was found in OpenMRS Admin UI Module up to 1.5.x. It has been declared as problematic. This vulnerability affects unknown code of the file omod/src/main/webapp/pages/metadata/locations/location.gsp. The manipulation leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 1.6.0 is able to address this issue. The name of the patch is a7eefb5f69f6c50a3bffcb138bb8ea57cb41a9b6. It is recommended to upgrade the affected component. The identifier of this vulnerability is VDB-216916.
 - [Live-Hack-CVE/CVE-2021-4291](https://github.com/Live-Hack-CVE/CVE-2021-4291)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4291">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4291">
@@ -1875,6 +2352,11 @@
 ## CVE-2021-4284 (2022-12-27T10:15:00)
 > A vulnerability classified as problematic has been found in OpenMRS HTML Form Entry UI Framework Integration Module up to 1.x. This affects an unknown part. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. Upgrading to version 2.0.0 is able to address this issue. The name of the patch is 811990972ea07649ae33c4b56c61c3b520895f07. It is recommended to upgrade the affected component. The identifier VDB-216873 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2021-4284](https://github.com/Live-Hack-CVE/CVE-2021-4284)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4284">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4284">
+
+---
+## CVE-2021-42835 ()
+> 
+- [netanelc305/PlEXcalaison](https://github.com/netanelc305/PlEXcalaison)	<img alt="forks" src="https://img.shields.io/github/forks/netanelc305/PlEXcalaison">	<img alt="stars" src="https://img.shields.io/github/stars/netanelc305/PlEXcalaison">
 
 ---
 ## CVE-2021-4283 (2022-12-27T10:15:00)
@@ -1961,9 +2443,54 @@
 - [k271266/CVE-2021-42694](https://github.com/k271266/CVE-2021-42694)	<img alt="forks" src="https://img.shields.io/github/forks/k271266/CVE-2021-42694">	<img alt="stars" src="https://img.shields.io/github/stars/k271266/CVE-2021-42694">
 
 ---
+## CVE-2021-42671 ()
+> 
+- [0xDeku/CVE-2021-42671](https://github.com/0xDeku/CVE-2021-42671)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42671">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42671">
+
+---
+## CVE-2021-42670 ()
+> 
+- [0xDeku/CVE-2021-42670](https://github.com/0xDeku/CVE-2021-42670)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42670">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42670">
+
+---
 ## CVE-2021-42669 (2021-11-05T13:15:00)
 > A file upload vulnerability exists in Sourcecodester Engineers Online Portal in PHP via dashboard_teacher.php, which allows changing the avatar through teacher_avatar.php. Once an avatar gets uploaded it is getting uploaded to the /admin/uploads/ directory, and is accessible by all users. By uploading a php webshell containing "<?php system($_GET["cmd"]); ?>" the attacker can execute commands on the web server with - /admin/uploads/php-webshell?cmd=id.
 - [0xDeku/CVE-2021-42669](https://github.com/0xDeku/CVE-2021-42669)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42669">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42669">
+
+---
+## CVE-2021-42668 ()
+> 
+- [0xDeku/CVE-2021-42668](https://github.com/0xDeku/CVE-2021-42668)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42668">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42668">
+
+---
+## CVE-2021-42667 ()
+> 
+- [0xDeku/CVE-2021-42667](https://github.com/0xDeku/CVE-2021-42667)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42667">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42667">
+
+---
+## CVE-2021-42666 ()
+> 
+- [0xDeku/CVE-2021-42666](https://github.com/0xDeku/CVE-2021-42666)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42666">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42666">
+
+---
+## CVE-2021-42665 ()
+> 
+- [0xDeku/CVE-2021-42665](https://github.com/0xDeku/CVE-2021-42665)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42665">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42665">
+
+---
+## CVE-2021-42664 ()
+> 
+- [0xDeku/CVE-2021-42664](https://github.com/0xDeku/CVE-2021-42664)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42664">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42664">
+
+---
+## CVE-2021-42663 ()
+> 
+- [0xDeku/CVE-2021-42663](https://github.com/0xDeku/CVE-2021-42663)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42663">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42663">
+
+---
+## CVE-2021-42662 ()
+> 
+- [0xDeku/CVE-2021-42662](https://github.com/0xDeku/CVE-2021-42662)	<img alt="forks" src="https://img.shields.io/github/forks/0xDeku/CVE-2021-42662">	<img alt="stars" src="https://img.shields.io/github/stars/0xDeku/CVE-2021-42662">
 
 ---
 ## CVE-2021-42646 (2022-05-11T18:15:00)
@@ -1991,6 +2518,7 @@
 - [simplylu/CVE-2021-42574](https://github.com/simplylu/CVE-2021-42574)	<img alt="forks" src="https://img.shields.io/github/forks/simplylu/CVE-2021-42574">	<img alt="stars" src="https://img.shields.io/github/stars/simplylu/CVE-2021-42574">
 - [hffaust/CVE-2021-42574_and_CVE-2021-42694](https://github.com/hffaust/CVE-2021-42574_and_CVE-2021-42694)	<img alt="forks" src="https://img.shields.io/github/forks/hffaust/CVE-2021-42574_and_CVE-2021-42694">	<img alt="stars" src="https://img.shields.io/github/stars/hffaust/CVE-2021-42574_and_CVE-2021-42694">
 - [shiomiyan/CVE-2021-42574](https://github.com/shiomiyan/CVE-2021-42574)	<img alt="forks" src="https://img.shields.io/github/forks/shiomiyan/CVE-2021-42574">	<img alt="stars" src="https://img.shields.io/github/stars/shiomiyan/CVE-2021-42574">
+- [Moshe-ship/bidi-guard](https://github.com/Moshe-ship/bidi-guard)	<img alt="forks" src="https://img.shields.io/github/forks/Moshe-ship/bidi-guard">	<img alt="stars" src="https://img.shields.io/github/stars/Moshe-ship/bidi-guard">
 
 ---
 ## CVE-2021-4257 (2022-12-18T22:15:00)
@@ -2030,6 +2558,11 @@
 ## CVE-2021-42558 (2022-01-12T20:15:00)
 > An issue was discovered in CALDERA 2.8.1. It contains multiple reflected, stored, and self XSS vulnerabilities that may be exploited by authenticated and unauthenticated attackers.
 - [mbadanoiu/CVE-2021-42558](https://github.com/mbadanoiu/CVE-2021-42558)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-42558">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-42558">
+
+---
+## CVE-2021-42556 ()
+> 
+- [lierbushiwo/Rasa-cve-exp](https://github.com/lierbushiwo/Rasa-cve-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lierbushiwo/Rasa-cve-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lierbushiwo/Rasa-cve-exp">
 
 ---
 ## CVE-2021-42553 (2022-10-21T10:15:00)
@@ -2196,6 +2729,11 @@
 - [docfate111/CVE-2021-42327](https://github.com/docfate111/CVE-2021-42327)	<img alt="forks" src="https://img.shields.io/github/forks/docfate111/CVE-2021-42327">	<img alt="stars" src="https://img.shields.io/github/stars/docfate111/CVE-2021-42327">
 
 ---
+## CVE-2021-42325 ()
+> 
+- [AK-blank/CVE-2021-42325-](https://github.com/AK-blank/CVE-2021-42325-)	<img alt="forks" src="https://img.shields.io/github/forks/AK-blank/CVE-2021-42325-">	<img alt="stars" src="https://img.shields.io/github/stars/AK-blank/CVE-2021-42325-">
+
+---
 ## CVE-2021-42321 (2021-11-10T01:19:00)
 > Microsoft Exchange Server Remote Code Execution Vulnerability
 - [xnyuq/cve-2021-42321](https://github.com/xnyuq/cve-2021-42321)	<img alt="forks" src="https://img.shields.io/github/forks/xnyuq/cve-2021-42321">	<img alt="stars" src="https://img.shields.io/github/stars/xnyuq/cve-2021-42321">
@@ -2204,10 +2742,44 @@
 - [7BitsTeam/exch_CVE-2021-42321](https://github.com/7BitsTeam/exch_CVE-2021-42321)	<img alt="forks" src="https://img.shields.io/github/forks/7BitsTeam/exch_CVE-2021-42321">	<img alt="stars" src="https://img.shields.io/github/stars/7BitsTeam/exch_CVE-2021-42321">
 
 ---
+## CVE-2021-42292 ()
+> 
+- [corelight/CVE-2021-42292](https://github.com/corelight/CVE-2021-42292)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2021-42292">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2021-42292">
+
+---
+## CVE-2021-42287 ()
+> 
+- [cube0x0/noPac](https://github.com/cube0x0/noPac)	<img alt="forks" src="https://img.shields.io/github/forks/cube0x0/noPac">	<img alt="stars" src="https://img.shields.io/github/stars/cube0x0/noPac">
+- [ricardojba/Invoke-noPac](https://github.com/ricardojba/Invoke-noPac)	<img alt="forks" src="https://img.shields.io/github/forks/ricardojba/Invoke-noPac">	<img alt="stars" src="https://img.shields.io/github/stars/ricardojba/Invoke-noPac">
+- [TryA9ain/noPac](https://github.com/TryA9ain/noPac)	<img alt="forks" src="https://img.shields.io/github/forks/TryA9ain/noPac">	<img alt="stars" src="https://img.shields.io/github/stars/TryA9ain/noPac">
+- [DanielFEXKEX/CVE-Scanner](https://github.com/DanielFEXKEX/CVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/DanielFEXKEX/CVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/DanielFEXKEX/CVE-Scanner">
+- [Chrisync/CVE-Scanner](https://github.com/Chrisync/CVE-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Chrisync/CVE-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Chrisync/CVE-Scanner">
+
+---
+## CVE-2021-42278 ()
+> 
+- [safebuffer/sam-the-admin](https://github.com/safebuffer/sam-the-admin)	<img alt="forks" src="https://img.shields.io/github/forks/safebuffer/sam-the-admin">	<img alt="stars" src="https://img.shields.io/github/stars/safebuffer/sam-the-admin">
+- [Ridter/noPac](https://github.com/Ridter/noPac)	<img alt="forks" src="https://img.shields.io/github/forks/Ridter/noPac">	<img alt="stars" src="https://img.shields.io/github/stars/Ridter/noPac">
+- [waterrr/noPac](https://github.com/waterrr/noPac)	<img alt="forks" src="https://img.shields.io/github/forks/waterrr/noPac">	<img alt="stars" src="https://img.shields.io/github/stars/waterrr/noPac">
+- [ly4k/Pachine](https://github.com/ly4k/Pachine)	<img alt="forks" src="https://img.shields.io/github/forks/ly4k/Pachine">	<img alt="stars" src="https://img.shields.io/github/stars/ly4k/Pachine">
+- [cybersecurityworks553/noPac-detection](https://github.com/cybersecurityworks553/noPac-detection)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityworks553/noPac-detection">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityworks553/noPac-detection">
+
+---
+## CVE-2021-42261 ()
+> 
+- [jet-pentest/CVE-2021-42261](https://github.com/jet-pentest/CVE-2021-42261)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2021-42261">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2021-42261">
+
+---
+## CVE-2021-42260 ()
+> 
+- [vm2mv/tinyxml](https://github.com/vm2mv/tinyxml)	<img alt="forks" src="https://img.shields.io/github/forks/vm2mv/tinyxml">	<img alt="stars" src="https://img.shields.io/github/stars/vm2mv/tinyxml">
+
+---
 ## CVE-2021-42237 (2021-11-05T10:15:00)
 > Sitecore XP 7.5 Initial Release to Sitecore XP 8.2 Update-7 is vulnerable to an insecure deserialization attack where it is possible to achieve remote command execution on the machine. No authentication or special configuration is required to exploit this vulnerability.
 - [vesperp/CVE-2021-42237-SiteCore-XP](https://github.com/vesperp/CVE-2021-42237-SiteCore-XP)	<img alt="forks" src="https://img.shields.io/github/forks/vesperp/CVE-2021-42237-SiteCore-XP">	<img alt="stars" src="https://img.shields.io/github/stars/vesperp/CVE-2021-42237-SiteCore-XP">
 - [ItsIgnacioPortal/CVE-2021-42237](https://github.com/ItsIgnacioPortal/CVE-2021-42237)	<img alt="forks" src="https://img.shields.io/github/forks/ItsIgnacioPortal/CVE-2021-42237">	<img alt="stars" src="https://img.shields.io/github/stars/ItsIgnacioPortal/CVE-2021-42237">
+- [crankyyash/SiteCore-RCE-Detection](https://github.com/crankyyash/SiteCore-RCE-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/crankyyash/SiteCore-RCE-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/crankyyash/SiteCore-RCE-Detection">
 
 ---
 ## CVE-2021-42232 (2022-08-23T01:15:00)
@@ -2218,6 +2790,7 @@
 ## CVE-2021-42205 (2022-11-07T16:15:00)
 > ELAN Miniport touchpad Windows driver before 24.21.51.2, as used in PC hardware from multiple manufacturers, allows local users to cause a system crash by sending a certain IOCTL request, because that request is handled twice.
 - [Live-Hack-CVE/CVE-2021-42205](https://github.com/Live-Hack-CVE/CVE-2021-42205)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42205">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42205">
+- [gmh5225/CVE-2021-42205](https://github.com/gmh5225/CVE-2021-42205)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2021-42205">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2021-42205">
 
 ---
 ## CVE-2021-42192 (2022-05-04T11:15:00)
@@ -2260,6 +2833,11 @@
 > A NULL pointer dereference flaw was found in GnuTLS. As Nettle's hash update functions internally call memcpy, providing zero-length input may cause undefined behavior. This flaw leads to a denial of service after authentication in rare circumstances.
 - [Live-Hack-CVE/CVE-2021-4209](https://github.com/Live-Hack-CVE/CVE-2021-4209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4209">
 - [Live-Hack-CVE/CVE-2021-4209](https://github.com/Live-Hack-CVE/CVE-2021-4209)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4209">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4209">
+
+---
+## CVE-2021-42071 ()
+> 
+- [adubaldo/CVE-2021-42071](https://github.com/adubaldo/CVE-2021-42071)	<img alt="forks" src="https://img.shields.io/github/forks/adubaldo/CVE-2021-42071">	<img alt="stars" src="https://img.shields.io/github/stars/adubaldo/CVE-2021-42071">
 
 ---
 ## CVE-2021-42067 (2022-01-14T20:15:00)
@@ -2386,11 +2964,19 @@
 - [drackyjr/CVE-2021-42013](https://github.com/drackyjr/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/drackyjr/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/drackyjr/CVE-2021-42013">
 - [ranasen-rat/cve-2021-42013](https://github.com/ranasen-rat/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/ranasen-rat/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/ranasen-rat/cve-2021-42013">
 - [zeynepglygt/apache-cve-2021-42013-rce](https://github.com/zeynepglygt/apache-cve-2021-42013-rce)	<img alt="forks" src="https://img.shields.io/github/forks/zeynepglygt/apache-cve-2021-42013-rce">	<img alt="stars" src="https://img.shields.io/github/stars/zeynepglygt/apache-cve-2021-42013-rce">
+- [andrea-mattioli/apache-exploit-CVE-2021-42013](https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/andrea-mattioli/apache-exploit-CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/andrea-mattioli/apache-exploit-CVE-2021-42013">
+- [Joapath/CVE-2021-42013](https://github.com/Joapath/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Joapath/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Joapath/CVE-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
 > Heron versions <= 0.20.4-incubating allows CRLF log injection because of the lack of escaping in the log statements. Please update to version 0.20.5-incubating which addresses this issue.
 - [Live-Hack-CVE/CVE-2021-42010](https://github.com/Live-Hack-CVE/CVE-2021-42010)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-42010">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-42010">
+
+---
+## CVE-2021-42008 ()
+> 
+- [numanturle/CVE-2021-42008](https://github.com/numanturle/CVE-2021-42008)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2021-42008">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2021-42008">
+- [0xdevil/CVE-2021-42008](https://github.com/0xdevil/CVE-2021-42008)	<img alt="forks" src="https://img.shields.io/github/forks/0xdevil/CVE-2021-42008">	<img alt="stars" src="https://img.shields.io/github/stars/0xdevil/CVE-2021-42008">
 
 ---
 ## CVE-2021-42001 (2022-04-30T22:15:00)
@@ -2466,6 +3052,11 @@
 - [Live-Hack-CVE/CVE-2021-4197](https://github.com/Live-Hack-CVE/CVE-2021-4197)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4197">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4197">
 
 ---
+## CVE-2021-41962 ()
+> 
+- [lohyt/-CVE-2021-41962](https://github.com/lohyt/-CVE-2021-41962)	<img alt="forks" src="https://img.shields.io/github/forks/lohyt/-CVE-2021-41962">	<img alt="stars" src="https://img.shields.io/github/stars/lohyt/-CVE-2021-41962">
+
+---
 ## CVE-2021-41946 (2022-05-18T11:15:00)
 > In FiberHome VDSL2 Modem HG150-Ub_V3.0, a stored cross-site scripting (XSS) vulnerability in Parental Control --> Access Time Restriction --> Username field, a user cannot delete the rule due to the XSS.
 - [afaq1337/CVE-2021-41946](https://github.com/afaq1337/CVE-2021-41946)	<img alt="forks" src="https://img.shields.io/github/forks/afaq1337/CVE-2021-41946">	<img alt="stars" src="https://img.shields.io/github/stars/afaq1337/CVE-2021-41946">
@@ -2522,6 +3113,11 @@
 - [Live-Hack-CVE/CVE-2021-41823](https://github.com/Live-Hack-CVE/CVE-2021-41823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41823">
 
 ---
+## CVE-2021-41822 ()
+> 
+- [badboycxcc/CVE-2021-41822](https://github.com/badboycxcc/CVE-2021-41822)	<img alt="forks" src="https://img.shields.io/github/forks/badboycxcc/CVE-2021-41822">	<img alt="stars" src="https://img.shields.io/github/stars/badboycxcc/CVE-2021-41822">
+
+---
 ## CVE-2021-4182 (2021-12-30T22:15:00)
 > Crash in the RFC 7468 dissector in Wireshark 3.6.0 and 3.4.0 to 3.4.10 allows denial of service via packet injection or crafted capture file
 - [Live-Hack-CVE/CVE-2021-4182](https://github.com/Live-Hack-CVE/CVE-2021-4182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4182">
@@ -2563,6 +3159,7 @@
 > Foxit PDF Reader before 11.1 and PDF Editor before 11.1, and PhantomPDF before 10.1.6, allow attackers to trigger a use-after-free and execute arbitrary code because JavaScript is mishandled.
 - [Live-Hack-CVE/CVE-2021-41784](https://github.com/Live-Hack-CVE/CVE-2021-41784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41784">
 - [Live-Hack-CVE/CVE-2021-41784](https://github.com/Live-Hack-CVE/CVE-2021-41784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41784">
+- [Jeromeyoung/CVE-2021-41784](https://github.com/Jeromeyoung/CVE-2021-41784)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-41784">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-41784">
 
 ---
 ## CVE-2021-41783 (2022-08-29T05:15:00)
@@ -2721,6 +3318,70 @@
 - [JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server](https://github.com/JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server)	<img alt="forks" src="https://img.shields.io/github/forks/JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server">	<img alt="stars" src="https://img.shields.io/github/stars/JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server">
 - [Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper](https://github.com/Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper)	<img alt="forks" src="https://img.shields.io/github/forks/Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper">	<img alt="stars" src="https://img.shields.io/github/stars/Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper">
 - [wvverez/CVE-2021-41773-PoC](https://github.com/wvverez/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2021-41773-PoC">
+- [numanturle/CVE-2021-41773](https://github.com/numanturle/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2021-41773">
+- [knqyf263/CVE-2021-41773](https://github.com/knqyf263/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2021-41773">
+- [iilegacyyii/PoC-CVE-2021-41773](https://github.com/iilegacyyii/PoC-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/iilegacyyii/PoC-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/iilegacyyii/PoC-CVE-2021-41773">
+- [masahiro331/CVE-2021-41773](https://github.com/masahiro331/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/masahiro331/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/masahiro331/CVE-2021-41773">
+- [j4k0m/CVE-2021-41773](https://github.com/j4k0m/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/j4k0m/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/j4k0m/CVE-2021-41773">
+- [TishcaTpx/POC-CVE-2021-41773](https://github.com/TishcaTpx/POC-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/TishcaTpx/POC-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/TishcaTpx/POC-CVE-2021-41773">
+- [lorddemon/CVE-2021-41773-PoC](https://github.com/lorddemon/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lorddemon/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lorddemon/CVE-2021-41773-PoC">
+- [habibiefaried/CVE-2021-41773-PoC](https://github.com/habibiefaried/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/habibiefaried/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/habibiefaried/CVE-2021-41773-PoC">
+- [TAI-REx/cve-2021-41773-nse](https://github.com/TAI-REx/cve-2021-41773-nse)	<img alt="forks" src="https://img.shields.io/github/forks/TAI-REx/cve-2021-41773-nse">	<img alt="stars" src="https://img.shields.io/github/stars/TAI-REx/cve-2021-41773-nse">
+- [blasty/CVE-2021-41773](https://github.com/blasty/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/blasty/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/blasty/CVE-2021-41773">
+- [PentesterGuruji/CVE-2021-41773](https://github.com/PentesterGuruji/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/PentesterGuruji/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/PentesterGuruji/CVE-2021-41773">
+- [jbovet/CVE-2021-41773](https://github.com/jbovet/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/jbovet/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/jbovet/CVE-2021-41773">
+- [mohwahyudi/cve-2021-41773](https://github.com/mohwahyudi/cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/mohwahyudi/cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/mohwahyudi/cve-2021-41773">
+- [1nhann/CVE-2021-41773](https://github.com/1nhann/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/1nhann/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/1nhann/CVE-2021-41773">
+- [BlueTeamSteve/CVE-2021-41773](https://github.com/BlueTeamSteve/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/BlueTeamSteve/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/BlueTeamSteve/CVE-2021-41773">
+- [Zeop-CyberSec/apache_normalize_path](https://github.com/Zeop-CyberSec/apache_normalize_path)	<img alt="forks" src="https://img.shields.io/github/forks/Zeop-CyberSec/apache_normalize_path">	<img alt="stars" src="https://img.shields.io/github/stars/Zeop-CyberSec/apache_normalize_path">
+- [r00tVen0m/CVE-2021-41773](https://github.com/r00tVen0m/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/r00tVen0m/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/r00tVen0m/CVE-2021-41773">
+- [n3k00n3/CVE-2021-41773](https://github.com/n3k00n3/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/n3k00n3/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/n3k00n3/CVE-2021-41773">
+- [fnatalucci/CVE-2021-41773-RCE](https://github.com/fnatalucci/CVE-2021-41773-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fnatalucci/CVE-2021-41773-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fnatalucci/CVE-2021-41773-RCE">
+- [AssassinUKG/CVE-2021-41773](https://github.com/AssassinUKG/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/AssassinUKG/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/AssassinUKG/CVE-2021-41773">
+- [jheeree/Simple-CVE-2021-41773-checker](https://github.com/jheeree/Simple-CVE-2021-41773-checker)	<img alt="forks" src="https://img.shields.io/github/forks/jheeree/Simple-CVE-2021-41773-checker">	<img alt="stars" src="https://img.shields.io/github/stars/jheeree/Simple-CVE-2021-41773-checker">
+- [orangmuda/CVE-2021-41773](https://github.com/orangmuda/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-41773">
+- [HightechSec/scarce-apache2](https://github.com/HightechSec/scarce-apache2)	<img alt="forks" src="https://img.shields.io/github/forks/HightechSec/scarce-apache2">	<img alt="stars" src="https://img.shields.io/github/stars/HightechSec/scarce-apache2">
+- [vinhjaxt/CVE-2021-41773-exploit](https://github.com/vinhjaxt/CVE-2021-41773-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/vinhjaxt/CVE-2021-41773-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/vinhjaxt/CVE-2021-41773-exploit">
+- [sixpacksecurity/CVE-2021-41773](https://github.com/sixpacksecurity/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/sixpacksecurity/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/sixpacksecurity/CVE-2021-41773">
+- [Hattan515/POC-CVE-2021-41773](https://github.com/Hattan515/POC-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Hattan515/POC-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Hattan515/POC-CVE-2021-41773">
+- [twseptian/cve-2021-41773](https://github.com/twseptian/cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/twseptian/cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/twseptian/cve-2021-41773">
+- [shiomiyan/CVE-2021-41773](https://github.com/shiomiyan/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/shiomiyan/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/shiomiyan/CVE-2021-41773">
+- [shellreaper/CVE-2021-41773](https://github.com/shellreaper/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/shellreaper/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/shellreaper/CVE-2021-41773">
+- [0xRar/CVE-2021-41773](https://github.com/0xRar/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/0xRar/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/0xRar/CVE-2021-41773">
+- [pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt](https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt)	<img alt="forks" src="https://img.shields.io/github/forks/pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt">	<img alt="stars" src="https://img.shields.io/github/stars/pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt">
+- [corelight/CVE-2021-41773](https://github.com/corelight/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2021-41773">
+- [zeronine9/CVE-2021-41773](https://github.com/zeronine9/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/zeronine9/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/zeronine9/CVE-2021-41773">
+- [b1tsec/CVE-2021-41773](https://github.com/b1tsec/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/b1tsec/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/b1tsec/CVE-2021-41773">
+- [superzerosec/CVE-2021-41773](https://github.com/superzerosec/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/superzerosec/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/superzerosec/CVE-2021-41773">
+- [im-hanzou/apachrot](https://github.com/im-hanzou/apachrot)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/apachrot">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/apachrot">
+- [inbug-team/CVE-2021-41773_CVE-2021-42013](https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/inbug-team/CVE-2021-41773_CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/inbug-team/CVE-2021-41773_CVE-2021-42013">
+- [5gstudent/cve-2021-41773-and-cve-2021-42013](https://github.com/5gstudent/cve-2021-41773-and-cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/5gstudent/cve-2021-41773-and-cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/5gstudent/cve-2021-41773-and-cve-2021-42013">
+- [EagleTube/CVE-2021-41773](https://github.com/EagleTube/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/EagleTube/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/EagleTube/CVE-2021-41773">
+- [apapedulimu/Apachuk](https://github.com/apapedulimu/Apachuk)	<img alt="forks" src="https://img.shields.io/github/forks/apapedulimu/Apachuk">	<img alt="stars" src="https://img.shields.io/github/stars/apapedulimu/Apachuk">
+- [ch4os443/CVE-2021-41773](https://github.com/ch4os443/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/ch4os443/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/ch4os443/CVE-2021-41773">
+- [ksanchezcld/httpd-2.4.49](https://github.com/ksanchezcld/httpd-2.4.49)	<img alt="forks" src="https://img.shields.io/github/forks/ksanchezcld/httpd-2.4.49">	<img alt="stars" src="https://img.shields.io/github/stars/ksanchezcld/httpd-2.4.49">
+- [twseptian/cve-2021-41773-docker-lab](https://github.com/twseptian/cve-2021-41773-docker-lab)	<img alt="forks" src="https://img.shields.io/github/forks/twseptian/cve-2021-41773-docker-lab">	<img alt="stars" src="https://img.shields.io/github/stars/twseptian/cve-2021-41773-docker-lab">
+- [theLSA/apache-httpd-path-traversal-checker](https://github.com/theLSA/apache-httpd-path-traversal-checker)	<img alt="forks" src="https://img.shields.io/github/forks/theLSA/apache-httpd-path-traversal-checker">	<img alt="stars" src="https://img.shields.io/github/stars/theLSA/apache-httpd-path-traversal-checker">
+- [lopqto/CVE-2021-41773_Honeypot](https://github.com/lopqto/CVE-2021-41773_Honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/lopqto/CVE-2021-41773_Honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/lopqto/CVE-2021-41773_Honeypot">
+- [zerodaywolf/CVE-2021-41773_42013](https://github.com/zerodaywolf/CVE-2021-41773_42013)	<img alt="forks" src="https://img.shields.io/github/forks/zerodaywolf/CVE-2021-41773_42013">	<img alt="stars" src="https://img.shields.io/github/stars/zerodaywolf/CVE-2021-41773_42013">
+- [LayarKacaSiber/CVE-2021-41773](https://github.com/LayarKacaSiber/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/LayarKacaSiber/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/LayarKacaSiber/CVE-2021-41773">
+- [BabyTeam1024/CVE-2021-41773](https://github.com/BabyTeam1024/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/BabyTeam1024/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/BabyTeam1024/CVE-2021-41773">
+- [TheLastVvV/CVE-2021-41773](https://github.com/TheLastVvV/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/TheLastVvV/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/TheLastVvV/CVE-2021-41773">
+- [MazX0p/CVE-2021-41773](https://github.com/MazX0p/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/MazX0p/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/MazX0p/CVE-2021-41773">
+- [vida003/Scanner-CVE-2021-41773](https://github.com/vida003/Scanner-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/vida003/Scanner-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/vida003/Scanner-CVE-2021-41773">
+- [mr-exo/CVE-2021-41773](https://github.com/mr-exo/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/mr-exo/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/mr-exo/CVE-2021-41773">
+- [wolf1892/CVE-2021-41773](https://github.com/wolf1892/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/wolf1892/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/wolf1892/CVE-2021-41773">
+- [Hydragyrum/CVE-2021-41773-Playground](https://github.com/Hydragyrum/CVE-2021-41773-Playground)	<img alt="forks" src="https://img.shields.io/github/forks/Hydragyrum/CVE-2021-41773-Playground">	<img alt="stars" src="https://img.shields.io/github/stars/Hydragyrum/CVE-2021-41773-Playground">
+- [IcmpOff/Apache-2.4.49-2.4.50-Traversal-Remote-Code-Execution-Exploit](https://github.com/IcmpOff/Apache-2.4.49-2.4.50-Traversal-Remote-Code-Execution-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/IcmpOff/Apache-2.4.49-2.4.50-Traversal-Remote-Code-Execution-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/IcmpOff/Apache-2.4.49-2.4.50-Traversal-Remote-Code-Execution-Exploit">
+- [pirenga/CVE-2021-41773](https://github.com/pirenga/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/pirenga/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/pirenga/CVE-2021-41773">
+- [Soliux/CVE-2021-41773](https://github.com/Soliux/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Soliux/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Soliux/CVE-2021-41773">
+- [kubota/POC-CVE-2021-41773](https://github.com/kubota/POC-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/kubota/POC-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/kubota/POC-CVE-2021-41773">
+- [xMohamed0/CVE-2021-41773](https://github.com/xMohamed0/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/xMohamed0/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/xMohamed0/CVE-2021-41773">
+- [anldori/CVE-2021-41773-Scanner](https://github.com/anldori/CVE-2021-41773-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2021-41773-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2021-41773-Scanner">
+- [iosifache/ApacheRCEEssay](https://github.com/iosifache/ApacheRCEEssay)	<img alt="forks" src="https://img.shields.io/github/forks/iosifache/ApacheRCEEssay">	<img alt="stars" src="https://img.shields.io/github/stars/iosifache/ApacheRCEEssay">
+- [a24ac1/CVE-2021-41773-PoC](https://github.com/a24ac1/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/a24ac1/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/a24ac1/CVE-2021-41773-PoC">
+- [fxdyx-a/CVE-2021-41773-POC](https://github.com/fxdyx-a/CVE-2021-41773-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fxdyx-a/CVE-2021-41773-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fxdyx-a/CVE-2021-41773-POC">
+- [Joapath/CVE-2021-41773](https://github.com/Joapath/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Joapath/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Joapath/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -2733,15 +3394,70 @@
 - [Live-Hack-CVE/CVE-2021-41731](https://github.com/Live-Hack-CVE/CVE-2021-41731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41731">
 
 ---
+## CVE-2021-41730 ()
+> 
+- [yezeting/CVE-2021-41730](https://github.com/yezeting/CVE-2021-41730)	<img alt="forks" src="https://img.shields.io/github/forks/yezeting/CVE-2021-41730">	<img alt="stars" src="https://img.shields.io/github/stars/yezeting/CVE-2021-41730">
+
+---
+## CVE-2021-41703 ()
+> 
+- [Yanoro/CVE-2021-41703](https://github.com/Yanoro/CVE-2021-41703)	<img alt="forks" src="https://img.shields.io/github/forks/Yanoro/CVE-2021-41703">	<img alt="stars" src="https://img.shields.io/github/stars/Yanoro/CVE-2021-41703">
+
+---
 ## CVE-2021-41657 (2022-03-10T17:44:00)
 > SmartBear CodeCollaborator v6.1.6102 was discovered to contain a vulnerability in the web UI which would allow an attacker to conduct a clickjacking attack.
 - [Live-Hack-CVE/CVE-2021-41657](https://github.com/Live-Hack-CVE/CVE-2021-41657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41657">
+
+---
+## CVE-2021-41653 ()
+> 
+- [likeww/CVE-2021-41653](https://github.com/likeww/CVE-2021-41653)	<img alt="forks" src="https://img.shields.io/github/forks/likeww/CVE-2021-41653">	<img alt="stars" src="https://img.shields.io/github/stars/likeww/CVE-2021-41653">
 
 ---
 ## CVE-2021-41652 (2022-03-01T23:15:00)
 > Insecure permissions in the file database.sdb of BatFlat CMS v1.3.6 allows attackers to dump the entire database.
 - [deathflash1411/CVE-2021-41652](https://github.com/deathflash1411/CVE-2021-41652)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/CVE-2021-41652">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/CVE-2021-41652">
 - [deathflash1411/cve-2021-41652](https://github.com/deathflash1411/cve-2021-41652)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/cve-2021-41652">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/cve-2021-41652">
+
+---
+## CVE-2021-41651 ()
+> 
+- [MobiusBinary/CVE-2021-41651](https://github.com/MobiusBinary/CVE-2021-41651)	<img alt="forks" src="https://img.shields.io/github/forks/MobiusBinary/CVE-2021-41651">	<img alt="stars" src="https://img.shields.io/github/stars/MobiusBinary/CVE-2021-41651">
+
+---
+## CVE-2021-41649 ()
+> 
+- [MobiusBinary/CVE-2021-41649](https://github.com/MobiusBinary/CVE-2021-41649)	<img alt="forks" src="https://img.shields.io/github/forks/MobiusBinary/CVE-2021-41649">	<img alt="stars" src="https://img.shields.io/github/stars/MobiusBinary/CVE-2021-41649">
+
+---
+## CVE-2021-41648 ()
+> 
+- [MobiusBinary/CVE-2021-41648](https://github.com/MobiusBinary/CVE-2021-41648)	<img alt="forks" src="https://img.shields.io/github/forks/MobiusBinary/CVE-2021-41648">	<img alt="stars" src="https://img.shields.io/github/stars/MobiusBinary/CVE-2021-41648">
+
+---
+## CVE-2021-41647 ()
+> 
+- [MobiusBinary/CVE-2021-41647](https://github.com/MobiusBinary/CVE-2021-41647)	<img alt="forks" src="https://img.shields.io/github/forks/MobiusBinary/CVE-2021-41647">	<img alt="stars" src="https://img.shields.io/github/stars/MobiusBinary/CVE-2021-41647">
+
+---
+## CVE-2021-41646 ()
+> 
+- [hax3xploit/CVE-2021-41646](https://github.com/hax3xploit/CVE-2021-41646)	<img alt="forks" src="https://img.shields.io/github/forks/hax3xploit/CVE-2021-41646">	<img alt="stars" src="https://img.shields.io/github/stars/hax3xploit/CVE-2021-41646">
+
+---
+## CVE-2021-41645 ()
+> 
+- [hax3xploit/CVE-2021-41645](https://github.com/hax3xploit/CVE-2021-41645)	<img alt="forks" src="https://img.shields.io/github/forks/hax3xploit/CVE-2021-41645">	<img alt="stars" src="https://img.shields.io/github/stars/hax3xploit/CVE-2021-41645">
+
+---
+## CVE-2021-41644 ()
+> 
+- [hax3xploit/CVE-2021-41644](https://github.com/hax3xploit/CVE-2021-41644)	<img alt="forks" src="https://img.shields.io/github/forks/hax3xploit/CVE-2021-41644">	<img alt="stars" src="https://img.shields.io/github/stars/hax3xploit/CVE-2021-41644">
+
+---
+## CVE-2021-41643 ()
+> 
+- [hax3xploit/CVE-2021-41643](https://github.com/hax3xploit/CVE-2021-41643)	<img alt="forks" src="https://img.shields.io/github/forks/hax3xploit/CVE-2021-41643">	<img alt="stars" src="https://img.shields.io/github/stars/hax3xploit/CVE-2021-41643">
 
 ---
 ## CVE-2021-41617 ()
@@ -2770,6 +3486,11 @@
 - [mbanyamer/CVE-2021-41579-LCDS-LAquis-SCADA-4.3.1.1085-Arbitrary-File-Write](https://github.com/mbanyamer/CVE-2021-41579-LCDS-LAquis-SCADA-4.3.1.1085-Arbitrary-File-Write)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2021-41579-LCDS-LAquis-SCADA-4.3.1.1085-Arbitrary-File-Write">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2021-41579-LCDS-LAquis-SCADA-4.3.1.1085-Arbitrary-File-Write">
 
 ---
+## CVE-2021-41560 ()
+> 
+- [Nickguitar/RevCAT](https://github.com/Nickguitar/RevCAT)	<img alt="forks" src="https://img.shields.io/github/forks/Nickguitar/RevCAT">	<img alt="stars" src="https://img.shields.io/github/stars/Nickguitar/RevCAT">
+
+---
 ## CVE-2021-4155 (2022-08-24T16:15:00)
 > A data leak flaw was found in the way XFS_IOC_ALLOCSP IOCTL in the XFS filesystem allowed for size increase of files with unaligned size. A local attacker could use this flaw to leak data on the XFS filesystem otherwise not accessible to them.
 - [Live-Hack-CVE/CVE-2021-4155](https://github.com/Live-Hack-CVE/CVE-2021-4155)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4155">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4155">
@@ -2778,12 +3499,18 @@
 ## CVE-2021-4154 (2022-02-04T23:15:00)
 > A use-after-free flaw was found in cgroup1_parse_param in kernel/cgroup/cgroup-v1.c in the Linux kernel's cgroup v1 parser. A local attacker with a user privilege could cause a privilege escalation by exploiting the fsconfig syscall parameter leading to a container breakout and a denial of service on the system.
 - [Markakd/CVE-2021-4154](https://github.com/Markakd/CVE-2021-4154)	<img alt="forks" src="https://img.shields.io/github/forks/Markakd/CVE-2021-4154">	<img alt="stars" src="https://img.shields.io/github/stars/Markakd/CVE-2021-4154">
+- [veritas501/CVE-2021-4154](https://github.com/veritas501/CVE-2021-4154)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2021-4154">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2021-4154">
 
 ---
 ## CVE-2021-41524 (2021-10-05T09:15:00)
 > While fuzzing the 2.4.49 httpd, a new null pointer dereference was detected during HTTP/2 request processing, allowing an external source to DoS the server. This requires a specially crafted request. The vulnerability was recently introduced in version 2.4.49. No exploit is known to the project.
 - [Live-Hack-CVE/CVE-2021-41524](https://github.com/Live-Hack-CVE/CVE-2021-41524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41524">
 - [Live-Hack-CVE/CVE-2021-41524](https://github.com/Live-Hack-CVE/CVE-2021-41524)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41524">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41524">
+
+---
+## CVE-2021-41511 ()
+> 
+- [vidvansh/CVE-2021-41511](https://github.com/vidvansh/CVE-2021-41511)	<img alt="forks" src="https://img.shields.io/github/forks/vidvansh/CVE-2021-41511">	<img alt="stars" src="https://img.shields.io/github/stars/vidvansh/CVE-2021-41511">
 
 ---
 ## CVE-2021-4147 (2022-03-25T19:15:00)
@@ -2824,6 +3551,11 @@
 - [Live-Hack-CVE/CVE-2021-41381](https://github.com/Live-Hack-CVE/CVE-2021-41381)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41381">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41381">
 
 ---
+## CVE-2021-41351 ()
+> 
+- [ImuSpirit/CVE-2021-41351-POC](https://github.com/ImuSpirit/CVE-2021-41351-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ImuSpirit/CVE-2021-41351-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ImuSpirit/CVE-2021-41351-POC">
+
+---
 ## CVE-2021-41349 (2021-11-10T01:19:00)
 > Microsoft Exchange Server Spoofing Vulnerability This CVE ID is unique from CVE-2021-42305.
 - [0xrobiul/CVE-2021-41349](https://github.com/0xrobiul/CVE-2021-41349)	<img alt="forks" src="https://img.shields.io/github/forks/0xrobiul/CVE-2021-41349">	<img alt="stars" src="https://img.shields.io/github/stars/0xrobiul/CVE-2021-41349">
@@ -2848,6 +3580,11 @@
 ## CVE-2021-4128 (2022-12-22T20:15:00)
 > When transitioning in and out of fullscreen mode, a graphics object was not correctly protected; resulting in memory corruption and a potentially exploitable crash.<br>*This bug only affects Firefox on MacOS. Other operating systems are unaffected.*. This vulnerability affects Firefox < 95.
 - [Live-Hack-CVE/CVE-2021-4128](https://github.com/Live-Hack-CVE/CVE-2021-4128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4128">
+
+---
+## CVE-2021-41278 ()
+> 
+- [FDlucifer/CVE-2021-41278](https://github.com/FDlucifer/CVE-2021-41278)	<img alt="forks" src="https://img.shields.io/github/forks/FDlucifer/CVE-2021-41278">	<img alt="stars" src="https://img.shields.io/github/stars/FDlucifer/CVE-2021-41278">
 
 ---
 ## CVE-2021-41277 (2021-11-17T20:15:00)
@@ -2955,6 +3692,11 @@
 - [ibrahmsql/CVE-2021-41163](https://github.com/ibrahmsql/CVE-2021-41163)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2021-41163">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2021-41163">
 
 ---
+## CVE-2021-41160 ()
+> 
+- [Jajangjaman/CVE-2021-41160](https://github.com/Jajangjaman/CVE-2021-41160)	<img alt="forks" src="https://img.shields.io/github/forks/Jajangjaman/CVE-2021-41160">	<img alt="stars" src="https://img.shields.io/github/stars/Jajangjaman/CVE-2021-41160">
+
+---
 ## CVE-2021-41158 (2021-10-26T14:15:00)
 > FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a software implementation that runs on any commodity hardware. Prior to version 1.10.7, an attacker can perform a SIP digest leak attack against FreeSWITCH and receive the challenge response of a gateway configured on the FreeSWITCH server. This is done by challenging FreeSWITCH's SIP requests with the realm set to that of the gateway, thus forcing FreeSWITCH to respond with the challenge response which is based on the password of that targeted gateway. Abuse of this vulnerability allows attackers to potentially recover gateway passwords by performing a fast offline password cracking attack on the challenge response. The attacker does not require special network privileges, such as the ability to sniff the FreeSWITCH's network traffic, to exploit this issue. Instead, what is required for this attack to work is the ability to cause the victim server to send SIP request messages to the malicious party. Additionally, to exploit this issue, the attacker needs to specify the correct realm which might in some cases be considered secret. However, because many gateways are actually public, this information can easily be retrieved. The vulnerability appears to be due to the code which handles challenges in `sofia_reg.c`, `sofia_reg_handle_sip_r_challenge()` which does not check if the challenge is originating from the actual gateway. The lack of these checks allows arbitrary UACs (and gateways) to challenge any request sent by FreeSWITCH with the realm of the gateway being targeted. This issue is patched in version 10.10.7. Maintainers recommend that one should create an association between a SIP session for each gateway and its realm to make a check be put into place for this association when responding to challenges.
 - [Live-Hack-CVE/CVE-2021-41158](https://github.com/Live-Hack-CVE/CVE-2021-41158)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41158">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41158">
@@ -2981,6 +3723,11 @@
 - [Live-Hack-CVE/CVE-2021-4112](https://github.com/Live-Hack-CVE/CVE-2021-4112)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4112">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4112">
 
 ---
+## CVE-2021-41117 ()
+> 
+- [badkeys/keypairvuln](https://github.com/badkeys/keypairvuln)	<img alt="forks" src="https://img.shields.io/github/forks/badkeys/keypairvuln">	<img alt="stars" src="https://img.shields.io/github/stars/badkeys/keypairvuln">
+
+---
 ## CVE-2021-41116 (2021-10-05T18:15:00)
 > Composer is an open source dependency manager for the PHP language. In affected versions windows users running Composer to install untrusted dependencies are subject to command injection and should upgrade their composer version. Other OSs and WSL are not affected. The issue has been resolved in composer versions 1.10.23 and 2.1.9. There are no workarounds for this issue.
 - [Live-Hack-CVE/CVE-2021-41116](https://github.com/Live-Hack-CVE/CVE-2021-41116)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41116">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41116">
@@ -3000,6 +3747,7 @@
 > Moby is an open-source project created by Docker to enable software containerization. A bug was found in Moby (Docker Engine) where the data directory (typically `/var/lib/docker`) contained subdirectories with insufficiently restricted permissions, allowing otherwise unprivileged Linux users to traverse directory contents and execute programs. When containers included executable programs with extended permission bits (such as `setuid`), unprivileged Linux users could discover and execute those programs. When the UID of an unprivileged Linux user on the host collided with the file owner or group inside a container, the unprivileged Linux user on the host could discover, read, and modify those files. This bug has been fixed in Moby (Docker Engine) 20.10.9. Users should update to this version as soon as possible. Running containers should be stopped and restarted for the permissions to be fixed. For users unable to upgrade limit access to the host to trusted users. Limit access to host volumes to trusted containers.
 - [UncleJ4ck/CVE-2021-41091](https://github.com/UncleJ4ck/CVE-2021-41091)	<img alt="forks" src="https://img.shields.io/github/forks/UncleJ4ck/CVE-2021-41091">	<img alt="stars" src="https://img.shields.io/github/stars/UncleJ4ck/CVE-2021-41091">
 - [jrbH4CK/CVE-2021-41091](https://github.com/jrbH4CK/CVE-2021-41091)	<img alt="forks" src="https://img.shields.io/github/forks/jrbH4CK/CVE-2021-41091">	<img alt="stars" src="https://img.shields.io/github/stars/jrbH4CK/CVE-2021-41091">
+- [SNE-M23-SN/Vulnerable-Docker-Engine](https://github.com/SNE-M23-SN/Vulnerable-Docker-Engine)	<img alt="forks" src="https://img.shields.io/github/forks/SNE-M23-SN/Vulnerable-Docker-Engine">	<img alt="stars" src="https://img.shields.io/github/stars/SNE-M23-SN/Vulnerable-Docker-Engine">
 
 ---
 ## CVE-2021-41084 (2021-09-21T18:15:00)
@@ -3010,6 +3758,7 @@
 ## CVE-2021-41081 (2021-11-11T05:15:00)
 > Zoho ManageEngine Network Configuration Manager before ??125465 is vulnerable to SQL Injection in a configuration search.
 - [Live-Hack-CVE/CVE-2021-41081](https://github.com/Live-Hack-CVE/CVE-2021-41081)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-41081">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-41081">
+- [sudaiv/CVE-2021-41081](https://github.com/sudaiv/CVE-2021-41081)	<img alt="forks" src="https://img.shields.io/github/forks/sudaiv/CVE-2021-41081">	<img alt="stars" src="https://img.shields.io/github/stars/sudaiv/CVE-2021-41081">
 
 ---
 ## CVE-2021-41080 (2021-11-11T05:15:00)
@@ -3020,6 +3769,11 @@
 ## CVE-2021-41078 (2021-10-26T13:15:00)
 > Nameko through 2.13.0 can be tricked into performing arbitrary code execution when deserializing the config file.
 - [s-index/CVE-2021-41078](https://github.com/s-index/CVE-2021-41078)	<img alt="forks" src="https://img.shields.io/github/forks/s-index/CVE-2021-41078">	<img alt="stars" src="https://img.shields.io/github/stars/s-index/CVE-2021-41078">
+
+---
+## CVE-2021-41074 ()
+> 
+- [dillonkirsch/CVE-2021-41074](https://github.com/dillonkirsch/CVE-2021-41074)	<img alt="forks" src="https://img.shields.io/github/forks/dillonkirsch/CVE-2021-41074">	<img alt="stars" src="https://img.shields.io/github/stars/dillonkirsch/CVE-2021-41074">
 
 ---
 ## CVE-2021-41073 (2021-09-19T17:15:00)
@@ -3076,6 +3830,11 @@
 - [Z3R0-0x30/CVE-2021-40964](https://github.com/Z3R0-0x30/CVE-2021-40964)	<img alt="forks" src="https://img.shields.io/github/forks/Z3R0-0x30/CVE-2021-40964">	<img alt="stars" src="https://img.shields.io/github/stars/Z3R0-0x30/CVE-2021-40964">
 
 ---
+## CVE-2021-40906 ()
+> 
+- [Edgarloyola/CVE-2021-40906](https://github.com/Edgarloyola/CVE-2021-40906)	<img alt="forks" src="https://img.shields.io/github/forks/Edgarloyola/CVE-2021-40906">	<img alt="stars" src="https://img.shields.io/github/stars/Edgarloyola/CVE-2021-40906">
+
+---
 ## CVE-2021-40905 (2022-03-25T23:15:00)
 > ** DISPUTED ** The web management console of CheckMK Enterprise Edition (versions 1.5.0 to 2.0.0p9) does not properly sanitise the uploading of ".mkp" files, which are Extension Packages, making remote code execution possible. Successful exploitation requires access to the web management interface, either with valid credentials or with a hijacked session of a user with administrator role. NOTE: the vendor states that this is the intended behavior: admins are supposed to be able to execute code in this manner.
 - [Edgarloyola/CVE-2021-40905](https://github.com/Edgarloyola/CVE-2021-40905)	<img alt="forks" src="https://img.shields.io/github/forks/Edgarloyola/CVE-2021-40905">	<img alt="stars" src="https://img.shields.io/github/stars/Edgarloyola/CVE-2021-40905">
@@ -3091,6 +3850,45 @@
 - [vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)	<img alt="forks" src="https://img.shields.io/github/forks/vulnz/CVE-2021-40903">	<img alt="stars" src="https://img.shields.io/github/stars/vulnz/CVE-2021-40903">
 
 ---
+## CVE-2021-40875 ()
+> 
+- [SakuraSamuraii/derailed](https://github.com/SakuraSamuraii/derailed)	<img alt="forks" src="https://img.shields.io/github/forks/SakuraSamuraii/derailed">	<img alt="stars" src="https://img.shields.io/github/stars/SakuraSamuraii/derailed">
+
+---
+## CVE-2021-40870 ()
+> 
+- [System00-Security/CVE-2021-40870](https://github.com/System00-Security/CVE-2021-40870)	<img alt="forks" src="https://img.shields.io/github/forks/System00-Security/CVE-2021-40870">	<img alt="stars" src="https://img.shields.io/github/stars/System00-Security/CVE-2021-40870">
+- [0xAgun/CVE-2021-40870](https://github.com/0xAgun/CVE-2021-40870)	<img alt="forks" src="https://img.shields.io/github/forks/0xAgun/CVE-2021-40870">	<img alt="stars" src="https://img.shields.io/github/stars/0xAgun/CVE-2021-40870">
+- [orangmuda/CVE-2021-40870](https://github.com/orangmuda/CVE-2021-40870)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-40870">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-40870">
+- [JoyGhoshs/CVE-2021-40870](https://github.com/JoyGhoshs/CVE-2021-40870)	<img alt="forks" src="https://img.shields.io/github/forks/JoyGhoshs/CVE-2021-40870">	<img alt="stars" src="https://img.shields.io/github/stars/JoyGhoshs/CVE-2021-40870">
+
+---
+## CVE-2021-40865 ()
+> 
+- [hktalent/CVE-2021-40865](https://github.com/hktalent/CVE-2021-40865)	<img alt="forks" src="https://img.shields.io/github/forks/hktalent/CVE-2021-40865">	<img alt="stars" src="https://img.shields.io/github/stars/hktalent/CVE-2021-40865">
+
+---
+## CVE-2021-40859 ()
+> 
+- [419066074/CVE-2021-40859](https://github.com/419066074/CVE-2021-40859)	<img alt="forks" src="https://img.shields.io/github/forks/419066074/CVE-2021-40859">	<img alt="stars" src="https://img.shields.io/github/stars/419066074/CVE-2021-40859">
+- [pussycat0x/CVE-2021-40859](https://github.com/pussycat0x/CVE-2021-40859)	<img alt="forks" src="https://img.shields.io/github/forks/pussycat0x/CVE-2021-40859">	<img alt="stars" src="https://img.shields.io/github/stars/pussycat0x/CVE-2021-40859">
+
+---
+## CVE-2021-40845 ()
+> 
+- [ricardojoserf/CVE-2021-40845](https://github.com/ricardojoserf/CVE-2021-40845)	<img alt="forks" src="https://img.shields.io/github/forks/ricardojoserf/CVE-2021-40845">	<img alt="stars" src="https://img.shields.io/github/stars/ricardojoserf/CVE-2021-40845">
+
+---
+## CVE-2021-40839 ()
+> 
+- [itlabbet/CVE-2021-40839](https://github.com/itlabbet/CVE-2021-40839)	<img alt="forks" src="https://img.shields.io/github/forks/itlabbet/CVE-2021-40839">	<img alt="stars" src="https://img.shields.io/github/stars/itlabbet/CVE-2021-40839">
+
+---
+## CVE-2021-40822 ()
+> 
+- [phor3nsic/CVE-2021-40822](https://github.com/phor3nsic/CVE-2021-40822)	<img alt="forks" src="https://img.shields.io/github/forks/phor3nsic/CVE-2021-40822">	<img alt="stars" src="https://img.shields.io/github/stars/phor3nsic/CVE-2021-40822">
+
+---
 ## CVE-2021-4079 (2021-12-23T01:15:00)
 > Out of bounds write in WebRTC in Google Chrome prior to 96.0.4664.93 allowed a remote attacker to potentially exploit heap corruption via crafted WebRTC packets.
 - [Live-Hack-CVE/CVE-2021-4079](https://github.com/Live-Hack-CVE/CVE-2021-4079)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4079">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4079">
@@ -3099,6 +3897,11 @@
 ## CVE-2021-4078 (2021-12-23T01:15:00)
 > Type confusion in V8 in Google Chrome prior to 96.0.4664.93 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2021-4078](https://github.com/Live-Hack-CVE/CVE-2021-4078)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4078">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4078">
+
+---
+## CVE-2021-40724 ()
+> 
+- [tinopreter/DocViewerExploitApp](https://github.com/tinopreter/DocViewerExploitApp)	<img alt="forks" src="https://img.shields.io/github/forks/tinopreter/DocViewerExploitApp">	<img alt="stars" src="https://img.shields.io/github/stars/tinopreter/DocViewerExploitApp">
 
 ---
 ## CVE-2021-40695 (2022-09-29T03:15:00)
@@ -3192,10 +3995,30 @@
 - [Bu0uCat/ADSelfService-Plus-RCE-CVE-2021-40539](https://github.com/Bu0uCat/ADSelfService-Plus-RCE-CVE-2021-40539)	<img alt="forks" src="https://img.shields.io/github/forks/Bu0uCat/ADSelfService-Plus-RCE-CVE-2021-40539">	<img alt="stars" src="https://img.shields.io/github/stars/Bu0uCat/ADSelfService-Plus-RCE-CVE-2021-40539">
 
 ---
+## CVE-2021-40531 ()
+> 
+- [jonpalmisc/CVE-2021-40531](https://github.com/jonpalmisc/CVE-2021-40531)	<img alt="forks" src="https://img.shields.io/github/forks/jonpalmisc/CVE-2021-40531">	<img alt="stars" src="https://img.shields.io/github/stars/jonpalmisc/CVE-2021-40531">
+
+---
 ## CVE-2021-40529 (2021-09-06T19:15:00)
 > The ElGamal implementation in Botan through 2.18.1, as used in Thunderbird and other products, allows plaintext recovery because, during interaction between two cryptographic libraries, a certain dangerous combination of the prime defined by the receiver's public key, the generator defined by the receiver's public key, and the sender's ephemeral exponents can lead to a cross-configuration attack against OpenPGP.
 - [Live-Hack-CVE/CVE-2021-40529](https://github.com/Live-Hack-CVE/CVE-2021-40529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40529">
 - [Live-Hack-CVE/CVE-2021-40529](https://github.com/Live-Hack-CVE/CVE-2021-40529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40529">
+
+---
+## CVE-2021-40514 ()
+> 
+- [war4uthor/CVE-2021-40514](https://github.com/war4uthor/CVE-2021-40514)	<img alt="forks" src="https://img.shields.io/github/forks/war4uthor/CVE-2021-40514">	<img alt="stars" src="https://img.shields.io/github/stars/war4uthor/CVE-2021-40514">
+
+---
+## CVE-2021-40513 ()
+> 
+- [war4uthor/CVE-2021-40513](https://github.com/war4uthor/CVE-2021-40513)	<img alt="forks" src="https://img.shields.io/github/forks/war4uthor/CVE-2021-40513">	<img alt="stars" src="https://img.shields.io/github/stars/war4uthor/CVE-2021-40513">
+
+---
+## CVE-2021-40512 ()
+> 
+- [war4uthor/CVE-2021-40512](https://github.com/war4uthor/CVE-2021-40512)	<img alt="forks" src="https://img.shields.io/github/forks/war4uthor/CVE-2021-40512">	<img alt="stars" src="https://img.shields.io/github/stars/war4uthor/CVE-2021-40512">
 
 ---
 ## CVE-2021-40496 (2021-10-12T15:15:00)
@@ -3206,6 +4029,11 @@
 ## CVE-2021-40495 (2021-10-12T15:15:00)
 > There are multiple Denial-of Service vulnerabilities in SAP NetWeaver Application Server for ABAP and ABAP Platform - versions 740, 750, 751, 752, 753, 754, 755. An unauthorized attacker can use the public SICF service /sap/public/bc/abap to reduce the performance of SAP NetWeaver Application Server ABAP and ABAP Platform.
 - [Live-Hack-CVE/CVE-2021-40495](https://github.com/Live-Hack-CVE/CVE-2021-40495)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40495">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40495">
+
+---
+## CVE-2021-40492 ()
+> 
+- [5qu1n7/CVE-2021-40492](https://github.com/5qu1n7/CVE-2021-40492)	<img alt="forks" src="https://img.shields.io/github/forks/5qu1n7/CVE-2021-40492">	<img alt="stars" src="https://img.shields.io/github/stars/5qu1n7/CVE-2021-40492">
 
 ---
 ## CVE-2021-40465 (2021-10-13T01:15:00)
@@ -3227,6 +4055,7 @@
 - [jeffbezosispogg/CVE-2021-4045](https://github.com/jeffbezosispogg/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/jeffbezosispogg/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/jeffbezosispogg/CVE-2021-4045">
 - [234329a423853/CVE-2021-4045](https://github.com/234329a423853/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/234329a423853/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/234329a423853/CVE-2021-4045">
 - [DorskFR/tapodate](https://github.com/DorskFR/tapodate)	<img alt="forks" src="https://img.shields.io/github/forks/DorskFR/tapodate">	<img alt="stars" src="https://img.shields.io/github/stars/DorskFR/tapodate">
+- [kaleth4/CVE-2021-4045](https://github.com/kaleth4/CVE-2021-4045)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2021-4045">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2021-4045">
 
 ---
 ## CVE-2021-40449 (2021-10-13T01:15:00)
@@ -3289,6 +4118,14 @@
 - [Phuong39/CVE-2021-40444-CAB](https://github.com/Phuong39/CVE-2021-40444-CAB)	<img alt="forks" src="https://img.shields.io/github/forks/Phuong39/CVE-2021-40444-CAB">	<img alt="stars" src="https://img.shields.io/github/stars/Phuong39/CVE-2021-40444-CAB">
 - [basim-ahmad/Follina-CVE-and-CVE-2021-40444](https://github.com/basim-ahmad/Follina-CVE-and-CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/basim-ahmad/Follina-CVE-and-CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/basim-ahmad/Follina-CVE-and-CVE-2021-40444">
 - [vxCrypt0r/ANVILOGIC_APT28_Emulation_CVE-2021-40444](https://github.com/vxCrypt0r/ANVILOGIC_APT28_Emulation_CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/vxCrypt0r/ANVILOGIC_APT28_Emulation_CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/vxCrypt0r/ANVILOGIC_APT28_Emulation_CVE-2021-40444">
+- [DarkSprings/CVE-2021-40444](https://github.com/DarkSprings/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/DarkSprings/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/DarkSprings/CVE-2021-40444">
+- [rfcxv/CVE-2021-40444-POC](https://github.com/rfcxv/CVE-2021-40444-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rfcxv/CVE-2021-40444-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rfcxv/CVE-2021-40444-POC">
+- [bambooqj/CVE-2021-40444_EXP_JS](https://github.com/bambooqj/CVE-2021-40444_EXP_JS)	<img alt="forks" src="https://img.shields.io/github/forks/bambooqj/CVE-2021-40444_EXP_JS">	<img alt="stars" src="https://img.shields.io/github/stars/bambooqj/CVE-2021-40444_EXP_JS">
+- [vysecurity/CVE-2021-40444](https://github.com/vysecurity/CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/vysecurity/CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/vysecurity/CVE-2021-40444">
+- [k4k4/CVE-2021-40444-Sample](https://github.com/k4k4/CVE-2021-40444-Sample)	<img alt="forks" src="https://img.shields.io/github/forks/k4k4/CVE-2021-40444-Sample">	<img alt="stars" src="https://img.shields.io/github/stars/k4k4/CVE-2021-40444-Sample">
+- [fengjixuchui/CVE-2021-40444-docx-Generate](https://github.com/fengjixuchui/CVE-2021-40444-docx-Generate)	<img alt="forks" src="https://img.shields.io/github/forks/fengjixuchui/CVE-2021-40444-docx-Generate">	<img alt="stars" src="https://img.shields.io/github/stars/fengjixuchui/CVE-2021-40444-docx-Generate">
+- [KnoooW/CVE-2021-40444-docx-Generate](https://github.com/KnoooW/CVE-2021-40444-docx-Generate)	<img alt="forks" src="https://img.shields.io/github/forks/KnoooW/CVE-2021-40444-docx-Generate">	<img alt="stars" src="https://img.shields.io/github/stars/KnoooW/CVE-2021-40444-docx-Generate">
+- [W1kyri3/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx](https://github.com/W1kyri3/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx)	<img alt="forks" src="https://img.shields.io/github/forks/W1kyri3/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx">	<img alt="stars" src="https://img.shields.io/github/stars/W1kyri3/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx">
 
 ---
 ## CVE-2021-4044 (2021-12-14T19:15:00)
@@ -3382,6 +4219,21 @@
 - [Live-Hack-CVE/CVE-2021-40406](https://github.com/Live-Hack-CVE/CVE-2021-40406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40406">
 
 ---
+## CVE-2021-40375 ()
+> 
+- [DCKento/CVE-2021-40375](https://github.com/DCKento/CVE-2021-40375)	<img alt="forks" src="https://img.shields.io/github/forks/DCKento/CVE-2021-40375">	<img alt="stars" src="https://img.shields.io/github/stars/DCKento/CVE-2021-40375">
+
+---
+## CVE-2021-40374 ()
+> 
+- [DCKento/CVE-2021-40374](https://github.com/DCKento/CVE-2021-40374)	<img alt="forks" src="https://img.shields.io/github/forks/DCKento/CVE-2021-40374">	<img alt="stars" src="https://img.shields.io/github/stars/DCKento/CVE-2021-40374">
+
+---
+## CVE-2021-40373 ()
+> 
+- [maikroservice/CVE-2021-40373](https://github.com/maikroservice/CVE-2021-40373)	<img alt="forks" src="https://img.shields.io/github/forks/maikroservice/CVE-2021-40373">	<img alt="stars" src="https://img.shields.io/github/stars/maikroservice/CVE-2021-40373">
+
+---
 ## CVE-2021-4037 (2022-08-24T16:15:00)
 > A vulnerability was found in the fs/inode.c:inode_init_owner() function logic of the LInux kernel that allows local users to create files for the XFS file-system with an unintended group ownership and with group execution and SGID permission bits set, in a scenario where a directory is SGID and belongs to a certain group and is writable by a user who is not a member of this group. This can lead to excessive permissions granted in case when they should not. This vulnerability is similar to the previous CVE-2018-13405 and adds the missed fix for the XFS.
 - [Live-Hack-CVE/CVE-2021-4037](https://github.com/Live-Hack-CVE/CVE-2021-4037)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4037">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4037">
@@ -3413,6 +4265,16 @@
 - [Live-Hack-CVE/CVE-2021-40358](https://github.com/Live-Hack-CVE/CVE-2021-40358)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40358">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40358">
 
 ---
+## CVE-2021-40353 ()
+> 
+- [5qu1n7/CVE-2021-40353](https://github.com/5qu1n7/CVE-2021-40353)	<img alt="forks" src="https://img.shields.io/github/forks/5qu1n7/CVE-2021-40353">	<img alt="stars" src="https://img.shields.io/github/stars/5qu1n7/CVE-2021-40353">
+
+---
+## CVE-2021-40352 ()
+> 
+- [allenenosh/CVE-2021-40352](https://github.com/allenenosh/CVE-2021-40352)	<img alt="forks" src="https://img.shields.io/github/forks/allenenosh/CVE-2021-40352">	<img alt="stars" src="https://img.shields.io/github/stars/allenenosh/CVE-2021-40352">
+
+---
 ## CVE-2021-40346 (2021-09-08T17:15:00)
 > An integer overflow exists in HAProxy 2.0 through 2.5 in htx_add_header that can be exploited to perform an HTTP request smuggling attack, allowing an attacker to bypass all configured http-request HAProxy ACLs and possibly other ACLs.
 - [Vulnmachines/HAProxy_CVE-2021-40346](https://github.com/Vulnmachines/HAProxy_CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/HAProxy_CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/HAProxy_CVE-2021-40346">
@@ -3428,6 +4290,7 @@
 > An issue was discovered in Nagios XI 5.8.5. In the Manage Dashlets section of the Admin panel, an administrator can upload ZIP files. A command injection (within the name of the first file in the archive) allows an attacker to execute system commands.
 - [Live-Hack-CVE/CVE-2021-40345](https://github.com/Live-Hack-CVE/CVE-2021-40345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40345">
 - [Live-Hack-CVE/CVE-2021-40345](https://github.com/Live-Hack-CVE/CVE-2021-40345)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40345">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40345">
+- [ArianeBlow/NagiosXI-RCE-all-version-CVE-2021-40345](https://github.com/ArianeBlow/NagiosXI-RCE-all-version-CVE-2021-40345)	<img alt="forks" src="https://img.shields.io/github/forks/ArianeBlow/NagiosXI-RCE-all-version-CVE-2021-40345">	<img alt="stars" src="https://img.shields.io/github/stars/ArianeBlow/NagiosXI-RCE-all-version-CVE-2021-40345">
 
 ---
 ## CVE-2021-40342 (2023-01-05T22:15:00)
@@ -3569,6 +4432,9 @@
 - [vorkampfer/pwnkit_safety_check](https://github.com/vorkampfer/pwnkit_safety_check)	<img alt="forks" src="https://img.shields.io/github/forks/vorkampfer/pwnkit_safety_check">	<img alt="stars" src="https://img.shields.io/github/stars/vorkampfer/pwnkit_safety_check">
 - [trinetra-1308/PwnKit-](https://github.com/trinetra-1308/PwnKit-)	<img alt="forks" src="https://img.shields.io/github/forks/trinetra-1308/PwnKit-">	<img alt="stars" src="https://img.shields.io/github/stars/trinetra-1308/PwnKit-">
 - [usman-khan-23626/-CVE-2021-4034](https://github.com/usman-khan-23626/-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/usman-khan-23626/-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/usman-khan-23626/-CVE-2021-4034">
+- [toecesws/CVE-2021-4034](https://github.com/toecesws/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/toecesws/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/toecesws/CVE-2021-4034">
+- [rusakalimantan/PwnKit-CVE-2021-4034](https://github.com/rusakalimantan/PwnKit-CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/rusakalimantan/PwnKit-CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/rusakalimantan/PwnKit-CVE-2021-4034">
+- [ropydev/CVE-2021-4034-PwnKit](https://github.com/ropydev/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/ropydev/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/ropydev/CVE-2021-4034-PwnKit">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -3614,6 +4480,16 @@
 > xpdfreader 4.03 is vulnerable to Buffer Overflow.
 - [Live-Hack-CVE/CVE-2021-40226](https://github.com/Live-Hack-CVE/CVE-2021-40226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40226">
 - [Live-Hack-CVE/CVE-2021-40226](https://github.com/Live-Hack-CVE/CVE-2021-40226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40226">
+
+---
+## CVE-2021-40223 ()
+> 
+- [asang17/CVE-2021-40223](https://github.com/asang17/CVE-2021-40223)	<img alt="forks" src="https://img.shields.io/github/forks/asang17/CVE-2021-40223">	<img alt="stars" src="https://img.shields.io/github/stars/asang17/CVE-2021-40223">
+
+---
+## CVE-2021-40222 ()
+> 
+- [asang17/CVE-2021-40222](https://github.com/asang17/CVE-2021-40222)	<img alt="forks" src="https://img.shields.io/github/forks/asang17/CVE-2021-40222">	<img alt="stars" src="https://img.shields.io/github/stars/asang17/CVE-2021-40222">
 
 ---
 ## CVE-2021-4022 (2022-08-25T18:15:00)
@@ -3664,6 +4540,12 @@
 ## CVE-2021-40113 (2021-11-04T16:15:00)
 > Multiple vulnerabilities in the web-based management interface of the Cisco Catalyst Passive Optical Network (PON) Series Switches Optical Network Terminal (ONT) could allow an unauthenticated, remote attacker to perform the following actions: Log in with a default credential if the Telnet protocol is enabled Perform command injection Modify the configuration For more information about these vulnerabilities, see the Details section of this advisory.
 - [Live-Hack-CVE/CVE-2021-40113](https://github.com/Live-Hack-CVE/CVE-2021-40113)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-40113">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-40113">
+- [karamMahmad/CVE-2021-40113](https://github.com/karamMahmad/CVE-2021-40113)	<img alt="forks" src="https://img.shields.io/github/forks/karamMahmad/CVE-2021-40113">	<img alt="stars" src="https://img.shields.io/github/stars/karamMahmad/CVE-2021-40113">
+
+---
+## CVE-2021-40101 ()
+> 
+- [S1lkys/CVE-2021-40101](https://github.com/S1lkys/CVE-2021-40101)	<img alt="forks" src="https://img.shields.io/github/forks/S1lkys/CVE-2021-40101">	<img alt="stars" src="https://img.shields.io/github/stars/S1lkys/CVE-2021-40101">
 
 ---
 ## CVE-2021-40052 (2022-03-10T17:43:00)
@@ -3787,11 +4669,22 @@
 ## CVE-2021-3975 (2022-08-23T20:15:00)
 > A use-after-free flaw was found in libvirt. The qemuMonitorUnregister() function in qemuProcessHandleMonitorEOF is called using multiple threads without being adequately protected by a monitor lock. This flaw could be triggered by the virConnectGetAllDomainStats API when the guest is shutting down. An unprivileged client with a read-only connection could use this flaw to perform a denial of service attack by causing the libvirt daemon to crash.
 - [Live-Hack-CVE/CVE-2021-3975](https://github.com/Live-Hack-CVE/CVE-2021-3975)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3975">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3975">
+- [yan5ui/ENV-CVE-2021-3975](https://github.com/yan5ui/ENV-CVE-2021-3975)	<img alt="forks" src="https://img.shields.io/github/forks/yan5ui/ENV-CVE-2021-3975">	<img alt="stars" src="https://img.shields.io/github/stars/yan5ui/ENV-CVE-2021-3975">
 
 ---
 ## CVE-2021-3974 (2021-11-19T11:15:00)
 > vim is vulnerable to Use After Free
 - [Live-Hack-CVE/CVE-2021-3974](https://github.com/Live-Hack-CVE/CVE-2021-3974)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3974">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3974">
+
+---
+## CVE-2021-39706 ()
+> 
+- [Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706](https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706">
+
+---
+## CVE-2021-39704 ()
+> 
+- [nanopathi/framework_base_AOSP10_r33_CVE-2021-39704](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-39704)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/framework_base_AOSP10_r33_CVE-2021-39704">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/framework_base_AOSP10_r33_CVE-2021-39704">
 
 ---
 ## CVE-2021-39696 (2022-08-10T20:15:00)
@@ -3806,9 +4699,19 @@
 - [nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692](https://github.com/nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692">
 
 ---
+## CVE-2021-39685 ()
+> 
+- [szymonh/inspector-gadget](https://github.com/szymonh/inspector-gadget)	<img alt="forks" src="https://img.shields.io/github/forks/szymonh/inspector-gadget">	<img alt="stars" src="https://img.shields.io/github/stars/szymonh/inspector-gadget">
+
+---
 ## CVE-2021-39674 (2022-02-11T18:15:00)
 > In btm_sec_connected and btm_sec_disconnected of btm_sec.cc file , there is a possible use after free. This could lead to local escalation of privilege with User execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12Android ID: A-201083442
 - [nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674](https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674">
+
+---
+## CVE-2021-39670 ()
+> 
+- [Supersonic/Wallbreak](https://github.com/Supersonic/Wallbreak)	<img alt="forks" src="https://img.shields.io/github/forks/Supersonic/Wallbreak">	<img alt="stars" src="https://img.shields.io/github/stars/Supersonic/Wallbreak">
 
 ---
 ## CVE-2021-39660 (2022-12-13T16:15:00)
@@ -3833,10 +4736,20 @@
 - [Live-Hack-CVE/CVE-2021-3958](https://github.com/Live-Hack-CVE/CVE-2021-3958)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3958">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3958">
 
 ---
+## CVE-2021-39512 ()
+> 
+- [giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver](https://github.com/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver)	<img alt="forks" src="https://img.shields.io/github/forks/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver">	<img alt="stars" src="https://img.shields.io/github/stars/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver">
+
+---
 ## CVE-2021-3948 (2022-02-18T18:15:00)
 > An incorrect default permissions vulnerability was found in the mig-controller. Due to an incorrect cluster namespaces handling an attacker may be able to migrate a malicious workload to the target cluster, impacting confidentiality, integrity, and availability of the services located on that cluster.
 - [Live-Hack-CVE/CVE-2021-3948](https://github.com/Live-Hack-CVE/CVE-2021-3948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3948">
 - [Live-Hack-CVE/CVE-2021-3948](https://github.com/Live-Hack-CVE/CVE-2021-3948)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3948">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3948">
+
+---
+## CVE-2021-39476 ()
+> 
+- [W4RCL0UD/CVE-2021-39476](https://github.com/W4RCL0UD/CVE-2021-39476)	<img alt="forks" src="https://img.shields.io/github/forks/W4RCL0UD/CVE-2021-39476">	<img alt="stars" src="https://img.shields.io/github/stars/W4RCL0UD/CVE-2021-39476">
 
 ---
 ## CVE-2021-39475 ()
@@ -3898,6 +4811,21 @@
 - [Live-Hack-CVE/CVE-2021-39393](https://github.com/Live-Hack-CVE/CVE-2021-39393)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39393">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39393">
 
 ---
+## CVE-2021-39379 ()
+> 
+- [security-n/CVE-2021-39379](https://github.com/security-n/CVE-2021-39379)	<img alt="forks" src="https://img.shields.io/github/forks/security-n/CVE-2021-39379">	<img alt="stars" src="https://img.shields.io/github/stars/security-n/CVE-2021-39379">
+
+---
+## CVE-2021-39378 ()
+> 
+- [security-n/CVE-2021-39378](https://github.com/security-n/CVE-2021-39378)	<img alt="forks" src="https://img.shields.io/github/forks/security-n/CVE-2021-39378">	<img alt="stars" src="https://img.shields.io/github/stars/security-n/CVE-2021-39378">
+
+---
+## CVE-2021-39377 ()
+> 
+- [security-n/CVE-2021-39377](https://github.com/security-n/CVE-2021-39377)	<img alt="forks" src="https://img.shields.io/github/forks/security-n/CVE-2021-39377">	<img alt="stars" src="https://img.shields.io/github/stars/security-n/CVE-2021-39377">
+
+---
 ## CVE-2021-3933 (2022-03-25T19:15:00)
 > An integer overflow could occur when OpenEXR processes a crafted file on systems where size_t < 64 bits. This could cause an invalid bytesPerLine and maxBytesPerLine value, which could lead to problems with application stability or lead to other attack paths.
 - [Live-Hack-CVE/CVE-2021-3933](https://github.com/Live-Hack-CVE/CVE-2021-3933)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3933">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3933">
@@ -3906,6 +4834,12 @@
 ## CVE-2021-3929 (2022-08-25T20:15:00)
 > A DMA reentrancy issue was found in the NVM Express Controller (NVME) emulation in QEMU. This CVE is similar to CVE-2021-3750 and, just like it, when the reentrancy write triggers the reset function nvme_ctrl_reset(), data structs will be freed leading to a use-after-free issue. A malicious guest could use this flaw to crash the QEMU process on the host, resulting in a denial of service condition or, potentially, executing arbitrary code within the context of the QEMU process on the host.
 - [Live-Hack-CVE/CVE-2021-3929](https://github.com/Live-Hack-CVE/CVE-2021-3929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3929">
+- [QiuhaoLi/CVE-2021-3929-3947](https://github.com/QiuhaoLi/CVE-2021-3929-3947)	<img alt="forks" src="https://img.shields.io/github/forks/QiuhaoLi/CVE-2021-3929-3947">	<img alt="stars" src="https://img.shields.io/github/stars/QiuhaoLi/CVE-2021-3929-3947">
+
+---
+## CVE-2021-39287 ()
+> 
+- [Fearless523/CVE-2021-39287-Stored-XSS](https://github.com/Fearless523/CVE-2021-39287-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Fearless523/CVE-2021-39287-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Fearless523/CVE-2021-39287-Stored-XSS">
 
 ---
 ## CVE-2021-3928 (2021-11-05T15:15:00)
@@ -3916,6 +4850,11 @@
 ## CVE-2021-39275 (2021-09-16T15:15:00)
 > ap_escape_quotes() may write beyond the end of a buffer when given malicious input. No included modules pass untrusted data to these functions, but third-party / external modules may. This issue affects Apache HTTP Server 2.4.48 and earlier.
 - [Live-Hack-CVE/CVE-2021-39275](https://github.com/Live-Hack-CVE/CVE-2021-39275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39275">
+
+---
+## CVE-2021-39273 ()
+> 
+- [nikip72/CVE-2021-39273-CVE-2021-39274](https://github.com/nikip72/CVE-2021-39273-CVE-2021-39274)	<img alt="forks" src="https://img.shields.io/github/forks/nikip72/CVE-2021-39273-CVE-2021-39274">	<img alt="stars" src="https://img.shields.io/github/stars/nikip72/CVE-2021-39273-CVE-2021-39274">
 
 ---
 ## CVE-2021-39272 (2021-08-30T06:15:00)
@@ -4091,6 +5030,11 @@
 - [Live-Hack-CVE/CVE-2021-39144](https://github.com/Live-Hack-CVE/CVE-2021-39144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39144">
 
 ---
+## CVE-2021-39141 ()
+> 
+- [zwjjustdoit/Xstream-1.4.17](https://github.com/zwjjustdoit/Xstream-1.4.17)	<img alt="forks" src="https://img.shields.io/github/forks/zwjjustdoit/Xstream-1.4.17">	<img alt="stars" src="https://img.shields.io/github/stars/zwjjustdoit/Xstream-1.4.17">
+
+---
 ## CVE-2021-3914 (2022-08-25T20:15:00)
 > It was found that the smallrye health metrics UI component did not properly sanitize some user inputs. An attacker could use this flaw to conduct cross-site scripting attacks.
 - [Live-Hack-CVE/CVE-2021-3914](https://github.com/Live-Hack-CVE/CVE-2021-3914)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3914">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3914">
@@ -4107,6 +5051,11 @@
 - [Live-Hack-CVE/CVE-2021-39135](https://github.com/Live-Hack-CVE/CVE-2021-39135)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39135">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39135">
 
 ---
+## CVE-2021-39115 ()
+> 
+- [PetrusViet/CVE-2021-39115](https://github.com/PetrusViet/CVE-2021-39115)	<img alt="forks" src="https://img.shields.io/github/forks/PetrusViet/CVE-2021-39115">	<img alt="stars" src="https://img.shields.io/github/stars/PetrusViet/CVE-2021-39115">
+
+---
 ## CVE-2021-39077 (2022-11-03T20:15:00)
 > IBM Security Guardium 10.5, 10.6, 11.0, 11.1, 11.2, 11.3, and 11.4 stores user credentials in plain clear text which can be read by a local privileged user. IBM X-Force ID: 215587.
 - [Live-Hack-CVE/CVE-2021-39077](https://github.com/Live-Hack-CVE/CVE-2021-39077)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39077">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39077">
@@ -4121,6 +5070,11 @@
 ## CVE-2021-38997 (2022-12-12T09:15:00)
 > IBM API Connect V10.0.0.0 through V10.0.5.0, V10.0.1.0 through V10.0.1.7, and V2018.4.1.0 through 2018.4.1.19 is vulnerable to HTTP header injection, caused by improper validation of input by the HOST headers. This could allow an attacker to conduct various attacks against the vulnerable system, including cross-site scripting, cache poisoning or session hijacking. IBM X-Force ID: 213212.
 - [Live-Hack-CVE/CVE-2021-38997](https://github.com/Live-Hack-CVE/CVE-2021-38997)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38997">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38997">
+
+---
+## CVE-2021-3899 ()
+> 
+- [liumuqing/CVE-2021-3899_PoC](https://github.com/liumuqing/CVE-2021-3899_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/liumuqing/CVE-2021-3899_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/liumuqing/CVE-2021-3899_PoC">
 
 ---
 ## CVE-2021-38946 (2022-04-22T17:15:00)
@@ -4176,9 +5130,22 @@
 - [Live-Hack-CVE/CVE-2021-38714](https://github.com/Live-Hack-CVE/CVE-2021-38714)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38714">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38714">
 
 ---
+## CVE-2021-38699 ()
+> 
+- [HuskyHacks/CVE-2021-38699-Reflected-XSS](https://github.com/HuskyHacks/CVE-2021-38699-Reflected-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/HuskyHacks/CVE-2021-38699-Reflected-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/HuskyHacks/CVE-2021-38699-Reflected-XSS">
+- [HuskyHacks/CVE-2021-38699-Stored-XSS](https://github.com/HuskyHacks/CVE-2021-38699-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/HuskyHacks/CVE-2021-38699-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/HuskyHacks/CVE-2021-38699-Stored-XSS">
+- [Justin-1993/CVE-2021-38699](https://github.com/Justin-1993/CVE-2021-38699)	<img alt="forks" src="https://img.shields.io/github/forks/Justin-1993/CVE-2021-38699">	<img alt="stars" src="https://img.shields.io/github/stars/Justin-1993/CVE-2021-38699">
+
+---
 ## CVE-2021-38698 (2021-09-07T12:15:00)
 > HashiCorp Consul and Consul Enterprise 1.10.1 Txn.Apply endpoint allowed services to register proxies for other services, enabling access to service traffic. Fixed in 1.8.15, 1.9.9 and 1.10.2.
 - [Live-Hack-CVE/CVE-2021-38698](https://github.com/Live-Hack-CVE/CVE-2021-38698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38698">
+
+---
+## CVE-2021-38666 ()
+> 
+- [DarkSprings/CVE-2021-38666-poc](https://github.com/DarkSprings/CVE-2021-38666-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DarkSprings/CVE-2021-38666-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DarkSprings/CVE-2021-38666-poc">
+- [ImuSpirit/CVE-2021-38666](https://github.com/ImuSpirit/CVE-2021-38666)	<img alt="forks" src="https://img.shields.io/github/forks/ImuSpirit/CVE-2021-38666">	<img alt="stars" src="https://img.shields.io/github/stars/ImuSpirit/CVE-2021-38666">
 
 ---
 ## CVE-2021-38647 (2021-09-15T12:15:00)
@@ -4198,9 +5165,34 @@
 - [corelight/CVE-2021-38647-noimages](https://github.com/corelight/CVE-2021-38647-noimages)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2021-38647-noimages">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2021-38647-noimages">
 
 ---
+## CVE-2021-38639 ()
+> 
+- [DarkSprings/CVE-2021-38639](https://github.com/DarkSprings/CVE-2021-38639)	<img alt="forks" src="https://img.shields.io/github/forks/DarkSprings/CVE-2021-38639">	<img alt="stars" src="https://img.shields.io/github/stars/DarkSprings/CVE-2021-38639">
+
+---
+## CVE-2021-38619 ()
+> 
+- [charlesbickel/CVE-2021-38619](https://github.com/charlesbickel/CVE-2021-38619)	<img alt="forks" src="https://img.shields.io/github/forks/charlesbickel/CVE-2021-38619">	<img alt="stars" src="https://img.shields.io/github/stars/charlesbickel/CVE-2021-38619">
+
+---
 ## CVE-2021-38604 (2021-08-12T16:15:00)
 > In librt in the GNU C Library (aka glibc) through 2.34, sysdeps/unix/sysv/linux/mq_notify.c mishandles certain NOTIFY_REMOVED data, leading to a NULL pointer dereference. NOTE: this vulnerability was introduced as a side effect of the CVE-2021-33574 fix.
 - [Live-Hack-CVE/CVE-2021-38604](https://github.com/Live-Hack-CVE/CVE-2021-38604)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38604">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38604">
+
+---
+## CVE-2021-38603 ()
+> 
+- [KielVaughn/CVE-2021-38603](https://github.com/KielVaughn/CVE-2021-38603)	<img alt="forks" src="https://img.shields.io/github/forks/KielVaughn/CVE-2021-38603">	<img alt="stars" src="https://img.shields.io/github/stars/KielVaughn/CVE-2021-38603">
+
+---
+## CVE-2021-38602 ()
+> 
+- [KielVaughn/CVE-2021-38602](https://github.com/KielVaughn/CVE-2021-38602)	<img alt="forks" src="https://img.shields.io/github/forks/KielVaughn/CVE-2021-38602">	<img alt="stars" src="https://img.shields.io/github/stars/KielVaughn/CVE-2021-38602">
+
+---
+## CVE-2021-38583 ()
+> 
+- [charlesbickel/CVE-2021-38583](https://github.com/charlesbickel/CVE-2021-38583)	<img alt="forks" src="https://img.shields.io/github/forks/charlesbickel/CVE-2021-38583">	<img alt="stars" src="https://img.shields.io/github/stars/charlesbickel/CVE-2021-38583">
 
 ---
 ## CVE-2021-38553 (2021-08-13T16:15:00)
@@ -4211,6 +5203,11 @@
 ## CVE-2021-38542 (2022-01-04T09:15:00)
 > Apache James prior to release 3.6.1 is vulnerable to a buffering attack relying on the use of the STARTTLS command. This can result in Man-in -the-middle command injection attacks, leading potentially to leakage of sensible information.
 - [Live-Hack-CVE/CVE-2021-38542](https://github.com/Live-Hack-CVE/CVE-2021-38542)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38542">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38542">
+
+---
+## CVE-2021-38540 ()
+> 
+- [Captain-v-hook/PoC-for-CVE-2021-38540-](https://github.com/Captain-v-hook/PoC-for-CVE-2021-38540-)	<img alt="forks" src="https://img.shields.io/github/forks/Captain-v-hook/PoC-for-CVE-2021-38540-">	<img alt="stars" src="https://img.shields.io/github/stars/Captain-v-hook/PoC-for-CVE-2021-38540-">
 
 ---
 ## CVE-2021-38509 (2021-12-08T22:15:00)
@@ -4383,6 +5380,11 @@
 - [paras98/CVE-2021-38297-Go-wasm-Replication](https://github.com/paras98/CVE-2021-38297-Go-wasm-Replication)	<img alt="forks" src="https://img.shields.io/github/forks/paras98/CVE-2021-38297-Go-wasm-Replication">	<img alt="stars" src="https://img.shields.io/github/stars/paras98/CVE-2021-38297-Go-wasm-Replication">
 
 ---
+## CVE-2021-38295 ()
+> 
+- [ProfessionallyEvil/CVE-2021-38295-PoC](https://github.com/ProfessionallyEvil/CVE-2021-38295-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ProfessionallyEvil/CVE-2021-38295-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ProfessionallyEvil/CVE-2021-38295-PoC">
+
+---
 ## CVE-2021-38294 (2021-10-25T13:15:00)
 > A Command Injection vulnerability exists in the getTopologyHistory service of the Apache Storm 2.x prior to 2.2.1 and Apache Storm 1.x prior to 1.2.4. A specially crafted thrift request to the Nimbus server allows Remote Code Execution (RCE) prior to authentication.
 - [Live-Hack-CVE/CVE-2021-38294](https://github.com/Live-Hack-CVE/CVE-2021-38294)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38294">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38294">
@@ -4406,6 +5408,11 @@
 ## CVE-2021-38239 (2023-02-15T22:15:00)
 > SQL Injection vulnerability in dataease before 1.2.0, allows attackers to gain sensitive information via the orders parameter to /api/sys_msg/list/1/10.
 - [Live-Hack-CVE/CVE-2021-38239](https://github.com/Live-Hack-CVE/CVE-2021-38239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38239">
+
+---
+## CVE-2021-38185 ()
+> 
+- [fangqyi/cpiopwn](https://github.com/fangqyi/cpiopwn)	<img alt="forks" src="https://img.shields.io/github/forks/fangqyi/cpiopwn">	<img alt="stars" src="https://img.shields.io/github/stars/fangqyi/cpiopwn">
 
 ---
 ## CVE-2021-38181 (2021-10-12T15:15:00)
@@ -4438,6 +5445,11 @@
 ## CVE-2021-38153 (2021-09-22T09:15:00)
 > Some components in Apache Kafka use `Arrays.equals` to validate a password or key, which is vulnerable to timing attacks that make brute force attacks for such credentials more likely to be successful. Users should upgrade to 2.8.1 or higher, or 3.0.0 or higher where this vulnerability has been fixed. The affected versions include Apache Kafka 2.0.0, 2.0.1, 2.1.0, 2.1.1, 2.2.0, 2.2.1, 2.2.2, 2.3.0, 2.3.1, 2.4.0, 2.4.1, 2.5.0, 2.5.1, 2.6.0, 2.6.1, 2.6.2, 2.7.0, 2.7.1, and 2.8.0.
 - [Live-Hack-CVE/CVE-2021-38153](https://github.com/Live-Hack-CVE/CVE-2021-38153)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-38153">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-38153">
+
+---
+## CVE-2021-38149 ()
+> 
+- [jboogie15/CVE-2021-38149](https://github.com/jboogie15/CVE-2021-38149)	<img alt="forks" src="https://img.shields.io/github/forks/jboogie15/CVE-2021-38149">	<img alt="stars" src="https://img.shields.io/github/stars/jboogie15/CVE-2021-38149">
 
 ---
 ## CVE-2021-3813 (2022-02-09T15:15:00)
@@ -4473,6 +5485,11 @@
 - [Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc](https://github.com/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Peterpan0927/TFC-Chrome-v8-bug-CVE-2021-38001-poc">
 
 ---
+## CVE-2021-37980 ()
+> 
+- [ZeusBox/CVE-2021-37980](https://github.com/ZeusBox/CVE-2021-37980)	<img alt="forks" src="https://img.shields.io/github/forks/ZeusBox/CVE-2021-37980">	<img alt="stars" src="https://img.shields.io/github/stars/ZeusBox/CVE-2021-37980">
+
+---
 ## CVE-2021-3796 (2021-09-15T13:15:00)
 > vim is vulnerable to Use After Free
 - [Live-Hack-CVE/CVE-2021-3796](https://github.com/Live-Hack-CVE/CVE-2021-3796)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3796">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3796">
@@ -4483,6 +5500,11 @@
 - [Live-Hack-CVE/CVE-2021-3793](https://github.com/Live-Hack-CVE/CVE-2021-3793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3793">
 - [Live-Hack-CVE/CVE-2021-37936](https://github.com/Live-Hack-CVE/CVE-2021-37936)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37936">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37936">
 - [Live-Hack-CVE/CVE-2021-3793](https://github.com/Live-Hack-CVE/CVE-2021-3793)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3793">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3793">
+
+---
+## CVE-2021-37910 ()
+> 
+- [efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/efchatz/easy-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/efchatz/easy-exploits">
 
 ---
 ## CVE-2021-3788 (2021-11-12T22:15:00)
@@ -4500,6 +5522,22 @@
 ## CVE-2021-37864 (2022-01-18T17:15:00)
 > Mattermost 6.1 and earlier fails to sufficiently validate permissions while viewing archived channels, which allows authenticated users to view contents of archived channels even when this is denied by system administrators by directly accessing the APIs.
 - [Live-Hack-CVE/CVE-2021-37864](https://github.com/Live-Hack-CVE/CVE-2021-37864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37864">
+
+---
+## CVE-2021-37840 ()
+> 
+- [EonSecurity/aapanel-ws-bypass](https://github.com/EonSecurity/aapanel-ws-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/EonSecurity/aapanel-ws-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/EonSecurity/aapanel-ws-bypass">
+
+---
+## CVE-2021-37833 ()
+> 
+- [dievus/CVE-2021-37833](https://github.com/dievus/CVE-2021-37833)	<img alt="forks" src="https://img.shields.io/github/forks/dievus/CVE-2021-37833">	<img alt="stars" src="https://img.shields.io/github/stars/dievus/CVE-2021-37833">
+
+---
+## CVE-2021-37832 ()
+> 
+- [dievus/CVE-2021-37832](https://github.com/dievus/CVE-2021-37832)	<img alt="forks" src="https://img.shields.io/github/forks/dievus/CVE-2021-37832">	<img alt="stars" src="https://img.shields.io/github/stars/dievus/CVE-2021-37832">
+- [AK-blank/CVE-2021-37832](https://github.com/AK-blank/CVE-2021-37832)	<img alt="forks" src="https://img.shields.io/github/forks/AK-blank/CVE-2021-37832">	<img alt="stars" src="https://img.shields.io/github/stars/AK-blank/CVE-2021-37832">
 
 ---
 ## CVE-2021-37823 (2022-11-03T17:15:00)
@@ -4525,6 +5563,11 @@
 ## CVE-2021-37774 (2023-01-19T13:15:00)
 > An issue was discovered in function httpProcDataSrv in TL-WDR7660 2.0.30 that allows attackers to execute arbitrary code.
 - [Live-Hack-CVE/CVE-2021-37774](https://github.com/Live-Hack-CVE/CVE-2021-37774)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37774">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37774">
+
+---
+## CVE-2021-37748 ()
+> 
+- [SECFORCE/CVE-2021-37748](https://github.com/SECFORCE/CVE-2021-37748)	<img alt="forks" src="https://img.shields.io/github/forks/SECFORCE/CVE-2021-37748">	<img alt="stars" src="https://img.shields.io/github/stars/SECFORCE/CVE-2021-37748">
 
 ---
 ## CVE-2021-37740 (2022-04-20T20:15:00)
@@ -4578,6 +5621,11 @@
 - [Live-Hack-CVE/CVE-2021-3770](https://github.com/Live-Hack-CVE/CVE-2021-3770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3770">
 
 ---
+## CVE-2021-37678 ()
+> 
+- [fran-CICS/ExploitTensorflowCVE-2021-37678](https://github.com/fran-CICS/ExploitTensorflowCVE-2021-37678)	<img alt="forks" src="https://img.shields.io/github/forks/fran-CICS/ExploitTensorflowCVE-2021-37678">	<img alt="stars" src="https://img.shields.io/github/stars/fran-CICS/ExploitTensorflowCVE-2021-37678">
+
+---
 ## CVE-2021-37652 (2021-08-12T22:15:00)
 > TensorFlow is an end-to-end open source platform for machine learning. In affected versions the implementation for `tf.raw_ops.BoostedTreesCreateEnsemble` can result in a use after free error if an attacker supplies specially crafted arguments. The [implementation](https://github.com/tensorflow/tensorflow/blob/f24faa153ad31a4b51578f8181d3aaab77a1ddeb/tensorflow/core/kernels/boosted_trees/resource_ops.cc#L55) uses a reference counted resource and decrements the refcount if the initialization fails, as it should. However, when the code was written, the resource was represented as a naked pointer but later refactoring has changed it to be a smart pointer. Thus, when the pointer leaves the scope, a subsequent `free`-ing of the resource occurs, but this fails to take into account that the refcount has already reached 0, thus the resource has been already freed. During this double-free process, members of the resource object are accessed for cleanup but they are invalid as the entire resource has been freed. We have patched the issue in GitHub commit 5ecec9c6fbdbc6be03295685190a45e7eee726ab. The fix will be included in TensorFlow 2.6.0. We will also cherrypick this commit on TensorFlow 2.5.1, TensorFlow 2.4.3, and TensorFlow 2.3.4, as these are also affected and still in supported range.
 - [Live-Hack-CVE/CVE-2021-37652](https://github.com/Live-Hack-CVE/CVE-2021-37652)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37652">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37652">
@@ -4586,6 +5634,7 @@
 ## CVE-2021-37624 (2021-10-25T16:15:00)
 > FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a software implementation that runs on any commodity hardware. Prior to version 1.10.7, FreeSWITCH does not authenticate SIP MESSAGE requests, leading to spam and message spoofing. By default, SIP requests of the type MESSAGE (RFC 3428) are not authenticated in the affected versions of FreeSWITCH. MESSAGE requests are relayed to SIP user agents registered with the FreeSWITCH server without requiring any authentication. Although this behaviour can be changed by setting the `auth-messages` parameter to `true`, it is not the default setting. Abuse of this security issue allows attackers to send SIP MESSAGE messages to any SIP user agent that is registered with the server without requiring authentication. Additionally, since no authentication is required, chat messages can be spoofed to appear to come from trusted entities. Therefore, abuse can lead to spam and enable social engineering, phishing and similar attacks. This issue is patched in version 1.10.7. Maintainers recommend that this SIP message type is authenticated by default so that FreeSWITCH administrators do not need to be explicitly set the `auth-messages` parameter. When following such a recommendation, a new parameter can be introduced to explicitly disable authentication.
 - [Live-Hack-CVE/CVE-2021-37624](https://github.com/Live-Hack-CVE/CVE-2021-37624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37624">
+- [0xInfection/PewSWITCH](https://github.com/0xInfection/PewSWITCH)	<img alt="forks" src="https://img.shields.io/github/forks/0xInfection/PewSWITCH">	<img alt="stars" src="https://img.shields.io/github/stars/0xInfection/PewSWITCH">
 
 ---
 ## CVE-2021-3759 (2022-08-23T16:15:00)
@@ -4643,6 +5692,7 @@
 ## CVE-2021-3749 (2021-08-31T11:15:00)
 > axios is vulnerable to Inefficient Regular Expression Complexity
 - [Live-Hack-CVE/CVE-2021-3749](https://github.com/Live-Hack-CVE/CVE-2021-3749)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3749">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3749">
+- [T-Guerrero/axios-redos](https://github.com/T-Guerrero/axios-redos)	<img alt="forks" src="https://img.shields.io/github/forks/T-Guerrero/axios-redos">	<img alt="stars" src="https://img.shields.io/github/stars/T-Guerrero/axios-redos">
 
 ---
 ## CVE-2021-3748 (2022-03-23T20:15:00)
@@ -4735,6 +5785,11 @@
 - [Live-Hack-CVE/CVE-2021-3717](https://github.com/Live-Hack-CVE/CVE-2021-3717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3717">
 
 ---
+## CVE-2021-37152 ()
+> 
+- [SecurityAnalysts/CVE-2021-37152](https://github.com/SecurityAnalysts/CVE-2021-37152)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityAnalysts/CVE-2021-37152">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityAnalysts/CVE-2021-37152">
+
+---
 ## CVE-2021-37150 (2022-08-10T06:15:00)
 > Improper Input Validation vulnerability in header parsing of Apache Traffic Server allows an attacker to request secure resources. This issue affects Apache Traffic Server 8.0.0 to 9.1.2.
 - [Live-Hack-CVE/CVE-2021-37150](https://github.com/Live-Hack-CVE/CVE-2021-37150)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-37150">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-37150">
@@ -4779,6 +5834,7 @@
 ## CVE-2021-36981 (2021-08-31T04:15:00)
 > In the server in SerNet verinice before 1.22.2, insecure Java deserialization allows remote authenticated attackers to execute arbitrary code.
 - [Live-Hack-CVE/CVE-2021-36981](https://github.com/Live-Hack-CVE/CVE-2021-36981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36981">
+- [0xBrAinsTorM/CVE-2021-36981](https://github.com/0xBrAinsTorM/CVE-2021-36981)	<img alt="forks" src="https://img.shields.io/github/forks/0xBrAinsTorM/CVE-2021-36981">	<img alt="stars" src="https://img.shields.io/github/stars/0xBrAinsTorM/CVE-2021-36981">
 
 ---
 ## CVE-2021-36976 (2021-07-20T07:15:00)
@@ -4807,6 +5863,11 @@
 - [Live-Hack-CVE/CVE-2021-3695](https://github.com/Live-Hack-CVE/CVE-2021-3695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3695">
 - [JiaJinRong12138/CVE-2021-36955-EXP](https://github.com/JiaJinRong12138/CVE-2021-36955-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/JiaJinRong12138/CVE-2021-36955-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/JiaJinRong12138/CVE-2021-36955-EXP">
 - [Live-Hack-CVE/CVE-2021-3695](https://github.com/Live-Hack-CVE/CVE-2021-3695)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3695">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3695">
+
+---
+## CVE-2021-36949 ()
+> 
+- [Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability](https://github.com/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Maxwitat/Check-AAD-Connect-for-CVE-2021-36949-vulnerability">
 
 ---
 ## CVE-2021-36934 ()
@@ -4878,10 +5939,26 @@
 - [Live-Hack-CVE/CVE-2021-36823](https://github.com/Live-Hack-CVE/CVE-2021-36823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36823">
 
 ---
+## CVE-2021-36808 ()
+> 
+- [ctuIhu/CVE-2021-36808](https://github.com/ctuIhu/CVE-2021-36808)	<img alt="forks" src="https://img.shields.io/github/forks/ctuIhu/CVE-2021-36808">	<img alt="stars" src="https://img.shields.io/github/stars/ctuIhu/CVE-2021-36808">
+
+---
 ## CVE-2021-3680 (2021-08-04T13:15:00)
 > showdoc is vulnerable to Missing Cryptographic Step
 - [Live-Hack-CVE/CVE-2021-3680](https://github.com/Live-Hack-CVE/CVE-2021-3680)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3680">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3680">
 - [ctuIhu/CVE-2021-36808](https://github.com/ctuIhu/CVE-2021-36808)	<img alt="forks" src="https://img.shields.io/github/forks/ctuIhu/CVE-2021-36808">	<img alt="stars" src="https://img.shields.io/github/stars/ctuIhu/CVE-2021-36808">
+
+---
+## CVE-2021-36799 ()
+> 
+- [robertguetzkow/ets5-password-recovery](https://github.com/robertguetzkow/ets5-password-recovery)	<img alt="forks" src="https://img.shields.io/github/forks/robertguetzkow/ets5-password-recovery">	<img alt="stars" src="https://img.shields.io/github/stars/robertguetzkow/ets5-password-recovery">
+
+---
+## CVE-2021-36798 ()
+> 
+- [M-Kings/CVE-2021-36798](https://github.com/M-Kings/CVE-2021-36798)	<img alt="forks" src="https://img.shields.io/github/forks/M-Kings/CVE-2021-36798">	<img alt="stars" src="https://img.shields.io/github/stars/M-Kings/CVE-2021-36798">
+- [JamVayne/CobaltStrikeDos](https://github.com/JamVayne/CobaltStrikeDos)	<img alt="forks" src="https://img.shields.io/github/forks/JamVayne/CobaltStrikeDos">	<img alt="stars" src="https://img.shields.io/github/stars/JamVayne/CobaltStrikeDos">
 
 ---
 ## CVE-2021-3679 (2021-08-05T20:15:00)
@@ -4918,6 +5995,11 @@
 - [Live-Hack-CVE/CVE-2021-36751](https://github.com/Live-Hack-CVE/CVE-2021-36751)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36751">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36751">
 
 ---
+## CVE-2021-36750 ()
+> 
+- [mamba-4-ever/CVE-2021-36750](https://github.com/mamba-4-ever/CVE-2021-36750)	<img alt="forks" src="https://img.shields.io/github/forks/mamba-4-ever/CVE-2021-36750">	<img alt="stars" src="https://img.shields.io/github/stars/mamba-4-ever/CVE-2021-36750">
+
+---
 ## CVE-2021-36749 (2021-09-24T10:15:00)
 > In the Druid ingestion system, the InputSource is used for reading data from a certain data source. However, the HTTP InputSource allows authenticated users to read data from other sources than intended, such as the local file system, with the privileges of the Druid server process. This is not an elevation of privilege when users access Druid directly, since Druid also provides the Local InputSource, which allows the same level of access. But it is problematic when users interact with Druid indirectly through an application that allows users to specify the HTTP InputSource, but not the Local InputSource. In this case, users could bypass the application-level restriction by passing a file URL to the HTTP InputSource. This issue was previously mentioned as being fixed in 0.21.0 as per CVE-2021-26920 but was not fixed in 0.21.0 or 0.21.1.
 - [hanch7274/CVE-2021-36749](https://github.com/hanch7274/CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/hanch7274/CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/hanch7274/CVE-2021-36749">
@@ -4926,6 +6008,11 @@
 - [Sma11New/PocList](https://github.com/Sma11New/PocList)	<img alt="forks" src="https://img.shields.io/github/forks/Sma11New/PocList">	<img alt="stars" src="https://img.shields.io/github/stars/Sma11New/PocList">
 - [zwlsix/apache_druid_CVE-2021-36749](https://github.com/zwlsix/apache_druid_CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/zwlsix/apache_druid_CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/zwlsix/apache_druid_CVE-2021-36749">
 - [BrucessKING/CVE-2021-36749](https://github.com/BrucessKING/CVE-2021-36749)	<img alt="forks" src="https://img.shields.io/github/forks/BrucessKING/CVE-2021-36749">	<img alt="stars" src="https://img.shields.io/github/stars/BrucessKING/CVE-2021-36749">
+
+---
+## CVE-2021-36747 ()
+> 
+- [cseasholtz/CVE-2021-36747](https://github.com/cseasholtz/CVE-2021-36747)	<img alt="forks" src="https://img.shields.io/github/forks/cseasholtz/CVE-2021-36747">	<img alt="stars" src="https://img.shields.io/github/stars/cseasholtz/CVE-2021-36747">
 
 ---
 ## CVE-2021-3673 (2021-08-02T19:15:00)
@@ -4992,6 +6079,11 @@
 - [Live-Hack-CVE/CVE-2021-36603](https://github.com/Live-Hack-CVE/CVE-2021-36603)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36603">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36603">
 
 ---
+## CVE-2021-36593 ()
+> 
+- [mir-hossein/Statement](https://github.com/mir-hossein/Statement)	<img alt="forks" src="https://img.shields.io/github/forks/mir-hossein/Statement">	<img alt="stars" src="https://img.shields.io/github/stars/mir-hossein/Statement">
+
+---
 ## CVE-2021-36573 (2022-12-15T19:15:00)
 > File Upload vulnerability in Feehi CMS thru 2.1.1 allows attackers to run arbitrary code via crafted image upload.
 - [Live-Hack-CVE/CVE-2021-36573](https://github.com/Live-Hack-CVE/CVE-2021-36573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-36573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-36573">
@@ -5005,6 +6097,11 @@
 ## CVE-2021-36563 (2021-07-26T18:15:00)
 > The CheckMK management web console (versions 1.5.0 to 2.0.0) does not sanitise user input in various parameters of the WATO module. This allows an attacker to open a backdoor on the device with HTML content and interpreted by the browser (such as JavaScript or other client-side scripts), the XSS payload will be triggered when the user accesses some specific sections of the application. In the same sense a very dangerous potential way would be when an attacker who has the monitor role (not administrator) manages to get a stored XSS to steal the secretAutomation (for the use of the API in administrator mode) and thus be able to create another administrator user who has high privileges on the CheckMK monitoring web console. Another way is that persistent XSS allows an attacker to modify the displayed content or change the victim's information. Successful exploitation requires access to the web management interface, either with valid credentials or with a hijacked session.
 - [Edgarloyola/CVE-2021-36563](https://github.com/Edgarloyola/CVE-2021-36563)	<img alt="forks" src="https://img.shields.io/github/forks/Edgarloyola/CVE-2021-36563">	<img alt="stars" src="https://img.shields.io/github/stars/Edgarloyola/CVE-2021-36563">
+
+---
+## CVE-2021-3656 ()
+> 
+- [rami08448/CVE-2021-3656-Demo](https://github.com/rami08448/CVE-2021-3656-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/rami08448/CVE-2021-3656-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/rami08448/CVE-2021-3656-Demo">
 
 ---
 ## CVE-2021-3655 (2021-08-05T21:15:00)
@@ -5070,6 +6167,12 @@
 ## CVE-2021-36396 (2023-03-06T21:15:00)
 > In Moodle, insufficient redirect handling made it possible to blindly bypass cURL blocked hosts/allowed ports restrictions, resulting in a blind SSRF risk.
 - [T0X1Cx/CVE-2021-36396-Exploit](https://github.com/T0X1Cx/CVE-2021-36396-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/T0X1Cx/CVE-2021-36396-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/T0X1Cx/CVE-2021-36396-Exploit">
+
+---
+## CVE-2021-36394 ()
+> 
+- [dinhbaouit/CVE-2021-36394](https://github.com/dinhbaouit/CVE-2021-36394)	<img alt="forks" src="https://img.shields.io/github/forks/dinhbaouit/CVE-2021-36394">	<img alt="stars" src="https://img.shields.io/github/stars/dinhbaouit/CVE-2021-36394">
+- [lavclash75/CVE-2021-36394-Pre-Auth-RCE-in-Moodle](https://github.com/lavclash75/CVE-2021-36394-Pre-Auth-RCE-in-Moodle)	<img alt="forks" src="https://img.shields.io/github/forks/lavclash75/CVE-2021-36394-Pre-Auth-RCE-in-Moodle">	<img alt="stars" src="https://img.shields.io/github/stars/lavclash75/CVE-2021-36394-Pre-Auth-RCE-in-Moodle">
 
 ---
 ## CVE-2021-36393 (2023-03-06T21:15:00)
@@ -5176,6 +6279,13 @@
 - [aengussong/hikvision_probe](https://github.com/aengussong/hikvision_probe)	<img alt="forks" src="https://img.shields.io/github/forks/aengussong/hikvision_probe">	<img alt="stars" src="https://img.shields.io/github/stars/aengussong/hikvision_probe">
 - [NanoTrash/hikvision_brute](https://github.com/NanoTrash/hikvision_brute)	<img alt="forks" src="https://img.shields.io/github/forks/NanoTrash/hikvision_brute">	<img alt="stars" src="https://img.shields.io/github/stars/NanoTrash/hikvision_brute">
 - [yanxinwu946/hikvision-unauthenticated-rce-cve-2021-36260](https://github.com/yanxinwu946/hikvision-unauthenticated-rce-cve-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/yanxinwu946/hikvision-unauthenticated-rce-cve-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/yanxinwu946/hikvision-unauthenticated-rce-cve-2021-36260">
+- [saaydmr/hikvision-exploiter](https://github.com/saaydmr/hikvision-exploiter)	<img alt="forks" src="https://img.shields.io/github/forks/saaydmr/hikvision-exploiter">	<img alt="stars" src="https://img.shields.io/github/stars/saaydmr/hikvision-exploiter">
+- [code-msga/HikvisionExploiter_fixed](https://github.com/code-msga/HikvisionExploiter_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/code-msga/HikvisionExploiter_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/code-msga/HikvisionExploiter_fixed">
+
+---
+## CVE-2021-3625 ()
+> 
+- [szymonh/zephyr_cve-2021-3625](https://github.com/szymonh/zephyr_cve-2021-3625)	<img alt="forks" src="https://img.shields.io/github/forks/szymonh/zephyr_cve-2021-3625">	<img alt="stars" src="https://img.shields.io/github/stars/szymonh/zephyr_cve-2021-3625">
 
 ---
 ## CVE-2021-3623 (2022-03-02T23:15:00)
@@ -5353,6 +6463,11 @@
 - [miguelc49/CVE-2021-35958-2](https://github.com/miguelc49/CVE-2021-35958-2)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2021-35958-2">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2021-35958-2">
 
 ---
+## CVE-2021-35956 ()
+> 
+- [tcbutler320/CVE-2021-35956](https://github.com/tcbutler320/CVE-2021-35956)	<img alt="forks" src="https://img.shields.io/github/forks/tcbutler320/CVE-2021-35956">	<img alt="stars" src="https://img.shields.io/github/stars/tcbutler320/CVE-2021-35956">
+
+---
 ## CVE-2021-35940 (2021-08-23T10:15:00)
 > An out-of-bounds array read in the apr_time_exp*() functions was fixed in the Apache Portable Runtime 1.6.3 release (CVE-2017-12613). The fix for this issue was not carried forward to the APR 1.7.x branch, and hence version 1.7.0 regressed compared to 1.6.3 and is vulnerable to the same issue.
 - [Live-Hack-CVE/CVE-2021-35940](https://github.com/Live-Hack-CVE/CVE-2021-35940)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35940">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35940">
@@ -5389,6 +6504,11 @@
 - [Live-Hack-CVE/CVE-2021-3578](https://github.com/Live-Hack-CVE/CVE-2021-3578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3578">
 
 ---
+## CVE-2021-3572 ()
+> 
+- [frenzymadness/CVE-2021-3572](https://github.com/frenzymadness/CVE-2021-3572)	<img alt="forks" src="https://img.shields.io/github/forks/frenzymadness/CVE-2021-3572">	<img alt="stars" src="https://img.shields.io/github/stars/frenzymadness/CVE-2021-3572">
+
+---
 ## CVE-2021-3571 (2021-07-09T11:15:00)
 > A flaw was found in the ptp4l program of the linuxptp package. When ptp4l is operating on a little-endian architecture as a PTP transparent clock, a remote attacker could send a crafted one-step sync message to cause an information leak or crash. The highest threat from this vulnerability is to data confidentiality and system availability. This flaw affects linuxptp versions before 3.1.1 and before 2.0.1.
 - [Live-Hack-CVE/CVE-2021-3571](https://github.com/Live-Hack-CVE/CVE-2021-3571)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3571">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3571">
@@ -5407,6 +6527,11 @@
 ## CVE-2021-3563 (2022-08-26T16:15:00)
 > A flaw was found in openstack-keystone. Only the first 72 characters of an application secret are verified allowing attackers bypass some password complexity which administrators may be counting on. The highest threat from this vulnerability is to data confidentiality and integrity.
 - [Live-Hack-CVE/CVE-2021-3563](https://github.com/Live-Hack-CVE/CVE-2021-3563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3563">
+
+---
+## CVE-2021-35616 ()
+> 
+- [Ofirhamam/OracleOTM](https://github.com/Ofirhamam/OracleOTM)	<img alt="forks" src="https://img.shields.io/github/forks/Ofirhamam/OracleOTM">	<img alt="stars" src="https://img.shields.io/github/stars/Ofirhamam/OracleOTM">
 
 ---
 ## CVE-2021-3561 (2021-05-26T22:15:00)
@@ -5460,6 +6585,7 @@
 - [yutasato88/CVE-2021-3560-PolkitPrivilegeEsclation](https://github.com/yutasato88/CVE-2021-3560-PolkitPrivilegeEsclation)	<img alt="forks" src="https://img.shields.io/github/forks/yutasato88/CVE-2021-3560-PolkitPrivilegeEsclation">	<img alt="stars" src="https://img.shields.io/github/stars/yutasato88/CVE-2021-3560-PolkitPrivilegeEsclation">
 - [Jeanback1/CVE-2021-3560-exploit](https://github.com/Jeanback1/CVE-2021-3560-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanback1/CVE-2021-3560-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanback1/CVE-2021-3560-exploit">
 - [Gerberayale521/pwnkit](https://github.com/Gerberayale521/pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/Gerberayale521/pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/Gerberayale521/pwnkit">
+- [adakoifman/CVE-2021-3560](https://github.com/adakoifman/CVE-2021-3560)	<img alt="forks" src="https://img.shields.io/github/forks/adakoifman/CVE-2021-3560">	<img alt="stars" src="https://img.shields.io/github/stars/adakoifman/CVE-2021-3560">
 
 ---
 ## CVE-2021-35587 (2022-01-19T12:15:00)
@@ -5514,6 +6640,11 @@
 ## CVE-2021-35515 ()
 > 
 - [andikahilmy/CVE-2021-35515-commons-compress-vulnerable](https://github.com/andikahilmy/CVE-2021-35515-commons-compress-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2021-35515-commons-compress-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2021-35515-commons-compress-vulnerable">
+
+---
+## CVE-2021-35492 ()
+> 
+- [N4nj0/CVE-2021-35492](https://github.com/N4nj0/CVE-2021-35492)	<img alt="forks" src="https://img.shields.io/github/forks/N4nj0/CVE-2021-35492">	<img alt="stars" src="https://img.shields.io/github/stars/N4nj0/CVE-2021-35492">
 
 ---
 ## CVE-2021-3549 (2021-05-26T21:15:00)
@@ -5646,6 +6777,17 @@
 - [Live-Hack-CVE/CVE-2021-3522](https://github.com/Live-Hack-CVE/CVE-2021-3522)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3522">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3522">
 
 ---
+## CVE-2021-35215 ()
+> 
+- [Y4er/CVE-2021-35215](https://github.com/Y4er/CVE-2021-35215)	<img alt="forks" src="https://img.shields.io/github/forks/Y4er/CVE-2021-35215">	<img alt="stars" src="https://img.shields.io/github/stars/Y4er/CVE-2021-35215">
+
+---
+## CVE-2021-35211 ()
+> 
+- [NattiSamson/Serv-U-CVE-2021-35211](https://github.com/NattiSamson/Serv-U-CVE-2021-35211)	<img alt="forks" src="https://img.shields.io/github/forks/NattiSamson/Serv-U-CVE-2021-35211">	<img alt="stars" src="https://img.shields.io/github/stars/NattiSamson/Serv-U-CVE-2021-35211">
+- [0xhaggis/CVE-2021-35211](https://github.com/0xhaggis/CVE-2021-35211)	<img alt="forks" src="https://img.shields.io/github/forks/0xhaggis/CVE-2021-35211">	<img alt="stars" src="https://img.shields.io/github/stars/0xhaggis/CVE-2021-35211">
+
+---
 ## CVE-2021-3521 (2022-08-22T15:15:00)
 > There is a flaw in RPM's signature functionality. OpenPGP subkeys are associated with a primary key via a "binding signature." RPM does not check the binding signature of subkeys prior to importing them. If an attacker is able to add or socially engineer another party to add a malicious subkey to a legitimate public key, RPM could wrongly trust a malicious signature. The greatest impact of this flaw is to data integrity. To exploit this flaw, an attacker must either compromise an RPM repository or convince an administrator to install an untrusted RPM or public key. It is strongly recommended to only use RPMs and public keys from trusted sources.
 - [Live-Hack-CVE/CVE-2021-3521](https://github.com/Live-Hack-CVE/CVE-2021-3521)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3521">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3521">
@@ -5657,6 +6799,11 @@
 ## CVE-2021-3520 (2021-06-02T13:15:00)
 > There's a flaw in lz4. An attacker who submits a crafted file to an application linked with lz4 may be able to trigger an integer overflow, leading to calling of memmove() on a negative size argument, causing an out-of-bounds write and/or a crash. The greatest impact of this flaw is to availability, with some potential impact to confidentiality and integrity as well.
 - [Live-Hack-CVE/CVE-2021-3520](https://github.com/Live-Hack-CVE/CVE-2021-3520)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3520">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3520">
+
+---
+## CVE-2021-3516 ()
+> 
+- [dja2TaqkGEEfA45/CVE-2021-3516](https://github.com/dja2TaqkGEEfA45/CVE-2021-3516)	<img alt="forks" src="https://img.shields.io/github/forks/dja2TaqkGEEfA45/CVE-2021-3516">	<img alt="stars" src="https://img.shields.io/github/stars/dja2TaqkGEEfA45/CVE-2021-3516">
 
 ---
 ## CVE-2021-3515 (2021-06-01T14:15:00)
@@ -5679,6 +6826,11 @@
 - [Live-Hack-CVE/CVE-2021-3507](https://github.com/Live-Hack-CVE/CVE-2021-3507)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3507">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3507">
 
 ---
+## CVE-2021-35064 ()
+> 
+- [Chocapikk/CVE-2021-35064](https://github.com/Chocapikk/CVE-2021-35064)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2021-35064">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2021-35064">
+
+---
 ## CVE-2021-35042 (2021-07-02T10:15:00)
 > Django 3.1.x before 3.1.13 and 3.2.x before 3.2.5 allows QuerySet.order_by SQL injection if order_by is untrusted input from a client of a web application.
 - [LUUANHDUC/CVE-2021-35042](https://github.com/LUUANHDUC/CVE-2021-35042)	<img alt="forks" src="https://img.shields.io/github/forks/LUUANHDUC/CVE-2021-35042">	<img alt="stars" src="https://img.shields.io/github/stars/LUUANHDUC/CVE-2021-35042">
@@ -5687,6 +6839,7 @@
 - [r4vi/CVE-2021-35042](https://github.com/r4vi/CVE-2021-35042)	<img alt="forks" src="https://img.shields.io/github/forks/r4vi/CVE-2021-35042">	<img alt="stars" src="https://img.shields.io/github/stars/r4vi/CVE-2021-35042">
 - [mrlihd/CVE-2021-35042](https://github.com/mrlihd/CVE-2021-35042)	<img alt="forks" src="https://img.shields.io/github/forks/mrlihd/CVE-2021-35042">	<img alt="stars" src="https://img.shields.io/github/stars/mrlihd/CVE-2021-35042">
 - [YouGina/CVE-2021-35042](https://github.com/YouGina/CVE-2021-35042)	<img alt="forks" src="https://img.shields.io/github/forks/YouGina/CVE-2021-35042">	<img alt="stars" src="https://img.shields.io/github/stars/YouGina/CVE-2021-35042">
+- [vutiendat323/INT14107_CVE-2021-35042](https://github.com/vutiendat323/INT14107_CVE-2021-35042)	<img alt="forks" src="https://img.shields.io/github/forks/vutiendat323/INT14107_CVE-2021-35042">	<img alt="stars" src="https://img.shields.io/github/stars/vutiendat323/INT14107_CVE-2021-35042">
 
 ---
 ## CVE-2021-35036 (2022-03-01T07:15:00)
@@ -5747,6 +6900,11 @@
 - [Psychopath-Traveler/CVE-2021-3493](https://github.com/Psychopath-Traveler/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/Psychopath-Traveler/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/Psychopath-Traveler/CVE-2021-3493">
 - [George-Yanni/DeepRoot](https://github.com/George-Yanni/DeepRoot)	<img alt="forks" src="https://img.shields.io/github/forks/George-Yanni/DeepRoot">	<img alt="stars" src="https://img.shields.io/github/stars/George-Yanni/DeepRoot">
 - [iqbalhussainas/OverlayFS-LPE-Exploit](https://github.com/iqbalhussainas/OverlayFS-LPE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iqbalhussainas/OverlayFS-LPE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iqbalhussainas/OverlayFS-LPE-Exploit">
+
+---
+## CVE-2021-3492 ()
+> 
+- [synacktiv/CVE-2021-3492](https://github.com/synacktiv/CVE-2021-3492)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2021-3492">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2021-3492">
 
 ---
 ## CVE-2021-3490 (2021-06-04T02:15:00)
@@ -5864,6 +7022,11 @@
 ## CVE-2021-3474 (2021-03-30T18:15:00)
 > There's a flaw in OpenEXR in versions before 3.0.0-beta. A crafted input file that is processed by OpenEXR could cause a shift overflow in the FastHufDecoder, potentially leading to problems with application availability.
 - [Live-Hack-CVE/CVE-2021-3474](https://github.com/Live-Hack-CVE/CVE-2021-3474)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3474">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3474">
+
+---
+## CVE-2021-34730 ()
+> 
+- [badmonkey7/CVE-2021-34730](https://github.com/badmonkey7/CVE-2021-34730)	<img alt="forks" src="https://img.shields.io/github/forks/badmonkey7/CVE-2021-34730">	<img alt="stars" src="https://img.shields.io/github/stars/badmonkey7/CVE-2021-34730">
 
 ---
 ## CVE-2021-34725 (2021-09-23T03:15:00)
@@ -6005,6 +7168,11 @@
 - [Live-Hack-CVE/CVE-2021-34559](https://github.com/Live-Hack-CVE/CVE-2021-34559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34559">
 
 ---
+## CVE-2021-34558 ()
+> 
+- [alexzorin/cve-2021-34558](https://github.com/alexzorin/cve-2021-34558)	<img alt="forks" src="https://img.shields.io/github/forks/alexzorin/cve-2021-34558">	<img alt="stars" src="https://img.shields.io/github/stars/alexzorin/cve-2021-34558">
+
+---
 ## CVE-2021-34552 (2021-07-13T17:15:00)
 > Pillow through 8.2.0 and PIL (aka Python Imaging Library) through 1.1.7 allow an attacker to pass controlled parameters directly into a convert function to trigger a buffer overflow in Convert.c.
 - [Live-Hack-CVE/CVE-2021-34552](https://github.com/Live-Hack-CVE/CVE-2021-34552)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34552">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34552">
@@ -6059,6 +7227,8 @@
 - [GlacierGossip/PrintNightmare](https://github.com/GlacierGossip/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/GlacierGossip/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/GlacierGossip/PrintNightmare">
 - [CameraShutterBug/PrintNightmare](https://github.com/CameraShutterBug/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/CameraShutterBug/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/CameraShutterBug/PrintNightmare">
 - [AlDawli/CVE-2021-34527-](https://github.com/AlDawli/CVE-2021-34527-)	<img alt="forks" src="https://img.shields.io/github/forks/AlDawli/CVE-2021-34527-">	<img alt="stars" src="https://img.shields.io/github/stars/AlDawli/CVE-2021-34527-">
+- [DenizSe/CVE-2021-34527](https://github.com/DenizSe/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/DenizSe/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/DenizSe/CVE-2021-34527">
+- [fengjixuchui/CVE-2021-34527-1675](https://github.com/fengjixuchui/CVE-2021-34527-1675)	<img alt="forks" src="https://img.shields.io/github/forks/fengjixuchui/CVE-2021-34527-1675">	<img alt="stars" src="https://img.shields.io/github/stars/fengjixuchui/CVE-2021-34527-1675">
 
 ---
 ## CVE-2021-34523 (2021-07-14T18:15:00)
@@ -6070,12 +7240,33 @@
 - [Udyz/proxyshell-auto](https://github.com/Udyz/proxyshell-auto)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/proxyshell-auto">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/proxyshell-auto">
 
 ---
+## CVE-2021-3450 ()
+> 
+- [dedellix/MUT-BC-SS-01](https://github.com/dedellix/MUT-BC-SS-01)	<img alt="forks" src="https://img.shields.io/github/forks/dedellix/MUT-BC-SS-01">	<img alt="stars" src="https://img.shields.io/github/stars/dedellix/MUT-BC-SS-01">
+
+---
+## CVE-2021-34496 ()
+> 
+- [dja2TaqkGEEfA45/CVE-2021-34496](https://github.com/dja2TaqkGEEfA45/CVE-2021-34496)	<img alt="forks" src="https://img.shields.io/github/forks/dja2TaqkGEEfA45/CVE-2021-34496">	<img alt="stars" src="https://img.shields.io/github/stars/dja2TaqkGEEfA45/CVE-2021-34496">
+
+---
 ## CVE-2021-3449 (2021-03-25T15:15:00)
 > An OpenSSL TLS server may crash if sent a maliciously crafted renegotiation ClientHello message from a client. If a TLSv1.2 renegotiation ClientHello omits the signature_algorithms extension (where it was present in the initial ClientHello), but includes a signature_algorithms_cert extension then a NULL pointer dereference will result, leading to a crash and a denial of service attack. A server is only vulnerable if it has TLSv1.2 and renegotiation enabled (which is the default configuration). OpenSSL TLS clients are not impacted by this issue. All OpenSSL 1.1.1 versions are affected by this issue. Users of these versions should upgrade to OpenSSL 1.1.1k. OpenSSL 1.0.2 is not impacted by this issue. Fixed in OpenSSL 1.1.1k (Affected 1.1.1-1.1.1j).
 - [Live-Hack-CVE/CVE-2021-3449](https://github.com/Live-Hack-CVE/CVE-2021-3449)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3449">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3449">
 - [nidhi7598/OPENSSL_1.1.1g_CVE-2021-3449](https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3449)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3449">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3449">
 - [terorie/cve-2021-3449](https://github.com/terorie/cve-2021-3449)	<img alt="forks" src="https://img.shields.io/github/forks/terorie/cve-2021-3449">	<img alt="stars" src="https://img.shields.io/github/stars/terorie/cve-2021-3449">
 - [dja2TaqkGEEfA45/CVE-2021-34496](https://github.com/dja2TaqkGEEfA45/CVE-2021-34496)	<img alt="forks" src="https://img.shields.io/github/forks/dja2TaqkGEEfA45/CVE-2021-34496">	<img alt="stars" src="https://img.shields.io/github/stars/dja2TaqkGEEfA45/CVE-2021-34496">
+
+---
+## CVE-2021-34486 ()
+> 
+- [KaLendsi/CVE-2021-34486](https://github.com/KaLendsi/CVE-2021-34486)	<img alt="forks" src="https://img.shields.io/github/forks/KaLendsi/CVE-2021-34486">	<img alt="stars" src="https://img.shields.io/github/stars/KaLendsi/CVE-2021-34486">
+- [b1tg/CVE-2021-34486-exp](https://github.com/b1tg/CVE-2021-34486-exp)	<img alt="forks" src="https://img.shields.io/github/forks/b1tg/CVE-2021-34486-exp">	<img alt="stars" src="https://img.shields.io/github/stars/b1tg/CVE-2021-34486-exp">
+
+---
+## CVE-2021-34481 ()
+> 
+- [vpn28/CVE-2021-34481](https://github.com/vpn28/CVE-2021-34481)	<img alt="forks" src="https://img.shields.io/github/forks/vpn28/CVE-2021-34481">	<img alt="stars" src="https://img.shields.io/github/stars/vpn28/CVE-2021-34481">
 
 ---
 ## CVE-2021-34473 (2021-07-14T18:15:00)
@@ -6095,6 +7286,12 @@
 - [psc4re/NSE-scripts](https://github.com/psc4re/NSE-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/psc4re/NSE-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/psc4re/NSE-scripts">
 - [phamphuqui1998/CVE-2021-34473](https://github.com/phamphuqui1998/CVE-2021-34473)	<img alt="forks" src="https://img.shields.io/github/forks/phamphuqui1998/CVE-2021-34473">	<img alt="stars" src="https://img.shields.io/github/stars/phamphuqui1998/CVE-2021-34473">
 - [RaouzRouik/CVE-2021-34473-scanner](https://github.com/RaouzRouik/CVE-2021-34473-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/RaouzRouik/CVE-2021-34473-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/RaouzRouik/CVE-2021-34473-scanner">
+- [f4alireza/CVE](https://github.com/f4alireza/CVE)	<img alt="forks" src="https://img.shields.io/github/forks/f4alireza/CVE">	<img alt="stars" src="https://img.shields.io/github/stars/f4alireza/CVE">
+
+---
+## CVE-2021-34470 ()
+> 
+- [technion/CVE-2021-34470scanner](https://github.com/technion/CVE-2021-34470scanner)	<img alt="forks" src="https://img.shields.io/github/forks/technion/CVE-2021-34470scanner">	<img alt="stars" src="https://img.shields.io/github/stars/technion/CVE-2021-34470scanner">
 
 ---
 ## CVE-2021-34429 (2021-07-15T17:15:00)
@@ -6112,6 +7309,12 @@
 ## CVE-2021-34427 (2021-06-25T19:15:00)
 > In Eclipse BIRT versions 4.8.0 and earlier, an attacker can use query parameters to create a JSP file which is accessible from remote (current BIRT viewer dir) to inject JSP code into the running instance.
 - [Live-Hack-CVE/CVE-2021-34427](https://github.com/Live-Hack-CVE/CVE-2021-34427)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-34427">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-34427">
+- [rt1252/CVE-2021-34427](https://github.com/rt1252/CVE-2021-34427)	<img alt="forks" src="https://img.shields.io/github/forks/rt1252/CVE-2021-34427">	<img alt="stars" src="https://img.shields.io/github/stars/rt1252/CVE-2021-34427">
+
+---
+## CVE-2021-3441 ()
+> 
+- [tcbutler320/CVE-2021-3441-check](https://github.com/tcbutler320/CVE-2021-3441-check)	<img alt="forks" src="https://img.shields.io/github/forks/tcbutler320/CVE-2021-3441-check">	<img alt="stars" src="https://img.shields.io/github/stars/tcbutler320/CVE-2021-3441-check">
 
 ---
 ## CVE-2021-34402 (2022-01-18T18:15:00)
@@ -6128,6 +7331,7 @@
 > A potential buffer overflow in the software drivers for certain HP LaserJet products and Samsung product printers could lead to an escalation of privilege.
 - [Exploitables/CVE-2021-3438](https://github.com/Exploitables/CVE-2021-3438)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-3438">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-3438">
 - [TobiasS1402/CVE-2021-3438](https://github.com/TobiasS1402/CVE-2021-3438)	<img alt="forks" src="https://img.shields.io/github/forks/TobiasS1402/CVE-2021-3438">	<img alt="stars" src="https://img.shields.io/github/stars/TobiasS1402/CVE-2021-3438">
+- [CrackerCat/CVE-2021-3438](https://github.com/CrackerCat/CVE-2021-3438)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2021-3438">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2021-3438">
 
 ---
 ## CVE-2021-34371 ()
@@ -6222,6 +7426,12 @@
 - [Live-Hack-CVE/CVE-2021-3410](https://github.com/Live-Hack-CVE/CVE-2021-3410)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3410">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3410">
 
 ---
+## CVE-2021-34045 ()
+> 
+- [Al1ex/CVE-2021-34045](https://github.com/Al1ex/CVE-2021-34045)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2021-34045">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2021-34045">
+- [kenuosec/CVE-2021-34045](https://github.com/kenuosec/CVE-2021-34045)	<img alt="forks" src="https://img.shields.io/github/forks/kenuosec/CVE-2021-34045">	<img alt="stars" src="https://img.shields.io/github/stars/kenuosec/CVE-2021-34045">
+
+---
 ## CVE-2021-33983 (2023-02-17T18:15:00)
 > Buffer Overflow vulnerability in Dvidelabs flatcc v.0.6.0 allows local attacker to execute arbitrary code via the fltacc execution of the error_ref_sym function.
 - [Live-Hack-CVE/CVE-2021-33983](https://github.com/Live-Hack-CVE/CVE-2021-33983)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33983">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33983">
@@ -6233,6 +7443,11 @@
 - [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
 - [lixiang957/CVE-2021-33959](https://github.com/lixiang957/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/lixiang957/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/lixiang957/CVE-2021-33959">
 - [Live-Hack-CVE/CVE-2021-33959](https://github.com/Live-Hack-CVE/CVE-2021-33959)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33959">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33959">
+
+---
+## CVE-2021-3395 ()
+> 
+- [jet-pentest/CVE-2021-3395](https://github.com/jet-pentest/CVE-2021-3395)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2021-3395">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2021-3395">
 
 ---
 ## CVE-2021-33949 (2023-02-17T18:15:00)
@@ -6274,6 +7489,11 @@
 - [Live-Hack-CVE/CVE-2021-33895](https://github.com/Live-Hack-CVE/CVE-2021-33895)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33895">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33895">
 
 ---
+## CVE-2021-33879 ()
+> 
+- [mmiszczyk/cve-2021-33879](https://github.com/mmiszczyk/cve-2021-33879)	<img alt="forks" src="https://img.shields.io/github/forks/mmiszczyk/cve-2021-33879">	<img alt="stars" src="https://img.shields.io/github/stars/mmiszczyk/cve-2021-33879">
+
+---
 ## CVE-2021-33844 (2022-08-25T20:15:00)
 > A floating point exception (divide-by-zero) issue was discovered in SoX in functon startread() of wav.c file. An attacker with a crafted wav file, could cause an application to crash.
 - [Live-Hack-CVE/CVE-2021-33844](https://github.com/Live-Hack-CVE/CVE-2021-33844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33844">
@@ -6289,10 +7509,32 @@
 - [Live-Hack-CVE/CVE-2021-33842](https://github.com/Live-Hack-CVE/CVE-2021-33842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33842">
 
 ---
+## CVE-2021-33831 ()
+> 
+- [lanmarc77/CVE-2021-33831](https://github.com/lanmarc77/CVE-2021-33831)	<img alt="forks" src="https://img.shields.io/github/forks/lanmarc77/CVE-2021-33831">	<img alt="stars" src="https://img.shields.io/github/stars/lanmarc77/CVE-2021-33831">
+
+---
 ## CVE-2021-33816 (2021-11-10T23:15:00)
 > The website builder module in Dolibarr 13.0.2 allows remote PHP code execution because of an incomplete protection mechanism in which system, exec, and shell_exec are blocked but backticks are not blocked.
 - [Live-Hack-CVE/CVE-2021-33816](https://github.com/Live-Hack-CVE/CVE-2021-33816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33816">
 - [Live-Hack-CVE/CVE-2021-33816](https://github.com/Live-Hack-CVE/CVE-2021-33816)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33816">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33816">
+
+---
+## CVE-2021-3378 ()
+> 
+- [erberkan/fortilogger_arbitrary_fileupload](https://github.com/erberkan/fortilogger_arbitrary_fileupload)	<img alt="forks" src="https://img.shields.io/github/forks/erberkan/fortilogger_arbitrary_fileupload">	<img alt="stars" src="https://img.shields.io/github/stars/erberkan/fortilogger_arbitrary_fileupload">
+
+---
+## CVE-2021-33766 ()
+> 
+- [bhdresh/CVE-2021-33766](https://github.com/bhdresh/CVE-2021-33766)	<img alt="forks" src="https://img.shields.io/github/forks/bhdresh/CVE-2021-33766">	<img alt="stars" src="https://img.shields.io/github/stars/bhdresh/CVE-2021-33766">
+- [demossl/CVE-2021-33766-ProxyToken](https://github.com/demossl/CVE-2021-33766-ProxyToken)	<img alt="forks" src="https://img.shields.io/github/forks/demossl/CVE-2021-33766-ProxyToken">	<img alt="stars" src="https://img.shields.io/github/stars/demossl/CVE-2021-33766-ProxyToken">
+
+---
+## CVE-2021-33739 ()
+> 
+- [freeide2017/CVE-2021-33739-POC](https://github.com/freeide2017/CVE-2021-33739-POC)	<img alt="forks" src="https://img.shields.io/github/forks/freeide2017/CVE-2021-33739-POC">	<img alt="stars" src="https://img.shields.io/github/stars/freeide2017/CVE-2021-33739-POC">
+- [giwon9977/CVE-2021-33739_PoC_Analysis](https://github.com/giwon9977/CVE-2021-33739_PoC_Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/giwon9977/CVE-2021-33739_PoC_Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/giwon9977/CVE-2021-33739_PoC_Analysis">
 
 ---
 ## CVE-2021-33716 (2021-09-14T11:15:00)
@@ -6356,10 +7598,20 @@
 - [Live-Hack-CVE/CVE-2021-33640](https://github.com/Live-Hack-CVE/CVE-2021-33640)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33640">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33640">
 
 ---
+## CVE-2021-33624 ()
+> 
+- [benschlueter/CVE-2021-33624](https://github.com/benschlueter/CVE-2021-33624)	<img alt="forks" src="https://img.shields.io/github/forks/benschlueter/CVE-2021-33624">	<img alt="stars" src="https://img.shields.io/github/stars/benschlueter/CVE-2021-33624">
+
+---
 ## CVE-2021-33618 (2021-11-10T23:15:00)
 > Dolibarr ERP and CRM 13.0.2 allows XSS via object details, as demonstrated by > and < characters in the onpointermove attribute of a BODY element to the user-management feature.
 - [Live-Hack-CVE/CVE-2021-33618](https://github.com/Live-Hack-CVE/CVE-2021-33618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33618">
 - [Live-Hack-CVE/CVE-2021-33618](https://github.com/Live-Hack-CVE/CVE-2021-33618)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33618">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33618">
+
+---
+## CVE-2021-3360 ()
+> 
+- [tcbutler320/CVE-2021-3360](https://github.com/tcbutler320/CVE-2021-3360)	<img alt="forks" src="https://img.shields.io/github/forks/tcbutler320/CVE-2021-3360">	<img alt="stars" src="https://img.shields.io/github/stars/tcbutler320/CVE-2021-3360">
 
 ---
 ## CVE-2021-33592 (2021-07-19T06:15:00)
@@ -6370,6 +7622,12 @@
 ## CVE-2021-33587 (2021-05-28T20:15:00)
 > The css-what package 4.0.0 through 5.0.0 for Node.js does not ensure that attribute parsing has Linear Time Complexity relative to the size of the input.
 - [Live-Hack-CVE/CVE-2021-33587](https://github.com/Live-Hack-CVE/CVE-2021-33587)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33587">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33587">
+
+---
+## CVE-2021-33564 ()
+> 
+- [mlr0p/CVE-2021-33564](https://github.com/mlr0p/CVE-2021-33564)	<img alt="forks" src="https://img.shields.io/github/forks/mlr0p/CVE-2021-33564">	<img alt="stars" src="https://img.shields.io/github/stars/mlr0p/CVE-2021-33564">
+- [dorkerdevil/CVE-2021-33564](https://github.com/dorkerdevil/CVE-2021-33564)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-33564">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-33564">
 
 ---
 ## CVE-2021-33560 (2021-06-08T11:15:00)
@@ -6425,6 +7683,11 @@
 ## CVE-2021-33396 (2023-02-15T22:15:00)
 > Cross Site Request Forgery (CSRF) vulnerability in baijiacms 4.1.4, allows attackers to change the password or other information of an arbitrary account via index.php.
 - [Live-Hack-CVE/CVE-2021-33396](https://github.com/Live-Hack-CVE/CVE-2021-33396)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33396">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33396">
+
+---
+## CVE-2021-33393 ()
+> 
+- [joaoaugustom/IPFire_2.25_RCE_Authenticated](https://github.com/joaoaugustom/IPFire_2.25_RCE_Authenticated)	<img alt="forks" src="https://img.shields.io/github/forks/joaoaugustom/IPFire_2.25_RCE_Authenticated">	<img alt="stars" src="https://img.shields.io/github/stars/joaoaugustom/IPFire_2.25_RCE_Authenticated">
 
 ---
 ## CVE-2021-33391 (2023-02-17T18:15:00)
@@ -6492,6 +7755,11 @@
 - [Live-Hack-CVE/CVE-2021-33193](https://github.com/Live-Hack-CVE/CVE-2021-33193)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33193">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33193">
 
 ---
+## CVE-2021-3317 ()
+> 
+- [Al1ex/CVE-2021-3317](https://github.com/Al1ex/CVE-2021-3317)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2021-3317">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2021-3317">
+
+---
 ## CVE-2021-33128 (2022-08-18T20:15:00)
 > Improper access control in the firmware for some Intel(R) E810 Ethernet Controllers before version 1.6.0.6 may allow a privileged user to potentially enable denial of service via local access.
 - [Live-Hack-CVE/CVE-2021-33128](https://github.com/Live-Hack-CVE/CVE-2021-33128)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33128">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33128">
@@ -6500,6 +7768,11 @@
 ## CVE-2021-33104 (2023-02-16T21:15:00)
 > Improper access control in the Intel(R) OFU software before version 14.1.28 may allow an authenticated user to potentially enable denial of service via local access.
 - [rjt-gupta/CVE-2021-33104](https://github.com/rjt-gupta/CVE-2021-33104)	<img alt="forks" src="https://img.shields.io/github/forks/rjt-gupta/CVE-2021-33104">	<img alt="stars" src="https://img.shields.io/github/stars/rjt-gupta/CVE-2021-33104">
+
+---
+## CVE-2021-3310 ()
+> 
+- [piffd0s/CVE-2021-3310](https://github.com/piffd0s/CVE-2021-3310)	<img alt="forks" src="https://img.shields.io/github/forks/piffd0s/CVE-2021-3310">	<img alt="stars" src="https://img.shields.io/github/stars/piffd0s/CVE-2021-3310">
 
 ---
 ## CVE-2021-33083 (2022-05-12T17:15:00)
@@ -6563,6 +7836,7 @@
 - [nasimanpha-create/ing-switch](https://github.com/nasimanpha-create/ing-switch)	<img alt="forks" src="https://img.shields.io/github/forks/nasimanpha-create/ing-switch">	<img alt="stars" src="https://img.shields.io/github/stars/nasimanpha-create/ing-switch">
 - [umair-aziz025/dahua-cve-research](https://github.com/umair-aziz025/dahua-cve-research)	<img alt="forks" src="https://img.shields.io/github/forks/umair-aziz025/dahua-cve-research">	<img alt="stars" src="https://img.shields.io/github/stars/umair-aziz025/dahua-cve-research">
 - [Bd-Mutant7/DahuaLoginBypass](https://github.com/Bd-Mutant7/DahuaLoginBypass)	<img alt="forks" src="https://img.shields.io/github/forks/Bd-Mutant7/DahuaLoginBypass">	<img alt="stars" src="https://img.shields.io/github/stars/Bd-Mutant7/DahuaLoginBypass">
+- [litndat/Camera-Dahua-Research-l-h-ng-CVE-2021-33044](https://github.com/litndat/Camera-Dahua-Research-l-h-ng-CVE-2021-33044)	<img alt="forks" src="https://img.shields.io/github/forks/litndat/Camera-Dahua-Research-l-h-ng-CVE-2021-33044">	<img alt="stars" src="https://img.shields.io/github/stars/litndat/Camera-Dahua-Research-l-h-ng-CVE-2021-33044">
 
 ---
 ## CVE-2021-33037 (2021-07-12T15:15:00)
@@ -6573,6 +7847,11 @@
 ## CVE-2021-33036 (2022-06-15T15:15:00)
 > In Apache Hadoop 2.2.0 to 2.10.1, 3.0.0-alpha1 to 3.1.4, 3.2.0 to 3.2.2, and 3.3.0 to 3.3.1, a user who can escalate to yarn user can possibly run arbitrary commands as root user. Users should upgrade to Apache Hadoop 2.10.2, 3.2.3, 3.3.2 or higher.
 - [Live-Hack-CVE/CVE-2021-33036](https://github.com/Live-Hack-CVE/CVE-2021-33036)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-33036">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-33036">
+
+---
+## CVE-2021-33034 ()
+> 
+- [Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2021-33034](https://github.com/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2021-33034)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2021-33034">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2021-33034">
 
 ---
 ## CVE-2021-33026 (2021-05-13T23:15:00)
@@ -6596,6 +7875,11 @@
 ## CVE-2021-32923 (2021-06-03T11:15:00)
 > HashiCorp Vault and Vault Enterprise allowed the renewal of nearly-expired token leases and dynamic secret leases (specifically, those within 1 second of their maximum TTL), which caused them to be incorrectly treated as non-expiring during subsequent use. Fixed in 1.5.9, 1.6.5, and 1.7.2.
 - [Live-Hack-CVE/CVE-2021-32923](https://github.com/Live-Hack-CVE/CVE-2021-32923)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32923">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32923">
+
+---
+## CVE-2021-3291 ()
+> 
+- [ImHades101/CVE-2021-3291](https://github.com/ImHades101/CVE-2021-3291)	<img alt="forks" src="https://img.shields.io/github/forks/ImHades101/CVE-2021-3291">	<img alt="stars" src="https://img.shields.io/github/stars/ImHades101/CVE-2021-3291">
 
 ---
 ## CVE-2021-32862 (2022-08-18T19:15:00)
@@ -6659,6 +7943,21 @@
 - [Live-Hack-CVE/CVE-2021-3282](https://github.com/Live-Hack-CVE/CVE-2021-3282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3282">
 
 ---
+## CVE-2021-32819 ()
+> 
+- [Abady0x1/CVE-2021-32819](https://github.com/Abady0x1/CVE-2021-32819)	<img alt="forks" src="https://img.shields.io/github/forks/Abady0x1/CVE-2021-32819">	<img alt="stars" src="https://img.shields.io/github/stars/Abady0x1/CVE-2021-32819">
+
+---
+## CVE-2021-3281 ()
+> 
+- [lwzSoviet/CVE-2021-3281](https://github.com/lwzSoviet/CVE-2021-3281)	<img alt="forks" src="https://img.shields.io/github/forks/lwzSoviet/CVE-2021-3281">	<img alt="stars" src="https://img.shields.io/github/stars/lwzSoviet/CVE-2021-3281">
+
+---
+## CVE-2021-32804 ()
+> 
+- [yamory/CVE-2021-32804](https://github.com/yamory/CVE-2021-32804)	<img alt="forks" src="https://img.shields.io/github/forks/yamory/CVE-2021-32804">	<img alt="stars" src="https://img.shields.io/github/stars/yamory/CVE-2021-32804">
+
+---
 ## CVE-2021-32791 (2021-07-26T17:15:00)
 > mod_auth_openidc is an authentication/authorization module for the Apache 2.x HTTP server that functions as an OpenID Connect Relying Party, authenticating users against an OpenID Connect Provider. In mod_auth_openidc before version 2.4.9, the AES GCM encryption in mod_auth_openidc uses a static IV and AAD. It is important to fix because this creates a static nonce and since aes-gcm is a stream cipher, this can lead to known cryptographic issues, since the same key is being reused. From 2.4.9 onwards this has been patched to use dynamic values through usage of cjose AES encryption routines.
 - [Live-Hack-CVE/CVE-2021-32791](https://github.com/Live-Hack-CVE/CVE-2021-32791)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32791">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32791">
@@ -6718,6 +8017,11 @@
 ## CVE-2021-32725 (2021-07-12T20:15:00)
 > Nextcloud Server is a Nextcloud package that handles data storage. In versions prior to 19.0.13, 20.011, and 21.0.3, default share permissions were not being respected for federated reshares of files and folders. The issue was fixed in versions 19.0.13, 20.0.11, and 21.0.3. There are no known workarounds.
 - [Live-Hack-CVE/CVE-2021-32725](https://github.com/Live-Hack-CVE/CVE-2021-32725)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32725">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32725">
+
+---
+## CVE-2021-32724 ()
+> 
+- [MaximeSchlegel/CVE-2021-32724-Target](https://github.com/MaximeSchlegel/CVE-2021-32724-Target)	<img alt="forks" src="https://img.shields.io/github/forks/MaximeSchlegel/CVE-2021-32724-Target">	<img alt="stars" src="https://img.shields.io/github/stars/MaximeSchlegel/CVE-2021-32724-Target">
 
 ---
 ## CVE-2021-32717 (2021-06-24T21:15:00)
@@ -6800,6 +8104,11 @@
 - [Live-Hack-CVE/CVE-2021-32656](https://github.com/Live-Hack-CVE/CVE-2021-32656)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32656">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32656">
 
 ---
+## CVE-2021-32644 ()
+> 
+- [dnr6419/CVE-2021-32644](https://github.com/dnr6419/CVE-2021-32644)	<img alt="forks" src="https://img.shields.io/github/forks/dnr6419/CVE-2021-32644">	<img alt="stars" src="https://img.shields.io/github/stars/dnr6419/CVE-2021-32644">
+
+---
 ## CVE-2021-32642 (2021-05-28T17:15:00)
 > radsecproxy is a generic RADIUS proxy that supports both UDP and TLS (RadSec) RADIUS transports. Missing input validation in radsecproxy's `naptr-eduroam.sh` and `radsec-dynsrv.sh` scripts can lead to configuration injection via crafted radsec peer discovery DNS records. Users are subject to Information disclosure, Denial of Service, Redirection of Radius connection to a non-authenticated server leading to non-authenticated network access. Updated example scripts are available in the master branch and 1.9 release. Note that the scripts are not part of the installation package and are not updated automatically. If you are using the examples, you have to update them manually. The dyndisc scripts work independently of the radsecproxy code. The updated scripts can be used with any version of radsecproxy.
 - [Live-Hack-CVE/CVE-2021-32642](https://github.com/Live-Hack-CVE/CVE-2021-32642)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32642">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32642">
@@ -6835,10 +8144,20 @@
 - [Live-Hack-CVE/CVE-2021-32563](https://github.com/Live-Hack-CVE/CVE-2021-32563)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32563">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32563">
 
 ---
+## CVE-2021-32537 ()
+> 
+- [0vercl0k/CVE-2021-32537](https://github.com/0vercl0k/CVE-2021-32537)	<img alt="forks" src="https://img.shields.io/github/forks/0vercl0k/CVE-2021-32537">	<img alt="stars" src="https://img.shields.io/github/stars/0vercl0k/CVE-2021-32537">
+
+---
 ## CVE-2021-32503 (2022-04-01T23:15:00)
 > Unauthenticated users can access sensitive web URLs through GET request, which should be restricted to maintenance users only. A malicious attacker could use this sensitive information’s to launch further attacks on the system.
 - [Live-Hack-CVE/CVE-2021-32503](https://github.com/Live-Hack-CVE/CVE-2021-32503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32503">
 - [Live-Hack-CVE/CVE-2021-32503](https://github.com/Live-Hack-CVE/CVE-2021-32503)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32503">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32503">
+
+---
+## CVE-2021-32471 ()
+> 
+- [intrinsic-propensity/turing-machine](https://github.com/intrinsic-propensity/turing-machine)	<img alt="forks" src="https://img.shields.io/github/forks/intrinsic-propensity/turing-machine">	<img alt="stars" src="https://img.shields.io/github/stars/intrinsic-propensity/turing-machine">
 
 ---
 ## CVE-2021-32441 (2023-02-17T18:15:00)
@@ -6856,6 +8175,11 @@
 - [Live-Hack-CVE/CVE-2021-32415](https://github.com/Live-Hack-CVE/CVE-2021-32415)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32415">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32415">
 
 ---
+## CVE-2021-32399 ()
+> 
+- [nanopathi/linux-4.19.72_CVE-2021-32399](https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/linux-4.19.72_CVE-2021-32399">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/linux-4.19.72_CVE-2021-32399">
+
+---
 ## CVE-2021-32305 (2021-05-18T17:15:00)
 > WebSVN before 2.6.1 allows remote attackers to execute arbitrary commands via shell metacharacters in the search parameter.
 - [sz-guanx/CVE-2021-32305](https://github.com/sz-guanx/CVE-2021-32305)	<img alt="forks" src="https://img.shields.io/github/forks/sz-guanx/CVE-2021-32305">	<img alt="stars" src="https://img.shields.io/github/stars/sz-guanx/CVE-2021-32305">
@@ -6870,6 +8194,42 @@
 ## CVE-2021-32163 (2023-02-17T18:15:00)
 > Authentication vulnerability in MOSN v.0.23.0 allows attacker to escalate privileges via case-sensitive JWT authorization.
 - [Live-Hack-CVE/CVE-2021-32163](https://github.com/Live-Hack-CVE/CVE-2021-32163)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32163">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32163">
+
+---
+## CVE-2021-32162 ()
+> 
+- [Mesh3l911/CVE-2021-32162](https://github.com/Mesh3l911/CVE-2021-32162)	<img alt="forks" src="https://img.shields.io/github/forks/Mesh3l911/CVE-2021-32162">	<img alt="stars" src="https://img.shields.io/github/stars/Mesh3l911/CVE-2021-32162">
+
+---
+## CVE-2021-32161 ()
+> 
+- [Mesh3l911/CVE-2021-32161](https://github.com/Mesh3l911/CVE-2021-32161)	<img alt="forks" src="https://img.shields.io/github/forks/Mesh3l911/CVE-2021-32161">	<img alt="stars" src="https://img.shields.io/github/stars/Mesh3l911/CVE-2021-32161">
+
+---
+## CVE-2021-32160 ()
+> 
+- [Mesh3l911/CVE-2021-32160](https://github.com/Mesh3l911/CVE-2021-32160)	<img alt="forks" src="https://img.shields.io/github/forks/Mesh3l911/CVE-2021-32160">	<img alt="stars" src="https://img.shields.io/github/stars/Mesh3l911/CVE-2021-32160">
+
+---
+## CVE-2021-32159 ()
+> 
+- [Mesh3l911/CVE-2021-32159](https://github.com/Mesh3l911/CVE-2021-32159)	<img alt="forks" src="https://img.shields.io/github/forks/Mesh3l911/CVE-2021-32159">	<img alt="stars" src="https://img.shields.io/github/stars/Mesh3l911/CVE-2021-32159">
+
+---
+## CVE-2021-32158 ()
+> 
+- [Mesh3l911/CVE-2021-32158](https://github.com/Mesh3l911/CVE-2021-32158)	<img alt="forks" src="https://img.shields.io/github/forks/Mesh3l911/CVE-2021-32158">	<img alt="stars" src="https://img.shields.io/github/stars/Mesh3l911/CVE-2021-32158">
+
+---
+## CVE-2021-32157 ()
+> 
+- [Mesh3l911/CVE-2021-32157](https://github.com/Mesh3l911/CVE-2021-32157)	<img alt="forks" src="https://img.shields.io/github/forks/Mesh3l911/CVE-2021-32157">	<img alt="stars" src="https://img.shields.io/github/stars/Mesh3l911/CVE-2021-32157">
+- [dnr6419/CVE-2021-32157](https://github.com/dnr6419/CVE-2021-32157)	<img alt="forks" src="https://img.shields.io/github/forks/dnr6419/CVE-2021-32157">	<img alt="stars" src="https://img.shields.io/github/stars/dnr6419/CVE-2021-32157">
+
+---
+## CVE-2021-32156 ()
+> 
+- [Mesh3l911/CVE-2021-32156](https://github.com/Mesh3l911/CVE-2021-32156)	<img alt="forks" src="https://img.shields.io/github/forks/Mesh3l911/CVE-2021-32156">	<img alt="stars" src="https://img.shields.io/github/stars/Mesh3l911/CVE-2021-32156">
 
 ---
 ## CVE-2021-32142 (2023-02-17T18:15:00)
@@ -6918,6 +8278,12 @@
 - [deletehead/Pool-Overflow-CVE-2021-31956](https://github.com/deletehead/Pool-Overflow-CVE-2021-31956)	<img alt="forks" src="https://img.shields.io/github/forks/deletehead/Pool-Overflow-CVE-2021-31956">	<img alt="stars" src="https://img.shields.io/github/stars/deletehead/Pool-Overflow-CVE-2021-31956">
 
 ---
+## CVE-2021-31955 ()
+> 
+- [freeide/CVE-2021-31955-POC](https://github.com/freeide/CVE-2021-31955-POC)	<img alt="forks" src="https://img.shields.io/github/forks/freeide/CVE-2021-31955-POC">	<img alt="stars" src="https://img.shields.io/github/stars/freeide/CVE-2021-31955-POC">
+- [ApexPredator-InfoSec/forti_shield](https://github.com/ApexPredator-InfoSec/forti_shield)	<img alt="forks" src="https://img.shields.io/github/forks/ApexPredator-InfoSec/forti_shield">	<img alt="stars" src="https://img.shields.io/github/stars/ApexPredator-InfoSec/forti_shield">
+
+---
 ## CVE-2021-31954 (2021-06-08T23:15:00)
 > Windows Common Log File System Driver Elevation of Privilege Vulnerability
 - [MochiNishimiya/CVE-2021-31954](https://github.com/MochiNishimiya/CVE-2021-31954)	<img alt="forks" src="https://img.shields.io/github/forks/MochiNishimiya/CVE-2021-31954">	<img alt="stars" src="https://img.shields.io/github/stars/MochiNishimiya/CVE-2021-31954">
@@ -6926,6 +8292,16 @@
 ## CVE-2021-31875 (2021-04-29T02:15:00)
 > ** DISPUTED ** In mjs_json.c in Cesanta MongooseOS mJS 1.26, a maliciously formed JSON string can trigger an off-by-one heap-based buffer overflow in mjs_json_parse, which can potentially lead to redirection of control flow. NOTE: the original reporter disputes the significance of this finding because "there isn’t very much of an opportunity to exploit this reliably for an information leak, so there isn’t any real security impact."
 - [Live-Hack-CVE/CVE-2021-31875](https://github.com/Live-Hack-CVE/CVE-2021-31875)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31875">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31875">
+
+---
+## CVE-2021-31862 ()
+> 
+- [RobertDra/CVE-2021-31862](https://github.com/RobertDra/CVE-2021-31862)	<img alt="forks" src="https://img.shields.io/github/forks/RobertDra/CVE-2021-31862">	<img alt="stars" src="https://img.shields.io/github/stars/RobertDra/CVE-2021-31862">
+
+---
+## CVE-2021-31856 ()
+> 
+- [ssst0n3/CVE-2021-31856](https://github.com/ssst0n3/CVE-2021-31856)	<img alt="forks" src="https://img.shields.io/github/forks/ssst0n3/CVE-2021-31856">	<img alt="stars" src="https://img.shields.io/github/stars/ssst0n3/CVE-2021-31856">
 
 ---
 ## CVE-2021-31838 (2021-06-29T10:15:00)
@@ -6952,14 +8328,42 @@
 - [p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write](https://github.com/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write)	<img alt="forks" src="https://img.shields.io/github/forks/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">	<img alt="stars" src="https://img.shields.io/github/stars/p0dalirius/CVE-2021-31800-Impacket-SMB-Server-Arbitrary-file-read-write">
 
 ---
+## CVE-2021-31796 ()
+> 
+- [unmanarc/CACredDecoder](https://github.com/unmanarc/CACredDecoder)	<img alt="forks" src="https://img.shields.io/github/forks/unmanarc/CACredDecoder">	<img alt="stars" src="https://img.shields.io/github/stars/unmanarc/CACredDecoder">
+
+---
 ## CVE-2021-3177 (2021-01-19T06:15:00)
 > Python 3.x through 3.9.1 has a buffer overflow in PyCArg_repr in _ctypes/callproc.c, which may lead to remote code execution in certain Python applications that accept floating-point numbers as untrusted input, as demonstrated by a 1e300 argument to c_double.from_param. This occurs because sprintf is used unsafely.
 - [Live-Hack-CVE/CVE-2021-3177](https://github.com/Live-Hack-CVE/CVE-2021-3177)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3177">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3177">
 
 ---
+## CVE-2021-31762 ()
+> 
+- [Mesh3l911/CVE-2021-31762](https://github.com/Mesh3l911/CVE-2021-31762)	<img alt="forks" src="https://img.shields.io/github/forks/Mesh3l911/CVE-2021-31762">	<img alt="stars" src="https://img.shields.io/github/stars/Mesh3l911/CVE-2021-31762">
+- [electronicbots/CVE-2021-31762](https://github.com/electronicbots/CVE-2021-31762)	<img alt="forks" src="https://img.shields.io/github/forks/electronicbots/CVE-2021-31762">	<img alt="stars" src="https://img.shields.io/github/stars/electronicbots/CVE-2021-31762">
+
+---
+## CVE-2021-31761 ()
+> 
+- [Mesh3l911/CVE-2021-31761](https://github.com/Mesh3l911/CVE-2021-31761)	<img alt="forks" src="https://img.shields.io/github/forks/Mesh3l911/CVE-2021-31761">	<img alt="stars" src="https://img.shields.io/github/stars/Mesh3l911/CVE-2021-31761">
+- [electronicbots/CVE-2021-31761](https://github.com/electronicbots/CVE-2021-31761)	<img alt="forks" src="https://img.shields.io/github/forks/electronicbots/CVE-2021-31761">	<img alt="stars" src="https://img.shields.io/github/stars/electronicbots/CVE-2021-31761">
+
+---
+## CVE-2021-31760 ()
+> 
+- [Mesh3l911/CVE-2021-31760](https://github.com/Mesh3l911/CVE-2021-31760)	<img alt="forks" src="https://img.shields.io/github/forks/Mesh3l911/CVE-2021-31760">	<img alt="stars" src="https://img.shields.io/github/stars/Mesh3l911/CVE-2021-31760">
+- [electronicbots/CVE-2021-31760](https://github.com/electronicbots/CVE-2021-31760)	<img alt="forks" src="https://img.shields.io/github/forks/electronicbots/CVE-2021-31760">	<img alt="stars" src="https://img.shields.io/github/stars/electronicbots/CVE-2021-31760">
+
+---
 ## CVE-2021-31755 (2021-05-07T23:15:00)
 > An issue was discovered on Tenda AC11 devices with firmware through 02.03.01.104_CN. A stack buffer overflow vulnerability in /goform/setmac allows attackers to execute arbitrary code on the system via a crafted post request.
 - [r3s3tt/CVE-2021-31755](https://github.com/r3s3tt/CVE-2021-31755)	<img alt="forks" src="https://img.shields.io/github/forks/r3s3tt/CVE-2021-31755">	<img alt="stars" src="https://img.shields.io/github/stars/r3s3tt/CVE-2021-31755">
+
+---
+## CVE-2021-31728 ()
+> 
+- [irql/CVE-2021-31728](https://github.com/irql/CVE-2021-31728)	<img alt="forks" src="https://img.shields.io/github/forks/irql/CVE-2021-31728">	<img alt="stars" src="https://img.shields.io/github/stars/irql/CVE-2021-31728">
 
 ---
 ## CVE-2021-31712 ()
@@ -6983,6 +8387,11 @@
 - [Live-Hack-CVE/CVE-2021-31650](https://github.com/Live-Hack-CVE/CVE-2021-31650)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31650">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31650">
 
 ---
+## CVE-2021-3164 ()
+> 
+- [rmccarth/cve-2021-3164](https://github.com/rmccarth/cve-2021-3164)	<img alt="forks" src="https://img.shields.io/github/forks/rmccarth/cve-2021-3164">	<img alt="stars" src="https://img.shields.io/github/stars/rmccarth/cve-2021-3164">
+
+---
 ## CVE-2021-31630 (2021-08-03T15:15:00)
 > Command Injection in Open PLC Webserver v3 allows remote attackers to execute arbitrary code via the "Hardware Layer Code Box" component on the "/hardware" page of the application.
 - [Hunt3r0x/CVE-2021-31630-HTB](https://github.com/Hunt3r0x/CVE-2021-31630-HTB)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt3r0x/CVE-2021-31630-HTB">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt3r0x/CVE-2021-31630-HTB">
@@ -6998,6 +8407,7 @@
 - [machevalia/OpenPLC-CVE-2021-31630-RCE](https://github.com/machevalia/OpenPLC-CVE-2021-31630-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/machevalia/OpenPLC-CVE-2021-31630-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/machevalia/OpenPLC-CVE-2021-31630-RCE">
 - [behindsecurity/htb-wifinetictwo-exploit](https://github.com/behindsecurity/htb-wifinetictwo-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/behindsecurity/htb-wifinetictwo-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/behindsecurity/htb-wifinetictwo-exploit">
 - [UserB1ank/CVE-2021-31630](https://github.com/UserB1ank/CVE-2021-31630)	<img alt="forks" src="https://img.shields.io/github/forks/UserB1ank/CVE-2021-31630">	<img alt="stars" src="https://img.shields.io/github/stars/UserB1ank/CVE-2021-31630">
+- [tranquac/OpenPLC_v3](https://github.com/tranquac/OpenPLC_v3)	<img alt="forks" src="https://img.shields.io/github/forks/tranquac/OpenPLC_v3">	<img alt="stars" src="https://img.shields.io/github/stars/tranquac/OpenPLC_v3">
 
 ---
 ## CVE-2021-31589 (2022-01-05T12:15:00)
@@ -7038,6 +8448,11 @@
 ## CVE-2021-31573 (2023-02-06T22:15:00)
 > In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234.
 - [Live-Hack-CVE/CVE-2021-31573](https://github.com/Live-Hack-CVE/CVE-2021-31573)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31573">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31573">
+
+---
+## CVE-2021-3157 ()
+> 
+- [CrackerCat/cve-2021-3157](https://github.com/CrackerCat/cve-2021-3157)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/cve-2021-3157">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/cve-2021-3157">
 
 ---
 ## CVE-2021-31566 (2022-08-23T16:15:00)
@@ -7123,6 +8538,40 @@
 - [Rana-Ali93/CVE-2021-3156-Sudo-Buffer-Overflow-Linux](https://github.com/Rana-Ali93/CVE-2021-3156-Sudo-Buffer-Overflow-Linux)	<img alt="forks" src="https://img.shields.io/github/forks/Rana-Ali93/CVE-2021-3156-Sudo-Buffer-Overflow-Linux">	<img alt="stars" src="https://img.shields.io/github/stars/Rana-Ali93/CVE-2021-3156-Sudo-Buffer-Overflow-Linux">
 - [calonnuotcabe/CVE-2021-3156](https://github.com/calonnuotcabe/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/calonnuotcabe/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/calonnuotcabe/CVE-2021-3156">
 - [Robblackcatchai/porfolio-Baron-Samedit](https://github.com/Robblackcatchai/porfolio-Baron-Samedit)	<img alt="forks" src="https://img.shields.io/github/forks/Robblackcatchai/porfolio-Baron-Samedit">	<img alt="stars" src="https://img.shields.io/github/stars/Robblackcatchai/porfolio-Baron-Samedit">
+- [mr-r3b00t/CVE-2021-3156](https://github.com/mr-r3b00t/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2021-3156">
+- [nexcess/sudo_cve-2021-3156](https://github.com/nexcess/sudo_cve-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/nexcess/sudo_cve-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/nexcess/sudo_cve-2021-3156">
+- [reverse-ex/CVE-2021-3156](https://github.com/reverse-ex/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/reverse-ex/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/reverse-ex/CVE-2021-3156">
+- [unauth401/CVE-2021-3156](https://github.com/unauth401/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/unauth401/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/unauth401/CVE-2021-3156">
+- [ymrsmns/CVE-2021-3156](https://github.com/ymrsmns/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/ymrsmns/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/ymrsmns/CVE-2021-3156">
+- [elbee-cyber/CVE-2021-3156-PATCHER](https://github.com/elbee-cyber/CVE-2021-3156-PATCHER)	<img alt="forks" src="https://img.shields.io/github/forks/elbee-cyber/CVE-2021-3156-PATCHER">	<img alt="stars" src="https://img.shields.io/github/stars/elbee-cyber/CVE-2021-3156-PATCHER">
+- [kernelzeroday/CVE-2021-3156-Baron-Samedit](https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit)	<img alt="forks" src="https://img.shields.io/github/forks/kernelzeroday/CVE-2021-3156-Baron-Samedit">	<img alt="stars" src="https://img.shields.io/github/stars/kernelzeroday/CVE-2021-3156-Baron-Samedit">
+- [yaunsky/cve-2021-3156](https://github.com/yaunsky/cve-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/cve-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/cve-2021-3156">
+- [baka9moe/CVE-2021-3156-Exp](https://github.com/baka9moe/CVE-2021-3156-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/baka9moe/CVE-2021-3156-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/baka9moe/CVE-2021-3156-Exp">
+- [ph4ntonn/CVE-2021-3156](https://github.com/ph4ntonn/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/ph4ntonn/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/ph4ntonn/CVE-2021-3156">
+- [binw2018/CVE-2021-3156-SCRIPT](https://github.com/binw2018/CVE-2021-3156-SCRIPT)	<img alt="forks" src="https://img.shields.io/github/forks/binw2018/CVE-2021-3156-SCRIPT">	<img alt="stars" src="https://img.shields.io/github/stars/binw2018/CVE-2021-3156-SCRIPT">
+- [freeFV/CVE-2021-3156](https://github.com/freeFV/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/freeFV/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/freeFV/CVE-2021-3156">
+- [mbcrump/CVE-2021-3156](https://github.com/mbcrump/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/mbcrump/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/mbcrump/CVE-2021-3156">
+- [nobodyatall648/CVE-2021-3156](https://github.com/nobodyatall648/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/nobodyatall648/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/nobodyatall648/CVE-2021-3156">
+- [blasty/CVE-2021-3156](https://github.com/blasty/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/blasty/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/blasty/CVE-2021-3156">
+- [teamtopkarl/CVE-2021-3156](https://github.com/teamtopkarl/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/teamtopkarl/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/teamtopkarl/CVE-2021-3156">
+- [Q4n/CVE-2021-3156](https://github.com/Q4n/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/Q4n/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/Q4n/CVE-2021-3156">
+- [apogiatzis/docker-CVE-2021-3156](https://github.com/apogiatzis/docker-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/apogiatzis/docker-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/apogiatzis/docker-CVE-2021-3156">
+- [Ashish-dawani/CVE-2021-3156-Patch](https://github.com/Ashish-dawani/CVE-2021-3156-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/Ashish-dawani/CVE-2021-3156-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/Ashish-dawani/CVE-2021-3156-Patch">
+- [SantiagoSerrao/ScannerCVE-2021-3156](https://github.com/SantiagoSerrao/ScannerCVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/SantiagoSerrao/ScannerCVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/SantiagoSerrao/ScannerCVE-2021-3156">
+- [DanielAzulayy/CTF-2021](https://github.com/DanielAzulayy/CTF-2021)	<img alt="forks" src="https://img.shields.io/github/forks/DanielAzulayy/CTF-2021">	<img alt="stars" src="https://img.shields.io/github/stars/DanielAzulayy/CTF-2021">
+- [cdeletre/Serpentiel-CVE-2021-3156](https://github.com/cdeletre/Serpentiel-CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/cdeletre/Serpentiel-CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/cdeletre/Serpentiel-CVE-2021-3156">
+- [dinhbaouit/CVE-2021-3156](https://github.com/dinhbaouit/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/dinhbaouit/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/dinhbaouit/CVE-2021-3156">
+- [perlun/sudo-1.8.3p1-patched](https://github.com/perlun/sudo-1.8.3p1-patched)	<img alt="forks" src="https://img.shields.io/github/forks/perlun/sudo-1.8.3p1-patched">	<img alt="stars" src="https://img.shields.io/github/stars/perlun/sudo-1.8.3p1-patched">
+- [1N53C/CVE-2021-3156-PoC](https://github.com/1N53C/CVE-2021-3156-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/1N53C/CVE-2021-3156-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/1N53C/CVE-2021-3156-PoC">
+- [gmldbd94/cve-2021-3156](https://github.com/gmldbd94/cve-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/gmldbd94/cve-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/gmldbd94/cve-2021-3156">
+- [jm33-m0/CVE-2021-3156](https://github.com/jm33-m0/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/jm33-m0/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/jm33-m0/CVE-2021-3156">
+- [Rvn0xsy/CVE-2021-3156-plus](https://github.com/Rvn0xsy/CVE-2021-3156-plus)	<img alt="forks" src="https://img.shields.io/github/forks/Rvn0xsy/CVE-2021-3156-plus">	<img alt="stars" src="https://img.shields.io/github/stars/Rvn0xsy/CVE-2021-3156-plus">
+- [oneoy/CVE-2021-3156](https://github.com/oneoy/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/oneoy/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/oneoy/CVE-2021-3156">
+- [lmol/CVE-2021-3156](https://github.com/lmol/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/lmol/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/lmol/CVE-2021-3156">
+- [BearCat4/CVE-2021-3156](https://github.com/BearCat4/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/BearCat4/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/BearCat4/CVE-2021-3156">
+- [sbladiamond/CVE-2021-3156](https://github.com/sbladiamond/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/sbladiamond/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/sbladiamond/CVE-2021-3156">
+- [DakerQirszh/cve-2021-3156](https://github.com/DakerQirszh/cve-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/DakerQirszh/cve-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/DakerQirszh/cve-2021-3156">
+- [Kranti08/CVE-2021-3156-Baron-Samedit](https://github.com/Kranti08/CVE-2021-3156-Baron-Samedit)	<img alt="forks" src="https://img.shields.io/github/forks/Kranti08/CVE-2021-3156-Baron-Samedit">	<img alt="stars" src="https://img.shields.io/github/stars/Kranti08/CVE-2021-3156-Baron-Samedit">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)
@@ -7138,6 +8587,11 @@
 ## CVE-2021-31493 (2021-06-15T19:15:00)
 > This vulnerability allows remote attackers to execute arbitrary code on affected installations of OpenText Brava! Desktop 16.6.3.84. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of DXF files. The issue results from the lack of proper validation of user-supplied data, which can result in a memory corruption condition. An attacker can leverage this vulnerability to execute code in the context of the current process. Was ZDI-CAN-13304.
 - [Live-Hack-CVE/CVE-2021-31493](https://github.com/Live-Hack-CVE/CVE-2021-31493)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31493">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31493">
+
+---
+## CVE-2021-3138 ()
+> 
+- [Mesh3l911/CVE-2021-3138](https://github.com/Mesh3l911/CVE-2021-3138)	<img alt="forks" src="https://img.shields.io/github/forks/Mesh3l911/CVE-2021-3138">	<img alt="stars" src="https://img.shields.io/github/stars/Mesh3l911/CVE-2021-3138">
 
 ---
 ## CVE-2021-31375 (2021-10-19T19:15:00)
@@ -7180,6 +8634,17 @@
 ## CVE-2021-31316 (2021-05-18T20:15:00)
 > The unprivileged user portal part of CentOS Web Panel is affected by a SQL Injection via the 'idsession' HTTP POST parameter.
 - [Live-Hack-CVE/CVE-2021-31316](https://github.com/Live-Hack-CVE/CVE-2021-31316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31316">
+
+---
+## CVE-2021-3131 ()
+> 
+- [jet-pentest/CVE-2021-3131](https://github.com/jet-pentest/CVE-2021-3131)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2021-3131">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2021-3131">
+
+---
+## CVE-2021-3130 ()
+> 
+- [jet-pentest/CVE-2021-3130](https://github.com/jet-pentest/CVE-2021-3130)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2021-3130">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2021-3130">
+- [lusterx/CVE-2021-3130](https://github.com/lusterx/CVE-2021-3130)	<img alt="forks" src="https://img.shields.io/github/forks/lusterx/CVE-2021-3130">	<img alt="stars" src="https://img.shields.io/github/stars/lusterx/CVE-2021-3130">
 
 ---
 ## CVE-2021-31290 ()
@@ -7241,6 +8706,11 @@
 - [acquiredsecurity/CVE-2021-3122-Details](https://github.com/acquiredsecurity/CVE-2021-3122-Details)	<img alt="forks" src="https://img.shields.io/github/forks/acquiredsecurity/CVE-2021-3122-Details">	<img alt="stars" src="https://img.shields.io/github/stars/acquiredsecurity/CVE-2021-3122-Details">
 
 ---
+## CVE-2021-31184 ()
+> 
+- [waleedassar/CVE-2021-31184](https://github.com/waleedassar/CVE-2021-31184)	<img alt="forks" src="https://img.shields.io/github/forks/waleedassar/CVE-2021-31184">	<img alt="stars" src="https://img.shields.io/github/stars/waleedassar/CVE-2021-31184">
+
+---
 ## CVE-2021-31166 (2021-05-11T19:15:00)
 > HTTP Protocol Stack Remote Code Execution Vulnerability
 - [corelight/CVE-2021-31166](https://github.com/corelight/CVE-2021-31166)	<img alt="forks" src="https://img.shields.io/github/forks/corelight/CVE-2021-31166">	<img alt="stars" src="https://img.shields.io/github/stars/corelight/CVE-2021-31166">
@@ -7260,6 +8730,11 @@
 ## CVE-2021-31162 (2021-04-14T07:15:00)
 > In the standard library in Rust before 1.52.0, a double free can occur in the Vec::from_iter function if freeing the element panics.
 - [Live-Hack-CVE/CVE-2021-31162](https://github.com/Live-Hack-CVE/CVE-2021-31162)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-31162">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-31162">
+
+---
+## CVE-2021-31159 ()
+> 
+- [ricardojoserf/CVE-2021-31159](https://github.com/ricardojoserf/CVE-2021-31159)	<img alt="forks" src="https://img.shields.io/github/forks/ricardojoserf/CVE-2021-31159">	<img alt="stars" src="https://img.shields.io/github/stars/ricardojoserf/CVE-2021-31159">
 
 ---
 ## CVE-2021-3115 (2021-01-26T18:16:00)
@@ -7297,6 +8772,16 @@
 ## CVE-2021-30956 ()
 > 
 - [fordsham/CVE-2021-30956](https://github.com/fordsham/CVE-2021-30956)	<img alt="forks" src="https://img.shields.io/github/forks/fordsham/CVE-2021-30956">	<img alt="stars" src="https://img.shields.io/github/stars/fordsham/CVE-2021-30956">
+
+---
+## CVE-2021-30955 ()
+> 
+- [GeoSn0w/Pentagram-exploit-tester](https://github.com/GeoSn0w/Pentagram-exploit-tester)	<img alt="forks" src="https://img.shields.io/github/forks/GeoSn0w/Pentagram-exploit-tester">	<img alt="stars" src="https://img.shields.io/github/stars/GeoSn0w/Pentagram-exploit-tester">
+
+---
+## CVE-2021-30937 ()
+> 
+- [realrodri/ExploiteameEsta](https://github.com/realrodri/ExploiteameEsta)	<img alt="forks" src="https://img.shields.io/github/forks/realrodri/ExploiteameEsta">	<img alt="stars" src="https://img.shields.io/github/stars/realrodri/ExploiteameEsta">
 
 ---
 ## CVE-2021-30935 (2021-08-24T19:15:00)
@@ -7353,6 +8838,12 @@
 - [Levilutz/CVE-2021-30860](https://github.com/Levilutz/CVE-2021-30860)	<img alt="forks" src="https://img.shields.io/github/forks/Levilutz/CVE-2021-30860">	<img alt="stars" src="https://img.shields.io/github/stars/Levilutz/CVE-2021-30860">
 
 ---
+## CVE-2021-30858 ()
+> 
+- [kmeps4/CVEREV3](https://github.com/kmeps4/CVEREV3)	<img alt="forks" src="https://img.shields.io/github/forks/kmeps4/CVEREV3">	<img alt="stars" src="https://img.shields.io/github/stars/kmeps4/CVEREV3">
+- [Jeromeyoung/ps4_8.00_vuln_poc](https://github.com/Jeromeyoung/ps4_8.00_vuln_poc)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/ps4_8.00_vuln_poc">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/ps4_8.00_vuln_poc">
+
+---
 ## CVE-2021-30844 (2021-10-19T14:15:00)
 > A logic issue was addressed with improved state management. This issue is fixed in Security Update 2021-005 Catalina, macOS Big Sur 11.6. A remote attacker may be able to leak memory.
 - [Live-Hack-CVE/CVE-2021-30844](https://github.com/Live-Hack-CVE/CVE-2021-30844)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30844">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30844">
@@ -7361,6 +8852,27 @@
 ## CVE-2021-30809 ()
 > 
 - [seregonwar/CVE-2021-30809-UAF](https://github.com/seregonwar/CVE-2021-30809-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/seregonwar/CVE-2021-30809-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/seregonwar/CVE-2021-30809-UAF">
+
+---
+## CVE-2021-30807 ()
+> 
+- [jsherman212/iomfb-exploit](https://github.com/jsherman212/iomfb-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/jsherman212/iomfb-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/jsherman212/iomfb-exploit">
+- [30440r/gex](https://github.com/30440r/gex)	<img alt="forks" src="https://img.shields.io/github/forks/30440r/gex">	<img alt="stars" src="https://img.shields.io/github/stars/30440r/gex">
+
+---
+## CVE-2021-30682 ()
+> 
+- [threatnix/csp-playground](https://github.com/threatnix/csp-playground)	<img alt="forks" src="https://img.shields.io/github/forks/threatnix/csp-playground">	<img alt="stars" src="https://img.shields.io/github/stars/threatnix/csp-playground">
+
+---
+## CVE-2021-30657 ()
+> 
+- [shubham0d/CVE-2021-30657](https://github.com/shubham0d/CVE-2021-30657)	<img alt="forks" src="https://img.shields.io/github/forks/shubham0d/CVE-2021-30657">	<img alt="stars" src="https://img.shields.io/github/stars/shubham0d/CVE-2021-30657">
+
+---
+## CVE-2021-30641 ()
+> 
+- [dja2TaqkGEEfA45/CVE-2021-30641](https://github.com/dja2TaqkGEEfA45/CVE-2021-30641)	<img alt="forks" src="https://img.shields.io/github/forks/dja2TaqkGEEfA45/CVE-2021-30641">	<img alt="stars" src="https://img.shields.io/github/stars/dja2TaqkGEEfA45/CVE-2021-30641">
 
 ---
 ## CVE-2021-30640 (2021-07-12T15:15:00)
@@ -7393,6 +8905,13 @@
 - [anmolksachan/CVE-2021-3060](https://github.com/anmolksachan/CVE-2021-3060)	<img alt="forks" src="https://img.shields.io/github/forks/anmolksachan/CVE-2021-3060">	<img alt="stars" src="https://img.shields.io/github/stars/anmolksachan/CVE-2021-3060">
 
 ---
+## CVE-2021-30573 ()
+> 
+- [s4eio/CVE-2021-30573-PoC-Google-Chrome](https://github.com/s4eio/CVE-2021-30573-PoC-Google-Chrome)	<img alt="forks" src="https://img.shields.io/github/forks/s4eio/CVE-2021-30573-PoC-Google-Chrome">	<img alt="stars" src="https://img.shields.io/github/stars/s4eio/CVE-2021-30573-PoC-Google-Chrome">
+- [orangmuda/CVE-2021-30573](https://github.com/orangmuda/CVE-2021-30573)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-30573">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-30573">
+- [kh4sh3i/CVE-2021-30573](https://github.com/kh4sh3i/CVE-2021-30573)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2021-30573">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2021-30573">
+
+---
 ## CVE-2021-30560 (2021-08-03T19:15:00)
 > Use after free in Blink XSLT in Google Chrome prior to 91.0.4472.164 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [Live-Hack-CVE/CVE-2021-30560](https://github.com/Live-Hack-CVE/CVE-2021-30560)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30560">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30560">
@@ -7423,6 +8942,11 @@
 - [Live-Hack-CVE/CVE-2021-30496](https://github.com/Live-Hack-CVE/CVE-2021-30496)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30496">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30496">
 
 ---
+## CVE-2021-30481 ()
+> 
+- [floesen/CVE-2021-30481](https://github.com/floesen/CVE-2021-30481)	<img alt="forks" src="https://img.shields.io/github/forks/floesen/CVE-2021-30481">	<img alt="stars" src="https://img.shields.io/github/stars/floesen/CVE-2021-30481">
+
+---
 ## CVE-2021-30472 (2021-05-26T22:15:00)
 > A flaw was found in PoDoFo 0.9.7. A stack-based buffer overflow in PdfEncryptMD5Base::ComputeOwnerKey function in PdfEncrypt.cpp is possible because of a improper check of the keyLength value.
 - [Live-Hack-CVE/CVE-2021-30472](https://github.com/Live-Hack-CVE/CVE-2021-30472)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30472">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30472">
@@ -7441,6 +8965,11 @@
 ## CVE-2021-30357 (2021-06-08T14:15:00)
 > SSL Network Extender Client for Linux before build 800008302 reveals part of the contents of the configuration file supplied, which allows partially disclosing files to which the user did not have access.
 - [joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC](https://github.com/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/joaovarelas/CVE-2021-30357_CheckPoint_SNX_VPN_PoC">
+
+---
+## CVE-2021-30327 ()
+> 
+- [Daniel224455/katana](https://github.com/Daniel224455/katana)	<img alt="forks" src="https://img.shields.io/github/forks/Daniel224455/katana">	<img alt="stars" src="https://img.shields.io/github/stars/Daniel224455/katana">
 
 ---
 ## CVE-2021-3024 (2021-02-01T16:15:00)
@@ -7477,9 +9006,24 @@
 - [shoucheng3/apache__dubbo_CVE-2021-30180_2-7-9](https://github.com/shoucheng3/apache__dubbo_CVE-2021-30180_2-7-9)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__dubbo_CVE-2021-30180_2-7-9">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__dubbo_CVE-2021-30180_2-7-9">
 
 ---
+## CVE-2021-30146 ()
+> 
+- [Security-AVS/CVE-2021-30146](https://github.com/Security-AVS/CVE-2021-30146)	<img alt="forks" src="https://img.shields.io/github/forks/Security-AVS/CVE-2021-30146">	<img alt="stars" src="https://img.shields.io/github/stars/Security-AVS/CVE-2021-30146">
+
+---
 ## CVE-2021-30140 (2021-04-06T16:15:00)
 > LiquidFiles 3.4.15 has stored XSS through the "send email" functionality when sending a file via email to an administrator. When a file has no extension and contains malicious HTML / JavaScript content (such as SVG with HTML content), the payload is executed upon a click. This is fixed in 3.5.
 - [Live-Hack-CVE/CVE-2021-30140](https://github.com/Live-Hack-CVE/CVE-2021-30140)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30140">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30140">
+
+---
+## CVE-2021-30128 ()
+> 
+- [LioTree/CVE-2021-30128-EXP](https://github.com/LioTree/CVE-2021-30128-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/LioTree/CVE-2021-30128-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/LioTree/CVE-2021-30128-EXP">
+
+---
+## CVE-2021-30109 ()
+> 
+- [Hackdwerg/CVE-2021-30109](https://github.com/Hackdwerg/CVE-2021-30109)	<img alt="forks" src="https://img.shields.io/github/forks/Hackdwerg/CVE-2021-30109">	<img alt="stars" src="https://img.shields.io/github/stars/Hackdwerg/CVE-2021-30109">
 
 ---
 ## CVE-2021-30071 (2022-08-18T05:15:00)
@@ -7507,6 +9051,11 @@
 > SerenityOS 2021-03-27 contains a buffer overflow vulnerability in the EndOfCentralDirectory::read() function.
 - [Live-Hack-CVE/CVE-2021-30045](https://github.com/Live-Hack-CVE/CVE-2021-30045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30045">
 - [Live-Hack-CVE/CVE-2021-30045](https://github.com/Live-Hack-CVE/CVE-2021-30045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-30045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-30045">
+
+---
+## CVE-2021-30005 ()
+> 
+- [atorralba/CVE-2021-30005-POC](https://github.com/atorralba/CVE-2021-30005-POC)	<img alt="forks" src="https://img.shields.io/github/forks/atorralba/CVE-2021-30005-POC">	<img alt="stars" src="https://img.shields.io/github/stars/atorralba/CVE-2021-30005-POC">
 
 ---
 ## CVE-2021-29988 (2021-08-17T20:15:00)
@@ -7601,6 +9150,11 @@
 - [Live-Hack-CVE/CVE-2021-29672](https://github.com/Live-Hack-CVE/CVE-2021-29672)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29672">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29672">
 
 ---
+## CVE-2021-29627 ()
+> 
+- [raymontag/cve-2021-29627](https://github.com/raymontag/cve-2021-29627)	<img alt="forks" src="https://img.shields.io/github/forks/raymontag/cve-2021-29627">	<img alt="stars" src="https://img.shields.io/github/stars/raymontag/cve-2021-29627">
+
+---
 ## CVE-2021-29624 (2021-05-19T22:15:00)
 > fastify-csrf is an open-source plugin helps developers protect their Fastify server against CSRF attacks. Versions of fastify-csrf prior to 3.1.0 have a "double submit" mechanism using cookies with an application deployed across multiple subdomains, e.g. "heroku"-style platform as a service. Version 3.1.0 of the fastify-csrf fixes it. the vulnerability. The user of the module would need to supply a `userInfo` when generating the CSRF token to fully implement the protection on their end. This is needed only for applications hosted on different subdomains.
 - [Live-Hack-CVE/CVE-2021-29624](https://github.com/Live-Hack-CVE/CVE-2021-29624)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29624">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29624">
@@ -7672,6 +9226,7 @@
 > Nacos is a platform designed for dynamic service discovery and configuration and service management. In Nacos before version 1.4.1, the ConfigOpsController lets the user perform management operations like querying the database or even wiping it out. While the /data/remove endpoint is properly protected with the @Secured annotation, the /derby endpoint is not protected and can be openly accessed by unauthenticated users. These endpoints are only valid when using embedded storage (derby DB) so this issue should not affect those installations using external storage (e.g. mysql)
 - [XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp](https://github.com/XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp">
 - [VictorShem/QVD-2024-26473](https://github.com/VictorShem/QVD-2024-26473)	<img alt="forks" src="https://img.shields.io/github/forks/VictorShem/QVD-2024-26473">	<img alt="stars" src="https://img.shields.io/github/stars/VictorShem/QVD-2024-26473">
+- [nanaao/cve-2021-29442-Nacos-Derby-rce-exp](https://github.com/nanaao/cve-2021-29442-Nacos-Derby-rce-exp)	<img alt="forks" src="https://img.shields.io/github/forks/nanaao/cve-2021-29442-Nacos-Derby-rce-exp">	<img alt="stars" src="https://img.shields.io/github/stars/nanaao/cve-2021-29442-Nacos-Derby-rce-exp">
 
 ---
 ## CVE-2021-29441 (2021-04-27T21:15:00)
@@ -7680,11 +9235,13 @@
 - [bysinks/CVE-2021-29441](https://github.com/bysinks/CVE-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/bysinks/CVE-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/bysinks/CVE-2021-29441">
 - [hh-hunter/nacos-cve-2021-29441](https://github.com/hh-hunter/nacos-cve-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/nacos-cve-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/nacos-cve-2021-29441">
 - [azhao1981/CVE-2021-29441](https://github.com/azhao1981/CVE-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/azhao1981/CVE-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/azhao1981/CVE-2021-29441">
+- [K3ysTr0K3R/CVE-2021-29441](https://github.com/K3ysTr0K3R/CVE-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-29441">
 
 ---
 ## CVE-2021-29440 (2021-04-13T20:15:00)
 > Grav is a file based Web-platform. Twig processing of static pages can be enabled in the front matter by any administrative user allowed to create or edit pages. As the Twig processor runs unsandboxed, this behavior can be used to gain arbitrary code execution and elevate privileges on the instance. The issue was addressed in version 1.7.11.
 - [Live-Hack-CVE/CVE-2021-29440](https://github.com/Live-Hack-CVE/CVE-2021-29440)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29440">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29440">
+- [CsEnox/CVE-2021-29440](https://github.com/CsEnox/CVE-2021-29440)	<img alt="forks" src="https://img.shields.io/github/forks/CsEnox/CVE-2021-29440">	<img alt="stars" src="https://img.shields.io/github/stars/CsEnox/CVE-2021-29440">
 
 ---
 ## CVE-2021-29427 ()
@@ -7708,15 +9265,41 @@
 - [Live-Hack-CVE/CVE-2021-29368](https://github.com/Live-Hack-CVE/CVE-2021-29368)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29368">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29368">
 
 ---
+## CVE-2021-29349 ()
+> 
+- [0xBaz/CVE-2021-29349](https://github.com/0xBaz/CVE-2021-29349)	<img alt="forks" src="https://img.shields.io/github/forks/0xBaz/CVE-2021-29349">	<img alt="stars" src="https://img.shields.io/github/stars/0xBaz/CVE-2021-29349">
+- [Vulnmachines/CVE-2021-29349](https://github.com/Vulnmachines/CVE-2021-29349)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/CVE-2021-29349">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/CVE-2021-29349">
+
+---
 ## CVE-2021-29338 (2021-04-14T14:15:00)
 > Integer Overflow in OpenJPEG v2.4.0 allows remote attackers to crash the application, causing a Denial of Service (DoS). This occurs when the attacker uses the command line option "-ImgDir" on a directory that contains 1048576 files.
 - [Live-Hack-CVE/CVE-2021-29338](https://github.com/Live-Hack-CVE/CVE-2021-29338)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-29338">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-29338">
+
+---
+## CVE-2021-29337 ()
+> 
+- [rjt-gupta/CVE-2021-29337](https://github.com/rjt-gupta/CVE-2021-29337)	<img alt="forks" src="https://img.shields.io/github/forks/rjt-gupta/CVE-2021-29337">	<img alt="stars" src="https://img.shields.io/github/stars/rjt-gupta/CVE-2021-29337">
+
+---
+## CVE-2021-29267 ()
+> 
+- [Security-AVS/CVE-2021-29267](https://github.com/Security-AVS/CVE-2021-29267)	<img alt="forks" src="https://img.shields.io/github/forks/Security-AVS/CVE-2021-29267">	<img alt="stars" src="https://img.shields.io/github/stars/Security-AVS/CVE-2021-29267">
+
+---
+## CVE-2021-29200 ()
+> 
+- [freeide/CVE-2021-29200](https://github.com/freeide/CVE-2021-29200)	<img alt="forks" src="https://img.shields.io/github/forks/freeide/CVE-2021-29200">	<img alt="stars" src="https://img.shields.io/github/stars/freeide/CVE-2021-29200">
 
 ---
 ## CVE-2021-29156 (2021-03-25T09:15:00)
 > ForgeRock OpenAM before 13.5.1 allows LDAP injection via the Webfinger protocol. For example, an unauthenticated attacker can perform character-by-character retrieval of password hashes, or retrieve a session token or a private key.
 - [5amu/CVE-2021-29156](https://github.com/5amu/CVE-2021-29156)	<img alt="forks" src="https://img.shields.io/github/forks/5amu/CVE-2021-29156">	<img alt="stars" src="https://img.shields.io/github/stars/5amu/CVE-2021-29156">
 - [guidepointsecurity/CVE-2021-29156](https://github.com/guidepointsecurity/CVE-2021-29156)	<img alt="forks" src="https://img.shields.io/github/forks/guidepointsecurity/CVE-2021-29156">	<img alt="stars" src="https://img.shields.io/github/stars/guidepointsecurity/CVE-2021-29156">
+
+---
+## CVE-2021-29155 ()
+> 
+- [benschlueter/CVE-2021-29155](https://github.com/benschlueter/CVE-2021-29155)	<img alt="forks" src="https://img.shields.io/github/forks/benschlueter/CVE-2021-29155">	<img alt="stars" src="https://img.shields.io/github/stars/benschlueter/CVE-2021-29155">
 
 ---
 ## CVE-2021-29024 (2021-05-17T19:15:00)
@@ -7816,6 +9399,11 @@
 - [TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664](https://github.com/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664)	<img alt="forks" src="https://img.shields.io/github/forks/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664">	<img alt="stars" src="https://img.shields.io/github/stars/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664">
 
 ---
+## CVE-2021-28663 ()
+> 
+- [lntrx/CVE-2021-28663](https://github.com/lntrx/CVE-2021-28663)	<img alt="forks" src="https://img.shields.io/github/forks/lntrx/CVE-2021-28663">	<img alt="stars" src="https://img.shields.io/github/stars/lntrx/CVE-2021-28663">
+
+---
 ## CVE-2021-28655 (2022-12-16T13:15:00)
 > The improper Input Validation vulnerability in "”Move folder to Trash” feature of Apache Zeppelin allows an attacker to delete the arbitrary files. This issue affects Apache Zeppelin Apache Zeppelin version 0.9.0 and prior versions.
 - [Live-Hack-CVE/CVE-2021-28655](https://github.com/Live-Hack-CVE/CVE-2021-28655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28655">
@@ -7842,6 +9430,24 @@
 - [Live-Hack-CVE/CVE-2021-28500](https://github.com/Live-Hack-CVE/CVE-2021-28500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28500">
 
 ---
+## CVE-2021-28482 ()
+> 
+- [Shadow0ps/CVE-2021-28482-Exchange-POC](https://github.com/Shadow0ps/CVE-2021-28482-Exchange-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Shadow0ps/CVE-2021-28482-Exchange-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Shadow0ps/CVE-2021-28482-Exchange-POC">
+- [KevinWorst/CVE-2021-28482_Exploit](https://github.com/KevinWorst/CVE-2021-28482_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/KevinWorst/CVE-2021-28482_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/KevinWorst/CVE-2021-28482_Exploit">
+
+---
+## CVE-2021-28480 ()
+> 
+- [ZephrFish/CVE-2021-28480_HoneyPoC3](https://github.com/ZephrFish/CVE-2021-28480_HoneyPoC3)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2021-28480_HoneyPoC3">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2021-28480_HoneyPoC3">
+
+---
+## CVE-2021-28476 ()
+> 
+- [0vercl0k/CVE-2021-28476](https://github.com/0vercl0k/CVE-2021-28476)	<img alt="forks" src="https://img.shields.io/github/forks/0vercl0k/CVE-2021-28476">	<img alt="stars" src="https://img.shields.io/github/stars/0vercl0k/CVE-2021-28476">
+- [bluefrostsecurity/CVE-2021-28476](https://github.com/bluefrostsecurity/CVE-2021-28476)	<img alt="forks" src="https://img.shields.io/github/forks/bluefrostsecurity/CVE-2021-28476">	<img alt="stars" src="https://img.shields.io/github/stars/bluefrostsecurity/CVE-2021-28476">
+- [LaCeeKa/CVE-2021-28476-tools-env](https://github.com/LaCeeKa/CVE-2021-28476-tools-env)	<img alt="forks" src="https://img.shields.io/github/forks/LaCeeKa/CVE-2021-28476-tools-env">	<img alt="stars" src="https://img.shields.io/github/stars/LaCeeKa/CVE-2021-28476-tools-env">
+
+---
 ## CVE-2021-28398 (2022-09-05T17:15:00)
 > A privileged attacker in GeoNetwork before 3.12.0 and 4.x before 4.0.4 can use the directory harvester before-script to execute arbitrary OS commands remotely on the hosting infrastructure. A User Administrator or Administrator account is required to perform this. This occurs in the runBeforeScript method in harvesters/src/main/java/org/fao/geonet/kernel/harvest/harvester/localfilesystem/LocalFilesystemHarvester.java. The earliest affected version is 3.4.0.
 - [Live-Hack-CVE/CVE-2021-28398](https://github.com/Live-Hack-CVE/CVE-2021-28398)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28398">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28398">
@@ -7850,6 +9456,16 @@
 ## CVE-2021-28378 ()
 > 
 - [pandatix/CVE-2021-28378](https://github.com/pandatix/CVE-2021-28378)	<img alt="forks" src="https://img.shields.io/github/forks/pandatix/CVE-2021-28378">	<img alt="stars" src="https://img.shields.io/github/stars/pandatix/CVE-2021-28378">
+
+---
+## CVE-2021-28312 ()
+> 
+- [shubham0d/CVE-2021-28312](https://github.com/shubham0d/CVE-2021-28312)	<img alt="forks" src="https://img.shields.io/github/forks/shubham0d/CVE-2021-28312">	<img alt="stars" src="https://img.shields.io/github/stars/shubham0d/CVE-2021-28312">
+
+---
+## CVE-2021-28310 ()
+> 
+- [Rafael-Svechinskaya/IOC_for_CVE-2021-28310](https://github.com/Rafael-Svechinskaya/IOC_for_CVE-2021-28310)	<img alt="forks" src="https://img.shields.io/github/forks/Rafael-Svechinskaya/IOC_for_CVE-2021-28310">	<img alt="stars" src="https://img.shields.io/github/stars/Rafael-Svechinskaya/IOC_for_CVE-2021-28310">
 
 ---
 ## CVE-2021-28169 (2021-06-09T02:15:00)
@@ -7881,6 +9497,11 @@
 - [Live-Hack-CVE/CVE-2021-28114](https://github.com/Live-Hack-CVE/CVE-2021-28114)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28114">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28114">
 
 ---
+## CVE-2021-28079 ()
+> 
+- [g33xter/CVE-2021-28079](https://github.com/g33xter/CVE-2021-28079)	<img alt="forks" src="https://img.shields.io/github/forks/g33xter/CVE-2021-28079">	<img alt="stars" src="https://img.shields.io/github/stars/g33xter/CVE-2021-28079">
+
+---
 ## CVE-2021-28052 (2022-09-26T16:15:00)
 > A tenant administrator Hitachi Content Platform (HCP) may modify the configuration in another tenant without authorization, potentially allowing unauthorized access to data in the other tenant. Also, a tenant user (non-administrator) may view configuration in another tenant without authorization. This issue affects: Hitachi Vantara Hitachi Content Platform versions prior to 8.3.7; 9.0.0 versions prior to 9.2.3.
 - [Live-Hack-CVE/CVE-2021-28052](https://github.com/Live-Hack-CVE/CVE-2021-28052)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-28052">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-28052">
@@ -7896,6 +9517,12 @@
 - [Exploitables/CVE-2021-27965](https://github.com/Exploitables/CVE-2021-27965)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2021-27965">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2021-27965">
 - [Jeromeyoung/CVE-2021-27965](https://github.com/Jeromeyoung/CVE-2021-27965)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-27965">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-27965">
 - [mathisvickie/CVE-2021-27965](https://github.com/mathisvickie/CVE-2021-27965)	<img alt="forks" src="https://img.shields.io/github/forks/mathisvickie/CVE-2021-27965">	<img alt="stars" src="https://img.shields.io/github/stars/mathisvickie/CVE-2021-27965">
+- [fengjixuchui/CVE-2021-27965](https://github.com/fengjixuchui/CVE-2021-27965)	<img alt="forks" src="https://img.shields.io/github/forks/fengjixuchui/CVE-2021-27965">	<img alt="stars" src="https://img.shields.io/github/stars/fengjixuchui/CVE-2021-27965">
+
+---
+## CVE-2021-27963 ()
+> 
+- [erberkan/SonLogger-vulns](https://github.com/erberkan/SonLogger-vulns)	<img alt="forks" src="https://img.shields.io/github/forks/erberkan/SonLogger-vulns">	<img alt="stars" src="https://img.shields.io/github/stars/erberkan/SonLogger-vulns">
 
 ---
 ## CVE-2021-27928 (2021-03-19T03:15:00)
@@ -7919,6 +9546,16 @@
 - [W2Ning/Solr-SSRF](https://github.com/W2Ning/Solr-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/W2Ning/Solr-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/W2Ning/Solr-SSRF">
 - [Henry4E36/Solr-SSRF](https://github.com/Henry4E36/Solr-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/Solr-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/Solr-SSRF">
 - [RIZZZIOM/CVE-2021-27905](https://github.com/RIZZZIOM/CVE-2021-27905)	<img alt="forks" src="https://img.shields.io/github/forks/RIZZZIOM/CVE-2021-27905">	<img alt="stars" src="https://img.shields.io/github/stars/RIZZZIOM/CVE-2021-27905">
+
+---
+## CVE-2021-27890 ()
+> 
+- [xiaopan233/Mybb-XSS_SQL_RCE-POC](https://github.com/xiaopan233/Mybb-XSS_SQL_RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xiaopan233/Mybb-XSS_SQL_RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xiaopan233/Mybb-XSS_SQL_RCE-POC">
+
+---
+## CVE-2021-27876 ()
+> 
+- [wingerbijay/CVE-2021-27876](https://github.com/wingerbijay/CVE-2021-27876)	<img alt="forks" src="https://img.shields.io/github/forks/wingerbijay/CVE-2021-27876">	<img alt="stars" src="https://img.shields.io/github/stars/wingerbijay/CVE-2021-27876">
 
 ---
 ## CVE-2021-27855 (2021-12-15T20:15:00)
@@ -7947,6 +9584,13 @@
 ## CVE-2021-27663 (2021-08-30T18:15:00)
 > A vulnerability in versions 10.1 through 10.5 of Johnson Controls CEM Systems AC2000 allows a remote attacker to access to the system without adequate authorization. This issue affects: Johnson Controls CEM Systems AC2000 10.1; 10.2; 10.3; 10.4; 10.5.
 - [Live-Hack-CVE/CVE-2021-27663](https://github.com/Live-Hack-CVE/CVE-2021-27663)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27663">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27663">
+
+---
+## CVE-2021-27651 ()
+> 
+- [samwcyo/CVE-2021-27651-PoC](https://github.com/samwcyo/CVE-2021-27651-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/samwcyo/CVE-2021-27651-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/samwcyo/CVE-2021-27651-PoC">
+- [Vulnmachines/CVE-2021-27651](https://github.com/Vulnmachines/CVE-2021-27651)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/CVE-2021-27651">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/CVE-2021-27651">
+- [orangmuda/CVE-2021-27651](https://github.com/orangmuda/CVE-2021-27651)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-27651">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-27651">
 
 ---
 ## CVE-2021-27645 (2021-02-24T15:15:00)
@@ -8060,10 +9704,26 @@
 - [Live-Hack-CVE/CVE-2021-27516](https://github.com/Live-Hack-CVE/CVE-2021-27516)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27516">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27516">
 
 ---
+## CVE-2021-27513 ()
+> 
+- [ArianeBlow/CVE-2021-27513-CVE-2021-27514](https://github.com/ArianeBlow/CVE-2021-27513-CVE-2021-27514)	<img alt="forks" src="https://img.shields.io/github/forks/ArianeBlow/CVE-2021-27513-CVE-2021-27514">	<img alt="stars" src="https://img.shields.io/github/stars/ArianeBlow/CVE-2021-27513-CVE-2021-27514">
+- [ArianeBlow/CVE-2021-27513](https://github.com/ArianeBlow/CVE-2021-27513)	<img alt="forks" src="https://img.shields.io/github/forks/ArianeBlow/CVE-2021-27513">	<img alt="stars" src="https://img.shields.io/github/stars/ArianeBlow/CVE-2021-27513">
+
+---
 ## CVE-2021-27406 (2022-10-14T17:15:00)
 > An attacker can take leverage on PerFact OpenVPN-Client versions 1.4.1.0 and prior to send the config command from any application running on the local host machine to force the back-end server into initializing a new open-VPN instance with arbitrary open-VPN configuration. This could result in the attacker achieving execution with privileges of a SYSTEM user.
 - [Live-Hack-CVE/CVE-2021-27406](https://github.com/Live-Hack-CVE/CVE-2021-27406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27406">
 - [Live-Hack-CVE/CVE-2021-27406](https://github.com/Live-Hack-CVE/CVE-2021-27406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27406">
+
+---
+## CVE-2021-27404 ()
+> 
+- [bokanrb/CVE-2021-27404](https://github.com/bokanrb/CVE-2021-27404)	<img alt="forks" src="https://img.shields.io/github/forks/bokanrb/CVE-2021-27404">	<img alt="stars" src="https://img.shields.io/github/stars/bokanrb/CVE-2021-27404">
+
+---
+## CVE-2021-27403 ()
+> 
+- [bokanrb/CVE-2021-27403](https://github.com/bokanrb/CVE-2021-27403)	<img alt="forks" src="https://img.shields.io/github/forks/bokanrb/CVE-2021-27403">	<img alt="stars" src="https://img.shields.io/github/stars/bokanrb/CVE-2021-27403">
 
 ---
 ## CVE-2021-27365 ()
@@ -8075,6 +9735,16 @@
 > SerenityOS Unspecified is affected by: Buffer Overflow. The impact is: obtain sensitive information (context-dependent). The component is: /Userland/Libraries/LibCrypto/ASN1/DER.h Crypto::der_decode_sequence() function. The attack vector is: Parsing RSA Key ASN.1.
 - [Live-Hack-CVE/CVE-2021-27343](https://github.com/Live-Hack-CVE/CVE-2021-27343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27343">
 - [Live-Hack-CVE/CVE-2021-27343](https://github.com/Live-Hack-CVE/CVE-2021-27343)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27343">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27343">
+
+---
+## CVE-2021-27342 ()
+> 
+- [mavlevin/D-Link-CVE-2021-27342-exploit](https://github.com/mavlevin/D-Link-CVE-2021-27342-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mavlevin/D-Link-CVE-2021-27342-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mavlevin/D-Link-CVE-2021-27342-exploit">
+
+---
+## CVE-2021-27338 ()
+> 
+- [Pho03niX/CVE-2021-27338](https://github.com/Pho03niX/CVE-2021-27338)	<img alt="forks" src="https://img.shields.io/github/forks/Pho03niX/CVE-2021-27338">	<img alt="stars" src="https://img.shields.io/github/stars/Pho03niX/CVE-2021-27338">
 
 ---
 ## CVE-2021-27328 ()
@@ -8092,6 +9762,11 @@
 - [fjh1997/CVE-2021-27285](https://github.com/fjh1997/CVE-2021-27285)	<img alt="forks" src="https://img.shields.io/github/forks/fjh1997/CVE-2021-27285">	<img alt="stars" src="https://img.shields.io/github/stars/fjh1997/CVE-2021-27285">
 
 ---
+## CVE-2021-27246 ()
+> 
+- [synacktiv/CVE-2021-27246_Pwn2Own2020](https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2021-27246_Pwn2Own2020">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2021-27246_Pwn2Own2020">
+
+---
 ## CVE-2021-27239 (2021-03-29T21:15:00)
 > This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of NETGEAR R6400 and R6700 firmware version 1.0.4.98 routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the upnpd service, which listens on UDP port 1900 by default. A crafted MX header field in an SSDP message can trigger an overflow of a fixed-length stack-based buffer. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-11851.
 - [WizardsOfTheInternet/CVE-2021-27239](https://github.com/WizardsOfTheInternet/CVE-2021-27239)	<img alt="forks" src="https://img.shields.io/github/forks/WizardsOfTheInternet/CVE-2021-27239">	<img alt="stars" src="https://img.shields.io/github/stars/WizardsOfTheInternet/CVE-2021-27239">
@@ -8102,14 +9777,89 @@
 - [Live-Hack-CVE/CVE-2021-27219](https://github.com/Live-Hack-CVE/CVE-2021-27219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-27219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-27219">
 
 ---
+## CVE-2021-27211 ()
+> 
+- [b4shfire/stegcrack](https://github.com/b4shfire/stegcrack)	<img alt="forks" src="https://img.shields.io/github/forks/b4shfire/stegcrack">	<img alt="stars" src="https://img.shields.io/github/stars/b4shfire/stegcrack">
+
+---
 ## CVE-2021-27198 (2021-02-26T23:15:00)
 > An issue was discovered in Visualware MyConnection Server before v11.1a. Unauthenticated Remote Code Execution can occur via Arbitrary File Upload in the web service when using a myspeed/sf?filename= URI. This application is written in Java and is thus cross-platform. The Windows installation runs as SYSTEM, which means that exploitation gives one Administrator privileges on the target system.
 - [rwincey/CVE-2021-27198](https://github.com/rwincey/CVE-2021-27198)	<img alt="forks" src="https://img.shields.io/github/forks/rwincey/CVE-2021-27198">	<img alt="stars" src="https://img.shields.io/github/stars/rwincey/CVE-2021-27198">
 
 ---
+## CVE-2021-27190 ()
+> 
+- [anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS](https://github.com/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/anmolksachan/CVE-2021-27190-PEEL-Shopping-cart-9.3.0-Stored-XSS">
+
+---
+## CVE-2021-27188 ()
+> 
+- [jet-pentest/CVE-2021-27188](https://github.com/jet-pentest/CVE-2021-27188)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2021-27188">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2021-27188">
+
+---
+## CVE-2021-27187 ()
+> 
+- [jet-pentest/CVE-2021-27187](https://github.com/jet-pentest/CVE-2021-27187)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2021-27187">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2021-27187">
+
+---
+## CVE-2021-27180 ()
+> 
+- [chudyPB/MDaemon-Advisories](https://github.com/chudyPB/MDaemon-Advisories)	<img alt="forks" src="https://img.shields.io/github/forks/chudyPB/MDaemon-Advisories">	<img alt="stars" src="https://img.shields.io/github/stars/chudyPB/MDaemon-Advisories">
+
+---
 ## CVE-2021-27077 (2021-03-11T16:15:00)
 > Windows Win32k Elevation of Privilege Vulnerability This CVE ID is unique from CVE-2021-26863, CVE-2021-26875, CVE-2021-26900.
 - [peteribi/CVE-2021-27077](https://github.com/peteribi/CVE-2021-27077)	<img alt="forks" src="https://img.shields.io/github/forks/peteribi/CVE-2021-27077">	<img alt="stars" src="https://img.shields.io/github/stars/peteribi/CVE-2021-27077">
+
+---
+## CVE-2021-27065 ()
+> 
+- [adamrpostjr/cve-2021-27065](https://github.com/adamrpostjr/cve-2021-27065)	<img alt="forks" src="https://img.shields.io/github/forks/adamrpostjr/cve-2021-27065">	<img alt="stars" src="https://img.shields.io/github/stars/adamrpostjr/cve-2021-27065">
+
+---
+## CVE-2021-26943 ()
+> 
+- [tandasat/SmmExploit](https://github.com/tandasat/SmmExploit)	<img alt="forks" src="https://img.shields.io/github/forks/tandasat/SmmExploit">	<img alt="stars" src="https://img.shields.io/github/stars/tandasat/SmmExploit">
+
+---
+## CVE-2021-26904 ()
+> 
+- [Security-AVS/-CVE-2021-26904](https://github.com/Security-AVS/-CVE-2021-26904)	<img alt="forks" src="https://img.shields.io/github/forks/Security-AVS/-CVE-2021-26904">	<img alt="stars" src="https://img.shields.io/github/stars/Security-AVS/-CVE-2021-26904">
+
+---
+## CVE-2021-26903 ()
+> 
+- [Security-AVS/CVE-2021-26903](https://github.com/Security-AVS/CVE-2021-26903)	<img alt="forks" src="https://img.shields.io/github/forks/Security-AVS/CVE-2021-26903">	<img alt="stars" src="https://img.shields.io/github/stars/Security-AVS/CVE-2021-26903">
+
+---
+## CVE-2021-268855 ()
+> 
+- [sikkertech/CVE-2021-268855](https://github.com/sikkertech/CVE-2021-268855)	<img alt="forks" src="https://img.shields.io/github/forks/sikkertech/CVE-2021-268855">	<img alt="stars" src="https://img.shields.io/github/stars/sikkertech/CVE-2021-268855">
+
+---
+## CVE-2021-26882 ()
+> 
+- [taiji-xo/CVE-2021-26882](https://github.com/taiji-xo/CVE-2021-26882)	<img alt="forks" src="https://img.shields.io/github/forks/taiji-xo/CVE-2021-26882">	<img alt="stars" src="https://img.shields.io/github/stars/taiji-xo/CVE-2021-26882">
+
+---
+## CVE-2021-26871 ()
+> 
+- [fr4nkxixi/CVE-2021-26871_POC](https://github.com/fr4nkxixi/CVE-2021-26871_POC)	<img alt="forks" src="https://img.shields.io/github/forks/fr4nkxixi/CVE-2021-26871_POC">	<img alt="stars" src="https://img.shields.io/github/stars/fr4nkxixi/CVE-2021-26871_POC">
+
+---
+## CVE-2021-26868 ()
+> 
+- [KangD1W2/CVE-2021-26868](https://github.com/KangD1W2/CVE-2021-26868)	<img alt="forks" src="https://img.shields.io/github/forks/KangD1W2/CVE-2021-26868">	<img alt="stars" src="https://img.shields.io/github/stars/KangD1W2/CVE-2021-26868">
+
+---
+## CVE-2021-26857 ()
+> 
+- [sirpedrotavares/Proxylogon-exploit](https://github.com/sirpedrotavares/Proxylogon-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sirpedrotavares/Proxylogon-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sirpedrotavares/Proxylogon-exploit">
+
+---
+## CVE-2021-26856 ()
+> 
+- [avi8892/CVE-2021-26856](https://github.com/avi8892/CVE-2021-26856)	<img alt="forks" src="https://img.shields.io/github/forks/avi8892/CVE-2021-26856">	<img alt="stars" src="https://img.shields.io/github/stars/avi8892/CVE-2021-26856">
 
 ---
 ## CVE-2021-26855 (2021-03-03T00:15:00)
@@ -8157,6 +9907,29 @@
 - [SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065](https://github.com/SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-Exchange-RCE-v1.0---Microsoft-Exchange-Exploit-CVSS-10.0-CRITICAL-CVE-2021-26855-CVE-2021-27065">
 - [SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit](https://github.com/SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-ProxyLogon-RCE-v1.0---Convergent-Time-Theory-Enhanced-Microsoft-Exchange-Exploit">
 - [haotiku/CVE-2021-26855-exploit-Exchange](https://github.com/haotiku/CVE-2021-26855-exploit-Exchange)	<img alt="forks" src="https://img.shields.io/github/forks/haotiku/CVE-2021-26855-exploit-Exchange">	<img alt="stars" src="https://img.shields.io/github/stars/haotiku/CVE-2021-26855-exploit-Exchange">
+- [sgnls/exchange-0days-202103](https://github.com/sgnls/exchange-0days-202103)	<img alt="forks" src="https://img.shields.io/github/forks/sgnls/exchange-0days-202103">	<img alt="stars" src="https://img.shields.io/github/stars/sgnls/exchange-0days-202103">
+- [soteria-security/HAFNIUM-IOC](https://github.com/soteria-security/HAFNIUM-IOC)	<img alt="forks" src="https://img.shields.io/github/forks/soteria-security/HAFNIUM-IOC">	<img alt="stars" src="https://img.shields.io/github/stars/soteria-security/HAFNIUM-IOC">
+- [cert-lv/exchange_webshell_detection](https://github.com/cert-lv/exchange_webshell_detection)	<img alt="forks" src="https://img.shields.io/github/forks/cert-lv/exchange_webshell_detection">	<img alt="stars" src="https://img.shields.io/github/stars/cert-lv/exchange_webshell_detection">
+- [conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855](https://github.com/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/conjojo/Microsoft_Exchange_Server_SSRF_CVE-2021-26855">
+- [pussycat0x/CVE-2021-26855-SSRF](https://github.com/pussycat0x/CVE-2021-26855-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/pussycat0x/CVE-2021-26855-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/pussycat0x/CVE-2021-26855-SSRF">
+- [La3B0z/CVE-2021-26855-SSRF-Exchange](https://github.com/La3B0z/CVE-2021-26855-SSRF-Exchange)	<img alt="forks" src="https://img.shields.io/github/forks/La3B0z/CVE-2021-26855-SSRF-Exchange">	<img alt="stars" src="https://img.shields.io/github/stars/La3B0z/CVE-2021-26855-SSRF-Exchange">
+- [Yt1g3r/CVE-2021-26855_SSRF](https://github.com/Yt1g3r/CVE-2021-26855_SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/Yt1g3r/CVE-2021-26855_SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/Yt1g3r/CVE-2021-26855_SSRF">
+- [hackerxj007/CVE-2021-26855](https://github.com/hackerxj007/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/hackerxj007/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/hackerxj007/CVE-2021-26855">
+- [mauricelambert/ExchangeWeaknessTest](https://github.com/mauricelambert/ExchangeWeaknessTest)	<img alt="forks" src="https://img.shields.io/github/forks/mauricelambert/ExchangeWeaknessTest">	<img alt="stars" src="https://img.shields.io/github/stars/mauricelambert/ExchangeWeaknessTest">
+- [srvaccount/CVE-2021-26855-PoC](https://github.com/srvaccount/CVE-2021-26855-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/srvaccount/CVE-2021-26855-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/srvaccount/CVE-2021-26855-PoC">
+- [h4x0r-dz/CVE-2021-26855](https://github.com/h4x0r-dz/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/h4x0r-dz/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/h4x0r-dz/CVE-2021-26855">
+- [alt3kx/CVE-2021-26855_PoC](https://github.com/alt3kx/CVE-2021-26855_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2021-26855_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2021-26855_PoC">
+- [hackerschoice/CVE-2021-26855](https://github.com/hackerschoice/CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/hackerschoice/CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/hackerschoice/CVE-2021-26855">
+- [KotSec/CVE-2021-26855-Scanner](https://github.com/KotSec/CVE-2021-26855-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/KotSec/CVE-2021-26855-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/KotSec/CVE-2021-26855-Scanner">
+- [mil1200/ProxyLogon-CVE-2021-26855](https://github.com/mil1200/ProxyLogon-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/mil1200/ProxyLogon-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/mil1200/ProxyLogon-CVE-2021-26855">
+- [evilashz/ExchangeSSRFtoRCEExploit](https://github.com/evilashz/ExchangeSSRFtoRCEExploit)	<img alt="forks" src="https://img.shields.io/github/forks/evilashz/ExchangeSSRFtoRCEExploit">	<img alt="stars" src="https://img.shields.io/github/stars/evilashz/ExchangeSSRFtoRCEExploit">
+- [Mr-xn/CVE-2021-26855-d](https://github.com/Mr-xn/CVE-2021-26855-d)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2021-26855-d">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2021-26855-d">
+- [antichown/Scan-Vuln-CVE-2021-26855](https://github.com/antichown/Scan-Vuln-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/antichown/Scan-Vuln-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/antichown/Scan-Vuln-CVE-2021-26855">
+
+---
+## CVE-2021-26832 ()
+> 
+- [NagliNagli/CVE-2021-26832](https://github.com/NagliNagli/CVE-2021-26832)	<img alt="forks" src="https://img.shields.io/github/forks/NagliNagli/CVE-2021-26832">	<img alt="stars" src="https://img.shields.io/github/stars/NagliNagli/CVE-2021-26832">
 
 ---
 ## CVE-2021-26828 ()
@@ -8167,15 +9940,38 @@
 - [Yuri08loveElaina/CVE-2021-26828](https://github.com/Yuri08loveElaina/CVE-2021-26828)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2021-26828">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2021-26828">
 
 ---
+## CVE-2021-26814 ()
+> 
+- [WickdDavid/CVE-2021-26814](https://github.com/WickdDavid/CVE-2021-26814)	<img alt="forks" src="https://img.shields.io/github/forks/WickdDavid/CVE-2021-26814">	<img alt="stars" src="https://img.shields.io/github/stars/WickdDavid/CVE-2021-26814">
+- [CYS4srl/CVE-2021-26814](https://github.com/CYS4srl/CVE-2021-26814)	<img alt="forks" src="https://img.shields.io/github/forks/CYS4srl/CVE-2021-26814">	<img alt="stars" src="https://img.shields.io/github/stars/CYS4srl/CVE-2021-26814">
+- [paolorabbito/Internet-Security-Project---CVE-2021-26814](https://github.com/paolorabbito/Internet-Security-Project---CVE-2021-26814)	<img alt="forks" src="https://img.shields.io/github/forks/paolorabbito/Internet-Security-Project---CVE-2021-26814">	<img alt="stars" src="https://img.shields.io/github/stars/paolorabbito/Internet-Security-Project---CVE-2021-26814">
+
+---
 ## CVE-2021-26720 (2021-02-17T22:15:00)
 > avahi-daemon-check-dns.sh in the Debian avahi package through 0.8-4 is executed as root via /etc/network/if-up.d/avahi-daemon, and allows a local attacker to cause a denial of service or create arbitrary empty files via a symlink attack on files under /run/avahi-daemon. NOTE: this only affects the packaging for Debian GNU/Linux (used indirectly by SUSE), not the upstream Avahi product.
 - [Live-Hack-CVE/CVE-2021-26720](https://github.com/Live-Hack-CVE/CVE-2021-26720)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26720">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26720">
+
+---
+## CVE-2021-26714 ()
+> 
+- [PwCNO-CTO/CVE-2021-26714](https://github.com/PwCNO-CTO/CVE-2021-26714)	<img alt="forks" src="https://img.shields.io/github/forks/PwCNO-CTO/CVE-2021-26714">	<img alt="stars" src="https://img.shields.io/github/stars/PwCNO-CTO/CVE-2021-26714">
+
+---
+## CVE-2021-26708 ()
+> 
+- [jordan9001/vsock_poc](https://github.com/jordan9001/vsock_poc)	<img alt="forks" src="https://img.shields.io/github/forks/jordan9001/vsock_poc">	<img alt="stars" src="https://img.shields.io/github/stars/jordan9001/vsock_poc">
+- [azpema/CVE-2021-26708](https://github.com/azpema/CVE-2021-26708)	<img alt="forks" src="https://img.shields.io/github/forks/azpema/CVE-2021-26708">	<img alt="stars" src="https://img.shields.io/github/stars/azpema/CVE-2021-26708">
 
 ---
 ## CVE-2021-26700 (2021-02-25T23:15:00)
 > Visual Studio Code npm-script Extension Remote Code Execution Vulnerability
 - [jason-ntu/CVE-2021-26700](https://github.com/jason-ntu/CVE-2021-26700)	<img alt="forks" src="https://img.shields.io/github/forks/jason-ntu/CVE-2021-26700">	<img alt="stars" src="https://img.shields.io/github/stars/jason-ntu/CVE-2021-26700">
 - [jackadamson/CVE-2021-26700](https://github.com/jackadamson/CVE-2021-26700)	<img alt="forks" src="https://img.shields.io/github/forks/jackadamson/CVE-2021-26700">	<img alt="stars" src="https://img.shields.io/github/stars/jackadamson/CVE-2021-26700">
+
+---
+## CVE-2021-26691 ()
+> 
+- [dja2TaqkGEEfA45/CVE-2021-26691](https://github.com/dja2TaqkGEEfA45/CVE-2021-26691)	<img alt="forks" src="https://img.shields.io/github/forks/dja2TaqkGEEfA45/CVE-2021-26691">	<img alt="stars" src="https://img.shields.io/github/stars/dja2TaqkGEEfA45/CVE-2021-26691">
 
 ---
 ## CVE-2021-26690 (2021-06-10T07:15:00)
@@ -8200,6 +9996,21 @@
 ## CVE-2021-26559 (2021-02-17T15:15:00)
 > Improper Access Control on Configurations Endpoint for the Stable API of Apache Airflow allows users with Viewer or User role to get Airflow Configurations including sensitive information even when `[webserver] expose_config` is set to `False` in `airflow.cfg`. This allowed a privilege escalation attack. This issue affects Apache Airflow 2.0.0.
 - [Live-Hack-CVE/CVE-2021-26559](https://github.com/Live-Hack-CVE/CVE-2021-26559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26559">
+
+---
+## CVE-2021-26415 ()
+> 
+- [adenkiewicz/CVE-2021-26415](https://github.com/adenkiewicz/CVE-2021-26415)	<img alt="forks" src="https://img.shields.io/github/forks/adenkiewicz/CVE-2021-26415">	<img alt="stars" src="https://img.shields.io/github/stars/adenkiewicz/CVE-2021-26415">
+
+---
+## CVE-2021-26414 ()
+> 
+- [Nels2/dcom_10036_Solver](https://github.com/Nels2/dcom_10036_Solver)	<img alt="forks" src="https://img.shields.io/github/forks/Nels2/dcom_10036_Solver">	<img alt="stars" src="https://img.shields.io/github/stars/Nels2/dcom_10036_Solver">
+
+---
+## CVE-2021-26411 ()
+> 
+- [CrackerCat/CVE-2021-26411](https://github.com/CrackerCat/CVE-2021-26411)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2021-26411">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2021-26411">
 
 ---
 ## CVE-2021-26409 (2023-01-11T08:15:00)
@@ -8297,9 +10108,23 @@
 - [Live-Hack-CVE/CVE-2021-26316](https://github.com/Live-Hack-CVE/CVE-2021-26316)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26316">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26316">
 
 ---
+## CVE-2021-26295 ()
+> 
+- [yumusb/CVE-2021-26295](https://github.com/yumusb/CVE-2021-26295)	<img alt="forks" src="https://img.shields.io/github/forks/yumusb/CVE-2021-26295">	<img alt="stars" src="https://img.shields.io/github/stars/yumusb/CVE-2021-26295">
+- [rakjong/CVE-2021-26295-Apache-OFBiz](https://github.com/rakjong/CVE-2021-26295-Apache-OFBiz)	<img alt="forks" src="https://img.shields.io/github/forks/rakjong/CVE-2021-26295-Apache-OFBiz">	<img alt="stars" src="https://img.shields.io/github/stars/rakjong/CVE-2021-26295-Apache-OFBiz">
+- [dskho/CVE-2021-26295](https://github.com/dskho/CVE-2021-26295)	<img alt="forks" src="https://img.shields.io/github/forks/dskho/CVE-2021-26295">	<img alt="stars" src="https://img.shields.io/github/stars/dskho/CVE-2021-26295">
+- [coolyin001/CVE-2021-26295--](https://github.com/coolyin001/CVE-2021-26295--)	<img alt="forks" src="https://img.shields.io/github/forks/coolyin001/CVE-2021-26295--">	<img alt="stars" src="https://img.shields.io/github/stars/coolyin001/CVE-2021-26295--">
+- [yuaneuro/ofbiz-poc](https://github.com/yuaneuro/ofbiz-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuaneuro/ofbiz-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuaneuro/ofbiz-poc">
+
+---
 ## CVE-2021-26294 (2021-03-07T04:15:00)
 > An issue was discovered in AfterLogic Aurora through 7.7.9 and WebMail Pro through 7.7.9. They allow directory traversal to read files (such as a data/settings/settings.xml file containing admin panel credentials), as demonstrated by dav/server.php/files/personal/%2e%2e when using the caldav_public_user account (with caldav_public_user as its password).
 - [dorkerdevil/CVE-2021-26294](https://github.com/dorkerdevil/CVE-2021-26294)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-26294">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-26294">
+
+---
+## CVE-2021-26291 ()
+> 
+- [jpmartins/MinimalReproducer](https://github.com/jpmartins/MinimalReproducer)	<img alt="forks" src="https://img.shields.io/github/forks/jpmartins/MinimalReproducer">	<img alt="stars" src="https://img.shields.io/github/stars/jpmartins/MinimalReproducer">
 
 ---
 ## CVE-2021-26277 (2023-02-17T22:15:00)
@@ -8322,6 +10147,11 @@
 - [zwclose/CVE-2021-26258](https://github.com/zwclose/CVE-2021-26258)	<img alt="forks" src="https://img.shields.io/github/forks/zwclose/CVE-2021-26258">	<img alt="stars" src="https://img.shields.io/github/stars/zwclose/CVE-2021-26258">
 
 ---
+## CVE-2021-26121 ()
+> 
+- [sourceincite/CVE-2021-26121](https://github.com/sourceincite/CVE-2021-26121)	<img alt="forks" src="https://img.shields.io/github/forks/sourceincite/CVE-2021-26121">	<img alt="stars" src="https://img.shields.io/github/stars/sourceincite/CVE-2021-26121">
+
+---
 ## CVE-2021-26120 (2021-02-22T02:15:00)
 > Smarty before 3.1.39 allows code injection via an unexpected function name after a {function name= substring.
 - [Live-Hack-CVE/CVE-2021-26120](https://github.com/Live-Hack-CVE/CVE-2021-26120)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26120">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26120">
@@ -8332,9 +10162,26 @@
 - [Live-Hack-CVE/CVE-2021-26119](https://github.com/Live-Hack-CVE/CVE-2021-26119)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-26119">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-26119">
 
 ---
+## CVE-2021-26102 ()
+> 
+- [SleepyCofe/CVE-2021-26102](https://github.com/SleepyCofe/CVE-2021-26102)	<img alt="forks" src="https://img.shields.io/github/forks/SleepyCofe/CVE-2021-26102">	<img alt="stars" src="https://img.shields.io/github/stars/SleepyCofe/CVE-2021-26102">
+
+---
 ## CVE-2021-26088 (2021-07-12T14:15:00)
 > An improper authentication vulnerability in FSSO Collector version 5.0.295 and below may allow an unauthenticated user to bypass a FSSO firewall policy and access the protected network via sending specifically crafted UDP login notification packets.
 - [theogobinet/CVE-2021-26088](https://github.com/theogobinet/CVE-2021-26088)	<img alt="forks" src="https://img.shields.io/github/forks/theogobinet/CVE-2021-26088">	<img alt="stars" src="https://img.shields.io/github/stars/theogobinet/CVE-2021-26088">
+
+---
+## CVE-2021-26086 ()
+> 
+- [Jeromeyoung/CVE-2021-26086](https://github.com/Jeromeyoung/CVE-2021-26086)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-26086">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-26086">
+- [ColdFusionX/CVE-2021-26086](https://github.com/ColdFusionX/CVE-2021-26086)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/CVE-2021-26086">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/CVE-2021-26086">
+- [Official-BlackHat13/CVE-2021-26086](https://github.com/Official-BlackHat13/CVE-2021-26086)	<img alt="forks" src="https://img.shields.io/github/forks/Official-BlackHat13/CVE-2021-26086">	<img alt="stars" src="https://img.shields.io/github/stars/Official-BlackHat13/CVE-2021-26086">
+
+---
+## CVE-2021-26085 ()
+> 
+- [ColdFusionX/CVE-2021-26085](https://github.com/ColdFusionX/CVE-2021-26085)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/CVE-2021-26085">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/CVE-2021-26085">
 
 ---
 ## CVE-2021-26084 (2021-08-30T07:15:00)
@@ -8378,6 +10225,16 @@
 - [Marshall-Hallenbeck/CVE-2021-26084_Confluence_RCE](https://github.com/Marshall-Hallenbeck/CVE-2021-26084_Confluence_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Marshall-Hallenbeck/CVE-2021-26084_Confluence_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Marshall-Hallenbeck/CVE-2021-26084_Confluence_RCE">
 - [Jeromeyoung/CVE-2021-26086](https://github.com/Jeromeyoung/CVE-2021-26086)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-26086">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-26086">
 - [nahcusira/CVE-2021-26084](https://github.com/nahcusira/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/nahcusira/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/nahcusira/CVE-2021-26084">
+- [alt3kx/CVE-2021-26084_PoC](https://github.com/alt3kx/CVE-2021-26084_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2021-26084_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2021-26084_PoC">
+- [dinhbaouit/CVE-2021-26084](https://github.com/dinhbaouit/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/dinhbaouit/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/dinhbaouit/CVE-2021-26084">
+- [JKme/CVE-2021-26084](https://github.com/JKme/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/JKme/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/JKme/CVE-2021-26084">
+- [prettyrecon/CVE-2021-26084_Confluence](https://github.com/prettyrecon/CVE-2021-26084_Confluence)	<img alt="forks" src="https://img.shields.io/github/forks/prettyrecon/CVE-2021-26084_Confluence">	<img alt="stars" src="https://img.shields.io/github/stars/prettyrecon/CVE-2021-26084_Confluence">
+- [Osyanina/westone-CVE-2021-26084-scanner](https://github.com/Osyanina/westone-CVE-2021-26084-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Osyanina/westone-CVE-2021-26084-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Osyanina/westone-CVE-2021-26084-scanner">
+- [CrackerCat/CVE-2021-26084](https://github.com/CrackerCat/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2021-26084">
+- [b1gw00d/CVE-2021-26084](https://github.com/b1gw00d/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/b1gw00d/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/b1gw00d/CVE-2021-26084">
+- [bcdannyboy/CVE-2021-26084_GoPOC](https://github.com/bcdannyboy/CVE-2021-26084_GoPOC)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/CVE-2021-26084_GoPOC">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/CVE-2021-26084_GoPOC">
+- [attacker-codeninja/CVE-2021-26084](https://github.com/attacker-codeninja/CVE-2021-26084)	<img alt="forks" src="https://img.shields.io/github/forks/attacker-codeninja/CVE-2021-26084">	<img alt="stars" src="https://img.shields.io/github/stars/attacker-codeninja/CVE-2021-26084">
+- [BBD-YZZ/Confluence-RCE](https://github.com/BBD-YZZ/Confluence-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/BBD-YZZ/Confluence-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/BBD-YZZ/Confluence-RCE">
 
 ---
 ## CVE-2021-25956 (2021-08-17T15:15:00)
@@ -8391,9 +10248,24 @@
 - [Live-Hack-CVE/CVE-2021-25954](https://github.com/Live-Hack-CVE/CVE-2021-25954)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25954">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25954">
 
 ---
+## CVE-2021-25837 ()
+> 
+- [iczc/Ethermint-CVE-2021-25837](https://github.com/iczc/Ethermint-CVE-2021-25837)	<img alt="forks" src="https://img.shields.io/github/forks/iczc/Ethermint-CVE-2021-25837">	<img alt="stars" src="https://img.shields.io/github/stars/iczc/Ethermint-CVE-2021-25837">
+
+---
 ## CVE-2021-25804 (2021-07-26T17:15:00)
 > A NULL-pointer dereference in "Open" in avi.c of VideoLAN VLC Media Player 3.0.11 can a denial of service (DOS) in the application.
 - [DShankle/VLC_CVE-2021-25804_Analysis](https://github.com/DShankle/VLC_CVE-2021-25804_Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/DShankle/VLC_CVE-2021-25804_Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/DShankle/VLC_CVE-2021-25804_Analysis">
+
+---
+## CVE-2021-25791 ()
+> 
+- [MrCraniums/CVE-2021-25791-Multiple-Stored-XSS](https://github.com/MrCraniums/CVE-2021-25791-Multiple-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/MrCraniums/CVE-2021-25791-Multiple-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/MrCraniums/CVE-2021-25791-Multiple-Stored-XSS">
+
+---
+## CVE-2021-25790 ()
+> 
+- [MrCraniums/CVE-2021-25790-Multiple-Stored-XSS](https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS">
 
 ---
 ## CVE-2021-25746 (2022-05-06T01:15:00)
@@ -8405,12 +10277,23 @@
 > A security issue was discovered in Kubernetes where a user may be able to create a container with subpath volume mounts to access files & directories outside of the volume, including on the host filesystem.
 - [cdxiaodong/CVE-2021-25741](https://github.com/cdxiaodong/CVE-2021-25741)	<img alt="forks" src="https://img.shields.io/github/forks/cdxiaodong/CVE-2021-25741">	<img alt="stars" src="https://img.shields.io/github/stars/cdxiaodong/CVE-2021-25741">
 - [Betep0k/CVE-2021-25741](https://github.com/Betep0k/CVE-2021-25741)	<img alt="forks" src="https://img.shields.io/github/forks/Betep0k/CVE-2021-25741">	<img alt="stars" src="https://img.shields.io/github/stars/Betep0k/CVE-2021-25741">
+- [Glutenfree69/ZigRaceExploit](https://github.com/Glutenfree69/ZigRaceExploit)	<img alt="forks" src="https://img.shields.io/github/forks/Glutenfree69/ZigRaceExploit">	<img alt="stars" src="https://img.shields.io/github/stars/Glutenfree69/ZigRaceExploit">
 
 ---
 ## CVE-2021-25738 (2021-10-11T19:15:00)
 > Loading specially-crafted yaml with the Kubernetes Java Client library can lead to code execution.
 - [Live-Hack-CVE/CVE-2021-25738](https://github.com/Live-Hack-CVE/CVE-2021-25738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25738">
 - [Live-Hack-CVE/CVE-2021-25738](https://github.com/Live-Hack-CVE/CVE-2021-25738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25738">
+
+---
+## CVE-2021-25735 ()
+> 
+- [darryk10/CVE-2021-25735](https://github.com/darryk10/CVE-2021-25735)	<img alt="forks" src="https://img.shields.io/github/forks/darryk10/CVE-2021-25735">	<img alt="stars" src="https://img.shields.io/github/stars/darryk10/CVE-2021-25735">
+
+---
+## CVE-2021-25679 ()
+> 
+- [3ndG4me/AdTran-Personal-Phone-Manager-Vulns](https://github.com/3ndG4me/AdTran-Personal-Phone-Manager-Vulns)	<img alt="forks" src="https://img.shields.io/github/forks/3ndG4me/AdTran-Personal-Phone-Manager-Vulns">	<img alt="stars" src="https://img.shields.io/github/stars/3ndG4me/AdTran-Personal-Phone-Manager-Vulns">
 
 ---
 ## CVE-2021-25667 (2021-03-15T17:15:00)
@@ -8540,6 +10423,11 @@
 - [Live-Hack-CVE/CVE-2021-25378](https://github.com/Live-Hack-CVE/CVE-2021-25378)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25378">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25378">
 
 ---
+## CVE-2021-25374 ()
+> 
+- [ReversecLabs/CVE-2021-25374_Samsung-Account-Access](https://github.com/ReversecLabs/CVE-2021-25374_Samsung-Account-Access)	<img alt="forks" src="https://img.shields.io/github/forks/ReversecLabs/CVE-2021-25374_Samsung-Account-Access">	<img alt="stars" src="https://img.shields.io/github/stars/ReversecLabs/CVE-2021-25374_Samsung-Account-Access">
+
+---
 ## CVE-2021-25366 (2021-03-25T17:15:00)
 > Improper access control in Samsung Internet prior to version 13.2.1.70 allows physically proximate attackers to bypass the secret mode's authentication.
 - [Live-Hack-CVE/CVE-2021-25366](https://github.com/Live-Hack-CVE/CVE-2021-25366)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25366">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25366">
@@ -8563,6 +10451,11 @@
 ## CVE-2021-25340 (2021-03-04T22:15:00)
 > Improper access control vulnerability in Samsung keyboard version prior to SMR Feb-2021 Release 1 allows physically proximate attackers to change in arbitrary settings during Initialization State.
 - [Live-Hack-CVE/CVE-2021-25340](https://github.com/Live-Hack-CVE/CVE-2021-25340)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25340">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25340">
+
+---
+## CVE-2021-25337 ()
+> 
+- [CrisZalSa/JustALampNothingElse](https://github.com/CrisZalSa/JustALampNothingElse)	<img alt="forks" src="https://img.shields.io/github/forks/CrisZalSa/JustALampNothingElse">	<img alt="stars" src="https://img.shields.io/github/stars/CrisZalSa/JustALampNothingElse">
 
 ---
 ## CVE-2021-25329 (2021-03-01T12:15:00)
@@ -8605,9 +10498,19 @@
 - [Live-Hack-CVE/CVE-2021-25296](https://github.com/Live-Hack-CVE/CVE-2021-25296)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25296">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25296">
 
 ---
+## CVE-2021-25281 ()
+> 
+- [Immersive-Labs-Sec/CVE-2021-25281](https://github.com/Immersive-Labs-Sec/CVE-2021-25281)	<img alt="forks" src="https://img.shields.io/github/forks/Immersive-Labs-Sec/CVE-2021-25281">	<img alt="stars" src="https://img.shields.io/github/stars/Immersive-Labs-Sec/CVE-2021-25281">
+
+---
 ## CVE-2021-25263 (2021-08-17T19:15:00)
 > Local privilege vulnerability in Yandex Browser for Windows prior to 21.9.0.390 allows a local, low privileged, attacker to execute arbitary code with the SYSTEM privileges through manipulating files in directory with insecure permissions during Yandex Browser update process.
 - [Live-Hack-CVE/CVE-2021-25263](https://github.com/Live-Hack-CVE/CVE-2021-25263)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25263">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25263">
+
+---
+## CVE-2021-25253 ()
+> 
+- [msd0pe-1/CVE-2021-25253](https://github.com/msd0pe-1/CVE-2021-25253)	<img alt="forks" src="https://img.shields.io/github/forks/msd0pe-1/CVE-2021-25253">	<img alt="stars" src="https://img.shields.io/github/stars/msd0pe-1/CVE-2021-25253">
 
 ---
 ## CVE-2021-25223 (2023-01-05T07:15:00)
@@ -8623,6 +10526,11 @@
 ## CVE-2021-25219 (2021-10-27T21:15:00)
 > In BIND 9.3.0 -> 9.11.35, 9.12.0 -> 9.16.21, and versions 9.9.3-S1 -> 9.11.35-S1 and 9.16.8-S1 -> 9.16.21-S1 of BIND Supported Preview Edition, as well as release versions 9.17.0 -> 9.17.18 of the BIND 9.17 development branch, exploitation of broken authoritative servers using a flaw in response processing can cause degradation in BIND resolver performance. The way the lame cache is currently designed makes it possible for its internal data structures to grow almost infinitely, which may cause significant delays in client query processing.
 - [Live-Hack-CVE/CVE-2021-25219](https://github.com/Live-Hack-CVE/CVE-2021-25219)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25219">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25219">
+
+---
+## CVE-2021-25162 ()
+> 
+- [maguireja/CVE-2021-25162](https://github.com/maguireja/CVE-2021-25162)	<img alt="forks" src="https://img.shields.io/github/forks/maguireja/CVE-2021-25162">	<img alt="stars" src="https://img.shields.io/github/stars/maguireja/CVE-2021-25162">
 
 ---
 ## CVE-2021-25122 (2021-03-01T12:15:00)
@@ -8659,6 +10567,11 @@
 > The Advanced Page Visit Counter WordPress plugin before 6.1.2 does not sanitise and escape some input before outputting it in an admin dashboard page, allowing unauthenticated attackers to perform Cross-Site Scripting attacks against admins viewing it
 - [Live-Hack-CVE/CVE-2021-25086](https://github.com/Live-Hack-CVE/CVE-2021-25086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25086">
 - [Live-Hack-CVE/CVE-2021-25086](https://github.com/Live-Hack-CVE/CVE-2021-25086)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-25086">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-25086">
+
+---
+## CVE-2021-25076 ()
+> 
+- [abbarhissarh/CVE-2021-25076](https://github.com/abbarhissarh/CVE-2021-25076)	<img alt="forks" src="https://img.shields.io/github/forks/abbarhissarh/CVE-2021-25076">	<img alt="stars" src="https://img.shields.io/github/stars/abbarhissarh/CVE-2021-25076">
 
 ---
 ## CVE-2021-25059 (2022-11-28T14:15:00)
@@ -8735,6 +10648,16 @@
 - [Live-Hack-CVE/CVE-2021-24910](https://github.com/Live-Hack-CVE/CVE-2021-24910)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24910">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24910">
 
 ---
+## CVE-2021-24891 ()
+> 
+- [hackmelocal/CVE-2021-24891-Simulation](https://github.com/hackmelocal/CVE-2021-24891-Simulation)	<img alt="forks" src="https://img.shields.io/github/forks/hackmelocal/CVE-2021-24891-Simulation">	<img alt="stars" src="https://img.shields.io/github/stars/hackmelocal/CVE-2021-24891-Simulation">
+
+---
+## CVE-2021-24884 ()
+> 
+- [S1lkys/CVE-2021-24884](https://github.com/S1lkys/CVE-2021-24884)	<img alt="forks" src="https://img.shields.io/github/forks/S1lkys/CVE-2021-24884">	<img alt="stars" src="https://img.shields.io/github/stars/S1lkys/CVE-2021-24884">
+
+---
 ## CVE-2021-24842 (2021-11-29T09:15:00)
 > The Bulk Datetime Change WordPress plugin before 1.12 does not enforce capability checks which allows users with Contributor roles to 1) list private post titles of other users and 2) change the posted date of other users' posts.
 - [Live-Hack-CVE/CVE-2021-24842](https://github.com/Live-Hack-CVE/CVE-2021-24842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24842">
@@ -8754,6 +10677,11 @@
 > The Stylish Cost Calculator WordPress plugin before 7.0.4 does not have any authorisation and CSRF checks on some of its AJAX actions (available to authenticated users), which could allow any authenticated users, such as subscriber to call them, and perform Stored Cross-Site Scripting attacks against logged in admin, as well as frontend users due to the lack of sanitisation and escaping in some parameters
 - [Live-Hack-CVE/CVE-2021-24822](https://github.com/Live-Hack-CVE/CVE-2021-24822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24822">
 - [Live-Hack-CVE/CVE-2021-24822](https://github.com/Live-Hack-CVE/CVE-2021-24822)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24822">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24822">
+
+---
+## CVE-2021-24807 ()
+> 
+- [dldygnl/CVE-2021-24807](https://github.com/dldygnl/CVE-2021-24807)	<img alt="forks" src="https://img.shields.io/github/forks/dldygnl/CVE-2021-24807">	<img alt="stars" src="https://img.shields.io/github/stars/dldygnl/CVE-2021-24807">
 
 ---
 ## CVE-2021-24790 (2021-12-13T11:15:00)
@@ -8805,6 +10733,13 @@
 > The Membership & Content Restriction – Paid Member Subscriptions WordPress plugin before 2.4.2 did not sanitise, validate or escape its order and orderby parameters before using them in SQL statement, leading to Authenticated SQL Injections in the Members and Payments pages.
 - [Live-Hack-CVE/CVE-2021-24728](https://github.com/Live-Hack-CVE/CVE-2021-24728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24728">
 - [Live-Hack-CVE/CVE-2021-24728](https://github.com/Live-Hack-CVE/CVE-2021-24728)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24728">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24728">
+
+---
+## CVE-2021-2471 ()
+> 
+- [SecCoder-Security-Lab/jdbc-sqlxml-xxe](https://github.com/SecCoder-Security-Lab/jdbc-sqlxml-xxe)	<img alt="forks" src="https://img.shields.io/github/forks/SecCoder-Security-Lab/jdbc-sqlxml-xxe">	<img alt="stars" src="https://img.shields.io/github/stars/SecCoder-Security-Lab/jdbc-sqlxml-xxe">
+- [cckuailong/CVE-2021-2471](https://github.com/cckuailong/CVE-2021-2471)	<img alt="forks" src="https://img.shields.io/github/forks/cckuailong/CVE-2021-2471">	<img alt="stars" src="https://img.shields.io/github/stars/cckuailong/CVE-2021-2471">
+- [DrunkenShells/CVE-2021-2471](https://github.com/DrunkenShells/CVE-2021-2471)	<img alt="forks" src="https://img.shields.io/github/forks/DrunkenShells/CVE-2021-2471">	<img alt="stars" src="https://img.shields.io/github/stars/DrunkenShells/CVE-2021-2471">
 
 ---
 ## CVE-2021-24703 (2021-11-23T20:15:00)
@@ -8909,9 +10844,25 @@
 - [Live-Hack-CVE/CVE-2021-24570](https://github.com/Live-Hack-CVE/CVE-2021-24570)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24570">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24570">
 
 ---
+## CVE-2021-24563 ()
+> 
+- [V35HR4J/CVE-2021-24563](https://github.com/V35HR4J/CVE-2021-24563)	<img alt="forks" src="https://img.shields.io/github/forks/V35HR4J/CVE-2021-24563">	<img alt="stars" src="https://img.shields.io/github/stars/V35HR4J/CVE-2021-24563">
+
+---
+## CVE-2021-2456 ()
+> 
+- [peterjson31337/CVE-2021-2456](https://github.com/peterjson31337/CVE-2021-2456)	<img alt="forks" src="https://img.shields.io/github/forks/peterjson31337/CVE-2021-2456">	<img alt="stars" src="https://img.shields.io/github/stars/peterjson31337/CVE-2021-2456">
+
+---
 ## CVE-2021-24555 (2021-08-23T12:15:00)
 > The daac_delete_booking_callback function, hooked to the daac_delete_booking AJAX action, takes the id POST parameter which is passed into the SQL statement without proper sanitisation, validation or escaping, leading to a SQL Injection issue. Furthermore, the ajax action is lacking any CSRF and capability check, making it available to any authenticated user.
 - [Live-Hack-CVE/CVE-2021-24555](https://github.com/Live-Hack-CVE/CVE-2021-24555)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24555">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24555">
+
+---
+## CVE-2021-24545 ()
+> 
+- [V35HR4J/CVE-2021-24545](https://github.com/V35HR4J/CVE-2021-24545)	<img alt="forks" src="https://img.shields.io/github/forks/V35HR4J/CVE-2021-24545">	<img alt="stars" src="https://img.shields.io/github/stars/V35HR4J/CVE-2021-24545">
+- [dnr6419/CVE-2021-24545](https://github.com/dnr6419/CVE-2021-24545)	<img alt="forks" src="https://img.shields.io/github/forks/dnr6419/CVE-2021-24545">	<img alt="stars" src="https://img.shields.io/github/stars/dnr6419/CVE-2021-24545">
 
 ---
 ## CVE-2021-24543 (2021-10-25T14:15:00)
@@ -8922,6 +10873,11 @@
 ## CVE-2021-2454 (2021-07-21T00:15:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). The supported version that is affected is Prior to 6.1.24. Difficult to exploit vulnerability allows low privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 7.0 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H).
 - [Live-Hack-CVE/CVE-2021-2454](https://github.com/Live-Hack-CVE/CVE-2021-2454)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2454">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2454">
+
+---
+## CVE-2021-24507 ()
+> 
+- [RandomRobbieBF/CVE-2021-24507](https://github.com/RandomRobbieBF/CVE-2021-24507)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2021-24507">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2021-24507">
 
 ---
 ## CVE-2021-24504 (2021-08-02T11:15:00)
@@ -9008,9 +10964,57 @@
 - [Live-Hack-CVE/CVE-2021-24171](https://github.com/Live-Hack-CVE/CVE-2021-24171)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24171">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24171">
 
 ---
+## CVE-2021-24160 ()
+> 
+- [likeww/Exploit-CVE-2021-24160](https://github.com/likeww/Exploit-CVE-2021-24160)	<img alt="forks" src="https://img.shields.io/github/forks/likeww/Exploit-CVE-2021-24160">	<img alt="stars" src="https://img.shields.io/github/stars/likeww/Exploit-CVE-2021-24160">
+
+---
+## CVE-2021-24155 ()
+> 
+- [0dayNinja/CVE-2021-24155.rb](https://github.com/0dayNinja/CVE-2021-24155.rb)	<img alt="forks" src="https://img.shields.io/github/forks/0dayNinja/CVE-2021-24155.rb">	<img alt="stars" src="https://img.shields.io/github/stars/0dayNinja/CVE-2021-24155.rb">
+
+---
+## CVE-2021-24145 ()
+> 
+- [dnr6419/CVE-2021-24145](https://github.com/dnr6419/CVE-2021-24145)	<img alt="forks" src="https://img.shields.io/github/forks/dnr6419/CVE-2021-24145">	<img alt="stars" src="https://img.shields.io/github/stars/dnr6419/CVE-2021-24145">
+
+---
 ## CVE-2021-24122 (2021-01-14T15:15:00)
 > When serving resources from a network location using the NTFS file system, Apache Tomcat versions 10.0.0-M1 to 10.0.0-M9, 9.0.0.M1 to 9.0.39, 8.5.0 to 8.5.59 and 7.0.0 to 7.0.106 were susceptible to JSP source code disclosure in some configurations. The root cause was the unexpected behaviour of the JRE API File.getCanonicalPath() which in turn was caused by the inconsistent behaviour of the Windows API (FindFirstFileW) in some circumstances.
 - [Live-Hack-CVE/CVE-2021-24122](https://github.com/Live-Hack-CVE/CVE-2021-24122)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-24122">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-24122">
+
+---
+## CVE-2021-24098 ()
+> 
+- [waleedassar/CVE-2021-24098](https://github.com/waleedassar/CVE-2021-24098)	<img alt="forks" src="https://img.shields.io/github/forks/waleedassar/CVE-2021-24098">	<img alt="stars" src="https://img.shields.io/github/stars/waleedassar/CVE-2021-24098">
+
+---
+## CVE-2021-24096 ()
+> 
+- [FunPhishing/CVE-2021-24096](https://github.com/FunPhishing/CVE-2021-24096)	<img alt="forks" src="https://img.shields.io/github/forks/FunPhishing/CVE-2021-24096">	<img alt="stars" src="https://img.shields.io/github/stars/FunPhishing/CVE-2021-24096">
+
+---
+## CVE-2021-24086 ()
+> 
+- [0vercl0k/CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086)	<img alt="forks" src="https://img.shields.io/github/forks/0vercl0k/CVE-2021-24086">	<img alt="stars" src="https://img.shields.io/github/stars/0vercl0k/CVE-2021-24086">
+- [lisinan988/CVE-2021-24086-exp](https://github.com/lisinan988/CVE-2021-24086-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lisinan988/CVE-2021-24086-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lisinan988/CVE-2021-24086-exp">
+- [personnumber3377/windows_tcpip_fuzz](https://github.com/personnumber3377/windows_tcpip_fuzz)	<img alt="forks" src="https://img.shields.io/github/forks/personnumber3377/windows_tcpip_fuzz">	<img alt="stars" src="https://img.shields.io/github/stars/personnumber3377/windows_tcpip_fuzz">
+
+---
+## CVE-2021-24085 ()
+> 
+- [sourceincite/CVE-2021-24085](https://github.com/sourceincite/CVE-2021-24085)	<img alt="forks" src="https://img.shields.io/github/forks/sourceincite/CVE-2021-24085">	<img alt="stars" src="https://img.shields.io/github/stars/sourceincite/CVE-2021-24085">
+
+---
+## CVE-2021-24084 ()
+> 
+- [Jeromeyoung/CVE-2021-24084](https://github.com/Jeromeyoung/CVE-2021-24084)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-24084">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-24084">
+- [exploitblizzard/WindowsMDM-LPE-0Day](https://github.com/exploitblizzard/WindowsMDM-LPE-0Day)	<img alt="forks" src="https://img.shields.io/github/forks/exploitblizzard/WindowsMDM-LPE-0Day">	<img alt="stars" src="https://img.shields.io/github/stars/exploitblizzard/WindowsMDM-LPE-0Day">
+
+---
+## CVE-2021-24027 ()
+> 
+- [CENSUS/whatsapp-mitd-mitm](https://github.com/CENSUS/whatsapp-mitd-mitm)	<img alt="forks" src="https://img.shields.io/github/forks/CENSUS/whatsapp-mitd-mitm">	<img alt="stars" src="https://img.shields.io/github/stars/CENSUS/whatsapp-mitd-mitm">
 
 ---
 ## CVE-2021-24019 ()
@@ -9086,6 +11090,16 @@
 - [Trinadh465/openssl-1.1.1g_CVE-2021-23840](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2021-23840)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/openssl-1.1.1g_CVE-2021-23840">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/openssl-1.1.1g_CVE-2021-23840">
 
 ---
+## CVE-2021-23797 ()
+> 
+- [dannyEndorTest/http-server-node](https://github.com/dannyEndorTest/http-server-node)	<img alt="forks" src="https://img.shields.io/github/forks/dannyEndorTest/http-server-node">	<img alt="stars" src="https://img.shields.io/github/stars/dannyEndorTest/http-server-node">
+
+---
+## CVE-2021-23758 ()
+> 
+- [numanturle/CVE-2021-23758-POC](https://github.com/numanturle/CVE-2021-23758-POC)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2021-23758-POC">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2021-23758-POC">
+
+---
 ## CVE-2021-2372 (2021-07-21T15:15:00)
 > Vulnerability in the MySQL Server product of Oracle MySQL (component: InnoDB). Supported versions that are affected are 5.7.34 and prior and 8.0.25 and prior. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.1 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2021-2372](https://github.com/Live-Hack-CVE/CVE-2021-2372)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2372">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2372">
@@ -9116,6 +11130,11 @@
 - [Live-Hack-CVE/CVE-2021-23434](https://github.com/Live-Hack-CVE/CVE-2021-23434)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23434">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23434">
 
 ---
+## CVE-2021-23410 ()
+> 
+- [azu/msgpack-CVE-2021-23410-test](https://github.com/azu/msgpack-CVE-2021-23410-test)	<img alt="forks" src="https://img.shields.io/github/forks/azu/msgpack-CVE-2021-23410-test">	<img alt="stars" src="https://img.shields.io/github/stars/azu/msgpack-CVE-2021-23410-test">
+
+---
 ## CVE-2021-23394 (2021-06-13T11:15:00)
 > The package studio-42/elfinder before 2.1.58 are vulnerable to Remote Code Execution (RCE) via execution of PHP code in a .phar file. NOTE: This only applies if the server parses .phar files as PHP.
 - [Live-Hack-CVE/CVE-2021-23394](https://github.com/Live-Hack-CVE/CVE-2021-23394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23394">
@@ -9143,6 +11162,7 @@
 ## CVE-2021-23337 (2021-02-15T13:15:00)
 > Lodash versions prior to 4.17.21 are vulnerable to Command Injection via the template function.
 - [ebickle/CVE-2021-23337-template](https://github.com/ebickle/CVE-2021-23337-template)	<img alt="forks" src="https://img.shields.io/github/forks/ebickle/CVE-2021-23337-template">	<img alt="stars" src="https://img.shields.io/github/stars/ebickle/CVE-2021-23337-template">
+- [khayashi4337/lodash.template-fixed](https://github.com/khayashi4337/lodash.template-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/khayashi4337/lodash.template-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/khayashi4337/lodash.template-fixed">
 
 ---
 ## CVE-2021-23265 (2022-05-16T17:15:00)
@@ -9245,6 +11265,11 @@
 - [Live-Hack-CVE/CVE-2021-23133](https://github.com/Live-Hack-CVE/CVE-2021-23133)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23133">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23133">
 
 ---
+## CVE-2021-23132 ()
+> 
+- [HoangKien1020/CVE-2021-23132](https://github.com/HoangKien1020/CVE-2021-23132)	<img alt="forks" src="https://img.shields.io/github/forks/HoangKien1020/CVE-2021-23132">	<img alt="stars" src="https://img.shields.io/github/stars/HoangKien1020/CVE-2021-23132">
+
+---
 ## CVE-2021-2312 (2021-04-22T22:15:00)
 > Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core). The supported version that is affected is Prior to 6.1.20. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of Oracle VM VirtualBox. Note: This vulnerability applies to Windows systems only. CVSS 3.1 Base Score 4.4 (Availability impacts). CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2021-2312](https://github.com/Live-Hack-CVE/CVE-2021-2312)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-2312">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-2312">
@@ -9264,6 +11289,11 @@
 ## CVE-2021-23053 (2021-09-14T13:15:00)
 > On version 15.1.x before 15.1.3, 14.1.x before 14.1.3.1, and 13.1.x before 13.1.3.6, when the brute force protection feature of BIG-IP Advanced WAF or BIG-IP ASM is enabled on a virtual server and the virtual server is under brute force attack, the MySQL database may run out of disk space due to lack of row limit on undisclosed tables in the MYSQL database. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
 - [Live-Hack-CVE/CVE-2021-23053](https://github.com/Live-Hack-CVE/CVE-2021-23053)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-23053">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-23053">
+
+---
+## CVE-2021-2302 ()
+> 
+- [quynhle7821/CVE-2021-2302](https://github.com/quynhle7821/CVE-2021-2302)	<img alt="forks" src="https://img.shields.io/github/forks/quynhle7821/CVE-2021-2302">	<img alt="stars" src="https://img.shields.io/github/stars/quynhle7821/CVE-2021-2302">
 
 ---
 ## CVE-2021-23017 (2021-06-01T13:15:00)
@@ -9327,6 +11357,7 @@
 ## CVE-2021-22924 (2021-08-05T21:15:00)
 > libcurl keeps previously used connections in a connection pool for subsequenttransfers to reuse, if one of them matches the setup.Due to errors in the logic, the config matching function did not take 'issuercert' into account and it compared the involved paths *case insensitively*,which could lead to libcurl reusing wrong connections.File paths are, or can be, case sensitive on many systems but not all, and caneven vary depending on used file systems.The comparison also didn't include the 'issuer cert' which a transfer can setto qualify how to verify the server certificate.
 - [Live-Hack-CVE/CVE-2021-22924](https://github.com/Live-Hack-CVE/CVE-2021-22924)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22924">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22924">
+- [Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924](https://github.com/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924">
 
 ---
 ## CVE-2021-22911 (2021-05-27T12:15:00)
@@ -9376,6 +11407,9 @@
 ## CVE-2021-22893 (2021-04-23T17:15:00)
 > Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.
 - [Live-Hack-CVE/CVE-2021-22893](https://github.com/Live-Hack-CVE/CVE-2021-22893)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22893">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22893">
+- [ZephrFish/CVE-2021-22893_HoneyPoC2](https://github.com/ZephrFish/CVE-2021-22893_HoneyPoC2)	<img alt="forks" src="https://img.shields.io/github/forks/ZephrFish/CVE-2021-22893_HoneyPoC2">	<img alt="stars" src="https://img.shields.io/github/stars/ZephrFish/CVE-2021-22893_HoneyPoC2">
+- [MRLEE123456/CVE-2021-22893](https://github.com/MRLEE123456/CVE-2021-22893)	<img alt="forks" src="https://img.shields.io/github/forks/MRLEE123456/CVE-2021-22893">	<img alt="stars" src="https://img.shields.io/github/stars/MRLEE123456/CVE-2021-22893">
+- [orangmuda/CVE-2021-22893](https://github.com/orangmuda/CVE-2021-22893)	<img alt="forks" src="https://img.shields.io/github/forks/orangmuda/CVE-2021-22893">	<img alt="stars" src="https://img.shields.io/github/stars/orangmuda/CVE-2021-22893">
 
 ---
 ## CVE-2021-22892 (2021-05-27T12:15:00)
@@ -9519,6 +11553,7 @@
 - [Live-Hack-CVE/CVE-2021-22600](https://github.com/Live-Hack-CVE/CVE-2021-22600)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22600">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22600">
 - [ragingkarson/CVE-2021-22600](https://github.com/ragingkarson/CVE-2021-22600)	<img alt="forks" src="https://img.shields.io/github/forks/ragingkarson/CVE-2021-22600">	<img alt="stars" src="https://img.shields.io/github/stars/ragingkarson/CVE-2021-22600">
 - [sendINUX/CVE-2021-22600__DirtyPagetable](https://github.com/sendINUX/CVE-2021-22600__DirtyPagetable)	<img alt="forks" src="https://img.shields.io/github/forks/sendINUX/CVE-2021-22600__DirtyPagetable">	<img alt="stars" src="https://img.shields.io/github/stars/sendINUX/CVE-2021-22600__DirtyPagetable">
+- [Chinmay1743/af_packet.c](https://github.com/Chinmay1743/af_packet.c)	<img alt="forks" src="https://img.shields.io/github/forks/Chinmay1743/af_packet.c">	<img alt="stars" src="https://img.shields.io/github/stars/Chinmay1743/af_packet.c">
 
 ---
 ## CVE-2021-22555 (2021-07-07T12:15:00)
@@ -9534,6 +11569,7 @@
 - [letsr00t/-2021-LOCALROOT-CVE-2021-22555](https://github.com/letsr00t/-2021-LOCALROOT-CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/-2021-LOCALROOT-CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/-2021-LOCALROOT-CVE-2021-22555">
 - [letsr00t/CVE-2021-22555](https://github.com/letsr00t/CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/CVE-2021-22555">
 - [glutton-su/CVE-2021-22555](https://github.com/glutton-su/CVE-2021-22555)	<img alt="forks" src="https://img.shields.io/github/forks/glutton-su/CVE-2021-22555">	<img alt="stars" src="https://img.shields.io/github/stars/glutton-su/CVE-2021-22555">
+- [Spydomain/CVE-2021-22555-Poc](https://github.com/Spydomain/CVE-2021-22555-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2021-22555-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2021-22555-Poc">
 
 ---
 ## CVE-2021-22262 (2021-10-05T14:15:00)
@@ -9557,6 +11593,17 @@
 - [kh4sh3i/GitLab-SSRF-CVE-2021-22214](https://github.com/kh4sh3i/GitLab-SSRF-CVE-2021-22214)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/GitLab-SSRF-CVE-2021-22214">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/GitLab-SSRF-CVE-2021-22214">
 - [antx-code/CVE-2021-22214](https://github.com/antx-code/CVE-2021-22214)	<img alt="forks" src="https://img.shields.io/github/forks/antx-code/CVE-2021-22214">	<img alt="stars" src="https://img.shields.io/github/stars/antx-code/CVE-2021-22214">
 - [r0ckysec/CVE-2021-22214](https://github.com/r0ckysec/CVE-2021-22214)	<img alt="forks" src="https://img.shields.io/github/forks/r0ckysec/CVE-2021-22214">	<img alt="stars" src="https://img.shields.io/github/stars/r0ckysec/CVE-2021-22214">
+- [aaminin/CVE-2021-22214](https://github.com/aaminin/CVE-2021-22214)	<img alt="forks" src="https://img.shields.io/github/forks/aaminin/CVE-2021-22214">	<img alt="stars" src="https://img.shields.io/github/stars/aaminin/CVE-2021-22214">
+
+---
+## CVE-2021-22210 ()
+> 
+- [Jeromeyoung/CVE-2021-22210](https://github.com/Jeromeyoung/CVE-2021-22210)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-22210">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-22210">
+
+---
+## CVE-2021-22206 ()
+> 
+- [dannymas/CVE-2021-22206](https://github.com/dannymas/CVE-2021-22206)	<img alt="forks" src="https://img.shields.io/github/forks/dannymas/CVE-2021-22206">	<img alt="stars" src="https://img.shields.io/github/stars/dannymas/CVE-2021-22206">
 
 ---
 ## CVE-2021-22205 (2021-04-23T18:15:00)
@@ -9601,6 +11648,7 @@
 - [cc3305/CVE-2021-22205](https://github.com/cc3305/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/cc3305/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/cc3305/CVE-2021-22205">
 - [ccordeiro/CVE-2021-22205](https://github.com/ccordeiro/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2021-22205">
 - [Jeromeyoung/CVE-2021-22210](https://github.com/Jeromeyoung/CVE-2021-22210)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-22210">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-22210">
+- [K3ysTr0K3R/CVE-2021-22205](https://github.com/K3ysTr0K3R/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-22205">
 
 ---
 ## CVE-2021-22204 (2021-04-23T18:15:00)
@@ -9625,6 +11673,12 @@
 - [sameep0/CVE-2021-22204](https://github.com/sameep0/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/sameep0/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/sameep0/CVE-2021-22204">
 - [Roronoawjd/CVE-2021-22204](https://github.com/Roronoawjd/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/Roronoawjd/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/Roronoawjd/CVE-2021-22204">
 - [TeddyEngel/CVE-2021-22204](https://github.com/TeddyEngel/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/TeddyEngel/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/TeddyEngel/CVE-2021-22204">
+- [d4ytox/CVE-2021-22204](https://github.com/d4ytox/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-22204">
+
+---
+## CVE-2021-22201 ()
+> 
+- [exp1orer/CVE-2021-22201](https://github.com/exp1orer/CVE-2021-22201)	<img alt="forks" src="https://img.shields.io/github/forks/exp1orer/CVE-2021-22201">	<img alt="stars" src="https://img.shields.io/github/stars/exp1orer/CVE-2021-22201">
 
 ---
 ## CVE-2021-2220 ()
@@ -9667,6 +11721,11 @@
 - [PetrusViet/Gitlab-RCE](https://github.com/PetrusViet/Gitlab-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/PetrusViet/Gitlab-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/PetrusViet/Gitlab-RCE">
 
 ---
+## CVE-2021-22146 ()
+> 
+- [magichk/cve-2021-22146](https://github.com/magichk/cve-2021-22146)	<img alt="forks" src="https://img.shields.io/github/forks/magichk/cve-2021-22146">	<img alt="stars" src="https://img.shields.io/github/stars/magichk/cve-2021-22146">
+
+---
 ## CVE-2021-22145 (2021-07-21T15:15:00)
 > A memory disclosure vulnerability was identified in Elasticsearch 7.10.0 to 7.13.3 error reporting. A user with the ability to submit arbitrary queries to Elasticsearch could submit a malformed query that would result in an error message returned containing previously used portions of a data buffer. This buffer could contain sensitive information such as Elasticsearch documents or authentication details.
 - [niceeeeeeee/CVE-2021-22145-poc](https://github.com/niceeeeeeee/CVE-2021-22145-poc)	<img alt="forks" src="https://img.shields.io/github/forks/niceeeeeeee/CVE-2021-22145-poc">	<img alt="stars" src="https://img.shields.io/github/stars/niceeeeeeee/CVE-2021-22145-poc">
@@ -9677,9 +11736,24 @@
 - [Live-Hack-CVE/CVE-2021-22134](https://github.com/Live-Hack-CVE/CVE-2021-22134)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22134">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22134">
 
 ---
+## CVE-2021-22123 ()
+> 
+- [murataydemir/CVE-2021-22123](https://github.com/murataydemir/CVE-2021-22123)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2021-22123">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2021-22123">
+
+---
+## CVE-2021-22119 ()
+> 
+- [mari6274/oauth-client-exploit](https://github.com/mari6274/oauth-client-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mari6274/oauth-client-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mari6274/oauth-client-exploit">
+
+---
 ## CVE-2021-22118 (2021-05-27T15:15:00)
 > In Spring Framework, versions 5.2.x prior to 5.2.15 and versions 5.3.x prior to 5.3.7, a WebFlux application is vulnerable to a privilege escalation: by (re)creating the temporary storage directory, a locally authenticated malicious user can read or modify files that have been uploaded to the WebFlux application, or overwrite arbitrary files with multipart request data.
 - [Live-Hack-CVE/CVE-2021-22118](https://github.com/Live-Hack-CVE/CVE-2021-22118)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-22118">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-22118">
+
+---
+## CVE-2021-22054 ()
+> 
+- [MKSx/CVE-2021-22054](https://github.com/MKSx/CVE-2021-22054)	<img alt="forks" src="https://img.shields.io/github/forks/MKSx/CVE-2021-22054">	<img alt="stars" src="https://img.shields.io/github/stars/MKSx/CVE-2021-22054">
 
 ---
 ## CVE-2021-22053 (2021-11-19T16:15:00)
@@ -9699,6 +11773,11 @@
 - [PenteraIO/vScalation-CVE-2021-22015](https://github.com/PenteraIO/vScalation-CVE-2021-22015)	<img alt="forks" src="https://img.shields.io/github/forks/PenteraIO/vScalation-CVE-2021-22015">	<img alt="stars" src="https://img.shields.io/github/stars/PenteraIO/vScalation-CVE-2021-22015">
 
 ---
+## CVE-2021-22006 ()
+> 
+- [CrackerCat/CVE-2021-22006](https://github.com/CrackerCat/CVE-2021-22006)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2021-22006">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2021-22006">
+
+---
 ## CVE-2021-22005 (2021-09-23T12:15:00)
 > The vCenter Server contains an arbitrary file upload vulnerability in the Analytics service. A malicious actor with network access to port 443 on vCenter Server may exploit this issue to execute code on vCenter Server by uploading a specially crafted file.
 - [InventorMAO/cve-2021-22005](https://github.com/InventorMAO/cve-2021-22005)	<img alt="forks" src="https://img.shields.io/github/forks/InventorMAO/cve-2021-22005">	<img alt="stars" src="https://img.shields.io/github/stars/InventorMAO/cve-2021-22005">
@@ -9716,6 +11795,7 @@
 - [X1pe0/VMWare-CVE-Check](https://github.com/X1pe0/VMWare-CVE-Check)	<img alt="forks" src="https://img.shields.io/github/forks/X1pe0/VMWare-CVE-Check">	<img alt="stars" src="https://img.shields.io/github/stars/X1pe0/VMWare-CVE-Check">
 - [pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity](https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity)	<img alt="forks" src="https://img.shields.io/github/forks/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity">	<img alt="stars" src="https://img.shields.io/github/stars/pisut4152/Sigma-Rule-for-CVE-2021-22005-scanning-activity">
 - [1ZRR4H/CVE-2021-22005](https://github.com/1ZRR4H/CVE-2021-22005)	<img alt="forks" src="https://img.shields.io/github/forks/1ZRR4H/CVE-2021-22005">	<img alt="stars" src="https://img.shields.io/github/stars/1ZRR4H/CVE-2021-22005">
+- [Jeromeyoung/VMWare-CVE-Check](https://github.com/Jeromeyoung/VMWare-CVE-Check)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/VMWare-CVE-Check">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/VMWare-CVE-Check">
 
 ---
 ## CVE-2021-22 ()
@@ -9752,6 +11832,20 @@
 - [shmilylty/cve-2021-22005-exp](https://github.com/shmilylty/cve-2021-22005-exp)	<img alt="forks" src="https://img.shields.io/github/forks/shmilylty/cve-2021-22005-exp">	<img alt="stars" src="https://img.shields.io/github/stars/shmilylty/cve-2021-22005-exp">
 
 ---
+## CVE-2021-21985 ()
+> 
+- [bigbroke/CVE-2021-21985](https://github.com/bigbroke/CVE-2021-21985)	<img alt="forks" src="https://img.shields.io/github/forks/bigbroke/CVE-2021-21985">	<img alt="stars" src="https://img.shields.io/github/stars/bigbroke/CVE-2021-21985">
+- [alt3kx/CVE-2021-21985_PoC](https://github.com/alt3kx/CVE-2021-21985_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2021-21985_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2021-21985_PoC">
+- [onSec-fr/CVE-2021-21985-Checker](https://github.com/onSec-fr/CVE-2021-21985-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/onSec-fr/CVE-2021-21985-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/onSec-fr/CVE-2021-21985-Checker">
+- [mauricelambert/CVE-2021-21985](https://github.com/mauricelambert/CVE-2021-21985)	<img alt="forks" src="https://img.shields.io/github/forks/mauricelambert/CVE-2021-21985">	<img alt="stars" src="https://img.shields.io/github/stars/mauricelambert/CVE-2021-21985">
+- [xnianq/cve-2021-21985_exp](https://github.com/xnianq/cve-2021-21985_exp)	<img alt="forks" src="https://img.shields.io/github/forks/xnianq/cve-2021-21985_exp">	<img alt="stars" src="https://img.shields.io/github/stars/xnianq/cve-2021-21985_exp">
+- [daedalus/CVE-2021-21985](https://github.com/daedalus/CVE-2021-21985)	<img alt="forks" src="https://img.shields.io/github/forks/daedalus/CVE-2021-21985">	<img alt="stars" src="https://img.shields.io/github/stars/daedalus/CVE-2021-21985">
+- [testanull/Project_CVE-2021-21985_PoC](https://github.com/testanull/Project_CVE-2021-21985_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/testanull/Project_CVE-2021-21985_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/testanull/Project_CVE-2021-21985_PoC">
+- [haidv35/CVE-2021-21985](https://github.com/haidv35/CVE-2021-21985)	<img alt="forks" src="https://img.shields.io/github/forks/haidv35/CVE-2021-21985">	<img alt="stars" src="https://img.shields.io/github/stars/haidv35/CVE-2021-21985">
+- [aristosMiliaressis/CVE-2021-21985](https://github.com/aristosMiliaressis/CVE-2021-21985)	<img alt="forks" src="https://img.shields.io/github/forks/aristosMiliaressis/CVE-2021-21985">	<img alt="stars" src="https://img.shields.io/github/stars/aristosMiliaressis/CVE-2021-21985">
+- [sknux/CVE-2021-21985_PoC](https://github.com/sknux/CVE-2021-21985_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sknux/CVE-2021-21985_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sknux/CVE-2021-21985_PoC">
+
+---
 ## CVE-2021-21980 ()
 > 
 - [pkxk5pr6m2-web/cve-2021-21980-nuclei-poc](https://github.com/pkxk5pr6m2-web/cve-2021-21980-nuclei-poc)	<img alt="forks" src="https://img.shields.io/github/forks/pkxk5pr6m2-web/cve-2021-21980-nuclei-poc">	<img alt="stars" src="https://img.shields.io/github/stars/pkxk5pr6m2-web/cve-2021-21980-nuclei-poc">
@@ -9760,6 +11854,25 @@
 - [gui2000guix-ui/cve-2021-21980-nuclei-poc](https://github.com/gui2000guix-ui/cve-2021-21980-nuclei-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gui2000guix-ui/cve-2021-21980-nuclei-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gui2000guix-ui/cve-2021-21980-nuclei-poc">
 - [gui2000guix-ui/cve-2021-21980-mock-server](https://github.com/gui2000guix-ui/cve-2021-21980-mock-server)	<img alt="forks" src="https://img.shields.io/github/forks/gui2000guix-ui/cve-2021-21980-mock-server">	<img alt="stars" src="https://img.shields.io/github/stars/gui2000guix-ui/cve-2021-21980-mock-server">
 - [pratikjojode/vcenter-cve-2021-21980-lab](https://github.com/pratikjojode/vcenter-cve-2021-21980-lab)	<img alt="forks" src="https://img.shields.io/github/forks/pratikjojode/vcenter-cve-2021-21980-lab">	<img alt="stars" src="https://img.shields.io/github/stars/pratikjojode/vcenter-cve-2021-21980-lab">
+
+---
+## CVE-2021-21978 ()
+> 
+- [GreyOrder/CVE-2021-21978](https://github.com/GreyOrder/CVE-2021-21978)	<img alt="forks" src="https://img.shields.io/github/forks/GreyOrder/CVE-2021-21978">	<img alt="stars" src="https://img.shields.io/github/stars/GreyOrder/CVE-2021-21978">
+- [me1ons/CVE-2021-21978](https://github.com/me1ons/CVE-2021-21978)	<img alt="forks" src="https://img.shields.io/github/forks/me1ons/CVE-2021-21978">	<img alt="stars" src="https://img.shields.io/github/stars/me1ons/CVE-2021-21978">
+- [skytina/CVE-2021-21978](https://github.com/skytina/CVE-2021-21978)	<img alt="forks" src="https://img.shields.io/github/forks/skytina/CVE-2021-21978">	<img alt="stars" src="https://img.shields.io/github/stars/skytina/CVE-2021-21978">
+
+---
+## CVE-2021-21975 ()
+> 
+- [Henry4E36/VMWare-vRealize-SSRF](https://github.com/Henry4E36/VMWare-vRealize-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/Henry4E36/VMWare-vRealize-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/Henry4E36/VMWare-vRealize-SSRF">
+- [dorkerdevil/CVE-2021-21975](https://github.com/dorkerdevil/CVE-2021-21975)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2021-21975">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2021-21975">
+- [Al1ex/CVE-2021-21975](https://github.com/Al1ex/CVE-2021-21975)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2021-21975">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2021-21975">
+- [GuayoyoCyber/CVE-2021-21975](https://github.com/GuayoyoCyber/CVE-2021-21975)	<img alt="forks" src="https://img.shields.io/github/forks/GuayoyoCyber/CVE-2021-21975">	<img alt="stars" src="https://img.shields.io/github/stars/GuayoyoCyber/CVE-2021-21975">
+- [murataydemir/CVE-2021-21975](https://github.com/murataydemir/CVE-2021-21975)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2021-21975">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2021-21975">
+- [rabidwh0re/REALITY_SMASHER](https://github.com/rabidwh0re/REALITY_SMASHER)	<img alt="forks" src="https://img.shields.io/github/forks/rabidwh0re/REALITY_SMASHER">	<img alt="stars" src="https://img.shields.io/github/stars/rabidwh0re/REALITY_SMASHER">
+- [Vulnmachines/VMWare-CVE-2021-21975](https://github.com/Vulnmachines/VMWare-CVE-2021-21975)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/VMWare-CVE-2021-21975">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/VMWare-CVE-2021-21975">
+- [DarkFunct/exp_hub](https://github.com/DarkFunct/exp_hub)	<img alt="forks" src="https://img.shields.io/github/forks/DarkFunct/exp_hub">	<img alt="stars" src="https://img.shields.io/github/stars/DarkFunct/exp_hub">
 
 ---
 ## CVE-2021-21974 (2021-02-24T17:15:00)
@@ -9771,6 +11884,11 @@
 - [CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi](https://github.com/CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi)	<img alt="forks" src="https://img.shields.io/github/forks/CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi">	<img alt="stars" src="https://img.shields.io/github/stars/CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi">
 - [mercylessghost/CVE-2021-21974](https://github.com/mercylessghost/CVE-2021-21974)	<img alt="forks" src="https://img.shields.io/github/forks/mercylessghost/CVE-2021-21974">	<img alt="stars" src="https://img.shields.io/github/stars/mercylessghost/CVE-2021-21974">
 - [abirasecurity/CVE-2021-21974_vuln_dectection](https://github.com/abirasecurity/CVE-2021-21974_vuln_dectection)	<img alt="forks" src="https://img.shields.io/github/forks/abirasecurity/CVE-2021-21974_vuln_dectection">	<img alt="stars" src="https://img.shields.io/github/stars/abirasecurity/CVE-2021-21974_vuln_dectection">
+
+---
+## CVE-2021-21973 ()
+> 
+- [freakanonymous/CVE-2021-21973-Automateme](https://github.com/freakanonymous/CVE-2021-21973-Automateme)	<img alt="forks" src="https://img.shields.io/github/forks/freakanonymous/CVE-2021-21973-Automateme">	<img alt="stars" src="https://img.shields.io/github/stars/freakanonymous/CVE-2021-21973-Automateme">
 
 ---
 ## CVE-2021-21972 (2021-02-24T17:15:00)
@@ -9808,6 +11926,8 @@
 - [alt3kx/CVE-2021-21972](https://github.com/alt3kx/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2021-21972">
 - [Udyz/CVE-2021-21972](https://github.com/Udyz/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/Udyz/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/Udyz/CVE-2021-21972">
 - [yaunsky/CVE-2021-21972](https://github.com/yaunsky/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/CVE-2021-21972">
+- [TAI-REx/CVE-2021-21972](https://github.com/TAI-REx/CVE-2021-21972)	<img alt="forks" src="https://img.shields.io/github/forks/TAI-REx/CVE-2021-21972">	<img alt="stars" src="https://img.shields.io/github/stars/TAI-REx/CVE-2021-21972">
+- [SimoesCTT/CTT-enhanced-VMware-vCenter](https://github.com/SimoesCTT/CTT-enhanced-VMware-vCenter)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/CTT-enhanced-VMware-vCenter">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/CTT-enhanced-VMware-vCenter">
 
 ---
 ## CVE-2021-21964 (2022-02-04T23:15:00)
@@ -9957,6 +12077,7 @@
 ## CVE-2021-21772 (2021-03-10T17:15:00)
 > A use-after-free vulnerability exists in the NMR::COpcPackageReader::releaseZIP() functionality of 3MF Consortium lib3mf 2.0.0. A specially crafted 3MF file can lead to code execution. An attacker can provide a malicious file to trigger this vulnerability.
 - [Live-Hack-CVE/CVE-2021-21772](https://github.com/Live-Hack-CVE/CVE-2021-21772)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21772">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21772">
+- [3dluvr/New-lib3mf.dll-for-MeshMixer](https://github.com/3dluvr/New-lib3mf.dll-for-MeshMixer)	<img alt="forks" src="https://img.shields.io/github/forks/3dluvr/New-lib3mf.dll-for-MeshMixer">	<img alt="stars" src="https://img.shields.io/github/stars/3dluvr/New-lib3mf.dll-for-MeshMixer">
 
 ---
 ## CVE-2021-21735 ()
@@ -9964,9 +12085,20 @@
 - [minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise](https://github.com/minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise)	<img alt="forks" src="https://img.shields.io/github/forks/minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise">	<img alt="stars" src="https://img.shields.io/github/stars/minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise">
 
 ---
+## CVE-2021-2173 ()
+> 
+- [emad-almousa/CVE-2021-2173](https://github.com/emad-almousa/CVE-2021-2173)	<img alt="forks" src="https://img.shields.io/github/forks/emad-almousa/CVE-2021-2173">	<img alt="stars" src="https://img.shields.io/github/stars/emad-almousa/CVE-2021-2173">
+
+---
+## CVE-2021-21716 ()
+> 
+- [MojithaR/CVE-2023-21716-EXPLOIT.py](https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py)	<img alt="forks" src="https://img.shields.io/github/forks/MojithaR/CVE-2023-21716-EXPLOIT.py">	<img alt="stars" src="https://img.shields.io/github/stars/MojithaR/CVE-2023-21716-EXPLOIT.py">
+
+---
 ## CVE-2021-21707 (2021-11-29T07:15:00)
 > In PHP versions 7.3.x below 7.3.33, 7.4.x below 7.4.26 and 8.0.x below 8.0.13, certain XML parsing functions, like simplexml_load_file(), URL-decode the filename passed to them. If that filename contains URL-encoded NUL character, this may cause the function to interpret this as the end of the filename, thus interpreting the filename differently from what the user intended, which may lead it to reading a different file than intended.
 - [Live-Hack-CVE/CVE-2021-21707](https://github.com/Live-Hack-CVE/CVE-2021-21707)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21707">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21707">
+- [useru1k/php-8.1.0-dev-exploit](https://github.com/useru1k/php-8.1.0-dev-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/useru1k/php-8.1.0-dev-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/useru1k/php-8.1.0-dev-exploit">
 
 ---
 ## CVE-2021-21704 (2021-10-04T04:15:00)
@@ -10059,6 +12191,11 @@
 - [Live-Hack-CVE/CVE-2021-21532](https://github.com/Live-Hack-CVE/CVE-2021-21532)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21532">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21532">
 
 ---
+## CVE-2021-21514 ()
+> 
+- [und3sc0n0c1d0/AFR-in-OMSA](https://github.com/und3sc0n0c1d0/AFR-in-OMSA)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/AFR-in-OMSA">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/AFR-in-OMSA">
+
+---
 ## CVE-2021-21510 (2021-03-08T22:15:00)
 > Dell iDRAC8 versions prior to 2.75.100.75 contain a host header injection vulnerability. A remote unauthenticated attacker may potentially exploit this vulnerability by injecting arbitrary ‘Host’ header values to poison a web-cache or trigger redirections.
 - [Live-Hack-CVE/CVE-2021-21510](https://github.com/Live-Hack-CVE/CVE-2021-21510)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21510">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21510">
@@ -10091,11 +12228,14 @@
 - [grey-master-a/GravCMS_Nmap_Script](https://github.com/grey-master-a/GravCMS_Nmap_Script)	<img alt="forks" src="https://img.shields.io/github/forks/grey-master-a/GravCMS_Nmap_Script">	<img alt="stars" src="https://img.shields.io/github/stars/grey-master-a/GravCMS_Nmap_Script">
 - [afifudinmtop/CVE-2021-21425](https://github.com/afifudinmtop/CVE-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/afifudinmtop/CVE-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/afifudinmtop/CVE-2021-21425">
 - [TeddyEngel/CVE-2021-21425](https://github.com/TeddyEngel/CVE-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/TeddyEngel/CVE-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/TeddyEngel/CVE-2021-21425">
+- [d4ytox/CVE-2021-21425](https://github.com/d4ytox/CVE-2021-21425)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-21425">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-21425">
+- [s1lentf00thold/CVE-2021-21425-RCE](https://github.com/s1lentf00thold/CVE-2021-21425-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/s1lentf00thold/CVE-2021-21425-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/s1lentf00thold/CVE-2021-21425-RCE">
 
 ---
 ## CVE-2021-21424 ()
 > 
 - [moften/CVE-2021-21424](https://github.com/moften/CVE-2021-21424)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2021-21424">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2021-21424">
+- [moften/Symfony-CVE-Scanner-PoC-](https://github.com/moften/Symfony-CVE-Scanner-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/moften/Symfony-CVE-Scanner-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/moften/Symfony-CVE-Scanner-PoC-">
 
 ---
 ## CVE-2021-21408 (2022-01-10T20:15:00)
@@ -10106,6 +12246,13 @@
 ## CVE-2021-21403 (2021-03-26T18:15:00)
 > In github.com/kongchuanhujiao/server before version 1.3.21 there is an authentication Bypass by Primary Weakness vulnerability. All users are impacted. This is fixed in version 1.3.21.
 - [Live-Hack-CVE/CVE-2021-21403](https://github.com/Live-Hack-CVE/CVE-2021-21403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21403">
+
+---
+## CVE-2021-21402 ()
+> 
+- [jiaocoll/CVE-2021-21402-Jellyfin](https://github.com/jiaocoll/CVE-2021-21402-Jellyfin)	<img alt="forks" src="https://img.shields.io/github/forks/jiaocoll/CVE-2021-21402-Jellyfin">	<img alt="stars" src="https://img.shields.io/github/stars/jiaocoll/CVE-2021-21402-Jellyfin">
+- [somatrasss/CVE-2021-21402](https://github.com/somatrasss/CVE-2021-21402)	<img alt="forks" src="https://img.shields.io/github/forks/somatrasss/CVE-2021-21402">	<img alt="stars" src="https://img.shields.io/github/stars/somatrasss/CVE-2021-21402">
+- [givemefivw/CVE-2021-21402](https://github.com/givemefivw/CVE-2021-21402)	<img alt="forks" src="https://img.shields.io/github/forks/givemefivw/CVE-2021-21402">	<img alt="stars" src="https://img.shields.io/github/stars/givemefivw/CVE-2021-21402">
 
 ---
 ## CVE-2021-21401 (2021-03-23T18:15:00)
@@ -10170,9 +12317,28 @@
 - [jinsu9758/PUG-RCE-CVE-2021-21353-POC](https://github.com/jinsu9758/PUG-RCE-CVE-2021-21353-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jinsu9758/PUG-RCE-CVE-2021-21353-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jinsu9758/PUG-RCE-CVE-2021-21353-POC">
 
 ---
+## CVE-2021-21349 ()
+> 
+- [s-index/CVE-2021-21349](https://github.com/s-index/CVE-2021-21349)	<img alt="forks" src="https://img.shields.io/github/forks/s-index/CVE-2021-21349">	<img alt="stars" src="https://img.shields.io/github/stars/s-index/CVE-2021-21349">
+
+---
 ## CVE-2021-21345 ()
 > 
 - [shoucheng3/x-stream__xstream_CVE-2021-21345_1-4-15](https://github.com/shoucheng3/x-stream__xstream_CVE-2021-21345_1-4-15)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/x-stream__xstream_CVE-2021-21345_1-4-15">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/x-stream__xstream_CVE-2021-21345_1-4-15">
+
+---
+## CVE-2021-21341 ()
+> 
+- [s-index/CVE-2021-21341](https://github.com/s-index/CVE-2021-21341)	<img alt="forks" src="https://img.shields.io/github/forks/s-index/CVE-2021-21341">	<img alt="stars" src="https://img.shields.io/github/stars/s-index/CVE-2021-21341">
+
+---
+## CVE-2021-21315 ()
+> 
+- [ForbiddenProgrammer/CVE-2021-21315-PoC](https://github.com/ForbiddenProgrammer/CVE-2021-21315-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ForbiddenProgrammer/CVE-2021-21315-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ForbiddenProgrammer/CVE-2021-21315-PoC">
+- [MazX0p/CVE-2021-21315-exploit](https://github.com/MazX0p/CVE-2021-21315-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MazX0p/CVE-2021-21315-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MazX0p/CVE-2021-21315-exploit">
+- [alikarimi999/CVE-2021-21315](https://github.com/alikarimi999/CVE-2021-21315)	<img alt="forks" src="https://img.shields.io/github/forks/alikarimi999/CVE-2021-21315">	<img alt="stars" src="https://img.shields.io/github/stars/alikarimi999/CVE-2021-21315">
+- [G01d3nW01f/CVE-2021-21315](https://github.com/G01d3nW01f/CVE-2021-21315)	<img alt="forks" src="https://img.shields.io/github/forks/G01d3nW01f/CVE-2021-21315">	<img alt="stars" src="https://img.shields.io/github/stars/G01d3nW01f/CVE-2021-21315">
+- [xMohamed0/CVE-2021-21315-POC](https://github.com/xMohamed0/CVE-2021-21315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xMohamed0/CVE-2021-21315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xMohamed0/CVE-2021-21315-POC">
 
 ---
 ## CVE-2021-21313 (2021-03-03T20:15:00)
@@ -10184,6 +12350,7 @@
 > Adminer is an open-source database management in a single PHP file. In adminer from version 4.0.0 and before 4.7.9 there is a server-side request forgery vulnerability. Users of Adminer versions bundling all drivers (e.g. `adminer.php`) are affected. This is fixed in version 4.7.9.
 - [omoknooni/CVE-2021-21311](https://github.com/omoknooni/CVE-2021-21311)	<img alt="forks" src="https://img.shields.io/github/forks/omoknooni/CVE-2021-21311">	<img alt="stars" src="https://img.shields.io/github/stars/omoknooni/CVE-2021-21311">
 - [llhala/CVE-2021-21311](https://github.com/llhala/CVE-2021-21311)	<img alt="forks" src="https://img.shields.io/github/forks/llhala/CVE-2021-21311">	<img alt="stars" src="https://img.shields.io/github/stars/llhala/CVE-2021-21311">
+- [Sudo-WP/sudowp-adminer](https://github.com/Sudo-WP/sudowp-adminer)	<img alt="forks" src="https://img.shields.io/github/forks/Sudo-WP/sudowp-adminer">	<img alt="stars" src="https://img.shields.io/github/stars/Sudo-WP/sudowp-adminer">
 
 ---
 ## CVE-2021-21304 (2021-02-08T18:15:00)
@@ -10267,6 +12434,12 @@
 - [Live-Hack-CVE/CVE-2021-21235](https://github.com/Live-Hack-CVE/CVE-2021-21235)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21235">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21235">
 
 ---
+## CVE-2021-21234 ()
+> 
+- [PwCNO-CTO/CVE-2021-21234](https://github.com/PwCNO-CTO/CVE-2021-21234)	<img alt="forks" src="https://img.shields.io/github/forks/PwCNO-CTO/CVE-2021-21234">	<img alt="stars" src="https://img.shields.io/github/stars/PwCNO-CTO/CVE-2021-21234">
+- [xiaojiangxl/CVE-2021-21234](https://github.com/xiaojiangxl/CVE-2021-21234)	<img alt="forks" src="https://img.shields.io/github/forks/xiaojiangxl/CVE-2021-21234">	<img alt="stars" src="https://img.shields.io/github/stars/xiaojiangxl/CVE-2021-21234">
+
+---
 ## CVE-2021-21225 (2021-04-26T17:15:00)
 > Out of bounds memory access in V8 in Google Chrome prior to 90.0.4430.85 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [w1n-gl0ry/CVE-2021-21225](https://github.com/w1n-gl0ry/CVE-2021-21225)	<img alt="forks" src="https://img.shields.io/github/forks/w1n-gl0ry/CVE-2021-21225">	<img alt="stars" src="https://img.shields.io/github/stars/w1n-gl0ry/CVE-2021-21225">
@@ -10275,6 +12448,9 @@
 ## CVE-2021-21220 ()
 > 
 - [borahll/CVE-2021-21220](https://github.com/borahll/CVE-2021-21220)	<img alt="forks" src="https://img.shields.io/github/forks/borahll/CVE-2021-21220">	<img alt="stars" src="https://img.shields.io/github/stars/borahll/CVE-2021-21220">
+- [AmesianX/CVE-2021-21220](https://github.com/AmesianX/CVE-2021-21220)	<img alt="forks" src="https://img.shields.io/github/forks/AmesianX/CVE-2021-21220">	<img alt="stars" src="https://img.shields.io/github/stars/AmesianX/CVE-2021-21220">
+- [JacobTaylor3/CVE-2021-21220](https://github.com/JacobTaylor3/CVE-2021-21220)	<img alt="forks" src="https://img.shields.io/github/forks/JacobTaylor3/CVE-2021-21220">	<img alt="stars" src="https://img.shields.io/github/stars/JacobTaylor3/CVE-2021-21220">
+- [JacobTaylor3/C2-and-Post-Exploitation-Framework](https://github.com/JacobTaylor3/C2-and-Post-Exploitation-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/JacobTaylor3/C2-and-Post-Exploitation-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/JacobTaylor3/C2-and-Post-Exploitation-Framework">
 
 ---
 ## CVE-2021-21200 (2023-01-02T23:15:00)
@@ -10287,6 +12463,26 @@
 - [JacobTaylor3/CVE-2021-21191---CVE-2021-21192](https://github.com/JacobTaylor3/CVE-2021-21191---CVE-2021-21192)	<img alt="forks" src="https://img.shields.io/github/forks/JacobTaylor3/CVE-2021-21191---CVE-2021-21192">	<img alt="stars" src="https://img.shields.io/github/stars/JacobTaylor3/CVE-2021-21191---CVE-2021-21192">
 
 ---
+## CVE-2021-2119 ()
+> 
+- [Sauercloud/RWCTF21-VirtualBox-61-escape](https://github.com/Sauercloud/RWCTF21-VirtualBox-61-escape)	<img alt="forks" src="https://img.shields.io/github/forks/Sauercloud/RWCTF21-VirtualBox-61-escape">	<img alt="stars" src="https://img.shields.io/github/stars/Sauercloud/RWCTF21-VirtualBox-61-escape">
+
+---
+## CVE-2021-21148 ()
+> 
+- [Grayhaxor/CVE-2021-21148](https://github.com/Grayhaxor/CVE-2021-21148)	<img alt="forks" src="https://img.shields.io/github/forks/Grayhaxor/CVE-2021-21148">	<img alt="stars" src="https://img.shields.io/github/stars/Grayhaxor/CVE-2021-21148">
+
+---
+## CVE-2021-21123 ()
+> 
+- [Puliczek/CVE-2021-21123-PoC-Google-Chrome](https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome)	<img alt="forks" src="https://img.shields.io/github/forks/Puliczek/CVE-2021-21123-PoC-Google-Chrome">	<img alt="stars" src="https://img.shields.io/github/stars/Puliczek/CVE-2021-21123-PoC-Google-Chrome">
+
+---
+## CVE-2021-21110 ()
+> 
+- [Gh0st0ne/CVE-2021-21110](https://github.com/Gh0st0ne/CVE-2021-21110)	<img alt="forks" src="https://img.shields.io/github/forks/Gh0st0ne/CVE-2021-21110">	<img alt="stars" src="https://img.shields.io/github/stars/Gh0st0ne/CVE-2021-21110">
+
+---
 ## CVE-2021-2109 (2021-01-20T15:15:00)
 > Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Console). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows high privileged attacker with network access via HTTP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 7.2 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H).
 - [Vulnmachines/oracle-weblogic-CVE-2021-2109](https://github.com/Vulnmachines/oracle-weblogic-CVE-2021-2109)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/oracle-weblogic-CVE-2021-2109">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/oracle-weblogic-CVE-2021-2109">
@@ -10297,6 +12493,11 @@
 - [yuaneuro/CVE-2021-2109_poc](https://github.com/yuaneuro/CVE-2021-2109_poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuaneuro/CVE-2021-2109_poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuaneuro/CVE-2021-2109_poc">
 - [rabbitsafe/CVE-2021-2109](https://github.com/rabbitsafe/CVE-2021-2109)	<img alt="forks" src="https://img.shields.io/github/forks/rabbitsafe/CVE-2021-2109">	<img alt="stars" src="https://img.shields.io/github/stars/rabbitsafe/CVE-2021-2109">
 - [Al1ex/CVE-2021-2109](https://github.com/Al1ex/CVE-2021-2109)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2021-2109">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2021-2109">
+
+---
+## CVE-2021-21086 ()
+> 
+- [infobyte/Exploit-CVE-2021-21086](https://github.com/infobyte/Exploit-CVE-2021-21086)	<img alt="forks" src="https://img.shields.io/github/forks/infobyte/Exploit-CVE-2021-21086">	<img alt="stars" src="https://img.shields.io/github/stars/infobyte/Exploit-CVE-2021-21086">
 
 ---
 ## CVE-2021-21071 (2021-03-12T19:15:00)
@@ -10334,9 +12535,25 @@
 - [Live-Hack-CVE/CVE-2021-21046](https://github.com/Live-Hack-CVE/CVE-2021-21046)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21046">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21046">
 
 ---
+## CVE-2021-21042 ()
+> 
+- [NattiSamson/CVE-2021-21042](https://github.com/NattiSamson/CVE-2021-21042)	<img alt="forks" src="https://img.shields.io/github/forks/NattiSamson/CVE-2021-21042">	<img alt="stars" src="https://img.shields.io/github/stars/NattiSamson/CVE-2021-21042">
+- [r1l4-i3pur1l4/CVE-2021-21042](https://github.com/r1l4-i3pur1l4/CVE-2021-21042)	<img alt="forks" src="https://img.shields.io/github/forks/r1l4-i3pur1l4/CVE-2021-21042">	<img alt="stars" src="https://img.shields.io/github/stars/r1l4-i3pur1l4/CVE-2021-21042">
+
+---
 ## CVE-2021-21022 (2021-02-11T20:15:00)
 > Magento versions 2.4.1 (and earlier), 2.4.0-p1 (and earlier) and 2.3.6 (and earlier) are vulnerable to an insecure direct object reference (IDOR) in the product module. Successful exploitation could lead to unauthorized access to restricted resources.
 - [Live-Hack-CVE/CVE-2021-21022](https://github.com/Live-Hack-CVE/CVE-2021-21022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21022">
+
+---
+## CVE-2021-21017 ()
+> 
+- [ZeusBox/CVE-2021-21017](https://github.com/ZeusBox/CVE-2021-21017)	<img alt="forks" src="https://img.shields.io/github/forks/ZeusBox/CVE-2021-21017">	<img alt="stars" src="https://img.shields.io/github/stars/ZeusBox/CVE-2021-21017">
+
+---
+## CVE-2021-21014 ()
+> 
+- [HoangKien1020/CVE-2021-21014](https://github.com/HoangKien1020/CVE-2021-21014)	<img alt="forks" src="https://img.shields.io/github/forks/HoangKien1020/CVE-2021-21014">	<img alt="stars" src="https://img.shields.io/github/stars/HoangKien1020/CVE-2021-21014">
 
 ---
 ## CVE-2021-21012 (2021-01-13T23:15:00)
@@ -10356,6 +12573,11 @@
 ## CVE-2021-20784 (2021-07-14T02:15:00)
 > HTTP header injection vulnerability in Everything all versions except the Lite version may allow a remote attacker to inject an arbitrary script or alter the website that uses the product via unspecified vectors.
 - [Live-Hack-CVE/CVE-2021-20784](https://github.com/Live-Hack-CVE/CVE-2021-20784)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20784">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20784">
+
+---
+## CVE-2021-20717 ()
+> 
+- [s-index/CVE-2021-20717](https://github.com/s-index/CVE-2021-20717)	<img alt="forks" src="https://img.shields.io/github/forks/s-index/CVE-2021-20717">	<img alt="stars" src="https://img.shields.io/github/stars/s-index/CVE-2021-20717">
 
 ---
 ## CVE-2021-20699 (2021-06-07T14:15:00)
@@ -10429,6 +12651,11 @@
 - [mbadanoiu/CVE-2021-20253](https://github.com/mbadanoiu/CVE-2021-20253)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2021-20253">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2021-20253">
 
 ---
+## CVE-2021-20233 ()
+> 
+- [pauljrowland/BootHoleFix](https://github.com/pauljrowland/BootHoleFix)	<img alt="forks" src="https://img.shields.io/github/forks/pauljrowland/BootHoleFix">	<img alt="stars" src="https://img.shields.io/github/stars/pauljrowland/BootHoleFix">
+
+---
 ## CVE-2021-20227 (2021-03-23T17:15:00)
 > A flaw was found in SQLite's SELECT query functionality (src/select.c). This flaw allows an attacker who is capable of running SQL queries locally on the SQLite database to cause a denial of service or possible code execution by triggering a use-after-free. The highest threat from this vulnerability is to system availability.
 - [Live-Hack-CVE/CVE-2021-20227](https://github.com/Live-Hack-CVE/CVE-2021-20227)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20227">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20227">
@@ -10438,6 +12665,11 @@
 ## CVE-2021-20224 (2022-08-25T20:15:00)
 > An integer overflow issue was discovered in ImageMagick's ExportIndexQuantum() function in MagickCore/quantum-export.c. Function calls to GetPixelIndex() could result in values outside the range of representable for the 'unsigned char'. When ImageMagick processes a crafted pdf file, this could lead to an undefined behaviour or a crash.
 - [Live-Hack-CVE/CVE-2021-20224](https://github.com/Live-Hack-CVE/CVE-2021-20224)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-20224">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-20224">
+
+---
+## CVE-2021-2021 ()
+> 
+- [TheCryingGame/CVE-2021-2021good](https://github.com/TheCryingGame/CVE-2021-2021good)	<img alt="forks" src="https://img.shields.io/github/forks/TheCryingGame/CVE-2021-2021good">	<img alt="stars" src="https://img.shields.io/github/stars/TheCryingGame/CVE-2021-2021good">
 
 ---
 ## CVE-2021-20190 ()
@@ -10466,6 +12698,7 @@
 - [S3ntinelX/nmap-scripts](https://github.com/S3ntinelX/nmap-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/S3ntinelX/nmap-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/S3ntinelX/nmap-scripts">
 - [jbaines-r7/badblood](https://github.com/jbaines-r7/badblood)	<img alt="forks" src="https://img.shields.io/github/forks/jbaines-r7/badblood">	<img alt="stars" src="https://img.shields.io/github/stars/jbaines-r7/badblood">
 - [MaX0dexpoit/CVE-2021-20038](https://github.com/MaX0dexpoit/CVE-2021-20038)	<img alt="forks" src="https://img.shields.io/github/forks/MaX0dexpoit/CVE-2021-20038">	<img alt="stars" src="https://img.shields.io/github/stars/MaX0dexpoit/CVE-2021-20038">
+- [anir0y/sonicwall-audit-toolkit](https://github.com/anir0y/sonicwall-audit-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/anir0y/sonicwall-audit-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/anir0y/sonicwall-audit-toolkit">
 
 ---
 ## CVE-2021-20030 (2022-10-13T11:15:00)
@@ -10478,9 +12711,36 @@
 - [SUPRAAA-1337/CVE-2021-20021](https://github.com/SUPRAAA-1337/CVE-2021-20021)	<img alt="forks" src="https://img.shields.io/github/forks/SUPRAAA-1337/CVE-2021-20021">	<img alt="stars" src="https://img.shields.io/github/stars/SUPRAAA-1337/CVE-2021-20021">
 
 ---
+## CVE-2021-1994 ()
+> 
+- [somatrasss/weblogic2021](https://github.com/somatrasss/weblogic2021)	<img alt="forks" src="https://img.shields.io/github/forks/somatrasss/weblogic2021">	<img alt="stars" src="https://img.shields.io/github/stars/somatrasss/weblogic2021">
+
+---
+## CVE-2021-1961 ()
+> 
+- [tamirzb/CVE-2021-1961](https://github.com/tamirzb/CVE-2021-1961)	<img alt="forks" src="https://img.shields.io/github/forks/tamirzb/CVE-2021-1961">	<img alt="stars" src="https://img.shields.io/github/stars/tamirzb/CVE-2021-1961">
+
+---
 ## CVE-2021-1931 ()
 > 
 - [FakeShell/CVE-2021-1931-BBRY-KEY2](https://github.com/FakeShell/CVE-2021-1931-BBRY-KEY2)	<img alt="forks" src="https://img.shields.io/github/forks/FakeShell/CVE-2021-1931-BBRY-KEY2">	<img alt="stars" src="https://img.shields.io/github/stars/FakeShell/CVE-2021-1931-BBRY-KEY2">
+
+---
+## CVE-2021-1905 ()
+> 
+- [TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664](https://github.com/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664)	<img alt="forks" src="https://img.shields.io/github/forks/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664">	<img alt="stars" src="https://img.shields.io/github/stars/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664">
+
+---
+## CVE-2021-1782 ()
+> 
+- [raymontag/cve-2021-1782](https://github.com/raymontag/cve-2021-1782)	<img alt="forks" src="https://img.shields.io/github/forks/raymontag/cve-2021-1782">	<img alt="stars" src="https://img.shields.io/github/stars/raymontag/cve-2021-1782">
+- [synacktiv/CVE-2021-1782](https://github.com/synacktiv/CVE-2021-1782)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2021-1782">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2021-1782">
+
+---
+## CVE-2021-1748 ()
+> 
+- [Ivanhoe76zzzz/itmsBlock](https://github.com/Ivanhoe76zzzz/itmsBlock)	<img alt="forks" src="https://img.shields.io/github/forks/Ivanhoe76zzzz/itmsBlock">	<img alt="stars" src="https://img.shields.io/github/stars/Ivanhoe76zzzz/itmsBlock">
+- [ChiChou/mistune-patch-backport](https://github.com/ChiChou/mistune-patch-backport)	<img alt="forks" src="https://img.shields.io/github/forks/ChiChou/mistune-patch-backport">	<img alt="stars" src="https://img.shields.io/github/stars/ChiChou/mistune-patch-backport">
 
 ---
 ## CVE-2021-1732 (2021-02-25T23:15:00)
@@ -10503,6 +12763,17 @@
 - [yangshifan-git/CVE-2021-1732](https://github.com/yangshifan-git/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/yangshifan-git/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/yangshifan-git/CVE-2021-1732">
 - [asepsaepdin/CVE-2021-1732](https://github.com/asepsaepdin/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2021-1732">
 - [Sausageinforest/CVE-2021-1732](https://github.com/Sausageinforest/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/Sausageinforest/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/Sausageinforest/CVE-2021-1732">
+- [flyinbedxyz/CVE-2021-1732](https://github.com/flyinbedxyz/CVE-2021-1732)	<img alt="forks" src="https://img.shields.io/github/forks/flyinbedxyz/CVE-2021-1732">	<img alt="stars" src="https://img.shields.io/github/stars/flyinbedxyz/CVE-2021-1732">
+
+---
+## CVE-2021-1699 ()
+> 
+- [waleedassar/CVE-2021-1699](https://github.com/waleedassar/CVE-2021-1699)	<img alt="forks" src="https://img.shields.io/github/forks/waleedassar/CVE-2021-1699">	<img alt="stars" src="https://img.shields.io/github/stars/waleedassar/CVE-2021-1699">
+
+---
+## CVE-2021-1678 ()
+> 
+- [alvaciroliveira/RpcAuthnLevelPrivacyEnabled](https://github.com/alvaciroliveira/RpcAuthnLevelPrivacyEnabled)	<img alt="forks" src="https://img.shields.io/github/forks/alvaciroliveira/RpcAuthnLevelPrivacyEnabled">	<img alt="stars" src="https://img.shields.io/github/stars/alvaciroliveira/RpcAuthnLevelPrivacyEnabled">
 
 ---
 ## CVE-2021-1675 (2021-06-08T23:15:00)
@@ -10552,6 +12823,29 @@
 - [VoiidByte/Impacket](https://github.com/VoiidByte/Impacket)	<img alt="forks" src="https://img.shields.io/github/forks/VoiidByte/Impacket">	<img alt="stars" src="https://img.shields.io/github/stars/VoiidByte/Impacket">
 - [GlacierGossip/PrintNightmare](https://github.com/GlacierGossip/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/GlacierGossip/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/GlacierGossip/PrintNightmare">
 - [000Tonio/cve-2021-1675](https://github.com/000Tonio/cve-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/000Tonio/cve-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/000Tonio/cve-2021-1675">
+- [yu2u/CVE-2021-1675](https://github.com/yu2u/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/yu2u/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/yu2u/CVE-2021-1675">
+- [kondah/patch-cve-2021-1675](https://github.com/kondah/patch-cve-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/kondah/patch-cve-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/kondah/patch-cve-2021-1675">
+- [evilashz/CVE-2021-1675-LPE-EXP](https://github.com/evilashz/CVE-2021-1675-LPE-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/evilashz/CVE-2021-1675-LPE-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/evilashz/CVE-2021-1675-LPE-EXP">
+- [tanarchytan/CVE-2021-1675](https://github.com/tanarchytan/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/tanarchytan/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/tanarchytan/CVE-2021-1675">
+- [Leonidus0x10/CVE-2021-1675-SCANNER](https://github.com/Leonidus0x10/CVE-2021-1675-SCANNER)	<img alt="forks" src="https://img.shields.io/github/forks/Leonidus0x10/CVE-2021-1675-SCANNER">	<img alt="stars" src="https://img.shields.io/github/stars/Leonidus0x10/CVE-2021-1675-SCANNER">
+- [thomasgeens/CVE-2021-1675](https://github.com/thomasgeens/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/thomasgeens/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/thomasgeens/CVE-2021-1675">
+- [mrezqi/CVE-2021-1675_CarbonBlack_HuntingQuery](https://github.com/mrezqi/CVE-2021-1675_CarbonBlack_HuntingQuery)	<img alt="forks" src="https://img.shields.io/github/forks/mrezqi/CVE-2021-1675_CarbonBlack_HuntingQuery">	<img alt="stars" src="https://img.shields.io/github/stars/mrezqi/CVE-2021-1675_CarbonBlack_HuntingQuery">
+- [killtr0/CVE-2021-1675-PrintNightmare](https://github.com/killtr0/CVE-2021-1675-PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/killtr0/CVE-2021-1675-PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/killtr0/CVE-2021-1675-PrintNightmare">
+- [kougyokugentou/CVE-2021-1675](https://github.com/kougyokugentou/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/kougyokugentou/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/kougyokugentou/CVE-2021-1675">
+- [ptter23/CVE-2021-1675](https://github.com/ptter23/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/ptter23/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/ptter23/CVE-2021-1675">
+- [initconf/cve-2021-1675-printnightmare](https://github.com/initconf/cve-2021-1675-printnightmare)	<img alt="forks" src="https://img.shields.io/github/forks/initconf/cve-2021-1675-printnightmare">	<img alt="stars" src="https://img.shields.io/github/stars/initconf/cve-2021-1675-printnightmare">
+- [ozergoker/PrintNightmare](https://github.com/ozergoker/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/ozergoker/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/ozergoker/PrintNightmare">
+- [exploitblizzard/PrintNightmare-CVE-2021-1675](https://github.com/exploitblizzard/PrintNightmare-CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/exploitblizzard/PrintNightmare-CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/exploitblizzard/PrintNightmare-CVE-2021-1675">
+
+---
+## CVE-2021-1656 ()
+> 
+- [waleedassar/CVE-2021-1656](https://github.com/waleedassar/CVE-2021-1656)	<img alt="forks" src="https://img.shields.io/github/forks/waleedassar/CVE-2021-1656">	<img alt="stars" src="https://img.shields.io/github/stars/waleedassar/CVE-2021-1656">
+
+---
+## CVE-2021-1647 ()
+> 
+- [findcool/cve-2021-1647](https://github.com/findcool/cve-2021-1647)	<img alt="forks" src="https://img.shields.io/github/forks/findcool/cve-2021-1647">	<img alt="stars" src="https://img.shields.io/github/stars/findcool/cve-2021-1647">
 
 ---
 ## CVE-2021-1589 (2021-09-23T03:15:00)
@@ -10562,6 +12856,7 @@
 ## CVE-2021-1585 (2021-07-08T19:15:00)
 > A vulnerability in the Cisco Adaptive Security Device Manager (ASDM) Launcher could allow an unauthenticated, remote attacker to execute arbitrary code on a user's operating system. This vulnerability is due to a lack of proper signature verification for specific code exchanged between the ASDM and the Launcher. An attacker could exploit this vulnerability by leveraging a man-in-the-middle position on the network to intercept the traffic between the Launcher and the ASDM and then inject arbitrary code. A successful exploit could allow the attacker to execute arbitrary code on the user's operating system with the level of privileges assigned to the ASDM Launcher. A successful exploit may require the attacker to perform a social engineering attack to persuade the user to initiate communication from the Launcher to the ASDM.
 - [Live-Hack-CVE/CVE-2021-1585](https://github.com/Live-Hack-CVE/CVE-2021-1585)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1585">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1585">
+- [jbaines-r7/staystaystay](https://github.com/jbaines-r7/staystaystay)	<img alt="forks" src="https://img.shields.io/github/forks/jbaines-r7/staystaystay">	<img alt="stars" src="https://img.shields.io/github/stars/jbaines-r7/staystaystay">
 
 ---
 ## CVE-2021-1583 (2021-08-25T20:15:00)
@@ -10577,6 +12872,16 @@
 ## CVE-2021-1562 (2021-07-08T19:15:00)
 > A vulnerability in the XSI-Actions interface of Cisco BroadWorks Application Server could allow an authenticated, remote attacker to access sensitive information on an affected system. This vulnerability is due to improper input validation and authorization of specific commands that a user can execute within the XSI-Actions interface. An attacker could exploit this vulnerability by authenticating to an affected device and issuing a specific set of commands. A successful exploit could allow the attacker to join a Call Center instance and have calls that they do not have permissions to access distributed to them from the Call Center queue. At the time of publication, Cisco had not released updates that address this vulnerability for Cisco BroadWorks Application Server. However, firmware patches are available.
 - [Live-Hack-CVE/CVE-2021-1562](https://github.com/Live-Hack-CVE/CVE-2021-1562)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1562">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1562">
+
+---
+## CVE-2021-1497 ()
+> 
+- [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
+
+---
+## CVE-2021-1480 ()
+> 
+- [xmco/sdwan-cve-2021-1480](https://github.com/xmco/sdwan-cve-2021-1480)	<img alt="forks" src="https://img.shields.io/github/forks/xmco/sdwan-cve-2021-1480">	<img alt="stars" src="https://img.shields.io/github/stars/xmco/sdwan-cve-2021-1480">
 
 ---
 ## CVE-2021-1423 (2021-03-24T21:15:00)
@@ -10679,10 +12984,25 @@
 - [Live-Hack-CVE/CVE-2021-1118](https://github.com/Live-Hack-CVE/CVE-2021-1118)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-1118">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-1118">
 
 ---
+## CVE-2021-1056 ()
+> 
+- [pokerfaceSad/CVE-2021-1056](https://github.com/pokerfaceSad/CVE-2021-1056)	<img alt="forks" src="https://img.shields.io/github/forks/pokerfaceSad/CVE-2021-1056">	<img alt="stars" src="https://img.shields.io/github/stars/pokerfaceSad/CVE-2021-1056">
+
+---
+## CVE-2021-10086 ()
+> 
+- [AK-blank/CVE-2021-10086](https://github.com/AK-blank/CVE-2021-10086)	<img alt="forks" src="https://img.shields.io/github/forks/AK-blank/CVE-2021-10086">	<img alt="stars" src="https://img.shields.io/github/stars/AK-blank/CVE-2021-10086">
+
+---
 ## CVE-2021-0981 (2021-12-15T19:15:00)
 > In enqueueNotificationInternal of NotificationManagerService.java, there is a possible way to run a foreground service without showing a notification due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11Android ID: A-191981182
 - [Live-Hack-CVE/CVE-2021-0981](https://github.com/Live-Hack-CVE/CVE-2021-0981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0981">
 - [Live-Hack-CVE/CVE-2021-0981](https://github.com/Live-Hack-CVE/CVE-2021-0981)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0981">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0981">
+
+---
+## CVE-2021-0963 ()
+> 
+- [Trinadh465/packages_apps_KeyChain_AOSP10_r33_CVE-2021-0963](https://github.com/Trinadh465/packages_apps_KeyChain_AOSP10_r33_CVE-2021-0963)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/packages_apps_KeyChain_AOSP10_r33_CVE-2021-0963">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/packages_apps_KeyChain_AOSP10_r33_CVE-2021-0963">
 
 ---
 ## CVE-2021-0951 (2022-10-11T20:15:00)
@@ -10736,6 +13056,12 @@
 - [uthrasri/Packages_app_settings_CVE-2021-0602](https://github.com/uthrasri/Packages_app_settings_CVE-2021-0602)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/Packages_app_settings_CVE-2021-0602">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/Packages_app_settings_CVE-2021-0602">
 
 ---
+## CVE-2021-0589 ()
+> 
+- [Trinadh465/System_bt_AOSP10_r33_CVE-2021-0589](https://github.com/Trinadh465/System_bt_AOSP10_r33_CVE-2021-0589)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/System_bt_AOSP10_r33_CVE-2021-0589">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/System_bt_AOSP10_r33_CVE-2021-0589">
+- [Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589](https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589">
+
+---
 ## CVE-2021-0586 (2021-07-14T14:15:00)
 > In onCreate of DevicePickerFragment.java, there is a possible way to trick the user to select an unwanted bluetooth device due to a tapjacking/overlay attack. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-11 Android-8.1 Android-9 Android-10Android ID: A-182584940
 - [nanopathi/packages_apps_Settings_CVE-2021-0586](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/packages_apps_Settings_CVE-2021-0586">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/packages_apps_Settings_CVE-2021-0586">
@@ -10764,6 +13090,16 @@
 - [Live-Hack-CVE/CVE-2021-0518](https://github.com/Live-Hack-CVE/CVE-2021-0518)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-0518">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-0518">
 
 ---
+## CVE-2021-0516 ()
+> 
+- [Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0516](https://github.com/Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0516)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0516">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0516">
+
+---
+## CVE-2021-0511 ()
+> 
+- [Trinadh465/platform_art_AOSP10_r33_CVE-2021-0511](https://github.com/Trinadh465/platform_art_AOSP10_r33_CVE-2021-0511)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_art_AOSP10_r33_CVE-2021-0511">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_art_AOSP10_r33_CVE-2021-0511">
+
+---
 ## CVE-2021-0485 (2021-06-11T17:15:00)
 > In getMinimalSize of PipBoundsAlgorithm.java, there is a possible bypass of restrictions on background processes due to a permissions bypass. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11Android ID: A-174302616
 - [aatharvauti/CVE-2021-0485](https://github.com/aatharvauti/CVE-2021-0485)	<img alt="forks" src="https://img.shields.io/github/forks/aatharvauti/CVE-2021-0485">	<img alt="stars" src="https://img.shields.io/github/stars/aatharvauti/CVE-2021-0485">
@@ -10784,10 +13120,20 @@
 - [nipund513/Exploiting-UAF-by-Ret2bpf-in-Android-Kernel-CVE-2021-0399-](https://github.com/nipund513/Exploiting-UAF-by-Ret2bpf-in-Android-Kernel-CVE-2021-0399-)	<img alt="forks" src="https://img.shields.io/github/forks/nipund513/Exploiting-UAF-by-Ret2bpf-in-Android-Kernel-CVE-2021-0399-">	<img alt="stars" src="https://img.shields.io/github/stars/nipund513/Exploiting-UAF-by-Ret2bpf-in-Android-Kernel-CVE-2021-0399-">
 
 ---
+## CVE-2021-0396 ()
+> 
+- [Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396](https://github.com/Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/external_v8_AOSP10_r33_CVE-2021-0396">
+
+---
 ## CVE-2021-0394 (2021-03-10T16:15:00)
 > In android_os_Parcel_readString8 of android_os_Parcel.cpp, there is a possible out of bounds read due to a missing bounds check. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-11 Android-8.1 Android-9 Android-10Android ID: A-172655291
 - [Trinadh465/platform_art_CVE-2021-0394](https://github.com/Trinadh465/platform_art_CVE-2021-0394)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_art_CVE-2021-0394">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_art_CVE-2021-0394">
 - [nanopathi/packages_apps_Settings_CVE-2021-0394](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0394)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/packages_apps_Settings_CVE-2021-0394">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/packages_apps_Settings_CVE-2021-0394">
+
+---
+## CVE-2021-0393 ()
+> 
+- [Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393](https://github.com/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/external_v8_AOSP10_r33_CVE-2021-0393">
 
 ---
 ## CVE-2021-0392 (2021-03-10T16:15:00)
@@ -10800,6 +13146,24 @@
 - [uthrasri/frameworks_opt_net_wifi_CVE-2021-0390](https://github.com/uthrasri/frameworks_opt_net_wifi_CVE-2021-0390)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/frameworks_opt_net_wifi_CVE-2021-0390">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/frameworks_opt_net_wifi_CVE-2021-0390">
 
 ---
+## CVE-2021-0329 ()
+> 
+- [ShaikUsaf/packages_apps_Bluetooth_AOSP10_r33_CVE-2021-0329](https://github.com/ShaikUsaf/packages_apps_Bluetooth_AOSP10_r33_CVE-2021-0329)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/packages_apps_Bluetooth_AOSP10_r33_CVE-2021-0329">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/packages_apps_Bluetooth_AOSP10_r33_CVE-2021-0329">
+
+---
+## CVE-2021-0328 ()
+> 
+- [ShaikUsaf/packages_apps_Bluetooth_AOSP10_r33_CVE-2021-0328](https://github.com/ShaikUsaf/packages_apps_Bluetooth_AOSP10_r33_CVE-2021-0328)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/packages_apps_Bluetooth_AOSP10_r33_CVE-2021-0328">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/packages_apps_Bluetooth_AOSP10_r33_CVE-2021-0328">
+
+---
+## CVE-2021-0326 ()
+> 
+- [nanopathi/wpa_supplicant_8_CVE-2021-0326.](https://github.com/nanopathi/wpa_supplicant_8_CVE-2021-0326.)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/wpa_supplicant_8_CVE-2021-0326.">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/wpa_supplicant_8_CVE-2021-0326.">
+- [Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0326](https://github.com/Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0326)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0326">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0326">
+- [nanopathi/Packages_wpa_supplicant8_CVE-2021-0326](https://github.com/nanopathi/Packages_wpa_supplicant8_CVE-2021-0326)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/Packages_wpa_supplicant8_CVE-2021-0326">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/Packages_wpa_supplicant8_CVE-2021-0326">
+- [ShaikUsaf/external_wpa_supplicant_8_AOSP10_r33CVE-2021-0326](https://github.com/ShaikUsaf/external_wpa_supplicant_8_AOSP10_r33CVE-2021-0326)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/external_wpa_supplicant_8_AOSP10_r33CVE-2021-0326">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/external_wpa_supplicant_8_AOSP10_r33CVE-2021-0326">
+
+---
 ## CVE-2021-0325 (2021-02-10T17:15:00)
 > In ih264d_parse_pslice of ih264d_parse_pslice.c, there is a possible out of bounds write due to a heap buffer overflow. This could lead to remote code execution with no additional execution privileges needed. User interaction is needed for exploitation.Product: AndroidVersions: Android-8.1 Android-9 Android-10 Android-11Android ID: A-174238784
 - [nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325](https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325">
@@ -10810,6 +13174,21 @@
 - [nanopathi/frameworks_base1_CVE-2021-0315](https://github.com/nanopathi/frameworks_base1_CVE-2021-0315)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/frameworks_base1_CVE-2021-0315">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/frameworks_base1_CVE-2021-0315">
 - [pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315](https://github.com/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315)	<img alt="forks" src="https://img.shields.io/github/forks/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315">	<img alt="stars" src="https://img.shields.io/github/stars/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315">
 - [nanopathi/framework_base_AOSP10_r33_CVE-2021-0315](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0315)	<img alt="forks" src="https://img.shields.io/github/forks/nanopathi/framework_base_AOSP10_r33_CVE-2021-0315">	<img alt="stars" src="https://img.shields.io/github/stars/nanopathi/framework_base_AOSP10_r33_CVE-2021-0315">
+
+---
+## CVE-2021-0313 ()
+> 
+- [Satheesh575555/frameworks_minikin_AOSP10_r33_CVE-2021-0313](https://github.com/Satheesh575555/frameworks_minikin_AOSP10_r33_CVE-2021-0313)	<img alt="forks" src="https://img.shields.io/github/forks/Satheesh575555/frameworks_minikin_AOSP10_r33_CVE-2021-0313">	<img alt="stars" src="https://img.shields.io/github/stars/Satheesh575555/frameworks_minikin_AOSP10_r33_CVE-2021-0313">
+
+---
+## CVE-2021-0308 ()
+> 
+- [Trinadh465/platform_external_gptfdisk_AOSP10_r33_CVE-2021-0308](https://github.com/Trinadh465/platform_external_gptfdisk_AOSP10_r33_CVE-2021-0308)	<img alt="forks" src="https://img.shields.io/github/forks/Trinadh465/platform_external_gptfdisk_AOSP10_r33_CVE-2021-0308">	<img alt="stars" src="https://img.shields.io/github/stars/Trinadh465/platform_external_gptfdisk_AOSP10_r33_CVE-2021-0308">
+
+---
+## CVE-2021-0302 ()
+> 
+- [ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302](https://github.com/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302)	<img alt="forks" src="https://img.shields.io/github/forks/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302">	<img alt="stars" src="https://img.shields.io/github/stars/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302">
 
 ---
 ## CVE-2021-0284 (2021-08-17T23:15:00)

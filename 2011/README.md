@@ -1,9 +1,26 @@
 # 2011 List
 
 ---
+## CVE-2011-5331 ()
+> 
+- [tomquinn8/CVE-2011-5331](https://github.com/tomquinn8/CVE-2011-5331)	<img alt="forks" src="https://img.shields.io/github/forks/tomquinn8/CVE-2011-5331">	<img alt="stars" src="https://img.shields.io/github/stars/tomquinn8/CVE-2011-5331">
+
+---
 ## CVE-2011-5325 (2017-08-07T17:29:00)
 > Directory traversal vulnerability in the BusyBox implementation of tar before 1.22.0 v5 allows remote attackers to point to files outside the current working directory via a symlink.
 - [itwizardo/CVE-2011-5325](https://github.com/itwizardo/CVE-2011-5325)	<img alt="forks" src="https://img.shields.io/github/forks/itwizardo/CVE-2011-5325">	<img alt="stars" src="https://img.shields.io/github/stars/itwizardo/CVE-2011-5325">
+
+---
+## CVE-2011-4919 ()
+> 
+- [hartwork/mpacktrafficripper](https://github.com/hartwork/mpacktrafficripper)	<img alt="forks" src="https://img.shields.io/github/forks/hartwork/mpacktrafficripper">	<img alt="stars" src="https://img.shields.io/github/stars/hartwork/mpacktrafficripper">
+
+---
+## CVE-2011-4862 ()
+> 
+- [hdbreaker/GO-CVE-2011-4862](https://github.com/hdbreaker/GO-CVE-2011-4862)	<img alt="forks" src="https://img.shields.io/github/forks/hdbreaker/GO-CVE-2011-4862">	<img alt="stars" src="https://img.shields.io/github/stars/hdbreaker/GO-CVE-2011-4862">
+- [lol-fi/cve-2011-4862](https://github.com/lol-fi/cve-2011-4862)	<img alt="forks" src="https://img.shields.io/github/forks/lol-fi/cve-2011-4862">	<img alt="stars" src="https://img.shields.io/github/stars/lol-fi/cve-2011-4862">
+- [appsecrani/CVE-2011-4862](https://github.com/appsecrani/CVE-2011-4862)	<img alt="forks" src="https://img.shields.io/github/forks/appsecrani/CVE-2011-4862">	<img alt="stars" src="https://img.shields.io/github/stars/appsecrani/CVE-2011-4862">
 
 ---
 ## CVE-2011-4566 (2011-11-29T00:55:00)
@@ -22,9 +39,19 @@
 - [Live-Hack-CVE/CVE-2011-4127](https://github.com/Live-Hack-CVE/CVE-2011-4127)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-4127">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-4127">
 
 ---
+## CVE-2011-4107 ()
+> 
+- [SECFORCE/CVE-2011-4107](https://github.com/SECFORCE/CVE-2011-4107)	<img alt="forks" src="https://img.shields.io/github/forks/SECFORCE/CVE-2011-4107">	<img alt="stars" src="https://img.shields.io/github/stars/SECFORCE/CVE-2011-4107">
+
+---
 ## CVE-2011-4084 (2011-12-30T01:55:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2011-4858. Reason: This candidate is a duplicate of CVE-2011-4858. Notes: All CVE users should reference CVE-2011-4858 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
 - [Live-Hack-CVE/CVE-2011-4084](https://github.com/Live-Hack-CVE/CVE-2011-4084)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-4084">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-4084">
+
+---
+## CVE-2011-3872 ()
+> 
+- [puppetlabs-toy-chest/puppetlabs-cve20113872](https://github.com/puppetlabs-toy-chest/puppetlabs-cve20113872)	<img alt="forks" src="https://img.shields.io/github/forks/puppetlabs-toy-chest/puppetlabs-cve20113872">	<img alt="stars" src="https://img.shields.io/github/stars/puppetlabs-toy-chest/puppetlabs-cve20113872">
 
 ---
 ## CVE-2011-3640 (2011-10-28T02:49:00)
@@ -35,6 +62,22 @@
 ## CVE-2011-3609 (2019-11-26T03:15:00)
 > CVE-2011-3609 JBoss AS: CSRF in the administration console & HTTP management API
 - [Live-Hack-CVE/CVE-2011-3609](https://github.com/Live-Hack-CVE/CVE-2011-3609)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-3609">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-3609">
+
+---
+## CVE-2011-3556 ()
+> 
+- [sk4la/cve_2011_3556](https://github.com/sk4la/cve_2011_3556)	<img alt="forks" src="https://img.shields.io/github/forks/sk4la/cve_2011_3556">	<img alt="stars" src="https://img.shields.io/github/stars/sk4la/cve_2011_3556">
+
+---
+## CVE-2011-3389 ()
+> 
+- [mpgn/BEAST-PoC](https://github.com/mpgn/BEAST-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/BEAST-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/BEAST-PoC">
+
+---
+## CVE-2011-3368 ()
+> 
+- [SECFORCE/CVE-2011-3368](https://github.com/SECFORCE/CVE-2011-3368)	<img alt="forks" src="https://img.shields.io/github/forks/SECFORCE/CVE-2011-3368">	<img alt="stars" src="https://img.shields.io/github/stars/SECFORCE/CVE-2011-3368">
+- [colorblindpentester/CVE-2011-3368](https://github.com/colorblindpentester/CVE-2011-3368)	<img alt="forks" src="https://img.shields.io/github/forks/colorblindpentester/CVE-2011-3368">	<img alt="stars" src="https://img.shields.io/github/stars/colorblindpentester/CVE-2011-3368">
 
 ---
 ## CVE-2011-3348 (2011-09-20T05:55:00)
@@ -57,6 +100,11 @@
 - [futurezayka/CVE-2011-3192](https://github.com/futurezayka/CVE-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/futurezayka/CVE-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/futurezayka/CVE-2011-3192">
 
 ---
+## CVE-2011-3026 ()
+> 
+- [argp/cve-2011-3026-firefox](https://github.com/argp/cve-2011-3026-firefox)	<img alt="forks" src="https://img.shields.io/github/forks/argp/cve-2011-3026-firefox">	<img alt="stars" src="https://img.shields.io/github/stars/argp/cve-2011-3026-firefox">
+
+---
 ## CVE-2011-2927 (2014-02-05T18:55:00)
 > CVE-2011-2927 Satellite/Spacewalk: XSS flaw in channels search
 - [Live-Hack-CVE/CVE-2011-2927](https://github.com/Live-Hack-CVE/CVE-2011-2927)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2927">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2927">
@@ -70,6 +118,11 @@
 ## CVE-2011-2906 (2012-05-24T23:55:00)
 > ** DISPUTED ** Integer signedness error in the pmcraid_ioctl_passthrough function in drivers/scsi/pmcraid.c in the Linux kernel before 3.1 might allow local users to cause a denial of service (memory consumption or memory corruption) via a negative size value in an ioctl call. NOTE: this may be a vulnerability only in unusual environments that provide a privileged program for obtaining the required file descriptor.
 - [Live-Hack-CVE/CVE-2011-2906](https://github.com/Live-Hack-CVE/CVE-2011-2906)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2906">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2906">
+
+---
+## CVE-2011-2894 ()
+> 
+- [pwntester/SpringBreaker](https://github.com/pwntester/SpringBreaker)	<img alt="forks" src="https://img.shields.io/github/forks/pwntester/SpringBreaker">	<img alt="stars" src="https://img.shields.io/github/stars/pwntester/SpringBreaker">
 
 ---
 ## CVE-2011-2732 ()
@@ -143,6 +196,9 @@
 - [RinAliyeva/metasploitable2-vsftpd-exploitation](https://github.com/RinAliyeva/metasploitable2-vsftpd-exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/RinAliyeva/metasploitable2-vsftpd-exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/RinAliyeva/metasploitable2-vsftpd-exploitation">
 - [emilebarnard242/pentest-metasploitable2](https://github.com/emilebarnard242/pentest-metasploitable2)	<img alt="forks" src="https://img.shields.io/github/forks/emilebarnard242/pentest-metasploitable2">	<img alt="stars" src="https://img.shields.io/github/stars/emilebarnard242/pentest-metasploitable2">
 - [Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report](https://github.com/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report)	<img alt="forks" src="https://img.shields.io/github/forks/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report">	<img alt="stars" src="https://img.shields.io/github/stars/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report">
+- [Amirmuhammadmarvi/network-security-lab](https://github.com/Amirmuhammadmarvi/network-security-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Amirmuhammadmarvi/network-security-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Amirmuhammadmarvi/network-security-lab">
+- [NitinSukthe-G/OpenVAS-Vulnerability-Assessment-Incident-Response](https://github.com/NitinSukthe-G/OpenVAS-Vulnerability-Assessment-Incident-Response)	<img alt="forks" src="https://img.shields.io/github/forks/NitinSukthe-G/OpenVAS-Vulnerability-Assessment-Incident-Response">	<img alt="stars" src="https://img.shields.io/github/stars/NitinSukthe-G/OpenVAS-Vulnerability-Assessment-Incident-Response">
+- [H4R335HR/vsftpd-234-backdoor](https://github.com/H4R335HR/vsftpd-234-backdoor)	<img alt="forks" src="https://img.shields.io/github/forks/H4R335HR/vsftpd-234-backdoor">	<img alt="stars" src="https://img.shields.io/github/stars/H4R335HR/vsftpd-234-backdoor">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
@@ -153,6 +209,38 @@
 ## CVE-2011-2487 (2020-03-11T16:15:00)
 > A flaw was found in JBoss web services where the services used a weak symmetric encryption protocol, PKCS#1 v1.5. An attacker could use this weakness in chosen-ciphertext attacks to recover the symmetric key and conduct further attacks.
 - [Live-Hack-CVE/CVE-2011-2487](https://github.com/Live-Hack-CVE/CVE-2011-2487)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2011-2487">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2011-2487">
+
+---
+## CVE-2011-2461 ()
+> 
+- [ikkisoft/ParrotNG](https://github.com/ikkisoft/ParrotNG)	<img alt="forks" src="https://img.shields.io/github/forks/ikkisoft/ParrotNG">	<img alt="stars" src="https://img.shields.io/github/stars/ikkisoft/ParrotNG">
+- [u-maxx/magento-swf-patched-CVE-2011-2461](https://github.com/u-maxx/magento-swf-patched-CVE-2011-2461)	<img alt="forks" src="https://img.shields.io/github/forks/u-maxx/magento-swf-patched-CVE-2011-2461">	<img alt="stars" src="https://img.shields.io/github/stars/u-maxx/magento-swf-patched-CVE-2011-2461">
+- [edmondscommerce/CVE-2011-2461_Magento_Patch](https://github.com/edmondscommerce/CVE-2011-2461_Magento_Patch)	<img alt="forks" src="https://img.shields.io/github/forks/edmondscommerce/CVE-2011-2461_Magento_Patch">	<img alt="stars" src="https://img.shields.io/github/stars/edmondscommerce/CVE-2011-2461_Magento_Patch">
+
+---
+## CVE-2011-1974 ()
+> 
+- [hittlle/CVE-2011-1974-PoC](https://github.com/hittlle/CVE-2011-1974-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hittlle/CVE-2011-1974-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hittlle/CVE-2011-1974-PoC">
+
+---
+## CVE-2011-1575 ()
+> 
+- [masamoon/cve-2011-1575-poc](https://github.com/masamoon/cve-2011-1575-poc)	<img alt="forks" src="https://img.shields.io/github/forks/masamoon/cve-2011-1575-poc">	<img alt="stars" src="https://img.shields.io/github/stars/masamoon/cve-2011-1575-poc">
+
+---
+## CVE-2011-1571 ()
+> 
+- [noobpk/CVE-2011-1571](https://github.com/noobpk/CVE-2011-1571)	<img alt="forks" src="https://img.shields.io/github/forks/noobpk/CVE-2011-1571">	<img alt="stars" src="https://img.shields.io/github/stars/noobpk/CVE-2011-1571">
+
+---
+## CVE-2011-1485 ()
+> 
+- [Pashkela/CVE-2011-1485](https://github.com/Pashkela/CVE-2011-1485)	<img alt="forks" src="https://img.shields.io/github/forks/Pashkela/CVE-2011-1485">	<img alt="stars" src="https://img.shields.io/github/stars/Pashkela/CVE-2011-1485">
+
+---
+## CVE-2011-1475 ()
+> 
+- [samaujs/CVE-2011-1475](https://github.com/samaujs/CVE-2011-1475)	<img alt="forks" src="https://img.shields.io/github/forks/samaujs/CVE-2011-1475">	<img alt="stars" src="https://img.shields.io/github/stars/samaujs/CVE-2011-1475">
 
 ---
 ## CVE-2011-1473 ()
@@ -171,6 +259,12 @@
 > The Ancillary Function Driver (AFD) in afd.sys in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP1 and SP2, Windows Server 2008 Gold, SP2, R2, and R2 SP1, and Windows 7 Gold and SP1 does not properly validate user-mode input, which allows local users to gain privileges via a crafted application, aka "Ancillary Function Driver Elevation of Privilege Vulnerability."
 - [h3x0v3rl0rd/CVE-2011-1249](https://github.com/h3x0v3rl0rd/CVE-2011-1249)	<img alt="forks" src="https://img.shields.io/github/forks/h3x0v3rl0rd/CVE-2011-1249">	<img alt="stars" src="https://img.shields.io/github/stars/h3x0v3rl0rd/CVE-2011-1249">
 - [Madusanka99/OHTS](https://github.com/Madusanka99/OHTS)	<img alt="forks" src="https://img.shields.io/github/forks/Madusanka99/OHTS">	<img alt="stars" src="https://img.shields.io/github/stars/Madusanka99/OHTS">
+- [appl3b0y/edb-40564-mingw-fix](https://github.com/appl3b0y/edb-40564-mingw-fix)	<img alt="forks" src="https://img.shields.io/github/forks/appl3b0y/edb-40564-mingw-fix">	<img alt="stars" src="https://img.shields.io/github/stars/appl3b0y/edb-40564-mingw-fix">
+
+---
+## CVE-2011-1237 ()
+> 
+- [BrunoPujos/CVE-2011-1237](https://github.com/BrunoPujos/CVE-2011-1237)	<img alt="forks" src="https://img.shields.io/github/forks/BrunoPujos/CVE-2011-1237">	<img alt="stars" src="https://img.shields.io/github/stars/BrunoPujos/CVE-2011-1237">
 
 ---
 ## CVE-2011-10002 (2023-02-07T17:15:00)

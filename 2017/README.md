@@ -1,6 +1,11 @@
 # 2017 List
 
 ---
+## CVE-2017-9999 ()
+> 
+- [homjxi0e/CVE-2017-9999_bypassing_General_Firefox](https://github.com/homjxi0e/CVE-2017-9999_bypassing_General_Firefox)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-9999_bypassing_General_Firefox">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-9999_bypassing_General_Firefox">
+
+---
 ## CVE-2017-9947 (2017-10-23T08:29:00)
 > A vulnerability has been identified in Siemens APOGEE PXC and TALON TC BACnet Automation Controllers in all versions <V3.5. A directory traversal vulnerability could allow a remote attacker with network access to the integrated web server (80/tcp and 443/tcp) to obtain information on the structure of the file system of the affected devices.
 - [Live-Hack-CVE/CVE-2017-9947](https://github.com/Live-Hack-CVE/CVE-2017-9947)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9947">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9947">
@@ -12,10 +17,20 @@
 - [Live-Hack-CVE/CVE-2017-9946](https://github.com/Live-Hack-CVE/CVE-2017-9946)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9946">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9946">
 
 ---
+## CVE-2017-9934 ()
+> 
+- [xyringe/CVE-2017-9934](https://github.com/xyringe/CVE-2017-9934)	<img alt="forks" src="https://img.shields.io/github/forks/xyringe/CVE-2017-9934">	<img alt="stars" src="https://img.shields.io/github/stars/xyringe/CVE-2017-9934">
+
+---
 ## CVE-2017-9929 (2017-06-26T07:29:00)
 > In lrzip 0.631, a stack buffer overflow was found in the function get_fileinfo in lrzip.c:1074, which allows attackers to cause a denial of service via a crafted file.
 - [Live-Hack-CVE/CVE-2017-9929](https://github.com/Live-Hack-CVE/CVE-2017-9929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9929">
 - [Live-Hack-CVE/CVE-2017-9929](https://github.com/Live-Hack-CVE/CVE-2017-9929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9929">
+
+---
+## CVE-2017-98505 ()
+> 
+- [mike-williams/Struts2Vuln](https://github.com/mike-williams/Struts2Vuln)	<img alt="forks" src="https://img.shields.io/github/forks/mike-williams/Struts2Vuln">	<img alt="stars" src="https://img.shields.io/github/stars/mike-williams/Struts2Vuln">
 
 ---
 ## CVE-2017-9841 (2017-06-27T17:29:00)
@@ -41,6 +56,7 @@
 - [joelindra/CVE-2017-9841](https://github.com/joelindra/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/joelindra/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/joelindra/CVE-2017-9841">
 - [Habibullah1101/PHPUnit-GoScan](https://github.com/Habibullah1101/PHPUnit-GoScan)	<img alt="forks" src="https://img.shields.io/github/forks/Habibullah1101/PHPUnit-GoScan">	<img alt="stars" src="https://img.shields.io/github/stars/Habibullah1101/PHPUnit-GoScan">
 - [MR-LeonardoGomes/CVE-2017-9841](https://github.com/MR-LeonardoGomes/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/MR-LeonardoGomes/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/MR-LeonardoGomes/CVE-2017-9841">
+- [krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC](https://github.com/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC">
 
 ---
 ## CVE-2017-9833 (2017-06-24T02:29:00)
@@ -50,10 +66,16 @@
 - [Live-Hack-CVE/CVE-2017-9833](https://github.com/Live-Hack-CVE/CVE-2017-9833)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9833">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9833">
 
 ---
+## CVE-2017-9830 ()
+> 
+- [securifera/CVE-2017-9830](https://github.com/securifera/CVE-2017-9830)	<img alt="forks" src="https://img.shields.io/github/forks/securifera/CVE-2017-9830">	<img alt="stars" src="https://img.shields.io/github/stars/securifera/CVE-2017-9830">
+
+---
 ## CVE-2017-9822 ()
 > 
 - [Tnot123/cve-2017-9822](https://github.com/Tnot123/cve-2017-9822)	<img alt="forks" src="https://img.shields.io/github/forks/Tnot123/cve-2017-9822">	<img alt="stars" src="https://img.shields.io/github/stars/Tnot123/cve-2017-9822">
 - [murataydemir/CVE-2017-9822](https://github.com/murataydemir/CVE-2017-9822)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/CVE-2017-9822">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/CVE-2017-9822">
+- [tranphuc2005/CVE-2017-9822](https://github.com/tranphuc2005/CVE-2017-9822)	<img alt="forks" src="https://img.shields.io/github/forks/tranphuc2005/CVE-2017-9822">	<img alt="stars" src="https://img.shields.io/github/stars/tranphuc2005/CVE-2017-9822">
 
 ---
 ## CVE-2017-9805 (2017-09-15T19:29:00)
@@ -78,6 +100,32 @@
 - [NoSpaceAvailable/CVE-2017-9805_example_build](https://github.com/NoSpaceAvailable/CVE-2017-9805_example_build)	<img alt="forks" src="https://img.shields.io/github/forks/NoSpaceAvailable/CVE-2017-9805_example_build">	<img alt="stars" src="https://img.shields.io/github/stars/NoSpaceAvailable/CVE-2017-9805_example_build">
 - [Fl5xia/CVE-2017-9805](https://github.com/Fl5xia/CVE-2017-9805)	<img alt="forks" src="https://img.shields.io/github/forks/Fl5xia/CVE-2017-9805">	<img alt="stars" src="https://img.shields.io/github/stars/Fl5xia/CVE-2017-9805">
 - [7s26simon/CVE-2017-9805-S2-052](https://github.com/7s26simon/CVE-2017-9805-S2-052)	<img alt="forks" src="https://img.shields.io/github/forks/7s26simon/CVE-2017-9805-S2-052">	<img alt="stars" src="https://img.shields.io/github/stars/7s26simon/CVE-2017-9805-S2-052">
+- [Experience-rookie/struts-s2-052-deserialization-rce-lab](https://github.com/Experience-rookie/struts-s2-052-deserialization-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Experience-rookie/struts-s2-052-deserialization-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Experience-rookie/struts-s2-052-deserialization-rce-lab">
+
+---
+## CVE-2017-9798 ()
+> 
+- [nitrado/CVE-2017-9798](https://github.com/nitrado/CVE-2017-9798)	<img alt="forks" src="https://img.shields.io/github/forks/nitrado/CVE-2017-9798">	<img alt="stars" src="https://img.shields.io/github/stars/nitrado/CVE-2017-9798">
+- [pabloec20/optionsbleed](https://github.com/pabloec20/optionsbleed)	<img alt="forks" src="https://img.shields.io/github/forks/pabloec20/optionsbleed">	<img alt="stars" src="https://img.shields.io/github/stars/pabloec20/optionsbleed">
+- [l0n3rs/CVE-2017-9798](https://github.com/l0n3rs/CVE-2017-9798)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3rs/CVE-2017-9798">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3rs/CVE-2017-9798">
+- [brokensound77/OptionsBleed-POC-Scanner](https://github.com/brokensound77/OptionsBleed-POC-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/brokensound77/OptionsBleed-POC-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/brokensound77/OptionsBleed-POC-Scanner">
+
+---
+## CVE-2017-9791 ()
+> 
+- [IanSmith123/s2-048](https://github.com/IanSmith123/s2-048)	<img alt="forks" src="https://img.shields.io/github/forks/IanSmith123/s2-048">	<img alt="stars" src="https://img.shields.io/github/stars/IanSmith123/s2-048">
+- [dragoneeg/Struts2-048](https://github.com/dragoneeg/Struts2-048)	<img alt="forks" src="https://img.shields.io/github/forks/dragoneeg/Struts2-048">	<img alt="stars" src="https://img.shields.io/github/stars/dragoneeg/Struts2-048">
+- [xfer0/CVE-2017-9791](https://github.com/xfer0/CVE-2017-9791)	<img alt="forks" src="https://img.shields.io/github/forks/xfer0/CVE-2017-9791">	<img alt="stars" src="https://img.shields.io/github/stars/xfer0/CVE-2017-9791">
+
+---
+## CVE-2017-9779 ()
+> 
+- [homjxi0e/CVE-2017-9779](https://github.com/homjxi0e/CVE-2017-9779)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-9779">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-9779">
+
+---
+## CVE-2017-9769 ()
+> 
+- [kkent030315/CVE-2017-9769](https://github.com/kkent030315/CVE-2017-9769)	<img alt="forks" src="https://img.shields.io/github/forks/kkent030315/CVE-2017-9769">	<img alt="stars" src="https://img.shields.io/github/stars/kkent030315/CVE-2017-9769">
 
 ---
 ## CVE-2017-9757 (2017-06-19T13:29:00)
@@ -85,14 +133,68 @@
 - [peterleiva/CVE-2017-9757](https://github.com/peterleiva/CVE-2017-9757)	<img alt="forks" src="https://img.shields.io/github/forks/peterleiva/CVE-2017-9757">	<img alt="stars" src="https://img.shields.io/github/stars/peterleiva/CVE-2017-9757">
 
 ---
+## CVE-2017-9627 ()
+> 
+- [USSCltd/aaLogger](https://github.com/USSCltd/aaLogger)	<img alt="forks" src="https://img.shields.io/github/forks/USSCltd/aaLogger">	<img alt="stars" src="https://img.shields.io/github/stars/USSCltd/aaLogger">
+
+---
 ## CVE-2017-9614 (2017-07-27T06:29:00)
 > ** DISPUTED ** The fill_input_buffer function in jdatasrc.c in libjpeg-turbo 1.5.1 allows remote attackers to cause a denial of service (invalid memory access and application crash) or possibly have unspecified other impact via a crafted jpg file. NOTE: Maintainer asserts the issue is due to a bug in downstream code caused by misuse of the libjpeg API.
 - [Live-Hack-CVE/CVE-2017-9614](https://github.com/Live-Hack-CVE/CVE-2017-9614)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-9614">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-9614">
 
 ---
+## CVE-2017-9609 ()
+> 
+- [faizzaidi/Blackcat-cms-v1.2-xss-POC-by-Provensec-llc](https://github.com/faizzaidi/Blackcat-cms-v1.2-xss-POC-by-Provensec-llc)	<img alt="forks" src="https://img.shields.io/github/forks/faizzaidi/Blackcat-cms-v1.2-xss-POC-by-Provensec-llc">	<img alt="stars" src="https://img.shields.io/github/stars/faizzaidi/Blackcat-cms-v1.2-xss-POC-by-Provensec-llc">
+
+---
+## CVE-2017-9608 ()
+> 
+- [LaCinquette/practice-22-23](https://github.com/LaCinquette/practice-22-23)	<img alt="forks" src="https://img.shields.io/github/forks/LaCinquette/practice-22-23">	<img alt="stars" src="https://img.shields.io/github/stars/LaCinquette/practice-22-23">
+
+---
+## CVE-2017-9606 ()
+> 
+- [Houl777/CVE-2017-9606](https://github.com/Houl777/CVE-2017-9606)	<img alt="forks" src="https://img.shields.io/github/forks/Houl777/CVE-2017-9606">	<img alt="stars" src="https://img.shields.io/github/stars/Houl777/CVE-2017-9606">
+
+---
+## CVE-2017-9554 ()
+> 
+- [rfcl/Synology-DiskStation-User-Enumeration-CVE-2017-9554-](https://github.com/rfcl/Synology-DiskStation-User-Enumeration-CVE-2017-9554-)	<img alt="forks" src="https://img.shields.io/github/forks/rfcl/Synology-DiskStation-User-Enumeration-CVE-2017-9554-">	<img alt="stars" src="https://img.shields.io/github/stars/rfcl/Synology-DiskStation-User-Enumeration-CVE-2017-9554-">
+- [Ez0-yf/CVE-2017-9554-Exploit-Tool](https://github.com/Ez0-yf/CVE-2017-9554-Exploit-Tool)	<img alt="forks" src="https://img.shields.io/github/forks/Ez0-yf/CVE-2017-9554-Exploit-Tool">	<img alt="stars" src="https://img.shields.io/github/stars/Ez0-yf/CVE-2017-9554-Exploit-Tool">
+
+---
+## CVE-2017-9544 ()
+> 
+- [adenkiewicz/CVE-2017-9544](https://github.com/adenkiewicz/CVE-2017-9544)	<img alt="forks" src="https://img.shields.io/github/forks/adenkiewicz/CVE-2017-9544">	<img alt="stars" src="https://img.shields.io/github/stars/adenkiewicz/CVE-2017-9544">
+
+---
+## CVE-2017-9506 ()
+> 
+- [random-robbie/Jira-Scan](https://github.com/random-robbie/Jira-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/random-robbie/Jira-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/random-robbie/Jira-Scan">
+- [pwn1sher/jira-ssrf](https://github.com/pwn1sher/jira-ssrf)	<img alt="forks" src="https://img.shields.io/github/forks/pwn1sher/jira-ssrf">	<img alt="stars" src="https://img.shields.io/github/stars/pwn1sher/jira-ssrf">
+- [labsbots/CVE-2017-9506](https://github.com/labsbots/CVE-2017-9506)	<img alt="forks" src="https://img.shields.io/github/forks/labsbots/CVE-2017-9506">	<img alt="stars" src="https://img.shields.io/github/stars/labsbots/CVE-2017-9506">
+
+---
+## CVE-2017-9476 ()
+> 
+- [wiire-a/CVE-2017-9476](https://github.com/wiire-a/CVE-2017-9476)	<img alt="forks" src="https://img.shields.io/github/forks/wiire-a/CVE-2017-9476">	<img alt="stars" src="https://img.shields.io/github/stars/wiire-a/CVE-2017-9476">
+
+---
 ## CVE-2017-9443 (2017-06-05T19:29:00)
 > ** DISPUTED ** BigTree CMS through 4.2.18 allows remote authenticated users to conduct SQL injection attacks via a crafted tables object in manifest.json in an uploaded package. This issue exists in core\admin\modules\developer\extensions\install\process.php and core\admin\modules\developer\packages\install\process.php. NOTE: the vendor states "You must implicitly trust any package or extension you install as they all have the ability to write PHP files."
 - [superlink996/cve-2017-9443-payload](https://github.com/superlink996/cve-2017-9443-payload)	<img alt="forks" src="https://img.shields.io/github/forks/superlink996/cve-2017-9443-payload">	<img alt="stars" src="https://img.shields.io/github/stars/superlink996/cve-2017-9443-payload">
+
+---
+## CVE-2017-9430 ()
+> 
+- [homjxi0e/CVE-2017-9430](https://github.com/homjxi0e/CVE-2017-9430)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-9430">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-9430">
+- [j0lama/Dnstracer-1.9-Fix](https://github.com/j0lama/Dnstracer-1.9-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/j0lama/Dnstracer-1.9-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/j0lama/Dnstracer-1.9-Fix">
+
+---
+## CVE-2017-9417 ()
+> 
+- [mailinneberg/Broadpwn](https://github.com/mailinneberg/Broadpwn)	<img alt="forks" src="https://img.shields.io/github/forks/mailinneberg/Broadpwn">	<img alt="stars" src="https://img.shields.io/github/stars/mailinneberg/Broadpwn">
 
 ---
 ## CVE-2017-9340 (2017-07-17T21:29:00)
@@ -123,6 +225,21 @@
 - [0xsharz/telerik-scanner-cve-2017-9248](https://github.com/0xsharz/telerik-scanner-cve-2017-9248)	<img alt="forks" src="https://img.shields.io/github/forks/0xsharz/telerik-scanner-cve-2017-9248">	<img alt="stars" src="https://img.shields.io/github/stars/0xsharz/telerik-scanner-cve-2017-9248">
 
 ---
+## CVE-2017-9101 ()
+> 
+- [jasperla/CVE-2017-9101](https://github.com/jasperla/CVE-2017-9101)	<img alt="forks" src="https://img.shields.io/github/forks/jasperla/CVE-2017-9101">	<img alt="stars" src="https://img.shields.io/github/stars/jasperla/CVE-2017-9101">
+
+---
+## CVE-2017-9097 ()
+> 
+- [MDudek-ICS/AntiWeb_testing-Suite](https://github.com/MDudek-ICS/AntiWeb_testing-Suite)	<img alt="forks" src="https://img.shields.io/github/forks/MDudek-ICS/AntiWeb_testing-Suite">	<img alt="stars" src="https://img.shields.io/github/stars/MDudek-ICS/AntiWeb_testing-Suite">
+
+---
+## CVE-2017-9096 ()
+> 
+- [jakabakos/CVE-2017-9096-iText-XXE](https://github.com/jakabakos/CVE-2017-9096-iText-XXE)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2017-9096-iText-XXE">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2017-9096-iText-XXE">
+
+---
 ## CVE-2017-8917 (2017-05-17T23:29:00)
 > SQL injection vulnerability in Joomla! 3.7.x before 3.7.1 allows attackers to execute arbitrary SQL commands via unspecified vectors.
 - [Siopy/CVE-2017-8917](https://github.com/Siopy/CVE-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/Siopy/CVE-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/Siopy/CVE-2017-8917">
@@ -136,6 +253,7 @@
 - [xcalts/CVE-2017-8917](https://github.com/xcalts/CVE-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/xcalts/CVE-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/xcalts/CVE-2017-8917">
 - [gloliveira1701/Joomblah](https://github.com/gloliveira1701/Joomblah)	<img alt="forks" src="https://img.shields.io/github/forks/gloliveira1701/Joomblah">	<img alt="stars" src="https://img.shields.io/github/stars/gloliveira1701/Joomblah">
 - [yayateayayatea/cve-2017-8917](https://github.com/yayateayayatea/cve-2017-8917)	<img alt="forks" src="https://img.shields.io/github/forks/yayateayayatea/cve-2017-8917">	<img alt="stars" src="https://img.shields.io/github/stars/yayateayayatea/cve-2017-8917">
+- [ztrxwzy/joomla.3.7.0exploit](https://github.com/ztrxwzy/joomla.3.7.0exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ztrxwzy/joomla.3.7.0exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ztrxwzy/joomla.3.7.0exploit">
 
 ---
 ## CVE-2017-8890 (2017-05-10T16:29:00)
@@ -162,6 +280,73 @@
 - [Live-Hack-CVE/CVE-2017-8842](https://github.com/Live-Hack-CVE/CVE-2017-8842)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8842">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8842">
 
 ---
+## CVE-2017-8809 ()
+> 
+- [motikan2010/CVE-2017-8809_MediaWiki_RFD](https://github.com/motikan2010/CVE-2017-8809_MediaWiki_RFD)	<img alt="forks" src="https://img.shields.io/github/forks/motikan2010/CVE-2017-8809_MediaWiki_RFD">	<img alt="stars" src="https://img.shields.io/github/stars/motikan2010/CVE-2017-8809_MediaWiki_RFD">
+
+---
+## CVE-2017-8802 ()
+> 
+- [ozzi-/Zimbra-CVE-2017-8802-Hotifx](https://github.com/ozzi-/Zimbra-CVE-2017-8802-Hotifx)	<img alt="forks" src="https://img.shields.io/github/forks/ozzi-/Zimbra-CVE-2017-8802-Hotifx">	<img alt="stars" src="https://img.shields.io/github/stars/ozzi-/Zimbra-CVE-2017-8802-Hotifx">
+
+---
+## CVE-2017-8779 ()
+> 
+- [drbothen/GO-RPCBOMB](https://github.com/drbothen/GO-RPCBOMB)	<img alt="forks" src="https://img.shields.io/github/forks/drbothen/GO-RPCBOMB">	<img alt="stars" src="https://img.shields.io/github/stars/drbothen/GO-RPCBOMB">
+
+---
+## CVE-2017-8760 ()
+> 
+- [Voraka/cve-2017-8760](https://github.com/Voraka/cve-2017-8760)	<img alt="forks" src="https://img.shields.io/github/forks/Voraka/cve-2017-8760">	<img alt="stars" src="https://img.shields.io/github/stars/Voraka/cve-2017-8760">
+
+---
+## CVE-2017-8759 ()
+> 
+- [Voulnet/CVE-2017-8759-Exploit-sample](https://github.com/Voulnet/CVE-2017-8759-Exploit-sample)	<img alt="forks" src="https://img.shields.io/github/forks/Voulnet/CVE-2017-8759-Exploit-sample">	<img alt="stars" src="https://img.shields.io/github/stars/Voulnet/CVE-2017-8759-Exploit-sample">
+- [nccgroup/CVE-2017-8759](https://github.com/nccgroup/CVE-2017-8759)	<img alt="forks" src="https://img.shields.io/github/forks/nccgroup/CVE-2017-8759">	<img alt="stars" src="https://img.shields.io/github/stars/nccgroup/CVE-2017-8759">
+- [vysecurity/CVE-2017-8759](https://github.com/vysecurity/CVE-2017-8759)	<img alt="forks" src="https://img.shields.io/github/forks/vysecurity/CVE-2017-8759">	<img alt="stars" src="https://img.shields.io/github/stars/vysecurity/CVE-2017-8759">
+- [BasuCert/CVE-2017-8759](https://github.com/BasuCert/CVE-2017-8759)	<img alt="forks" src="https://img.shields.io/github/forks/BasuCert/CVE-2017-8759">	<img alt="stars" src="https://img.shields.io/github/stars/BasuCert/CVE-2017-8759">
+- [tahisaad6/CVE-2017-8759-Exploit-sample2](https://github.com/tahisaad6/CVE-2017-8759-Exploit-sample2)	<img alt="forks" src="https://img.shields.io/github/forks/tahisaad6/CVE-2017-8759-Exploit-sample2">	<img alt="stars" src="https://img.shields.io/github/stars/tahisaad6/CVE-2017-8759-Exploit-sample2">
+- [homjxi0e/CVE-2017-8759_-SOAP_WSDL](https://github.com/homjxi0e/CVE-2017-8759_-SOAP_WSDL)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-8759_-SOAP_WSDL">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-8759_-SOAP_WSDL">
+- [bhdresh/CVE-2017-8759](https://github.com/bhdresh/CVE-2017-8759)	<img alt="forks" src="https://img.shields.io/github/forks/bhdresh/CVE-2017-8759">	<img alt="stars" src="https://img.shields.io/github/stars/bhdresh/CVE-2017-8759">
+- [JonasUliana/CVE-2017-8759](https://github.com/JonasUliana/CVE-2017-8759)	<img alt="forks" src="https://img.shields.io/github/forks/JonasUliana/CVE-2017-8759">	<img alt="stars" src="https://img.shields.io/github/stars/JonasUliana/CVE-2017-8759">
+- [sythass/CVE-2017-8759](https://github.com/sythass/CVE-2017-8759)	<img alt="forks" src="https://img.shields.io/github/forks/sythass/CVE-2017-8759">	<img alt="stars" src="https://img.shields.io/github/stars/sythass/CVE-2017-8759">
+- [ashr/CVE-2017-8759-exploits](https://github.com/ashr/CVE-2017-8759-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/ashr/CVE-2017-8759-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/ashr/CVE-2017-8759-exploits">
+- [l0n3rs/CVE-2017-8759](https://github.com/l0n3rs/CVE-2017-8759)	<img alt="forks" src="https://img.shields.io/github/forks/l0n3rs/CVE-2017-8759">	<img alt="stars" src="https://img.shields.io/github/stars/l0n3rs/CVE-2017-8759">
+- [ChaitanyaHaritash/CVE-2017-8759](https://github.com/ChaitanyaHaritash/CVE-2017-8759)	<img alt="forks" src="https://img.shields.io/github/forks/ChaitanyaHaritash/CVE-2017-8759">	<img alt="stars" src="https://img.shields.io/github/stars/ChaitanyaHaritash/CVE-2017-8759">
+- [smashinu/CVE-2017-8759Expoit](https://github.com/smashinu/CVE-2017-8759Expoit)	<img alt="forks" src="https://img.shields.io/github/forks/smashinu/CVE-2017-8759Expoit">	<img alt="stars" src="https://img.shields.io/github/stars/smashinu/CVE-2017-8759Expoit">
+- [adeljck/CVE-2017-8759](https://github.com/adeljck/CVE-2017-8759)	<img alt="forks" src="https://img.shields.io/github/forks/adeljck/CVE-2017-8759">	<img alt="stars" src="https://img.shields.io/github/stars/adeljck/CVE-2017-8759">
+- [zhengkook/CVE-2017-8759](https://github.com/zhengkook/CVE-2017-8759)	<img alt="forks" src="https://img.shields.io/github/forks/zhengkook/CVE-2017-8759">	<img alt="stars" src="https://img.shields.io/github/stars/zhengkook/CVE-2017-8759">
+- [varunsaru/SNP](https://github.com/varunsaru/SNP)	<img alt="forks" src="https://img.shields.io/github/forks/varunsaru/SNP">	<img alt="stars" src="https://img.shields.io/github/stars/varunsaru/SNP">
+- [GayashanM/OHTS](https://github.com/GayashanM/OHTS)	<img alt="forks" src="https://img.shields.io/github/forks/GayashanM/OHTS">	<img alt="stars" src="https://img.shields.io/github/stars/GayashanM/OHTS">
+
+---
+## CVE-2017-8641 ()
+> 
+- [homjxi0e/CVE-2017-8641_chakra_Js_GlobalObject](https://github.com/homjxi0e/CVE-2017-8641_chakra_Js_GlobalObject)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-8641_chakra_Js_GlobalObject">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-8641_chakra_Js_GlobalObject">
+
+---
+## CVE-2017-8625 ()
+> 
+- [homjxi0e/CVE-2017-8625_Bypass_UMCI](https://github.com/homjxi0e/CVE-2017-8625_Bypass_UMCI)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-8625_Bypass_UMCI">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-8625_Bypass_UMCI">
+
+---
+## CVE-2017-8570 ()
+> 
+- [temesgeny/ppsx-file-generator](https://github.com/temesgeny/ppsx-file-generator)	<img alt="forks" src="https://img.shields.io/github/forks/temesgeny/ppsx-file-generator">	<img alt="stars" src="https://img.shields.io/github/stars/temesgeny/ppsx-file-generator">
+- [rxwx/CVE-2017-8570](https://github.com/rxwx/CVE-2017-8570)	<img alt="forks" src="https://img.shields.io/github/forks/rxwx/CVE-2017-8570">	<img alt="stars" src="https://img.shields.io/github/stars/rxwx/CVE-2017-8570">
+- [MaxSecurity/Office-CVE-2017-8570](https://github.com/MaxSecurity/Office-CVE-2017-8570)	<img alt="forks" src="https://img.shields.io/github/forks/MaxSecurity/Office-CVE-2017-8570">	<img alt="stars" src="https://img.shields.io/github/stars/MaxSecurity/Office-CVE-2017-8570">
+- [SwordSheath/CVE-2017-8570](https://github.com/SwordSheath/CVE-2017-8570)	<img alt="forks" src="https://img.shields.io/github/forks/SwordSheath/CVE-2017-8570">	<img alt="stars" src="https://img.shields.io/github/stars/SwordSheath/CVE-2017-8570">
+- [Drac0nids/CVE-2017-8570](https://github.com/Drac0nids/CVE-2017-8570)	<img alt="forks" src="https://img.shields.io/github/forks/Drac0nids/CVE-2017-8570">	<img alt="stars" src="https://img.shields.io/github/stars/Drac0nids/CVE-2017-8570">
+- [sasqwatch/CVE-2017-8570](https://github.com/sasqwatch/CVE-2017-8570)	<img alt="forks" src="https://img.shields.io/github/forks/sasqwatch/CVE-2017-8570">	<img alt="stars" src="https://img.shields.io/github/stars/sasqwatch/CVE-2017-8570">
+- [erfze/CVE-2017-8570](https://github.com/erfze/CVE-2017-8570)	<img alt="forks" src="https://img.shields.io/github/forks/erfze/CVE-2017-8570">	<img alt="stars" src="https://img.shields.io/github/stars/erfze/CVE-2017-8570">
+
+---
+## CVE-2017-8543 ()
+> 
+- [americanhanko/windows-security-cve-2017-8543](https://github.com/americanhanko/windows-security-cve-2017-8543)	<img alt="forks" src="https://img.shields.io/github/forks/americanhanko/windows-security-cve-2017-8543">	<img alt="stars" src="https://img.shields.io/github/stars/americanhanko/windows-security-cve-2017-8543">
+
+---
 ## CVE-2017-8529 (2017-06-15T01:29:00)
 > Internet Explorer in Microsoft Windows 7 SP1, Windows Server 2008 R2 SP1, Windows 8.1 and Windows RT 8.1, and Windows Server 2012 and R2 allow an attacker to detect specific files on the user's computer when affected Microsoft scripting engines do not properly handle objects in memory, aka "Microsoft Browser Information Disclosure Vulnerability".
 - [Live-Hack-CVE/CVE-2017-8529](https://github.com/Live-Hack-CVE/CVE-2017-8529)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-8529">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-8529">
@@ -180,6 +365,11 @@
 - [TamatahYT/CVE-2017-8481](https://github.com/TamatahYT/CVE-2017-8481)	<img alt="forks" src="https://img.shields.io/github/forks/TamatahYT/CVE-2017-8481">	<img alt="stars" src="https://img.shields.io/github/stars/TamatahYT/CVE-2017-8481">
 
 ---
+## CVE-2017-8465 ()
+> 
+- [nghiadt1098/CVE-2017-8465](https://github.com/nghiadt1098/CVE-2017-8465)	<img alt="forks" src="https://img.shields.io/github/forks/nghiadt1098/CVE-2017-8465">	<img alt="stars" src="https://img.shields.io/github/stars/nghiadt1098/CVE-2017-8465">
+
+---
 ## CVE-2017-8464 (2017-06-15T01:29:00)
 > Windows Shell in Microsoft Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows 8.1, Windows Server 2012 Gold and R2, Windows RT 8.1, Windows 10 Gold, 1511, 1607, 1703, and Windows Server 2016 allows local users or remote attackers to execute arbitrary code via a crafted .LNK file, which is not properly handled during icon display in Windows Explorer or any other application that parses the icon of the shortcut. aka "LNK Remote Code Execution Vulnerability."
 - [tuankiethkt020/Phat-hien-CVE-2017-8464](https://github.com/tuankiethkt020/Phat-hien-CVE-2017-8464)	<img alt="forks" src="https://img.shields.io/github/forks/tuankiethkt020/Phat-hien-CVE-2017-8464">	<img alt="stars" src="https://img.shields.io/github/stars/tuankiethkt020/Phat-hien-CVE-2017-8464">
@@ -190,6 +380,28 @@
 - [Elm0D/CVE-2017-8464](https://github.com/Elm0D/CVE-2017-8464)	<img alt="forks" src="https://img.shields.io/github/forks/Elm0D/CVE-2017-8464">	<img alt="stars" src="https://img.shields.io/github/stars/Elm0D/CVE-2017-8464">
 - [doudouhala/CVE-2017-8464-exp-generator](https://github.com/doudouhala/CVE-2017-8464-exp-generator)	<img alt="forks" src="https://img.shields.io/github/forks/doudouhala/CVE-2017-8464-exp-generator">	<img alt="stars" src="https://img.shields.io/github/stars/doudouhala/CVE-2017-8464-exp-generator">
 - [TieuLong21Prosper/Detect-CVE-2017-8464](https://github.com/TieuLong21Prosper/Detect-CVE-2017-8464)	<img alt="forks" src="https://img.shields.io/github/forks/TieuLong21Prosper/Detect-CVE-2017-8464">	<img alt="stars" src="https://img.shields.io/github/stars/TieuLong21Prosper/Detect-CVE-2017-8464">
+
+---
+## CVE-2017-8386 ()
+> 
+- [suz1n/WHS3_vulhub](https://github.com/suz1n/WHS3_vulhub)	<img alt="forks" src="https://img.shields.io/github/forks/suz1n/WHS3_vulhub">	<img alt="stars" src="https://img.shields.io/github/stars/suz1n/WHS3_vulhub">
+
+---
+## CVE-2017-8382 ()
+> 
+- [faizzaidi/Admidio-3.2.8-CSRF-POC-by-Provensec-llc](https://github.com/faizzaidi/Admidio-3.2.8-CSRF-POC-by-Provensec-llc)	<img alt="forks" src="https://img.shields.io/github/forks/faizzaidi/Admidio-3.2.8-CSRF-POC-by-Provensec-llc">	<img alt="stars" src="https://img.shields.io/github/stars/faizzaidi/Admidio-3.2.8-CSRF-POC-by-Provensec-llc">
+
+---
+## CVE-2017-8367 ()
+> 
+- [rnnsz/CVE-2017-8367](https://github.com/rnnsz/CVE-2017-8367)	<img alt="forks" src="https://img.shields.io/github/forks/rnnsz/CVE-2017-8367">	<img alt="stars" src="https://img.shields.io/github/stars/rnnsz/CVE-2017-8367">
+
+---
+## CVE-2017-8295 ()
+> 
+- [homjxi0e/CVE-2017-8295-WordPress-4.7.4---Unauthorized-Password-Reset](https://github.com/homjxi0e/CVE-2017-8295-WordPress-4.7.4---Unauthorized-Password-Reset)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-8295-WordPress-4.7.4---Unauthorized-Password-Reset">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-8295-WordPress-4.7.4---Unauthorized-Password-Reset">
+- [alash3al/wp-allowed-hosts](https://github.com/alash3al/wp-allowed-hosts)	<img alt="forks" src="https://img.shields.io/github/forks/alash3al/wp-allowed-hosts">	<img alt="stars" src="https://img.shields.io/github/stars/alash3al/wp-allowed-hosts">
+- [cyberheartmi9/CVE-2017-8295](https://github.com/cyberheartmi9/CVE-2017-8295)	<img alt="forks" src="https://img.shields.io/github/forks/cyberheartmi9/CVE-2017-8295">	<img alt="stars" src="https://img.shields.io/github/stars/cyberheartmi9/CVE-2017-8295">
 
 ---
 ## CVE-2017-8291 ()
@@ -214,6 +426,25 @@
 ## CVE-2017-8056 ()
 > 
 - [itzexploit/CVE-2017-8056](https://github.com/itzexploit/CVE-2017-8056)	<img alt="forks" src="https://img.shields.io/github/forks/itzexploit/CVE-2017-8056">	<img alt="stars" src="https://img.shields.io/github/stars/itzexploit/CVE-2017-8056">
+
+---
+## CVE-2017-8046 ()
+> 
+- [Soontao/CVE-2017-8046-DEMO](https://github.com/Soontao/CVE-2017-8046-DEMO)	<img alt="forks" src="https://img.shields.io/github/forks/Soontao/CVE-2017-8046-DEMO">	<img alt="stars" src="https://img.shields.io/github/stars/Soontao/CVE-2017-8046-DEMO">
+- [sj/spring-data-rest-CVE-2017-8046](https://github.com/sj/spring-data-rest-CVE-2017-8046)	<img alt="forks" src="https://img.shields.io/github/forks/sj/spring-data-rest-CVE-2017-8046">	<img alt="stars" src="https://img.shields.io/github/stars/sj/spring-data-rest-CVE-2017-8046">
+- [m3ssap0/SpringBreakVulnerableApp](https://github.com/m3ssap0/SpringBreakVulnerableApp)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/SpringBreakVulnerableApp">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/SpringBreakVulnerableApp">
+- [m3ssap0/spring-break_cve-2017-8046](https://github.com/m3ssap0/spring-break_cve-2017-8046)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/spring-break_cve-2017-8046">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/spring-break_cve-2017-8046">
+- [FixYourFace/SpringBreakPoC](https://github.com/FixYourFace/SpringBreakPoC)	<img alt="forks" src="https://img.shields.io/github/forks/FixYourFace/SpringBreakPoC">	<img alt="stars" src="https://img.shields.io/github/stars/FixYourFace/SpringBreakPoC">
+- [jkutner/spring-break-cve-2017-8046](https://github.com/jkutner/spring-break-cve-2017-8046)	<img alt="forks" src="https://img.shields.io/github/forks/jkutner/spring-break-cve-2017-8046">	<img alt="stars" src="https://img.shields.io/github/stars/jkutner/spring-break-cve-2017-8046">
+- [bkhablenko/CVE-2017-8046](https://github.com/bkhablenko/CVE-2017-8046)	<img alt="forks" src="https://img.shields.io/github/forks/bkhablenko/CVE-2017-8046">	<img alt="stars" src="https://img.shields.io/github/stars/bkhablenko/CVE-2017-8046">
+- [cved-sources/cve-2017-8046](https://github.com/cved-sources/cve-2017-8046)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2017-8046">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2017-8046">
+- [jsotiro/VulnerableSpringDataRest](https://github.com/jsotiro/VulnerableSpringDataRest)	<img alt="forks" src="https://img.shields.io/github/forks/jsotiro/VulnerableSpringDataRest">	<img alt="stars" src="https://img.shields.io/github/stars/jsotiro/VulnerableSpringDataRest">
+- [guanjivip/CVE-2017-8046](https://github.com/guanjivip/CVE-2017-8046)	<img alt="forks" src="https://img.shields.io/github/forks/guanjivip/CVE-2017-8046">	<img alt="stars" src="https://img.shields.io/github/stars/guanjivip/CVE-2017-8046">
+
+---
+## CVE-2017-7998 ()
+> 
+- [homjxi0e/CVE-2017-7998](https://github.com/homjxi0e/CVE-2017-7998)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-7998">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-7998">
 
 ---
 ## CVE-2017-7957 ()
@@ -253,6 +484,11 @@
 - [KelvinWin10/CVE-2017-7921-rewrite](https://github.com/KelvinWin10/CVE-2017-7921-rewrite)	<img alt="forks" src="https://img.shields.io/github/forks/KelvinWin10/CVE-2017-7921-rewrite">	<img alt="stars" src="https://img.shields.io/github/stars/KelvinWin10/CVE-2017-7921-rewrite">
 
 ---
+## CVE-2017-7912 ()
+> 
+- [homjxi0e/CVE-2017-7912_Sneak](https://github.com/homjxi0e/CVE-2017-7912_Sneak)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-7912_Sneak">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-7912_Sneak">
+
+---
 ## CVE-2017-7888 (2017-05-10T14:29:00)
 > Dolibarr ERP/CRM 4.0.4 stores passwords with the MD5 algorithm, which makes brute-force attacks easier.
 - [Live-Hack-CVE/CVE-2017-7888](https://github.com/Live-Hack-CVE/CVE-2017-7888)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7888">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7888">
@@ -277,6 +513,17 @@
 ## CVE-2017-7661 ()
 > 
 - [andikahilmy/CVE-2017-7661-cxf-fediz-vulnerable](https://github.com/andikahilmy/CVE-2017-7661-cxf-fediz-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-7661-cxf-fediz-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-7661-cxf-fediz-vulnerable">
+
+---
+## CVE-2017-7651 ()
+> 
+- [mukkul007/MqttAttack](https://github.com/mukkul007/MqttAttack)	<img alt="forks" src="https://img.shields.io/github/forks/mukkul007/MqttAttack">	<img alt="stars" src="https://img.shields.io/github/stars/mukkul007/MqttAttack">
+- [St3v3nsS/CVE-2017-7651](https://github.com/St3v3nsS/CVE-2017-7651)	<img alt="forks" src="https://img.shields.io/github/forks/St3v3nsS/CVE-2017-7651">	<img alt="stars" src="https://img.shields.io/github/stars/St3v3nsS/CVE-2017-7651">
+
+---
+## CVE-2017-7648 ()
+> 
+- [notmot/CVE-2017-7648.](https://github.com/notmot/CVE-2017-7648.)	<img alt="forks" src="https://img.shields.io/github/forks/notmot/CVE-2017-7648.">	<img alt="stars" src="https://img.shields.io/github/stars/notmot/CVE-2017-7648.">
 
 ---
 ## CVE-2017-7615 (2017-04-16T14:59:00)
@@ -320,6 +567,15 @@
 - [Fenil2511/CVE-2017-7529-POC](https://github.com/Fenil2511/CVE-2017-7529-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Fenil2511/CVE-2017-7529-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Fenil2511/CVE-2017-7529-POC">
 - [youngmin0104/CVE-2017-7529-](https://github.com/youngmin0104/CVE-2017-7529-)	<img alt="forks" src="https://img.shields.io/github/forks/youngmin0104/CVE-2017-7529-">	<img alt="stars" src="https://img.shields.io/github/stars/youngmin0104/CVE-2017-7529-">
 - [portfolio10/nginx](https://github.com/portfolio10/nginx)	<img alt="forks" src="https://img.shields.io/github/forks/portfolio10/nginx">	<img alt="stars" src="https://img.shields.io/github/stars/portfolio10/nginx">
+
+---
+## CVE-2017-7525 ()
+> 
+- [SecureSkyTechnology/study-struts2-s2-054_055-jackson-cve-2017-7525_cve-2017-15095](https://github.com/SecureSkyTechnology/study-struts2-s2-054_055-jackson-cve-2017-7525_cve-2017-15095)	<img alt="forks" src="https://img.shields.io/github/forks/SecureSkyTechnology/study-struts2-s2-054_055-jackson-cve-2017-7525_cve-2017-15095">	<img alt="stars" src="https://img.shields.io/github/stars/SecureSkyTechnology/study-struts2-s2-054_055-jackson-cve-2017-7525_cve-2017-15095">
+- [Nazicc/S2-055](https://github.com/Nazicc/S2-055)	<img alt="forks" src="https://img.shields.io/github/forks/Nazicc/S2-055">	<img alt="stars" src="https://img.shields.io/github/stars/Nazicc/S2-055">
+- [JavanXD/Demo-Exploit-Jackson-RCE](https://github.com/JavanXD/Demo-Exploit-Jackson-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/JavanXD/Demo-Exploit-Jackson-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/JavanXD/Demo-Exploit-Jackson-RCE">
+- [Dannners/jackson-deserialization-2017-7525](https://github.com/Dannners/jackson-deserialization-2017-7525)	<img alt="forks" src="https://img.shields.io/github/forks/Dannners/jackson-deserialization-2017-7525">	<img alt="stars" src="https://img.shields.io/github/stars/Dannners/jackson-deserialization-2017-7525">
+- [Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab](https://github.com/Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Ingenuity-Fainting-Goats/CVE-2017-7525-Jackson-Deserialization-Lab">
 
 ---
 ## CVE-2017-7516 (2018-01-29T19:29:00)
@@ -377,6 +633,8 @@
 - [NhutMinh2801/CVE_2017_7494](https://github.com/NhutMinh2801/CVE_2017_7494)	<img alt="forks" src="https://img.shields.io/github/forks/NhutMinh2801/CVE_2017_7494">	<img alt="stars" src="https://img.shields.io/github/stars/NhutMinh2801/CVE_2017_7494">
 - [FelipeR-UFBA/cve-2017-7494-fixed](https://github.com/FelipeR-UFBA/cve-2017-7494-fixed)	<img alt="forks" src="https://img.shields.io/github/forks/FelipeR-UFBA/cve-2017-7494-fixed">	<img alt="stars" src="https://img.shields.io/github/stars/FelipeR-UFBA/cve-2017-7494-fixed">
 - [sudlit/CVE-2017-7494](https://github.com/sudlit/CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/sudlit/CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/sudlit/CVE-2017-7494">
+- [Zanex360/cdt-samba-deploy](https://github.com/Zanex360/cdt-samba-deploy)	<img alt="forks" src="https://img.shields.io/github/forks/Zanex360/cdt-samba-deploy">	<img alt="stars" src="https://img.shields.io/github/stars/Zanex360/cdt-samba-deploy">
+- [Zanex360/cdt-vulnsamba-deploy](https://github.com/Zanex360/cdt-vulnsamba-deploy)	<img alt="forks" src="https://img.shields.io/github/forks/Zanex360/cdt-vulnsamba-deploy">	<img alt="stars" src="https://img.shields.io/github/stars/Zanex360/cdt-vulnsamba-deploy">
 
 ---
 ## CVE-2017-7492 (2017-05-22T15:29:00)
@@ -404,9 +662,19 @@
 - [Live-Hack-CVE/CVE-2017-7473](https://github.com/Live-Hack-CVE/CVE-2017-7473)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7473">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7473">
 
 ---
+## CVE-2017-7472 ()
+> 
+- [homjxi0e/CVE-2017-7472](https://github.com/homjxi0e/CVE-2017-7472)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-7472">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-7472">
+
+---
 ## CVE-2017-7410 (2017-04-03T22:59:00)
 > Multiple SQL injection vulnerabilities in account/signup.php and account/signup2.php in WebsiteBaker 2.10.0 and earlier allow remote attackers to execute arbitrary SQL commands via the (1) username, (2) display_name parameter.
 - [ashangp923/CVE-2017-7410](https://github.com/ashangp923/CVE-2017-7410)	<img alt="forks" src="https://img.shields.io/github/forks/ashangp923/CVE-2017-7410">	<img alt="stars" src="https://img.shields.io/github/stars/ashangp923/CVE-2017-7410">
+
+---
+## CVE-2017-7376 ()
+> 
+- [brahmstaedt/libxml2-exploit](https://github.com/brahmstaedt/libxml2-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/brahmstaedt/libxml2-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/brahmstaedt/libxml2-exploit">
 
 ---
 ## CVE-2017-7374 (2017-03-31T20:59:00)
@@ -453,6 +721,13 @@
 - [geniuszly/CVE-2017-7269](https://github.com/geniuszly/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszly/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszly/CVE-2017-7269">
 - [AxthonyV/CVE-2017-7269](https://github.com/AxthonyV/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/AxthonyV/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/AxthonyV/CVE-2017-7269">
 - [nika0x38/CVE-2017-7269](https://github.com/nika0x38/CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/nika0x38/CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/nika0x38/CVE-2017-7269">
+- [Killian0713/Assignement_3-CVE-2017-7269](https://github.com/Killian0713/Assignement_3-CVE-2017-7269)	<img alt="forks" src="https://img.shields.io/github/forks/Killian0713/Assignement_3-CVE-2017-7269">	<img alt="stars" src="https://img.shields.io/github/stars/Killian0713/Assignement_3-CVE-2017-7269">
+- [Admin2099/Penetration-Testing-Assessment-23-04-2026](https://github.com/Admin2099/Penetration-Testing-Assessment-23-04-2026)	<img alt="forks" src="https://img.shields.io/github/forks/Admin2099/Penetration-Testing-Assessment-23-04-2026">	<img alt="stars" src="https://img.shields.io/github/stars/Admin2099/Penetration-Testing-Assessment-23-04-2026">
+
+---
+## CVE-2017-7188 ()
+> 
+- [faizzaidi/Zurmo-Stable-3.1.1-XSS-By-Provensec-LLC](https://github.com/faizzaidi/Zurmo-Stable-3.1.1-XSS-By-Provensec-LLC)	<img alt="forks" src="https://img.shields.io/github/forks/faizzaidi/Zurmo-Stable-3.1.1-XSS-By-Provensec-LLC">	<img alt="stars" src="https://img.shields.io/github/stars/faizzaidi/Zurmo-Stable-3.1.1-XSS-By-Provensec-LLC">
 
 ---
 ## CVE-2017-7184 ()
@@ -464,15 +739,90 @@
 - [shakyanayann/CVE-2017-7184](https://github.com/shakyanayann/CVE-2017-7184)	<img alt="forks" src="https://img.shields.io/github/forks/shakyanayann/CVE-2017-7184">	<img alt="stars" src="https://img.shields.io/github/stars/shakyanayann/CVE-2017-7184">
 
 ---
+## CVE-2017-7173 ()
+> 
+- [bazad/sysctl_coalition_get_pid_list-dos](https://github.com/bazad/sysctl_coalition_get_pid_list-dos)	<img alt="forks" src="https://img.shields.io/github/forks/bazad/sysctl_coalition_get_pid_list-dos">	<img alt="stars" src="https://img.shields.io/github/stars/bazad/sysctl_coalition_get_pid_list-dos">
+
+---
 ## CVE-2017-7117 ()
 > 
 - [rebelle3/cve-2017-7117](https://github.com/rebelle3/cve-2017-7117)	<img alt="forks" src="https://img.shields.io/github/forks/rebelle3/cve-2017-7117">	<img alt="stars" src="https://img.shields.io/github/stars/rebelle3/cve-2017-7117">
 - [rebelle3/cve-2017-7117](https://github.com/rebelle3/cve-2017-7117)	<img alt="forks" src="https://img.shields.io/github/forks/rebelle3/cve-2017-7117">	<img alt="stars" src="https://img.shields.io/github/stars/rebelle3/cve-2017-7117">
 
 ---
+## CVE-2017-7092 ()
+> 
+- [xuechiyaobai/CVE-2017-7092-PoC](https://github.com/xuechiyaobai/CVE-2017-7092-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xuechiyaobai/CVE-2017-7092-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xuechiyaobai/CVE-2017-7092-PoC">
+
+---
+## CVE-2017-7089 ()
+> 
+- [Bo0oM/CVE-2017-7089](https://github.com/Bo0oM/CVE-2017-7089)	<img alt="forks" src="https://img.shields.io/github/forks/Bo0oM/CVE-2017-7089">	<img alt="stars" src="https://img.shields.io/github/stars/Bo0oM/CVE-2017-7089">
+- [aymankhalfatni/Safari_Mac](https://github.com/aymankhalfatni/Safari_Mac)	<img alt="forks" src="https://img.shields.io/github/forks/aymankhalfatni/Safari_Mac">	<img alt="stars" src="https://img.shields.io/github/stars/aymankhalfatni/Safari_Mac">
+
+---
+## CVE-2017-7047 ()
+> 
+- [JosephShenton/Triple_Fetch-Kernel-Creds](https://github.com/JosephShenton/Triple_Fetch-Kernel-Creds)	<img alt="forks" src="https://img.shields.io/github/forks/JosephShenton/Triple_Fetch-Kernel-Creds">	<img alt="stars" src="https://img.shields.io/github/stars/JosephShenton/Triple_Fetch-Kernel-Creds">
+- [q1f3/Triple_fetch](https://github.com/q1f3/Triple_fetch)	<img alt="forks" src="https://img.shields.io/github/forks/q1f3/Triple_fetch">	<img alt="stars" src="https://img.shields.io/github/stars/q1f3/Triple_fetch">
+
+---
+## CVE-2017-7038 ()
+> 
+- [ansjdnakjdnajkd/CVE-2017-7038](https://github.com/ansjdnakjdnajkd/CVE-2017-7038)	<img alt="forks" src="https://img.shields.io/github/forks/ansjdnakjdnajkd/CVE-2017-7038">	<img alt="stars" src="https://img.shields.io/github/stars/ansjdnakjdnajkd/CVE-2017-7038">
+
+---
+## CVE-2017-6971 ()
+> 
+- [patrickfreed/nfsen-exploit](https://github.com/patrickfreed/nfsen-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/patrickfreed/nfsen-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/patrickfreed/nfsen-exploit">
+- [KeyStrOke95/nfsen_1.3.7_CVE-2017-6971](https://github.com/KeyStrOke95/nfsen_1.3.7_CVE-2017-6971)	<img alt="forks" src="https://img.shields.io/github/forks/KeyStrOke95/nfsen_1.3.7_CVE-2017-6971">	<img alt="stars" src="https://img.shields.io/github/stars/KeyStrOke95/nfsen_1.3.7_CVE-2017-6971">
+
+---
+## CVE-2017-6913 ()
+> 
+- [gquere/CVE-2017-6913](https://github.com/gquere/CVE-2017-6913)	<img alt="forks" src="https://img.shields.io/github/forks/gquere/CVE-2017-6913">	<img alt="stars" src="https://img.shields.io/github/stars/gquere/CVE-2017-6913">
+
+---
 ## CVE-2017-6742 ()
 > 
 - [sastraadiwiguna-purpleeliteteaming/Cisco-IOS-Exploitation-JAGUAR_TOOTH-CVE-2017-6742-Reconstruction](https://github.com/sastraadiwiguna-purpleeliteteaming/Cisco-IOS-Exploitation-JAGUAR_TOOTH-CVE-2017-6742-Reconstruction)	<img alt="forks" src="https://img.shields.io/github/forks/sastraadiwiguna-purpleeliteteaming/Cisco-IOS-Exploitation-JAGUAR_TOOTH-CVE-2017-6742-Reconstruction">	<img alt="stars" src="https://img.shields.io/github/stars/sastraadiwiguna-purpleeliteteaming/Cisco-IOS-Exploitation-JAGUAR_TOOTH-CVE-2017-6742-Reconstruction">
+
+---
+## CVE-2017-6736 ()
+> 
+- [msztankowski/CiscoIOSSNMPToolkit](https://github.com/msztankowski/CiscoIOSSNMPToolkit)	<img alt="forks" src="https://img.shields.io/github/forks/msztankowski/CiscoIOSSNMPToolkit">	<img alt="stars" src="https://img.shields.io/github/stars/msztankowski/CiscoIOSSNMPToolkit">
+- [plyrthn/CiscoIOSSNMPToolkit](https://github.com/plyrthn/CiscoIOSSNMPToolkit)	<img alt="forks" src="https://img.shields.io/github/forks/plyrthn/CiscoIOSSNMPToolkit">	<img alt="stars" src="https://img.shields.io/github/stars/plyrthn/CiscoIOSSNMPToolkit">
+- [plyrthn/CiscoSpectreTakeover](https://github.com/plyrthn/CiscoSpectreTakeover)	<img alt="forks" src="https://img.shields.io/github/forks/plyrthn/CiscoSpectreTakeover">	<img alt="stars" src="https://img.shields.io/github/stars/plyrthn/CiscoSpectreTakeover">
+
+---
+## CVE-2017-6640 ()
+> 
+- [hemp3l/CVE-2017-6640-POC](https://github.com/hemp3l/CVE-2017-6640-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hemp3l/CVE-2017-6640-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hemp3l/CVE-2017-6640-POC">
+
+---
+## CVE-2017-6516 ()
+> 
+- [Rubytox/CVE-2017-6516-mcsiwrapper-](https://github.com/Rubytox/CVE-2017-6516-mcsiwrapper-)	<img alt="forks" src="https://img.shields.io/github/forks/Rubytox/CVE-2017-6516-mcsiwrapper-">	<img alt="stars" src="https://img.shields.io/github/stars/Rubytox/CVE-2017-6516-mcsiwrapper-">
+
+---
+## CVE-2017-6370 ()
+> 
+- [faizzaidi/TYPO3-v7.6.15-Unencrypted-Login-Request](https://github.com/faizzaidi/TYPO3-v7.6.15-Unencrypted-Login-Request)	<img alt="forks" src="https://img.shields.io/github/forks/faizzaidi/TYPO3-v7.6.15-Unencrypted-Login-Request">	<img alt="stars" src="https://img.shields.io/github/stars/faizzaidi/TYPO3-v7.6.15-Unencrypted-Login-Request">
+
+---
+## CVE-2017-6206 ()
+> 
+- [varangamin/CVE-2017-6206](https://github.com/varangamin/CVE-2017-6206)	<img alt="forks" src="https://img.shields.io/github/forks/varangamin/CVE-2017-6206">	<img alt="stars" src="https://img.shields.io/github/stars/varangamin/CVE-2017-6206">
+
+---
+## CVE-2017-6090 ()
+> 
+- [jlk/exploit-CVE-2017-6090](https://github.com/jlk/exploit-CVE-2017-6090)	<img alt="forks" src="https://img.shields.io/github/forks/jlk/exploit-CVE-2017-6090">	<img alt="stars" src="https://img.shields.io/github/stars/jlk/exploit-CVE-2017-6090">
+
+---
+## CVE-2017-6079 ()
+> 
+- [MostafaSoliman/CVE-2017-6079-Blind-Command-Injection-In-Edgewater-Edgemarc-Devices-Exploit](https://github.com/MostafaSoliman/CVE-2017-6079-Blind-Command-Injection-In-Edgewater-Edgemarc-Devices-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MostafaSoliman/CVE-2017-6079-Blind-Command-Injection-In-Edgewater-Edgemarc-Devices-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MostafaSoliman/CVE-2017-6079-Blind-Command-Injection-In-Edgewater-Edgemarc-Devices-Exploit">
 
 ---
 ## CVE-2017-6074 (2017-02-18T21:59:00)
@@ -496,6 +846,7 @@
 - [rodolfomarianocy/nodeserial](https://github.com/rodolfomarianocy/nodeserial)	<img alt="forks" src="https://img.shields.io/github/forks/rodolfomarianocy/nodeserial">	<img alt="stars" src="https://img.shields.io/github/stars/rodolfomarianocy/nodeserial">
 - [uartu0/nodejshell](https://github.com/uartu0/nodejshell)	<img alt="forks" src="https://img.shields.io/github/forks/uartu0/nodejshell">	<img alt="stars" src="https://img.shields.io/github/stars/uartu0/nodejshell">
 - [turnernator1/Node.js-CVE-2017-5941](https://github.com/turnernator1/Node.js-CVE-2017-5941)	<img alt="forks" src="https://img.shields.io/github/forks/turnernator1/Node.js-CVE-2017-5941">	<img alt="stars" src="https://img.shields.io/github/stars/turnernator1/Node.js-CVE-2017-5941">
+- [f41k0n/RCE-NodeJs](https://github.com/f41k0n/RCE-NodeJs)	<img alt="forks" src="https://img.shields.io/github/forks/f41k0n/RCE-NodeJs">	<img alt="stars" src="https://img.shields.io/github/stars/f41k0n/RCE-NodeJs">
 
 ---
 ## CVE-2017-5929 ()
@@ -506,6 +857,37 @@
 ## CVE-2017-5871 ()
 > 
 - [1337rokudenashi/CVE-2017-5871](https://github.com/1337rokudenashi/CVE-2017-5871)	<img alt="forks" src="https://img.shields.io/github/forks/1337rokudenashi/CVE-2017-5871">	<img alt="stars" src="https://img.shields.io/github/stars/1337rokudenashi/CVE-2017-5871">
+
+---
+## CVE-2017-5792 ()
+> 
+- [scanfsec/HPE-iMC-7.3-RMI-Java-Deserialization](https://github.com/scanfsec/HPE-iMC-7.3-RMI-Java-Deserialization)	<img alt="forks" src="https://img.shields.io/github/forks/scanfsec/HPE-iMC-7.3-RMI-Java-Deserialization">	<img alt="stars" src="https://img.shields.io/github/stars/scanfsec/HPE-iMC-7.3-RMI-Java-Deserialization">
+
+---
+## CVE-2017-5754 ()
+> 
+- [ionescu007/SpecuCheck](https://github.com/ionescu007/SpecuCheck)	<img alt="forks" src="https://img.shields.io/github/forks/ionescu007/SpecuCheck">	<img alt="stars" src="https://img.shields.io/github/stars/ionescu007/SpecuCheck">
+- [raphaelsc/Am-I-affected-by-Meltdown](https://github.com/raphaelsc/Am-I-affected-by-Meltdown)	<img alt="forks" src="https://img.shields.io/github/forks/raphaelsc/Am-I-affected-by-Meltdown">	<img alt="stars" src="https://img.shields.io/github/stars/raphaelsc/Am-I-affected-by-Meltdown">
+- [Viralmaniar/In-Spectre-Meltdown](https://github.com/Viralmaniar/In-Spectre-Meltdown)	<img alt="forks" src="https://img.shields.io/github/forks/Viralmaniar/In-Spectre-Meltdown">	<img alt="stars" src="https://img.shields.io/github/stars/Viralmaniar/In-Spectre-Meltdown">
+- [speecyy/Am-I-affected-by-Meltdown](https://github.com/speecyy/Am-I-affected-by-Meltdown)	<img alt="forks" src="https://img.shields.io/github/forks/speecyy/Am-I-affected-by-Meltdown">	<img alt="stars" src="https://img.shields.io/github/stars/speecyy/Am-I-affected-by-Meltdown">
+- [zzado/Meltdown](https://github.com/zzado/Meltdown)	<img alt="forks" src="https://img.shields.io/github/forks/zzado/Meltdown">	<img alt="stars" src="https://img.shields.io/github/stars/zzado/Meltdown">
+- [jdmulloy/meltdown-aws-scanner](https://github.com/jdmulloy/meltdown-aws-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/jdmulloy/meltdown-aws-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/jdmulloy/meltdown-aws-scanner">
+
+---
+## CVE-2017-5753 ()
+> 
+- [Eugnis/spectre-attack](https://github.com/Eugnis/spectre-attack)	<img alt="forks" src="https://img.shields.io/github/forks/Eugnis/spectre-attack">	<img alt="stars" src="https://img.shields.io/github/stars/Eugnis/spectre-attack">
+- [EdwardOwusuAdjei/Spectre-PoC](https://github.com/EdwardOwusuAdjei/Spectre-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/EdwardOwusuAdjei/Spectre-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/EdwardOwusuAdjei/Spectre-PoC">
+- [00052/spectre-attack-example](https://github.com/00052/spectre-attack-example)	<img alt="forks" src="https://img.shields.io/github/forks/00052/spectre-attack-example">	<img alt="stars" src="https://img.shields.io/github/stars/00052/spectre-attack-example">
+- [pedrolucasoliva/spectre-attack-demo](https://github.com/pedrolucasoliva/spectre-attack-demo)	<img alt="forks" src="https://img.shields.io/github/forks/pedrolucasoliva/spectre-attack-demo">	<img alt="stars" src="https://img.shields.io/github/stars/pedrolucasoliva/spectre-attack-demo">
+- [ixtal23/spectreScope](https://github.com/ixtal23/spectreScope)	<img alt="forks" src="https://img.shields.io/github/forks/ixtal23/spectreScope">	<img alt="stars" src="https://img.shields.io/github/stars/ixtal23/spectreScope">
+- [albertleecn/cve-2017-5753](https://github.com/albertleecn/cve-2017-5753)	<img alt="forks" src="https://img.shields.io/github/forks/albertleecn/cve-2017-5753">	<img alt="stars" src="https://img.shields.io/github/stars/albertleecn/cve-2017-5753">
+- [sachinthaBS/Spectre-Vulnerability-CVE-2017-5753-](https://github.com/sachinthaBS/Spectre-Vulnerability-CVE-2017-5753-)	<img alt="forks" src="https://img.shields.io/github/forks/sachinthaBS/Spectre-Vulnerability-CVE-2017-5753-">	<img alt="stars" src="https://img.shields.io/github/stars/sachinthaBS/Spectre-Vulnerability-CVE-2017-5753-">
+
+---
+## CVE-2017-5721 ()
+> 
+- [embedi/smm_usbrt_poc](https://github.com/embedi/smm_usbrt_poc)	<img alt="forks" src="https://img.shields.io/github/forks/embedi/smm_usbrt_poc">	<img alt="stars" src="https://img.shields.io/github/stars/embedi/smm_usbrt_poc">
 
 ---
 ## CVE-2017-5715 (2018-01-04T13:29:00)
@@ -532,6 +914,11 @@
 - [EdwardOwusuAdjei/Spectre-PoC](https://github.com/EdwardOwusuAdjei/Spectre-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/EdwardOwusuAdjei/Spectre-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/EdwardOwusuAdjei/Spectre-PoC">
 
 ---
+## CVE-2017-5693 ()
+> 
+- [LunNova/Puma6Fail](https://github.com/LunNova/Puma6Fail)	<img alt="forks" src="https://img.shields.io/github/forks/LunNova/Puma6Fail">	<img alt="stars" src="https://img.shields.io/github/stars/LunNova/Puma6Fail">
+
+---
 ## CVE-2017-5689 (2017-05-02T14:59:00)
 > An unprivileged network attacker could gain system privileges to provisioned Intel manageability SKUs: Intel Active Management Technology (AMT) and Intel Standard Manageability (ISM). An unprivileged local attacker could provision manageability features gaining unprivileged network or local system privileges on Intel manageability SKUs: Intel Active Management Technology (AMT), Intel Standard Manageability (ISM), and Intel Small Business Technology (SBT).
 - [odx686/CVE-2017-5689](https://github.com/odx686/CVE-2017-5689)	<img alt="forks" src="https://img.shields.io/github/forks/odx686/CVE-2017-5689">	<img alt="stars" src="https://img.shields.io/github/stars/odx686/CVE-2017-5689">
@@ -543,6 +930,13 @@
 - [Bijaye/intel_amt_bypass](https://github.com/Bijaye/intel_amt_bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Bijaye/intel_amt_bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Bijaye/intel_amt_bypass">
 - [CerberusSecurity/CVE-2017-5689](https://github.com/CerberusSecurity/CVE-2017-5689)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusSecurity/CVE-2017-5689">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusSecurity/CVE-2017-5689">
 - [odx686/CVE-2017-5689](https://github.com/odx686/CVE-2017-5689)	<img alt="forks" src="https://img.shields.io/github/forks/odx686/CVE-2017-5689">	<img alt="stars" src="https://img.shields.io/github/stars/odx686/CVE-2017-5689">
+- [MlSebrell/amthoneypot](https://github.com/MlSebrell/amthoneypot)	<img alt="forks" src="https://img.shields.io/github/forks/MlSebrell/amthoneypot">	<img alt="stars" src="https://img.shields.io/github/stars/MlSebrell/amthoneypot">
+
+---
+## CVE-2017-5645 ()
+> 
+- [pimps/CVE-2017-5645](https://github.com/pimps/CVE-2017-5645)	<img alt="forks" src="https://img.shields.io/github/forks/pimps/CVE-2017-5645">	<img alt="stars" src="https://img.shields.io/github/stars/pimps/CVE-2017-5645">
+- [HynekPetrak/log4shell-finder](https://github.com/HynekPetrak/log4shell-finder)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/log4shell-finder">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/log4shell-finder">
 
 ---
 ## CVE-2017-5638 (2017-03-11T02:59:00)
@@ -602,6 +996,53 @@
 - [louislafosse/CVE-2017-5638-assignement](https://github.com/louislafosse/CVE-2017-5638-assignement)	<img alt="forks" src="https://img.shields.io/github/forks/louislafosse/CVE-2017-5638-assignement">	<img alt="stars" src="https://img.shields.io/github/stars/louislafosse/CVE-2017-5638-assignement">
 - [Kouf320/docker-lab-cve-2017-5638-cve-2021-41773](https://github.com/Kouf320/docker-lab-cve-2017-5638-cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Kouf320/docker-lab-cve-2017-5638-cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Kouf320/docker-lab-cve-2017-5638-cve-2021-41773">
 - [Dungsocool/CVE-2017-5638](https://github.com/Dungsocool/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-5638">
+- [PolarisLab/S2-045](https://github.com/PolarisLab/S2-045)	<img alt="forks" src="https://img.shields.io/github/forks/PolarisLab/S2-045">	<img alt="stars" src="https://img.shields.io/github/stars/PolarisLab/S2-045">
+- [Flyteas/Struts2-045-Exp](https://github.com/Flyteas/Struts2-045-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/Flyteas/Struts2-045-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/Flyteas/Struts2-045-Exp">
+- [bongbongco/cve-2017-5638](https://github.com/bongbongco/cve-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/bongbongco/cve-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/bongbongco/cve-2017-5638">
+- [btamburi/strutszeiro](https://github.com/btamburi/strutszeiro)	<img alt="forks" src="https://img.shields.io/github/forks/btamburi/strutszeiro">	<img alt="stars" src="https://img.shields.io/github/stars/btamburi/strutszeiro">
+- [xsscx/cve-2017-5638](https://github.com/xsscx/cve-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/xsscx/cve-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/xsscx/cve-2017-5638">
+- [immunio/apache-struts2-CVE-2017-5638](https://github.com/immunio/apache-struts2-CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/immunio/apache-struts2-CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/immunio/apache-struts2-CVE-2017-5638">
+- [Masahiro-Yamada/OgnlContentTypeRejectorValve](https://github.com/Masahiro-Yamada/OgnlContentTypeRejectorValve)	<img alt="forks" src="https://img.shields.io/github/forks/Masahiro-Yamada/OgnlContentTypeRejectorValve">	<img alt="stars" src="https://img.shields.io/github/stars/Masahiro-Yamada/OgnlContentTypeRejectorValve">
+- [aljazceru/CVE-2017-5638-Apache-Struts2](https://github.com/aljazceru/CVE-2017-5638-Apache-Struts2)	<img alt="forks" src="https://img.shields.io/github/forks/aljazceru/CVE-2017-5638-Apache-Struts2">	<img alt="stars" src="https://img.shields.io/github/stars/aljazceru/CVE-2017-5638-Apache-Struts2">
+- [sjitech/test_struts2_vulnerability_CVE-2017-5638](https://github.com/sjitech/test_struts2_vulnerability_CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/sjitech/test_struts2_vulnerability_CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/sjitech/test_struts2_vulnerability_CVE-2017-5638">
+- [random-robbie/CVE-2017-5638](https://github.com/random-robbie/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/random-robbie/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/random-robbie/CVE-2017-5638">
+- [initconf/CVE-2017-5638_struts](https://github.com/initconf/CVE-2017-5638_struts)	<img alt="forks" src="https://img.shields.io/github/forks/initconf/CVE-2017-5638_struts">	<img alt="stars" src="https://img.shields.io/github/stars/initconf/CVE-2017-5638_struts">
+- [ret2jazzy/Struts-Apache-ExploitPack](https://github.com/ret2jazzy/Struts-Apache-ExploitPack)	<img alt="forks" src="https://img.shields.io/github/forks/ret2jazzy/Struts-Apache-ExploitPack">	<img alt="stars" src="https://img.shields.io/github/stars/ret2jazzy/Struts-Apache-ExploitPack">
+- [lolwaleet/ExpStruts](https://github.com/lolwaleet/ExpStruts)	<img alt="forks" src="https://img.shields.io/github/forks/lolwaleet/ExpStruts">	<img alt="stars" src="https://img.shields.io/github/stars/lolwaleet/ExpStruts">
+- [oktavianto/CVE-2017-5638-Apache-Struts2](https://github.com/oktavianto/CVE-2017-5638-Apache-Struts2)	<img alt="forks" src="https://img.shields.io/github/forks/oktavianto/CVE-2017-5638-Apache-Struts2">	<img alt="stars" src="https://img.shields.io/github/stars/oktavianto/CVE-2017-5638-Apache-Struts2">
+- [jrrdev/cve-2017-5638](https://github.com/jrrdev/cve-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/jrrdev/cve-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/jrrdev/cve-2017-5638">
+- [opt9/Strutshock](https://github.com/opt9/Strutshock)	<img alt="forks" src="https://img.shields.io/github/forks/opt9/Strutshock">	<img alt="stars" src="https://img.shields.io/github/stars/opt9/Strutshock">
+- [falcon-lnhg/StrutsShell](https://github.com/falcon-lnhg/StrutsShell)	<img alt="forks" src="https://img.shields.io/github/forks/falcon-lnhg/StrutsShell">	<img alt="stars" src="https://img.shields.io/github/stars/falcon-lnhg/StrutsShell">
+- [KarzsGHR/S2-046_S2-045_POC](https://github.com/KarzsGHR/S2-046_S2-045_POC)	<img alt="forks" src="https://img.shields.io/github/forks/KarzsGHR/S2-046_S2-045_POC">	<img alt="stars" src="https://img.shields.io/github/stars/KarzsGHR/S2-046_S2-045_POC">
+- [gsfish/S2-Reaper](https://github.com/gsfish/S2-Reaper)	<img alt="forks" src="https://img.shields.io/github/forks/gsfish/S2-Reaper">	<img alt="stars" src="https://img.shields.io/github/stars/gsfish/S2-Reaper">
+- [mcassano/cve-2017-5638](https://github.com/mcassano/cve-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/mcassano/cve-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/mcassano/cve-2017-5638">
+- [opt9/Strutscli](https://github.com/opt9/Strutscli)	<img alt="forks" src="https://img.shields.io/github/forks/opt9/Strutscli">	<img alt="stars" src="https://img.shields.io/github/stars/opt9/Strutscli">
+- [payatu/CVE-2017-5638](https://github.com/payatu/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/payatu/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/payatu/CVE-2017-5638">
+- [Aasron/Struts2-045-Exp](https://github.com/Aasron/Struts2-045-Exp)	<img alt="forks" src="https://img.shields.io/github/forks/Aasron/Struts2-045-Exp">	<img alt="stars" src="https://img.shields.io/github/stars/Aasron/Struts2-045-Exp">
+- [SpiderMate/Stutsfi](https://github.com/SpiderMate/Stutsfi)	<img alt="forks" src="https://img.shields.io/github/forks/SpiderMate/Stutsfi">	<img alt="stars" src="https://img.shields.io/github/stars/SpiderMate/Stutsfi">
+- [jpacora/Struts2Shell](https://github.com/jpacora/Struts2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/jpacora/Struts2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/jpacora/Struts2Shell">
+- [smancke/CVE-2017-5638](https://github.com/smancke/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/smancke/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/smancke/CVE-2017-5638">
+- [riyazwalikar/struts-rce-cve-2017-5638](https://github.com/riyazwalikar/struts-rce-cve-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/riyazwalikar/struts-rce-cve-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/riyazwalikar/struts-rce-cve-2017-5638">
+- [homjxi0e/CVE-2017-5638](https://github.com/homjxi0e/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-5638">
+- [eeehit/CVE-2017-5638](https://github.com/eeehit/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/eeehit/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/eeehit/CVE-2017-5638">
+- [sUbc0ol/Apache-Struts-CVE-2017-5638-RCE-Mass-Scanner](https://github.com/sUbc0ol/Apache-Struts-CVE-2017-5638-RCE-Mass-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sUbc0ol/Apache-Struts-CVE-2017-5638-RCE-Mass-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sUbc0ol/Apache-Struts-CVE-2017-5638-RCE-Mass-Scanner">
+- [sUbc0ol/Apache-Struts2-RCE-Exploit-v2-CVE-2017-5638](https://github.com/sUbc0ol/Apache-Struts2-RCE-Exploit-v2-CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/sUbc0ol/Apache-Struts2-RCE-Exploit-v2-CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/sUbc0ol/Apache-Struts2-RCE-Exploit-v2-CVE-2017-5638">
+- [R4v3nBl4ck/Apache-Struts-2-CVE-2017-5638-Exploit-](https://github.com/R4v3nBl4ck/Apache-Struts-2-CVE-2017-5638-Exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/R4v3nBl4ck/Apache-Struts-2-CVE-2017-5638-Exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/R4v3nBl4ck/Apache-Struts-2-CVE-2017-5638-Exploit-">
+- [Xhendos/CVE-2017-5638](https://github.com/Xhendos/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/Xhendos/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/Xhendos/CVE-2017-5638">
+- [TamiiLambrado/Apache-Struts-CVE-2017-5638-RCE-Mass-Scanner](https://github.com/TamiiLambrado/Apache-Struts-CVE-2017-5638-RCE-Mass-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/TamiiLambrado/Apache-Struts-CVE-2017-5638-RCE-Mass-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/TamiiLambrado/Apache-Struts-CVE-2017-5638-RCE-Mass-Scanner">
+- [invisiblethreat/strutser](https://github.com/invisiblethreat/strutser)	<img alt="forks" src="https://img.shields.io/github/forks/invisiblethreat/strutser">	<img alt="stars" src="https://img.shields.io/github/stars/invisiblethreat/strutser">
+- [c002/Apache-Struts](https://github.com/c002/Apache-Struts)	<img alt="forks" src="https://img.shields.io/github/forks/c002/Apache-Struts">	<img alt="stars" src="https://img.shields.io/github/stars/c002/Apache-Struts">
+- [donaldashdown/Common-Vulnerability-and-Exploit](https://github.com/donaldashdown/Common-Vulnerability-and-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/donaldashdown/Common-Vulnerability-and-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/donaldashdown/Common-Vulnerability-and-Exploit">
+- [cafnet/apache-struts-v2-CVE-2017-5638](https://github.com/cafnet/apache-struts-v2-CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/cafnet/apache-struts-v2-CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/cafnet/apache-struts-v2-CVE-2017-5638">
+- [0x00-0x00/CVE-2017-5638](https://github.com/0x00-0x00/CVE-2017-5638)	<img alt="forks" src="https://img.shields.io/github/forks/0x00-0x00/CVE-2017-5638">	<img alt="stars" src="https://img.shields.io/github/stars/0x00-0x00/CVE-2017-5638">
+- [soufiane-benchahyd/vulhub-struts2](https://github.com/soufiane-benchahyd/vulhub-struts2)	<img alt="forks" src="https://img.shields.io/github/forks/soufiane-benchahyd/vulhub-struts2">	<img alt="stars" src="https://img.shields.io/github/stars/soufiane-benchahyd/vulhub-struts2">
+- [AIPEACS/SC3010-Computer-Security](https://github.com/AIPEACS/SC3010-Computer-Security)	<img alt="forks" src="https://img.shields.io/github/forks/AIPEACS/SC3010-Computer-Security">	<img alt="stars" src="https://img.shields.io/github/stars/AIPEACS/SC3010-Computer-Security">
+- [Majaktech/apache-struts-cve-2017-5638-project](https://github.com/Majaktech/apache-struts-cve-2017-5638-project)	<img alt="forks" src="https://img.shields.io/github/forks/Majaktech/apache-struts-cve-2017-5638-project">	<img alt="stars" src="https://img.shields.io/github/stars/Majaktech/apache-struts-cve-2017-5638-project">
+
+---
+## CVE-2017-5633 ()
+> 
+- [cardangi/Exploit-CVE-2017-5633](https://github.com/cardangi/Exploit-CVE-2017-5633)	<img alt="forks" src="https://img.shields.io/github/forks/cardangi/Exploit-CVE-2017-5633">	<img alt="stars" src="https://img.shields.io/github/stars/cardangi/Exploit-CVE-2017-5633">
 
 ---
 ## CVE-2017-5618 ()
@@ -636,9 +1077,19 @@
 - [ndr-repo/CVE-2017-5487](https://github.com/ndr-repo/CVE-2017-5487)	<img alt="forks" src="https://img.shields.io/github/forks/ndr-repo/CVE-2017-5487">	<img alt="stars" src="https://img.shields.io/github/stars/ndr-repo/CVE-2017-5487">
 
 ---
+## CVE-2017-5415 ()
+> 
+- [649/CVE-2017-5415](https://github.com/649/CVE-2017-5415)	<img alt="forks" src="https://img.shields.io/github/forks/649/CVE-2017-5415">	<img alt="stars" src="https://img.shields.io/github/stars/649/CVE-2017-5415">
+
+---
 ## CVE-2017-5242 (2023-01-12T22:15:00)
 > Nexpose and InsightVM virtual appliances downloaded between April 5th, 2017 and May 3rd, 2017 contain identical SSH host keys. Normally, a unique SSH host key should be generated the first time a virtual appliance boots.
 - [Live-Hack-CVE/CVE-2017-5242](https://github.com/Live-Hack-CVE/CVE-2017-5242)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-5242">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-5242">
+
+---
+## CVE-2017-5223 ()
+> 
+- [cscli/CVE-2017-5223](https://github.com/cscli/CVE-2017-5223)	<img alt="forks" src="https://img.shields.io/github/forks/cscli/CVE-2017-5223">	<img alt="stars" src="https://img.shields.io/github/stars/cscli/CVE-2017-5223">
 
 ---
 ## CVE-2017-5124 (2018-02-07T23:29:00)
@@ -659,6 +1110,41 @@
 - [NabilBoudra/cve-2017-5123](https://github.com/NabilBoudra/cve-2017-5123)	<img alt="forks" src="https://img.shields.io/github/forks/NabilBoudra/cve-2017-5123">	<img alt="stars" src="https://img.shields.io/github/stars/NabilBoudra/cve-2017-5123">
 
 ---
+## CVE-2017-5007 ()
+> 
+- [Ang-YC/CVE-2017-5007](https://github.com/Ang-YC/CVE-2017-5007)	<img alt="forks" src="https://img.shields.io/github/forks/Ang-YC/CVE-2017-5007">	<img alt="stars" src="https://img.shields.io/github/stars/Ang-YC/CVE-2017-5007">
+
+---
+## CVE-2017-5005 ()
+> 
+- [payatu/QuickHeal](https://github.com/payatu/QuickHeal)	<img alt="forks" src="https://img.shields.io/github/forks/payatu/QuickHeal">	<img alt="stars" src="https://img.shields.io/github/stars/payatu/QuickHeal">
+
+---
+## CVE-2017-4971 ()
+> 
+- [cved-sources/cve-2017-4971](https://github.com/cved-sources/cve-2017-4971)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2017-4971">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2017-4971">
+
+---
+## CVE-2017-4878 ()
+> 
+- [brianwrf/CVE-2017-4878-Samples](https://github.com/brianwrf/CVE-2017-4878-Samples)	<img alt="forks" src="https://img.shields.io/github/forks/brianwrf/CVE-2017-4878-Samples">	<img alt="stars" src="https://img.shields.io/github/stars/brianwrf/CVE-2017-4878-Samples">
+
+---
+## CVE-2017-4490 ()
+> 
+- [homjxi0e/CVE-2017-4490-](https://github.com/homjxi0e/CVE-2017-4490-)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-4490-">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-4490-">
+- [homjxi0e/CVE-2017-4490-install-Script-Python-in-Terminal-](https://github.com/homjxi0e/CVE-2017-4490-install-Script-Python-in-Terminal-)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-4490-install-Script-Python-in-Terminal-">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-4490-install-Script-Python-in-Terminal-">
+
+---
+## CVE-2017-3881 ()
+> 
+- [artkond/cisco-rce](https://github.com/artkond/cisco-rce)	<img alt="forks" src="https://img.shields.io/github/forks/artkond/cisco-rce">	<img alt="stars" src="https://img.shields.io/github/stars/artkond/cisco-rce">
+- [homjxi0e/CVE-2017-3881-exploit-cisco-](https://github.com/homjxi0e/CVE-2017-3881-exploit-cisco-)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-3881-exploit-cisco-">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-3881-exploit-cisco-">
+- [homjxi0e/CVE-2017-3881-Cisco](https://github.com/homjxi0e/CVE-2017-3881-Cisco)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-3881-Cisco">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-3881-Cisco">
+- [mzakyz666/PoC-CVE-2017-3881](https://github.com/mzakyz666/PoC-CVE-2017-3881)	<img alt="forks" src="https://img.shields.io/github/forks/mzakyz666/PoC-CVE-2017-3881">	<img alt="stars" src="https://img.shields.io/github/stars/mzakyz666/PoC-CVE-2017-3881">
+- [1337g/CVE-2017-3881](https://github.com/1337g/CVE-2017-3881)	<img alt="forks" src="https://img.shields.io/github/forks/1337g/CVE-2017-3881">	<img alt="stars" src="https://img.shields.io/github/stars/1337g/CVE-2017-3881">
+
+---
 ## CVE-2017-3738 (2017-12-07T16:29:00)
 > There is an overflow bug in the AVX2 Montgomery multiplication procedure used in exponentiation with 1024-bit moduli. No EC algorithms are affected. Analysis suggests that attacks against RSA and DSA as a result of this defect would be very difficult to perform and are not believed likely. Attacks against DH1024 are considered just feasible, because most of the work necessary to deduce information about a private key may be performed offline. The amount of resources required for such an attack would be significant. However, for an attack on TLS to be meaningful, the server would have to share the DH1024 private key among multiple clients, which is no longer an option since CVE-2016-0701. This only affects processors that support the AVX2 but not ADX extensions like Intel Haswell (4th generation). Note: The impact from this issue is similar to CVE-2017-3736, CVE-2017-3732 and CVE-2015-3193. OpenSSL version 1.0.2-1.0.2m and 1.1.0-1.1.0g are affected. Fixed in OpenSSL 1.0.2n. Due to the low severity of this issue we are not issuing a new release of OpenSSL 1.1.0 at this time. The fix will be included in OpenSSL 1.1.0h when it becomes available. The fix is also available in commit e502cc86d in the OpenSSL git repository.
 - [Live-Hack-CVE/CVE-2017-3738](https://github.com/Live-Hack-CVE/CVE-2017-3738)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3738">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3738">
@@ -669,9 +1155,26 @@
 - [Live-Hack-CVE/CVE-2017-3731](https://github.com/Live-Hack-CVE/CVE-2017-3731)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3731">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3731">
 
 ---
+## CVE-2017-3730 ()
+> 
+- [olivierh59500/CVE-2017-3730](https://github.com/olivierh59500/CVE-2017-3730)	<img alt="forks" src="https://img.shields.io/github/forks/olivierh59500/CVE-2017-3730">	<img alt="stars" src="https://img.shields.io/github/stars/olivierh59500/CVE-2017-3730">
+
+---
 ## CVE-2017-3641 (2017-08-08T15:29:00)
 > Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: DML). Supported versions that are affected are 5.5.56 and earlier, 5.6.36 and earlier and 5.7.18 and earlier. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 4.9 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:H/UI:N/S:U/C:N/I:N/A:H).
 - [Live-Hack-CVE/CVE-2017-3641](https://github.com/Live-Hack-CVE/CVE-2017-3641)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3641">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3641">
+
+---
+## CVE-2017-3599 ()
+> 
+- [SECFORCE/CVE-2017-3599](https://github.com/SECFORCE/CVE-2017-3599)	<img alt="forks" src="https://img.shields.io/github/forks/SECFORCE/CVE-2017-3599">	<img alt="stars" src="https://img.shields.io/github/stars/SECFORCE/CVE-2017-3599">
+- [jptr218/mysql_dos](https://github.com/jptr218/mysql_dos)	<img alt="forks" src="https://img.shields.io/github/forks/jptr218/mysql_dos">	<img alt="stars" src="https://img.shields.io/github/stars/jptr218/mysql_dos">
+
+---
+## CVE-2017-3506 ()
+> 
+- [ianxtianxt/CVE-2017-3506](https://github.com/ianxtianxt/CVE-2017-3506)	<img alt="forks" src="https://img.shields.io/github/forks/ianxtianxt/CVE-2017-3506">	<img alt="stars" src="https://img.shields.io/github/stars/ianxtianxt/CVE-2017-3506">
+- [Al1ex/CVE-2017-3506](https://github.com/Al1ex/CVE-2017-3506)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2017-3506">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2017-3506">
 
 ---
 ## CVE-2017-3318 (2017-01-27T22:59:00)
@@ -691,14 +1194,32 @@
 - [Live-Hack-CVE/CVE-2017-3313](https://github.com/Live-Hack-CVE/CVE-2017-3313)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3313">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3313">
 
 ---
+## CVE-2017-3248 ()
+> 
+- [ianxtianxt/CVE-2017-3248](https://github.com/ianxtianxt/CVE-2017-3248)	<img alt="forks" src="https://img.shields.io/github/forks/ianxtianxt/CVE-2017-3248">	<img alt="stars" src="https://img.shields.io/github/stars/ianxtianxt/CVE-2017-3248">
+- [0xn0ne/weblogicScanner](https://github.com/0xn0ne/weblogicScanner)	<img alt="forks" src="https://img.shields.io/github/forks/0xn0ne/weblogicScanner">	<img alt="stars" src="https://img.shields.io/github/stars/0xn0ne/weblogicScanner">
+- [BabyTeam1024/CVE-2017-3248](https://github.com/BabyTeam1024/CVE-2017-3248)	<img alt="forks" src="https://img.shields.io/github/forks/BabyTeam1024/CVE-2017-3248">	<img alt="stars" src="https://img.shields.io/github/stars/BabyTeam1024/CVE-2017-3248">
+
+---
 ## CVE-2017-3243 (2017-01-27T22:59:00)
 > Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Charsets). Supported versions that are affected are 5.5.53 and earlier. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS v3.0 Base Score 4.4 (Availability impacts).
 - [Live-Hack-CVE/CVE-2017-3243](https://github.com/Live-Hack-CVE/CVE-2017-3243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3243">
 
 ---
+## CVE-2017-3241 ()
+> 
+- [xfei3/CVE-2017-3241-POC](https://github.com/xfei3/CVE-2017-3241-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xfei3/CVE-2017-3241-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xfei3/CVE-2017-3241-POC">
+- [scopion/CVE-2017-3241](https://github.com/scopion/CVE-2017-3241)	<img alt="forks" src="https://img.shields.io/github/forks/scopion/CVE-2017-3241">	<img alt="stars" src="https://img.shields.io/github/stars/scopion/CVE-2017-3241">
+
+---
 ## CVE-2017-3164 (2019-03-08T21:29:00)
 > Server Side Request Forgery in Apache Solr, versions 1.3 until 7.6 (inclusive). Since the "shards" parameter does not have a corresponding whitelist mechanism, a remote attacker with access to the server could make Solr perform an HTTP GET request to any reachable URL.
 - [tdwyer/PoC_CVE-2017-3164_CVE-2017-1262](https://github.com/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262)	<img alt="forks" src="https://img.shields.io/github/forks/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">	<img alt="stars" src="https://img.shields.io/github/stars/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">
+
+---
+## CVE-2017-3143 ()
+> 
+- [saaph/CVE-2017-3143](https://github.com/saaph/CVE-2017-3143)	<img alt="forks" src="https://img.shields.io/github/forks/saaph/CVE-2017-3143">	<img alt="stars" src="https://img.shields.io/github/stars/saaph/CVE-2017-3143">
 
 ---
 ## CVE-2017-3106 (2017-08-11T19:29:00)
@@ -711,6 +1232,22 @@
 > Adobe Flash Player versions 26.0.0.137 and earlier have a security bypass vulnerability that leads to information disclosure when performing URL redirect.
 - [Live-Hack-CVE/CVE-2017-3085](https://github.com/Live-Hack-CVE/CVE-2017-3085)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3085">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3085">
 - [Live-Hack-CVE/CVE-2017-3085](https://github.com/Live-Hack-CVE/CVE-2017-3085)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-3085">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-3085">
+
+---
+## CVE-2017-3078 ()
+> 
+- [homjxi0e/CVE-2017-3078](https://github.com/homjxi0e/CVE-2017-3078)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-3078">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-3078">
+
+---
+## CVE-2017-3066 ()
+> 
+- [codewhitesec/ColdFusionPwn](https://github.com/codewhitesec/ColdFusionPwn)	<img alt="forks" src="https://img.shields.io/github/forks/codewhitesec/ColdFusionPwn">	<img alt="stars" src="https://img.shields.io/github/stars/codewhitesec/ColdFusionPwn">
+- [cucadili/CVE-2017-3066](https://github.com/cucadili/CVE-2017-3066)	<img alt="forks" src="https://img.shields.io/github/forks/cucadili/CVE-2017-3066">	<img alt="stars" src="https://img.shields.io/github/stars/cucadili/CVE-2017-3066">
+
+---
+## CVE-2017-3000 ()
+> 
+- [dangokyo/CVE-2017-3000](https://github.com/dangokyo/CVE-2017-3000)	<img alt="forks" src="https://img.shields.io/github/forks/dangokyo/CVE-2017-3000">	<img alt="stars" src="https://img.shields.io/github/stars/dangokyo/CVE-2017-3000">
 
 ---
 ## CVE-2017-2996 (2017-02-15T06:59:00)
@@ -825,9 +1362,19 @@
 - [SpiralBL0CK/dpx_work_CVE-2017-2903](https://github.com/SpiralBL0CK/dpx_work_CVE-2017-2903)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/dpx_work_CVE-2017-2903">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/dpx_work_CVE-2017-2903">
 
 ---
+## CVE-2017-2824 ()
+> 
+- [listenquiet/cve-2017-2824-reverse-shell](https://github.com/listenquiet/cve-2017-2824-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/listenquiet/cve-2017-2824-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/listenquiet/cve-2017-2824-reverse-shell">
+
+---
 ## CVE-2017-2820 (2017-07-12T17:29:00)
 > An exploitable integer overflow vulnerability exists in the JPEG 2000 image parsing functionality of freedesktop.org Poppler 0.53.0. A specially crafted PDF file can lead to an integer overflow causing out of bounds memory overwrite on the heap resulting in potential arbitrary code execution. To trigger this vulnerability, a victim must open the malicious PDF in an application using this library.
 - [Live-Hack-CVE/CVE-2017-2820](https://github.com/Live-Hack-CVE/CVE-2017-2820)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2820">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2820">
+
+---
+## CVE-2017-2793 ()
+> 
+- [sUbc0ol/Detection-for-CVE-2017-2793](https://github.com/sUbc0ol/Detection-for-CVE-2017-2793)	<img alt="forks" src="https://img.shields.io/github/forks/sUbc0ol/Detection-for-CVE-2017-2793">	<img alt="stars" src="https://img.shields.io/github/stars/sUbc0ol/Detection-for-CVE-2017-2793">
 
 ---
 ## CVE-2017-2788 (2017-03-10T10:59:00)
@@ -850,14 +1397,30 @@
 - [BaderSZ/CVE-2017-2751](https://github.com/BaderSZ/CVE-2017-2751)	<img alt="forks" src="https://img.shields.io/github/forks/BaderSZ/CVE-2017-2751">	<img alt="stars" src="https://img.shields.io/github/stars/BaderSZ/CVE-2017-2751">
 
 ---
+## CVE-2017-2741 ()
+> 
+- [dopheide-esnet/zeek-jetdirect](https://github.com/dopheide-esnet/zeek-jetdirect)	<img alt="forks" src="https://img.shields.io/github/forks/dopheide-esnet/zeek-jetdirect">	<img alt="stars" src="https://img.shields.io/github/stars/dopheide-esnet/zeek-jetdirect">
+
+---
+## CVE-2017-2671 ()
+> 
+- [homjxi0e/CVE-2017-2671](https://github.com/homjxi0e/CVE-2017-2671)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-2671">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-2671">
+
+---
 ## CVE-2017-2666 ()
 > 
 - [andikahilmy/CVE-2017-2666-undertow-vulnerable](https://github.com/andikahilmy/CVE-2017-2666-undertow-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-2666-undertow-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-2666-undertow-vulnerable">
+- [tafamace/CVE-2017-2666](https://github.com/tafamace/CVE-2017-2666)	<img alt="forks" src="https://img.shields.io/github/forks/tafamace/CVE-2017-2666">	<img alt="stars" src="https://img.shields.io/github/stars/tafamace/CVE-2017-2666">
 
 ---
 ## CVE-2017-2649 ()
 > 
 - [andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable](https://github.com/andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-2649-active-directory-plugin-vulnerable">
+
+---
+## CVE-2017-2636 ()
+> 
+- [alexzorin/cve-2017-2636-el](https://github.com/alexzorin/cve-2017-2636-el)	<img alt="forks" src="https://img.shields.io/github/forks/alexzorin/cve-2017-2636-el">	<img alt="stars" src="https://img.shields.io/github/stars/alexzorin/cve-2017-2636-el">
 
 ---
 ## CVE-2017-2619 (2018-03-12T15:29:00)
@@ -878,6 +1441,29 @@
 ## CVE-2017-2599 (2018-04-11T16:29:00)
 > Jenkins before versions 2.44 and 2.32.2 is vulnerable to an insufficient permission check. This allows users with permissions to create new items (e.g. jobs) to overwrite existing items they don't have access to (SECURITY-321).
 - [Live-Hack-CVE/CVE-2017-2599](https://github.com/Live-Hack-CVE/CVE-2017-2599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-2599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-2599">
+
+---
+## CVE-2017-2388 ()
+> 
+- [bazad/IOFireWireFamily-null-deref](https://github.com/bazad/IOFireWireFamily-null-deref)	<img alt="forks" src="https://img.shields.io/github/forks/bazad/IOFireWireFamily-null-deref">	<img alt="stars" src="https://img.shields.io/github/stars/bazad/IOFireWireFamily-null-deref">
+
+---
+## CVE-2017-2370 ()
+> 
+- [maximehip/extra_recipe](https://github.com/maximehip/extra_recipe)	<img alt="forks" src="https://img.shields.io/github/forks/maximehip/extra_recipe">	<img alt="stars" src="https://img.shields.io/github/stars/maximehip/extra_recipe">
+- [ldebug/extra_recipe](https://github.com/ldebug/extra_recipe)	<img alt="forks" src="https://img.shields.io/github/forks/ldebug/extra_recipe">	<img alt="stars" src="https://img.shields.io/github/stars/ldebug/extra_recipe">
+- [Rootkitsmm-zz/extra_recipe-iOS-10.2](https://github.com/Rootkitsmm-zz/extra_recipe-iOS-10.2)	<img alt="forks" src="https://img.shields.io/github/forks/Rootkitsmm-zz/extra_recipe-iOS-10.2">	<img alt="stars" src="https://img.shields.io/github/stars/Rootkitsmm-zz/extra_recipe-iOS-10.2">
+- [Peterpan0927/CVE-2017-2370](https://github.com/Peterpan0927/CVE-2017-2370)	<img alt="forks" src="https://img.shields.io/github/forks/Peterpan0927/CVE-2017-2370">	<img alt="stars" src="https://img.shields.io/github/stars/Peterpan0927/CVE-2017-2370">
+
+---
+## CVE-2017-2368 ()
+> 
+- [vincedes3/CVE-2017-2368](https://github.com/vincedes3/CVE-2017-2368)	<img alt="forks" src="https://img.shields.io/github/forks/vincedes3/CVE-2017-2368">	<img alt="stars" src="https://img.shields.io/github/stars/vincedes3/CVE-2017-2368">
+
+---
+## CVE-2017-20251 ()
+> 
+- [Polosss/By-Poloss..-..CVE-2017-20251](https://github.com/Polosss/By-Poloss..-..CVE-2017-20251)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2017-20251">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2017-20251">
 
 ---
 ## CVE-2017-2024 ()
@@ -949,6 +1535,7 @@
 ## CVE-2017-20165 (2023-01-09T10:15:00)
 > A vulnerability classified as problematic has been found in debug-js debug up to 3.0.x. This affects the function useColors of the file src/node.js. The manipulation of the argument str leads to inefficient regular expression complexity. Upgrading to version 3.1.0 is able to address this issue. The name of the patch is c38a0166c266a679c8de012d4eaccec3f944e685. It is recommended to upgrade the affected component. The identifier VDB-217665 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2017-20165](https://github.com/Live-Hack-CVE/CVE-2017-20165)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20165">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20165">
+- [fastify/send](https://github.com/fastify/send)	<img alt="forks" src="https://img.shields.io/github/forks/fastify/send">	<img alt="stars" src="https://img.shields.io/github/stars/fastify/send">
 
 ---
 ## CVE-2017-20164 (2023-01-07T20:15:00)
@@ -1042,6 +1629,11 @@
 - [Live-Hack-CVE/CVE-2017-18926](https://github.com/Live-Hack-CVE/CVE-2017-18926)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18926">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18926">
 
 ---
+## CVE-2017-18635 ()
+> 
+- [ShielderSec/CVE-2017-18635](https://github.com/ShielderSec/CVE-2017-18635)	<img alt="forks" src="https://img.shields.io/github/forks/ShielderSec/CVE-2017-18635">	<img alt="stars" src="https://img.shields.io/github/stars/ShielderSec/CVE-2017-18635">
+
+---
 ## CVE-2017-18540 (2019-08-21T12:15:00)
 > The weblibrarian plugin before 3.4.8.7 for WordPress has XSS via front-end short codes.
 - [Live-Hack-CVE/CVE-2017-18540](https://github.com/Live-Hack-CVE/CVE-2017-18540)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18540">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18540">
@@ -1057,6 +1649,11 @@
 - [Live-Hack-CVE/CVE-2017-18538](https://github.com/Live-Hack-CVE/CVE-2017-18538)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18538">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18538">
 
 ---
+## CVE-2017-18486 ()
+> 
+- [Kc57/JitBit_Helpdesk_Auth_Bypass](https://github.com/Kc57/JitBit_Helpdesk_Auth_Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/Kc57/JitBit_Helpdesk_Auth_Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/Kc57/JitBit_Helpdesk_Auth_Bypass">
+
+---
 ## CVE-2017-18362 ()
 > 
 - [yawningmoney/CVE-2017-18362-LAB](https://github.com/yawningmoney/CVE-2017-18362-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/yawningmoney/CVE-2017-18362-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/yawningmoney/CVE-2017-18362-LAB">
@@ -1065,6 +1662,12 @@
 ## CVE-2017-18349 ()
 > 
 - [Dungsocool/CVE-2017-18349](https://github.com/Dungsocool/CVE-2017-18349)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-18349">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-18349">
+- [h0cksr/Fastjson--CVE-2017-18349-](https://github.com/h0cksr/Fastjson--CVE-2017-18349-)	<img alt="forks" src="https://img.shields.io/github/forks/h0cksr/Fastjson--CVE-2017-18349-">	<img alt="stars" src="https://img.shields.io/github/stars/h0cksr/Fastjson--CVE-2017-18349-">
+
+---
+## CVE-2017-18345 ()
+> 
+- [Luth1er/CVE-2017-18345-COM_JOOMANAGER-ARBITRARY-FILE-DOWNLOAD](https://github.com/Luth1er/CVE-2017-18345-COM_JOOMANAGER-ARBITRARY-FILE-DOWNLOAD)	<img alt="forks" src="https://img.shields.io/github/forks/Luth1er/CVE-2017-18345-COM_JOOMANAGER-ARBITRARY-FILE-DOWNLOAD">	<img alt="stars" src="https://img.shields.io/github/stars/Luth1er/CVE-2017-18345-COM_JOOMANAGER-ARBITRARY-FILE-DOWNLOAD">
 
 ---
 ## CVE-2017-18079 (2018-01-29T05:29:00)
@@ -1075,6 +1678,11 @@
 ## CVE-2017-18075 (2018-01-24T10:29:00)
 > crypto/pcrypt.c in the Linux kernel before 4.14.13 mishandles freeing instances, allowing a local user able to access the AF_ALG-based AEAD interface (CONFIG_CRYPTO_USER_API_AEAD) and pcrypt (CONFIG_CRYPTO_PCRYPT) to cause a denial of service (kfree of an incorrect pointer) or possibly have unspecified other impact by executing a crafted sequence of system calls.
 - [Live-Hack-CVE/CVE-2017-18075](https://github.com/Live-Hack-CVE/CVE-2017-18075)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-18075">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-18075">
+
+---
+## CVE-2017-18044 ()
+> 
+- [securifera/CVE-2017-18044-Exploit](https://github.com/securifera/CVE-2017-18044-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/securifera/CVE-2017-18044-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/securifera/CVE-2017-18044-Exploit">
 
 ---
 ## CVE-2017-18019 (2018-01-04T04:29:00)
@@ -1143,9 +1751,23 @@
 - [0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736](https://github.com/0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736)	<img alt="forks" src="https://img.shields.io/github/forks/0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736">	<img alt="stars" src="https://img.shields.io/github/stars/0xSojalSec/Nuclei-TemplatesNuclei-Templates-CVE-2017-17736">
 
 ---
+## CVE-2017-17692 ()
+> 
+- [specloli/CVE-2017-17692](https://github.com/specloli/CVE-2017-17692)	<img alt="forks" src="https://img.shields.io/github/forks/specloli/CVE-2017-17692">	<img alt="stars" src="https://img.shields.io/github/stars/specloli/CVE-2017-17692">
+
+---
 ## CVE-2017-17669 (2017-12-13T22:29:00)
 > There is a heap-based buffer over-read in the Exiv2::Internal::PngChunk::keyTXTChunk function of pngchunk_int.cpp in Exiv2 0.26. A crafted PNG file will lead to a remote denial of service attack.
 - [Live-Hack-CVE/CVE-2017-17669](https://github.com/Live-Hack-CVE/CVE-2017-17669)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-17669">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-17669">
+
+---
+## CVE-2017-17562 ()
+> 
+- [1337g/CVE-2017-17562](https://github.com/1337g/CVE-2017-17562)	<img alt="forks" src="https://img.shields.io/github/forks/1337g/CVE-2017-17562">	<img alt="stars" src="https://img.shields.io/github/stars/1337g/CVE-2017-17562">
+- [ivanitlearning/CVE-2017-17562](https://github.com/ivanitlearning/CVE-2017-17562)	<img alt="forks" src="https://img.shields.io/github/forks/ivanitlearning/CVE-2017-17562">	<img alt="stars" src="https://img.shields.io/github/stars/ivanitlearning/CVE-2017-17562">
+- [crispy-peppers/Goahead-CVE-2017-17562](https://github.com/crispy-peppers/Goahead-CVE-2017-17562)	<img alt="forks" src="https://img.shields.io/github/forks/crispy-peppers/Goahead-CVE-2017-17562">	<img alt="stars" src="https://img.shields.io/github/stars/crispy-peppers/Goahead-CVE-2017-17562">
+- [nu11pointer/goahead-rce-exploit](https://github.com/nu11pointer/goahead-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nu11pointer/goahead-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nu11pointer/goahead-rce-exploit">
+- [joaomagfreitas/bash-CVE-2017-17562](https://github.com/joaomagfreitas/bash-CVE-2017-17562)	<img alt="forks" src="https://img.shields.io/github/forks/joaomagfreitas/bash-CVE-2017-17562">	<img alt="stars" src="https://img.shields.io/github/stars/joaomagfreitas/bash-CVE-2017-17562">
 
 ---
 ## CVE-2017-17485 (2018-01-10T18:29:00)
@@ -1165,6 +1787,21 @@
 - [wilfred-wulbou/HG532d-RCE-Exploit](https://github.com/wilfred-wulbou/HG532d-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/wilfred-wulbou/HG532d-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/wilfred-wulbou/HG532d-RCE-Exploit">
 - [1337g/CVE-2017-17215](https://github.com/1337g/CVE-2017-17215)	<img alt="forks" src="https://img.shields.io/github/forks/1337g/CVE-2017-17215">	<img alt="stars" src="https://img.shields.io/github/stars/1337g/CVE-2017-17215">
 - [pespir/Cve-2017-17215](https://github.com/pespir/Cve-2017-17215)	<img alt="forks" src="https://img.shields.io/github/forks/pespir/Cve-2017-17215">	<img alt="stars" src="https://img.shields.io/github/stars/pespir/Cve-2017-17215">
+
+---
+## CVE-2017-17099 ()
+> 
+- [wetw0rk/Exploit-Development](https://github.com/wetw0rk/Exploit-Development)	<img alt="forks" src="https://img.shields.io/github/forks/wetw0rk/Exploit-Development">	<img alt="stars" src="https://img.shields.io/github/stars/wetw0rk/Exploit-Development">
+
+---
+## CVE-2017-17058 ()
+> 
+- [fu2x2000/CVE-2017-17058-woo_exploit](https://github.com/fu2x2000/CVE-2017-17058-woo_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/fu2x2000/CVE-2017-17058-woo_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/fu2x2000/CVE-2017-17058-woo_exploit">
+
+---
+## CVE-2017-16997 ()
+> 
+- [Xiami2012/CVE-2017-16997-poc](https://github.com/Xiami2012/CVE-2017-16997-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Xiami2012/CVE-2017-16997-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Xiami2012/CVE-2017-16997-poc">
 
 ---
 ## CVE-2017-16995 (2017-12-27T17:08:00)
@@ -1192,6 +1829,26 @@
 - [jedai47/CVE-2017-16994](https://github.com/jedai47/CVE-2017-16994)	<img alt="forks" src="https://img.shields.io/github/forks/jedai47/CVE-2017-16994">	<img alt="stars" src="https://img.shields.io/github/stars/jedai47/CVE-2017-16994">
 
 ---
+## CVE-2017-16943 ()
+> 
+- [beraphin/CVE-2017-16943](https://github.com/beraphin/CVE-2017-16943)	<img alt="forks" src="https://img.shields.io/github/forks/beraphin/CVE-2017-16943">	<img alt="stars" src="https://img.shields.io/github/stars/beraphin/CVE-2017-16943">
+
+---
+## CVE-2017-16921 ()
+> 
+- [Smarttfoxx/OTRS-4.0.1-6.0.1-Remote-Command-Execution](https://github.com/Smarttfoxx/OTRS-4.0.1-6.0.1-Remote-Command-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/Smarttfoxx/OTRS-4.0.1-6.0.1-Remote-Command-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/Smarttfoxx/OTRS-4.0.1-6.0.1-Remote-Command-Execution">
+
+---
+## CVE-2017-16806 ()
+> 
+- [rickoooooo/ulteriusExploit](https://github.com/rickoooooo/ulteriusExploit)	<img alt="forks" src="https://img.shields.io/github/forks/rickoooooo/ulteriusExploit">	<img alt="stars" src="https://img.shields.io/github/stars/rickoooooo/ulteriusExploit">
+
+---
+## CVE-2017-16778 ()
+> 
+- [breaktoprotect/CVE-2017-16778-Intercom-DTMF-Injection](https://github.com/breaktoprotect/CVE-2017-16778-Intercom-DTMF-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/breaktoprotect/CVE-2017-16778-Intercom-DTMF-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/breaktoprotect/CVE-2017-16778-Intercom-DTMF-Injection">
+
+---
 ## CVE-2017-16744 (2018-08-20T21:29:00)
 > A path traversal vulnerability in Tridium Niagara AX Versions 3.8 and prior and Niagara 4 systems Versions 4.4 and prior installed on Microsoft Windows Systems can be exploited by leveraging valid platform (administrator) credentials.
 - [GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara](https://github.com/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara)	<img alt="forks" src="https://img.shields.io/github/forks/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">	<img alt="stars" src="https://img.shields.io/github/stars/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara">
@@ -1207,6 +1864,32 @@
 - [sephiroth950911/CVE-2017-16651-Exploit](https://github.com/sephiroth950911/CVE-2017-16651-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sephiroth950911/CVE-2017-16651-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sephiroth950911/CVE-2017-16651-Exploit">
 - [ropbear/CVE-2017-16651](https://github.com/ropbear/CVE-2017-16651)	<img alt="forks" src="https://img.shields.io/github/forks/ropbear/CVE-2017-16651">	<img alt="stars" src="https://img.shields.io/github/stars/ropbear/CVE-2017-16651">
 - [starnightcyber/Exploit-Database-For-Webmail](https://github.com/starnightcyber/Exploit-Database-For-Webmail)	<img alt="forks" src="https://img.shields.io/github/forks/starnightcyber/Exploit-Database-For-Webmail">	<img alt="stars" src="https://img.shields.io/github/stars/starnightcyber/Exploit-Database-For-Webmail">
+
+---
+## CVE-2017-16568 ()
+> 
+- [dewankpant/CVE-2017-16568](https://github.com/dewankpant/CVE-2017-16568)	<img alt="forks" src="https://img.shields.io/github/forks/dewankpant/CVE-2017-16568">	<img alt="stars" src="https://img.shields.io/github/stars/dewankpant/CVE-2017-16568">
+
+---
+## CVE-2017-16567 ()
+> 
+- [dewankpant/CVE-2017-16567](https://github.com/dewankpant/CVE-2017-16567)	<img alt="forks" src="https://img.shields.io/github/forks/dewankpant/CVE-2017-16567">	<img alt="stars" src="https://img.shields.io/github/stars/dewankpant/CVE-2017-16567">
+
+---
+## CVE-2017-16541 ()
+> 
+- [Ethan-Chen-uwo/A-breif-introduction-of-CVE-2017-16541](https://github.com/Ethan-Chen-uwo/A-breif-introduction-of-CVE-2017-16541)	<img alt="forks" src="https://img.shields.io/github/forks/Ethan-Chen-uwo/A-breif-introduction-of-CVE-2017-16541">	<img alt="stars" src="https://img.shields.io/github/stars/Ethan-Chen-uwo/A-breif-introduction-of-CVE-2017-16541">
+
+---
+## CVE-2017-16524 ()
+> 
+- [realistic-security/CVE-2017-16524](https://github.com/realistic-security/CVE-2017-16524)	<img alt="forks" src="https://img.shields.io/github/forks/realistic-security/CVE-2017-16524">	<img alt="stars" src="https://img.shields.io/github/stars/realistic-security/CVE-2017-16524">
+
+---
+## CVE-2017-1635 ()
+> 
+- [emcalv/tivoli-poc](https://github.com/emcalv/tivoli-poc)	<img alt="forks" src="https://img.shields.io/github/forks/emcalv/tivoli-poc">	<img alt="stars" src="https://img.shields.io/github/stars/emcalv/tivoli-poc">
+- [bcdannyboy/cve-2017-1635-PoC](https://github.com/bcdannyboy/cve-2017-1635-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/bcdannyboy/cve-2017-1635-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/bcdannyboy/cve-2017-1635-PoC">
 
 ---
 ## CVE-2017-16349 (2018-08-02T19:29:00)
@@ -1529,9 +2212,47 @@
 - [Live-Hack-CVE/CVE-2017-16256](https://github.com/Live-Hack-CVE/CVE-2017-16256)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-16256">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-16256">
 
 ---
+## CVE-2017-16245 ()
+> 
+- [AOCorsaire/CVE-2017-16245](https://github.com/AOCorsaire/CVE-2017-16245)	<img alt="forks" src="https://img.shields.io/github/forks/AOCorsaire/CVE-2017-16245">	<img alt="stars" src="https://img.shields.io/github/stars/AOCorsaire/CVE-2017-16245">
+
+---
+## CVE-2017-16088 ()
+> 
+- [Flyy-yu/CVE-2017-16088](https://github.com/Flyy-yu/CVE-2017-16088)	<img alt="forks" src="https://img.shields.io/github/forks/Flyy-yu/CVE-2017-16088">	<img alt="stars" src="https://img.shields.io/github/stars/Flyy-yu/CVE-2017-16088">
+
+---
+## CVE-2017-16082 ()
+> 
+- [nulldreams/CVE-2017-16082](https://github.com/nulldreams/CVE-2017-16082)	<img alt="forks" src="https://img.shields.io/github/forks/nulldreams/CVE-2017-16082">	<img alt="stars" src="https://img.shields.io/github/stars/nulldreams/CVE-2017-16082">
+
+---
+## CVE-2017-15950 ()
+> 
+- [rnnsz/CVE-2017-15950](https://github.com/rnnsz/CVE-2017-15950)	<img alt="forks" src="https://img.shields.io/github/forks/rnnsz/CVE-2017-15950">	<img alt="stars" src="https://img.shields.io/github/stars/rnnsz/CVE-2017-15950">
+
+---
+## CVE-2017-15944 ()
+> 
+- [xxnbyy/CVE-2017-15944-POC](https://github.com/xxnbyy/CVE-2017-15944-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xxnbyy/CVE-2017-15944-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xxnbyy/CVE-2017-15944-POC">
+- [surajraghuvanshi/PaloAltoRceDetectionAndExploit](https://github.com/surajraghuvanshi/PaloAltoRceDetectionAndExploit)	<img alt="forks" src="https://img.shields.io/github/forks/surajraghuvanshi/PaloAltoRceDetectionAndExploit">	<img alt="stars" src="https://img.shields.io/github/stars/surajraghuvanshi/PaloAltoRceDetectionAndExploit">
+- [yukar1z0e/CVE-2017-15944](https://github.com/yukar1z0e/CVE-2017-15944)	<img alt="forks" src="https://img.shields.io/github/forks/yukar1z0e/CVE-2017-15944">	<img alt="stars" src="https://img.shields.io/github/stars/yukar1z0e/CVE-2017-15944">
+- [P4x1s/PaloAlto_EXP](https://github.com/P4x1s/PaloAlto_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/P4x1s/PaloAlto_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/P4x1s/PaloAlto_EXP">
+
+---
 ## CVE-2017-15896 (2017-12-11T21:29:00)
 > Node.js was affected by OpenSSL vulnerability CVE-2017-3737 in regards to the use of SSL_read() due to TLS handshake failure. The result was that an active network attacker could send application data to Node.js using the TLS or HTTP2 modules in a way that bypassed TLS authentication and encryption.
 - [Live-Hack-CVE/CVE-2017-15896](https://github.com/Live-Hack-CVE/CVE-2017-15896)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-15896">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-15896">
+
+---
+## CVE-2017-15715 ()
+> 
+- [whisp1830/CVE-2017-15715](https://github.com/whisp1830/CVE-2017-15715)	<img alt="forks" src="https://img.shields.io/github/forks/whisp1830/CVE-2017-15715">	<img alt="stars" src="https://img.shields.io/github/stars/whisp1830/CVE-2017-15715">
+
+---
+## CVE-2017-15708 ()
+> 
+- [HuSoul/CVE-2017-15708](https://github.com/HuSoul/CVE-2017-15708)	<img alt="forks" src="https://img.shields.io/github/forks/HuSoul/CVE-2017-15708">	<img alt="stars" src="https://img.shields.io/github/stars/HuSoul/CVE-2017-15708">
 
 ---
 ## CVE-2017-15700 ()
@@ -1549,6 +2270,11 @@
 - [Michelangelo-S/CVE-2017-15428](https://github.com/Michelangelo-S/CVE-2017-15428)	<img alt="forks" src="https://img.shields.io/github/forks/Michelangelo-S/CVE-2017-15428">	<img alt="stars" src="https://img.shields.io/github/stars/Michelangelo-S/CVE-2017-15428">
 
 ---
+## CVE-2017-15394 ()
+> 
+- [sudosammy/CVE-2017-15394](https://github.com/sudosammy/CVE-2017-15394)	<img alt="forks" src="https://img.shields.io/github/forks/sudosammy/CVE-2017-15394">	<img alt="stars" src="https://img.shields.io/github/stars/sudosammy/CVE-2017-15394">
+
+---
 ## CVE-2017-15361 (2017-10-16T17:29:00)
 > The Infineon RSA library 1.02.013 in Infineon Trusted Platform Module (TPM) firmware, such as versions before 0000000000000422 - 4.34, before 000000000000062b - 6.43, and before 0000000000008521 - 133.33, mishandles RSA key generation, which makes it easier for attackers to defeat various cryptographic protection mechanisms via targeted attacks, aka ROCA. Examples of affected technologies include BitLocker with TPM 1.2, YubiKey 4 (before 4.3.5) PGP key generation, and the Cached User Data encryption feature in Chrome OS.
 - [Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361](https://github.com/Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361)	<img alt="forks" src="https://img.shields.io/github/forks/Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361">	<img alt="stars" src="https://img.shields.io/github/stars/Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361">
@@ -1561,9 +2287,24 @@
 - [lva/Infineon-CVE-2017-15361](https://github.com/lva/Infineon-CVE-2017-15361)	<img alt="forks" src="https://img.shields.io/github/forks/lva/Infineon-CVE-2017-15361">	<img alt="stars" src="https://img.shields.io/github/stars/lva/Infineon-CVE-2017-15361">
 
 ---
+## CVE-2017-15303 ()
+> 
+- [hfiref0x/Stryker](https://github.com/hfiref0x/Stryker)	<img alt="forks" src="https://img.shields.io/github/forks/hfiref0x/Stryker">	<img alt="stars" src="https://img.shields.io/github/stars/hfiref0x/Stryker">
+
+---
+## CVE-2017-15277 ()
+> 
+- [hexrom/ImageMagick-CVE-2017-15277](https://github.com/hexrom/ImageMagick-CVE-2017-15277)	<img alt="forks" src="https://img.shields.io/github/forks/hexrom/ImageMagick-CVE-2017-15277">	<img alt="stars" src="https://img.shields.io/github/stars/hexrom/ImageMagick-CVE-2017-15277">
+
+---
 ## CVE-2017-15220 ()
 > 
 - [vasilerevnic/CVE-2017-15220-vxsearch-rce](https://github.com/vasilerevnic/CVE-2017-15220-vxsearch-rce)	<img alt="forks" src="https://img.shields.io/github/forks/vasilerevnic/CVE-2017-15220-vxsearch-rce">	<img alt="stars" src="https://img.shields.io/github/stars/vasilerevnic/CVE-2017-15220-vxsearch-rce">
+
+---
+## CVE-2017-15120 ()
+> 
+- [shutingrz/CVE-2017-15120_PoC](https://github.com/shutingrz/CVE-2017-15120_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/shutingrz/CVE-2017-15120_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/shutingrz/CVE-2017-15120_PoC">
 
 ---
 ## CVE-2017-15108 (2018-01-20T00:29:00)
@@ -1599,6 +2340,16 @@
 - [ahmedmamdouh6/CVE-2017-14980](https://github.com/ahmedmamdouh6/CVE-2017-14980)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedmamdouh6/CVE-2017-14980">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedmamdouh6/CVE-2017-14980">
 
 ---
+## CVE-2017-14954 ()
+> 
+- [echo-devim/exploit_linux_kernel4.13](https://github.com/echo-devim/exploit_linux_kernel4.13)	<img alt="forks" src="https://img.shields.io/github/forks/echo-devim/exploit_linux_kernel4.13">	<img alt="stars" src="https://img.shields.io/github/stars/echo-devim/exploit_linux_kernel4.13">
+
+---
+## CVE-2017-14948 ()
+> 
+- [badnack/d_link_880_bug](https://github.com/badnack/d_link_880_bug)	<img alt="forks" src="https://img.shields.io/github/forks/badnack/d_link_880_bug">	<img alt="stars" src="https://img.shields.io/github/stars/badnack/d_link_880_bug">
+
+---
 ## CVE-2017-14864 (2017-09-29T01:34:00)
 > An Invalid memory address dereference was discovered in Exiv2::getULong in types.cpp in Exiv2 0.26. The vulnerability causes a segmentation fault and application crash, which leads to denial of service.
 - [Live-Hack-CVE/CVE-2017-14864](https://github.com/Live-Hack-CVE/CVE-2017-14864)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14864">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14864">
@@ -1617,6 +2368,21 @@
 ## CVE-2017-14735 ()
 > 
 - [shoucheng3/nahsra__antisamy_CVE-2017-14735_1-5-6](https://github.com/shoucheng3/nahsra__antisamy_CVE-2017-14735_1-5-6)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/nahsra__antisamy_CVE-2017-14735_1-5-6">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/nahsra__antisamy_CVE-2017-14735_1-5-6">
+
+---
+## CVE-2017-14719 ()
+> 
+- [PalmTreeForest/CodePath_Week_7-8](https://github.com/PalmTreeForest/CodePath_Week_7-8)	<img alt="forks" src="https://img.shields.io/github/forks/PalmTreeForest/CodePath_Week_7-8">	<img alt="stars" src="https://img.shields.io/github/stars/PalmTreeForest/CodePath_Week_7-8">
+
+---
+## CVE-2017-14493 ()
+> 
+- [pupiles/bof-dnsmasq-cve-2017-14493](https://github.com/pupiles/bof-dnsmasq-cve-2017-14493)	<img alt="forks" src="https://img.shields.io/github/forks/pupiles/bof-dnsmasq-cve-2017-14493">	<img alt="stars" src="https://img.shields.io/github/stars/pupiles/bof-dnsmasq-cve-2017-14493">
+
+---
+## CVE-2017-14491 ()
+> 
+- [skyformat99/dnsmasq-2.4.1-fix-CVE-2017-14491](https://github.com/skyformat99/dnsmasq-2.4.1-fix-CVE-2017-14491)	<img alt="forks" src="https://img.shields.io/github/forks/skyformat99/dnsmasq-2.4.1-fix-CVE-2017-14491">	<img alt="stars" src="https://img.shields.io/github/stars/skyformat99/dnsmasq-2.4.1-fix-CVE-2017-14491">
 
 ---
 ## CVE-2017-14481 (2018-05-09T20:29:00)
@@ -1689,10 +2455,30 @@
 - [Live-Hack-CVE/CVE-2017-14432](https://github.com/Live-Hack-CVE/CVE-2017-14432)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14432">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14432">
 
 ---
+## CVE-2017-14322 ()
+> 
+- [joesmithjaffa/CVE-2017-14322](https://github.com/joesmithjaffa/CVE-2017-14322)	<img alt="forks" src="https://img.shields.io/github/forks/joesmithjaffa/CVE-2017-14322">	<img alt="stars" src="https://img.shields.io/github/stars/joesmithjaffa/CVE-2017-14322">
+
+---
+## CVE-2017-14263 ()
+> 
+- [zzz66686/CVE-2017-14263](https://github.com/zzz66686/CVE-2017-14263)	<img alt="forks" src="https://img.shields.io/github/forks/zzz66686/CVE-2017-14263">	<img alt="stars" src="https://img.shields.io/github/stars/zzz66686/CVE-2017-14263">
+
+---
+## CVE-2017-14262 ()
+> 
+- [zzz66686/CVE-2017-14262](https://github.com/zzz66686/CVE-2017-14262)	<img alt="forks" src="https://img.shields.io/github/forks/zzz66686/CVE-2017-14262">	<img alt="stars" src="https://img.shields.io/github/stars/zzz66686/CVE-2017-14262">
+
+---
 ## CVE-2017-14187 ()
 > 
 - [0xSIGILL/CVE-2017-14187_PoC_ARMv7](https://github.com/0xSIGILL/CVE-2017-14187_PoC_ARMv7)	<img alt="forks" src="https://img.shields.io/github/forks/0xSIGILL/CVE-2017-14187_PoC_ARMv7">	<img alt="stars" src="https://img.shields.io/github/stars/0xSIGILL/CVE-2017-14187_PoC_ARMv7">
 - [0xSIGILL/CVE-2017-14187_PoC_ARMv7](https://github.com/0xSIGILL/CVE-2017-14187_PoC_ARMv7)	<img alt="forks" src="https://img.shields.io/github/forks/0xSIGILL/CVE-2017-14187_PoC_ARMv7">	<img alt="stars" src="https://img.shields.io/github/stars/0xSIGILL/CVE-2017-14187_PoC_ARMv7">
+
+---
+## CVE-2017-14105 ()
+> 
+- [theguly/CVE-2017-14105](https://github.com/theguly/CVE-2017-14105)	<img alt="forks" src="https://img.shields.io/github/forks/theguly/CVE-2017-14105">	<img alt="stars" src="https://img.shields.io/github/stars/theguly/CVE-2017-14105">
 
 ---
 ## CVE-2017-14063 ()
@@ -1700,9 +2486,34 @@
 - [andikahilmy/CVE-2017-14063-async-http-client-vulnerable](https://github.com/andikahilmy/CVE-2017-14063-async-http-client-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-14063-async-http-client-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-14063-async-http-client-vulnerable">
 
 ---
+## CVE-2017-13872 ()
+> 
+- [giovannidispoto/CVE-2017-13872-Patch](https://github.com/giovannidispoto/CVE-2017-13872-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/giovannidispoto/CVE-2017-13872-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/giovannidispoto/CVE-2017-13872-Patch">
+
+---
+## CVE-2017-13868 ()
+> 
+- [bazad/ctl_ctloutput-leak](https://github.com/bazad/ctl_ctloutput-leak)	<img alt="forks" src="https://img.shields.io/github/forks/bazad/ctl_ctloutput-leak">	<img alt="stars" src="https://img.shields.io/github/stars/bazad/ctl_ctloutput-leak">
+
+---
+## CVE-2017-13672 ()
+> 
+- [DavidBuchanan314/CVE-2017-13672](https://github.com/DavidBuchanan314/CVE-2017-13672)	<img alt="forks" src="https://img.shields.io/github/forks/DavidBuchanan314/CVE-2017-13672">	<img alt="stars" src="https://img.shields.io/github/stars/DavidBuchanan314/CVE-2017-13672">
+
+---
 ## CVE-2017-13286 (2018-04-04T16:29:00)
 > In writeToParcel and readFromParcel of OutputConfiguration.java, there is a permission bypass due to mismatched serialization. This could lead to a local escalation of privilege where the user can start an activity with system privileges, with no additional execution privileges needed. User interaction is not needed for exploitation. Product: Android. Versions: 8.0, 8.1. Android ID: A-69683251.
 - [UmVfX1BvaW50/CVE-2017-13286](https://github.com/UmVfX1BvaW50/CVE-2017-13286)	<img alt="forks" src="https://img.shields.io/github/forks/UmVfX1BvaW50/CVE-2017-13286">	<img alt="stars" src="https://img.shields.io/github/stars/UmVfX1BvaW50/CVE-2017-13286">
+
+---
+## CVE-2017-13253 ()
+> 
+- [tamirzb/CVE-2017-13253](https://github.com/tamirzb/CVE-2017-13253)	<img alt="forks" src="https://img.shields.io/github/forks/tamirzb/CVE-2017-13253">	<img alt="stars" src="https://img.shields.io/github/stars/tamirzb/CVE-2017-13253">
+
+---
+## CVE-2017-13208 ()
+> 
+- [idanshechter/CVE-2017-13208-Scanner](https://github.com/idanshechter/CVE-2017-13208-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/idanshechter/CVE-2017-13208-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/idanshechter/CVE-2017-13208-Scanner">
 
 ---
 ## CVE-2017-13156 (2017-12-06T14:29:00)
@@ -1715,6 +2526,44 @@
 - [giacomoferretti/janus-toolkit](https://github.com/giacomoferretti/janus-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/giacomoferretti/janus-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/giacomoferretti/janus-toolkit">
 - [caxmd/CVE-2017-13156](https://github.com/caxmd/CVE-2017-13156)	<img alt="forks" src="https://img.shields.io/github/forks/caxmd/CVE-2017-13156">	<img alt="stars" src="https://img.shields.io/github/stars/caxmd/CVE-2017-13156">
 - [xyzAsian/Janus-CVE-2017-13156](https://github.com/xyzAsian/Janus-CVE-2017-13156)	<img alt="forks" src="https://img.shields.io/github/forks/xyzAsian/Janus-CVE-2017-13156">	<img alt="stars" src="https://img.shields.io/github/stars/xyzAsian/Janus-CVE-2017-13156">
+- [nictjh/threatDemos](https://github.com/nictjh/threatDemos)	<img alt="forks" src="https://img.shields.io/github/forks/nictjh/threatDemos">	<img alt="stars" src="https://img.shields.io/github/stars/nictjh/threatDemos">
+
+---
+## CVE-2017-13089 ()
+> 
+- [r1b/CVE-2017-13089](https://github.com/r1b/CVE-2017-13089)	<img alt="forks" src="https://img.shields.io/github/forks/r1b/CVE-2017-13089">	<img alt="stars" src="https://img.shields.io/github/stars/r1b/CVE-2017-13089">
+- [mzeyong/CVE-2017-13089](https://github.com/mzeyong/CVE-2017-13089)	<img alt="forks" src="https://img.shields.io/github/forks/mzeyong/CVE-2017-13089">	<img alt="stars" src="https://img.shields.io/github/stars/mzeyong/CVE-2017-13089">
+
+---
+## CVE-2017-13077 ()
+> 
+- [mugheeskhan5/wpa2-zero-hardware-krack-lab](https://github.com/mugheeskhan5/wpa2-zero-hardware-krack-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mugheeskhan5/wpa2-zero-hardware-krack-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mugheeskhan5/wpa2-zero-hardware-krack-lab">
+
+---
+## CVE-2017-12945 ()
+> 
+- [aress31/cve-2017-12945](https://github.com/aress31/cve-2017-12945)	<img alt="forks" src="https://img.shields.io/github/forks/aress31/cve-2017-12945">	<img alt="stars" src="https://img.shields.io/github/stars/aress31/cve-2017-12945">
+
+---
+## CVE-2017-12943 ()
+> 
+- [aymankhalfatni/D-Link](https://github.com/aymankhalfatni/D-Link)	<img alt="forks" src="https://img.shields.io/github/forks/aymankhalfatni/D-Link">	<img alt="stars" src="https://img.shields.io/github/stars/aymankhalfatni/D-Link">
+- [d4rk30/CVE-2017-12943](https://github.com/d4rk30/CVE-2017-12943)	<img alt="forks" src="https://img.shields.io/github/forks/d4rk30/CVE-2017-12943">	<img alt="stars" src="https://img.shields.io/github/stars/d4rk30/CVE-2017-12943">
+
+---
+## CVE-2017-12865 ()
+> 
+- [ManaswiJaiswal/Reproducing-ConnMan-1.34](https://github.com/ManaswiJaiswal/Reproducing-ConnMan-1.34)	<img alt="forks" src="https://img.shields.io/github/forks/ManaswiJaiswal/Reproducing-ConnMan-1.34">	<img alt="stars" src="https://img.shields.io/github/stars/ManaswiJaiswal/Reproducing-ConnMan-1.34">
+
+---
+## CVE-2017-12852 ()
+> 
+- [BT123/numpy-1.13.1](https://github.com/BT123/numpy-1.13.1)	<img alt="forks" src="https://img.shields.io/github/forks/BT123/numpy-1.13.1">	<img alt="stars" src="https://img.shields.io/github/stars/BT123/numpy-1.13.1">
+
+---
+## CVE-2017-12792 ()
+> 
+- [ZZS2017/cve-2017-12792](https://github.com/ZZS2017/cve-2017-12792)	<img alt="forks" src="https://img.shields.io/github/forks/ZZS2017/cve-2017-12792">	<img alt="stars" src="https://img.shields.io/github/stars/ZZS2017/cve-2017-12792">
 
 ---
 ## CVE-2017-12637 ()
@@ -1734,6 +2583,7 @@
 - [Weisant/CVE-2017-12635-POC](https://github.com/Weisant/CVE-2017-12635-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Weisant/CVE-2017-12635-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Weisant/CVE-2017-12635-POC">
 - [cyberharsh/Apache-couchdb-CVE-2017-12635](https://github.com/cyberharsh/Apache-couchdb-CVE-2017-12635)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Apache-couchdb-CVE-2017-12635">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Apache-couchdb-CVE-2017-12635">
 - [assalielmehdi/CVE-2017-12635](https://github.com/assalielmehdi/CVE-2017-12635)	<img alt="forks" src="https://img.shields.io/github/forks/assalielmehdi/CVE-2017-12635">	<img alt="stars" src="https://img.shields.io/github/stars/assalielmehdi/CVE-2017-12635">
+- [Dungsocool/CVE-2017-12635_36](https://github.com/Dungsocool/CVE-2017-12635_36)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-12635_36">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-12635_36">
 
 ---
 ## CVE-2017-12629 ()
@@ -1741,6 +2591,11 @@
 - [captain-woof/cve-2017-12629](https://github.com/captain-woof/cve-2017-12629)	<img alt="forks" src="https://img.shields.io/github/forks/captain-woof/cve-2017-12629">	<img alt="stars" src="https://img.shields.io/github/stars/captain-woof/cve-2017-12629">
 - [tdwyer/PoC_CVE-2017-3164_CVE-2017-1262](https://github.com/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262)	<img alt="forks" src="https://img.shields.io/github/forks/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">	<img alt="stars" src="https://img.shields.io/github/stars/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">
 - [Imanfeng/Apache-Solr-RCE](https://github.com/Imanfeng/Apache-Solr-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Imanfeng/Apache-Solr-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Imanfeng/Apache-Solr-RCE">
+
+---
+## CVE-2017-12624 ()
+> 
+- [tafamace/CVE-2017-12624](https://github.com/tafamace/CVE-2017-12624)	<img alt="forks" src="https://img.shields.io/github/forks/tafamace/CVE-2017-12624">	<img alt="stars" src="https://img.shields.io/github/stars/tafamace/CVE-2017-12624">
 
 ---
 ## CVE-2017-12621 (2017-09-28T01:29:00)
@@ -1807,6 +2662,12 @@
 - [VijayShankar22/CVE-2017-12542](https://github.com/VijayShankar22/CVE-2017-12542)	<img alt="forks" src="https://img.shields.io/github/forks/VijayShankar22/CVE-2017-12542">	<img alt="stars" src="https://img.shields.io/github/stars/VijayShankar22/CVE-2017-12542">
 - [sk1dish/ilo4-rce-vuln-scanner](https://github.com/sk1dish/ilo4-rce-vuln-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sk1dish/ilo4-rce-vuln-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sk1dish/ilo4-rce-vuln-scanner">
 - [skelsec/CVE-2017-12542](https://github.com/skelsec/CVE-2017-12542)	<img alt="forks" src="https://img.shields.io/github/forks/skelsec/CVE-2017-12542">	<img alt="stars" src="https://img.shields.io/github/stars/skelsec/CVE-2017-12542">
+- [Gill-Singh-A/CVE-2017-12542-Exploit](https://github.com/Gill-Singh-A/CVE-2017-12542-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Gill-Singh-A/CVE-2017-12542-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Gill-Singh-A/CVE-2017-12542-Exploit">
+
+---
+## CVE-2017-12426 ()
+> 
+- [sm-paul-schuette/CVE-2017-12426](https://github.com/sm-paul-schuette/CVE-2017-12426)	<img alt="forks" src="https://img.shields.io/github/forks/sm-paul-schuette/CVE-2017-12426">	<img alt="stars" src="https://img.shields.io/github/stars/sm-paul-schuette/CVE-2017-12426">
 
 ---
 ## CVE-2017-1235 (2017-09-25T16:29:00)
@@ -1919,6 +2780,11 @@
 - [Live-Hack-CVE/CVE-2017-12082](https://github.com/Live-Hack-CVE/CVE-2017-12082)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-12082">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-12082">
 
 ---
+## CVE-2017-11907 ()
+> 
+- [AV1080p/CVE-2017-11907](https://github.com/AV1080p/CVE-2017-11907)	<img alt="forks" src="https://img.shields.io/github/forks/AV1080p/CVE-2017-11907">	<img alt="stars" src="https://img.shields.io/github/stars/AV1080p/CVE-2017-11907">
+
+---
 ## CVE-2017-11882 (2017-11-15T03:29:00)
 > Microsoft Office 2007 Service Pack 3, Microsoft Office 2010 Service Pack 2, Microsoft Office 2013 Service Pack 1, and Microsoft Office 2016 allow an attacker to run arbitrary code in the context of the current user by failing to properly handle objects in memory, aka "Microsoft Office Memory Corruption Vulnerability". This CVE ID is unique from CVE-2017-11884.
 - [Sunqiz/CVE-2017-11882-reproduction](https://github.com/Sunqiz/CVE-2017-11882-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2017-11882-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2017-11882-reproduction">
@@ -1961,6 +2827,13 @@
 - [imkidz0/CVE-2017-11882](https://github.com/imkidz0/CVE-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/imkidz0/CVE-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/imkidz0/CVE-2017-11882">
 - [DONKEY0xSHOT/CVE-2017-11882-Blocker](https://github.com/DONKEY0xSHOT/CVE-2017-11882-Blocker)	<img alt="forks" src="https://img.shields.io/github/forks/DONKEY0xSHOT/CVE-2017-11882-Blocker">	<img alt="stars" src="https://img.shields.io/github/stars/DONKEY0xSHOT/CVE-2017-11882-Blocker">
 - [futureFfff/CVE-2017](https://github.com/futureFfff/CVE-2017)	<img alt="forks" src="https://img.shields.io/github/forks/futureFfff/CVE-2017">	<img alt="stars" src="https://img.shields.io/github/stars/futureFfff/CVE-2017">
+- [zhouat/cve-2017-11882](https://github.com/zhouat/cve-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/zhouat/cve-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/zhouat/cve-2017-11882">
+- [Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis](https://github.com/Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis">
+
+---
+## CVE-2017-11826 ()
+> 
+- [thatskriptkid/CVE-2017-11826](https://github.com/thatskriptkid/CVE-2017-11826)	<img alt="forks" src="https://img.shields.io/github/forks/thatskriptkid/CVE-2017-11826">	<img alt="stars" src="https://img.shields.io/github/stars/thatskriptkid/CVE-2017-11826">
 
 ---
 ## CVE-2017-1182 ()
@@ -1968,6 +2841,16 @@
 - [Morfeen01/cve-2017-1182-TN](https://github.com/Morfeen01/cve-2017-1182-TN)	<img alt="forks" src="https://img.shields.io/github/forks/Morfeen01/cve-2017-1182-TN">	<img alt="stars" src="https://img.shields.io/github/stars/Morfeen01/cve-2017-1182-TN">
 - [chefphenix25/vuln-rabilit-windows7](https://github.com/chefphenix25/vuln-rabilit-windows7)	<img alt="forks" src="https://img.shields.io/github/forks/chefphenix25/vuln-rabilit-windows7">	<img alt="stars" src="https://img.shields.io/github/stars/chefphenix25/vuln-rabilit-windows7">
 - [thatskriptkid/CVE-2017-11826](https://github.com/thatskriptkid/CVE-2017-11826)	<img alt="forks" src="https://img.shields.io/github/forks/thatskriptkid/CVE-2017-11826">	<img alt="stars" src="https://img.shields.io/github/stars/thatskriptkid/CVE-2017-11826">
+
+---
+## CVE-2017-11783 ()
+> 
+- [Sheisback/CVE-2017-11783](https://github.com/Sheisback/CVE-2017-11783)	<img alt="forks" src="https://img.shields.io/github/forks/Sheisback/CVE-2017-11783">	<img alt="stars" src="https://img.shields.io/github/stars/Sheisback/CVE-2017-11783">
+
+---
+## CVE-2017-11774 ()
+> 
+- [devcoinfet/SniperRoost](https://github.com/devcoinfet/SniperRoost)	<img alt="forks" src="https://img.shields.io/github/forks/devcoinfet/SniperRoost">	<img alt="stars" src="https://img.shields.io/github/stars/devcoinfet/SniperRoost">
 
 ---
 ## CVE-2017-11683 (2017-07-27T06:29:00)
@@ -1985,9 +2868,16 @@
 - [Live-Hack-CVE/CVE-2017-11654](https://github.com/Live-Hack-CVE/CVE-2017-11654)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-11654">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-11654">
 
 ---
+## CVE-2017-11611 ()
+> 
+- [faizzaidi/Wolfcms-v0.8.3.1-xss-POC-by-Provensec-llc](https://github.com/faizzaidi/Wolfcms-v0.8.3.1-xss-POC-by-Provensec-llc)	<img alt="forks" src="https://img.shields.io/github/forks/faizzaidi/Wolfcms-v0.8.3.1-xss-POC-by-Provensec-llc">	<img alt="stars" src="https://img.shields.io/github/stars/faizzaidi/Wolfcms-v0.8.3.1-xss-POC-by-Provensec-llc">
+
+---
 ## CVE-2017-11610 ()
 > 
 - [Dungsocool/CVE-2017-11610](https://github.com/Dungsocool/CVE-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-11610">
+- [ivanitlearning/CVE-2017-11610](https://github.com/ivanitlearning/CVE-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/ivanitlearning/CVE-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/ivanitlearning/CVE-2017-11610">
+- [yaunsky/CVE-2017-11610](https://github.com/yaunsky/CVE-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/CVE-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/CVE-2017-11610">
 
 ---
 ## CVE-2017-11591 (2017-07-24T01:29:00)
@@ -1995,9 +2885,29 @@
 - [Live-Hack-CVE/CVE-2017-11591](https://github.com/Live-Hack-CVE/CVE-2017-11591)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-11591">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-11591">
 
 ---
+## CVE-2017-11519 ()
+> 
+- [vakzz/tplink-CVE-2017-11519](https://github.com/vakzz/tplink-CVE-2017-11519)	<img alt="forks" src="https://img.shields.io/github/forks/vakzz/tplink-CVE-2017-11519">	<img alt="stars" src="https://img.shields.io/github/stars/vakzz/tplink-CVE-2017-11519">
+
+---
+## CVE-2017-11503 ()
+> 
+- [wizardafric/download](https://github.com/wizardafric/download)	<img alt="forks" src="https://img.shields.io/github/forks/wizardafric/download">	<img alt="stars" src="https://img.shields.io/github/stars/wizardafric/download">
+
+---
 ## CVE-2017-11499 ()
 > 
 - [dajneem23/CVE-2017-11499](https://github.com/dajneem23/CVE-2017-11499)	<img alt="forks" src="https://img.shields.io/github/forks/dajneem23/CVE-2017-11499">	<img alt="stars" src="https://img.shields.io/github/stars/dajneem23/CVE-2017-11499">
+
+---
+## CVE-2017-11427 ()
+> 
+- [CHYbeta/CVE-2017-11427-DEMO](https://github.com/CHYbeta/CVE-2017-11427-DEMO)	<img alt="forks" src="https://img.shields.io/github/forks/CHYbeta/CVE-2017-11427-DEMO">	<img alt="stars" src="https://img.shields.io/github/stars/CHYbeta/CVE-2017-11427-DEMO">
+
+---
+## CVE-2017-11366 ()
+> 
+- [lolameroo/Codiad-CVE-2018-14009](https://github.com/lolameroo/Codiad-CVE-2018-14009)	<img alt="forks" src="https://img.shields.io/github/forks/lolameroo/Codiad-CVE-2018-14009">	<img alt="stars" src="https://img.shields.io/github/stars/lolameroo/Codiad-CVE-2018-14009">
 
 ---
 ## CVE-2017-11358 (2017-07-31T13:29:00)
@@ -2036,6 +2946,21 @@
 - [Live-Hack-CVE/CVE-2017-1107](https://github.com/Live-Hack-CVE/CVE-2017-1107)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-1107">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-1107">
 
 ---
+## CVE-2017-10952 ()
+> 
+- [afbase/CVE-2017-10952](https://github.com/afbase/CVE-2017-10952)	<img alt="forks" src="https://img.shields.io/github/forks/afbase/CVE-2017-10952">	<img alt="stars" src="https://img.shields.io/github/stars/afbase/CVE-2017-10952">
+
+---
+## CVE-2017-10797 ()
+> 
+- [n4xh4ck5/CVE-2017-10797](https://github.com/n4xh4ck5/CVE-2017-10797)	<img alt="forks" src="https://img.shields.io/github/forks/n4xh4ck5/CVE-2017-10797">	<img alt="stars" src="https://img.shields.io/github/stars/n4xh4ck5/CVE-2017-10797">
+
+---
+## CVE-2017-10661 ()
+> 
+- [GeneBlue/CVE-2017-10661_POC](https://github.com/GeneBlue/CVE-2017-10661_POC)	<img alt="forks" src="https://img.shields.io/github/forks/GeneBlue/CVE-2017-10661_POC">	<img alt="stars" src="https://img.shields.io/github/stars/GeneBlue/CVE-2017-10661_POC">
+
+---
 ## CVE-2017-10617 (2017-10-13T17:29:00)
 > The ifmap service that comes bundled with Contrail has an XML External Entity (XXE) vulnerability that may allow an attacker to retrieve sensitive system files. Affected releases are Juniper Networks Contrail 2.2 prior to 2.21.4; 3.0 prior to 3.0.3.4; 3.1 prior to 3.1.4.0; 3.2 prior to 3.2.5.0. CVE-2017-10616 and CVE-2017-10617 can be chained together and have a combined CVSSv3 score of 5.8 (AV:N/AC:L/PR:N/UI:N/S:C/C:L/I:N/A:N).
 - [Live-Hack-CVE/CVE-2017-10617](https://github.com/Live-Hack-CVE/CVE-2017-10617)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-10617">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-10617">
@@ -2055,6 +2980,11 @@
 - [Live-Hack-CVE/CVE-2017-10388](https://github.com/Live-Hack-CVE/CVE-2017-10388)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-10388">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-10388">
 
 ---
+## CVE-2017-10366 ()
+> 
+- [blazeinfosec/CVE-2017-10366_peoplesoft](https://github.com/blazeinfosec/CVE-2017-10366_peoplesoft)	<img alt="forks" src="https://img.shields.io/github/forks/blazeinfosec/CVE-2017-10366_peoplesoft">	<img alt="stars" src="https://img.shields.io/github/stars/blazeinfosec/CVE-2017-10366_peoplesoft">
+
+---
 ## CVE-2017-10357 (2017-10-19T17:29:00)
 > Vulnerability in the Java SE, Java SE Embedded component of Oracle Java SE (subcomponent: Serialization). Supported versions that are affected are Java SE: 6u161, 7u151, 8u144 and 9; Java SE Embedded: 8u144. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE, Java SE Embedded. Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Java SE, Java SE Embedded. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets, that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability does not apply to Java deployments, typically in servers, that load and run only trusted code (e.g., code installed by an administrator). CVSS 3.0 Base Score 5.3 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L).
 - [Live-Hack-CVE/CVE-2017-10357](https://github.com/Live-Hack-CVE/CVE-2017-10357)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-10357">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-10357">
@@ -2068,6 +2998,11 @@
 ## CVE-2017-10355 (2017-10-19T17:29:00)
 > Vulnerability in the Java SE, Java SE Embedded, JRockit component of Oracle Java SE (subcomponent: Networking). Supported versions that are affected are Java SE: 6u161, 7u151, 8u144 and 9; Java SE Embedded: 8u144; JRockit: R28.3.15. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE, Java SE Embedded, JRockit. Successful attacks of this vulnerability can result in unauthorized ability to cause a partial denial of service (partial DOS) of Java SE, Java SE Embedded, JRockit. Note: This vulnerability can be exploited through sandboxed Java Web Start applications and sandboxed Java applets. It can also be exploited by supplying data to APIs in the specified Component without using sandboxed Java Web Start applications or sandboxed Java applets, such as through a web service. CVSS 3.0 Base Score 5.3 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L).
 - [Live-Hack-CVE/CVE-2017-10355](https://github.com/Live-Hack-CVE/CVE-2017-10355)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-10355">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-10355">
+
+---
+## CVE-2017-10352 ()
+> 
+- [bigsizeme/weblogic-XMLDecoder](https://github.com/bigsizeme/weblogic-XMLDecoder)	<img alt="forks" src="https://img.shields.io/github/forks/bigsizeme/weblogic-XMLDecoder">	<img alt="stars" src="https://img.shields.io/github/stars/bigsizeme/weblogic-XMLDecoder">
 
 ---
 ## CVE-2017-10350 (2017-10-19T17:29:00)
@@ -2149,6 +3084,7 @@
 - [s3xy/CVE-2017-10271](https://github.com/s3xy/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/s3xy/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/s3xy/CVE-2017-10271">
 - [1337g/CVE-2017-10271](https://github.com/1337g/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/1337g/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/1337g/CVE-2017-10271">
 - [seoyoung-kang/CVE-2017-10271](https://github.com/seoyoung-kang/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/seoyoung-kang/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/seoyoung-kang/CVE-2017-10271">
+- [Dungsocool/CVE-2017-10271](https://github.com/Dungsocool/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-10271">
 
 ---
 ## CVE-2017-10268 (2017-10-19T17:29:00)
@@ -2160,6 +3096,11 @@
 ## CVE-2017-10243 (2017-08-08T15:29:00)
 > Vulnerability in the Java SE, Java SE Embedded, JRockit component of Oracle Java SE (subcomponent: JAX-WS). Supported versions that are affected are Java SE: 6u151, 7u141 and 8u131; Java SE Embedded: 8u131; JRockit: R28.3.14. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE, Java SE Embedded, JRockit. Successful attacks of this vulnerability can result in unauthorized read access to a subset of Java SE, Java SE Embedded, JRockit accessible data and unauthorized ability to cause a partial denial of service (partial DOS) of Java SE, Java SE Embedded, JRockit. Note: This vulnerability can be exploited through sandboxed Java Web Start applications and sandboxed Java applets. It can also be exploited by supplying data to APIs in the specified Component without using sandboxed Java Web Start applications or sandboxed Java applets, such as through a web service. CVSS 3.0 Base Score 6.5 (Confidentiality and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:L).
 - [Live-Hack-CVE/CVE-2017-10243](https://github.com/Live-Hack-CVE/CVE-2017-10243)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-10243">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-10243">
+
+---
+## CVE-2017-10235 ()
+> 
+- [fundacion-sadosky/vbox_cve_2017_10235](https://github.com/fundacion-sadosky/vbox_cve_2017_10235)	<img alt="forks" src="https://img.shields.io/github/forks/fundacion-sadosky/vbox_cve_2017_10235">	<img alt="stars" src="https://img.shields.io/github/stars/fundacion-sadosky/vbox_cve_2017_10235">
 
 ---
 ## CVE-2017-10198 (2017-08-08T15:29:00)
@@ -2237,6 +3178,16 @@
 - [Live-Hack-CVE/CVE-2017-10087](https://github.com/Live-Hack-CVE/CVE-2017-10087)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-10087">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-10087">
 
 ---
+## CVE-2017-1002101 ()
+> 
+- [bgeesaman/subpath-exploit](https://github.com/bgeesaman/subpath-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bgeesaman/subpath-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bgeesaman/subpath-exploit">
+
+---
+## CVE-2017-1000499 ()
+> 
+- [Villaquiranm/5MMISSI-CVE-2017-1000499](https://github.com/Villaquiranm/5MMISSI-CVE-2017-1000499)	<img alt="forks" src="https://img.shields.io/github/forks/Villaquiranm/5MMISSI-CVE-2017-1000499">	<img alt="stars" src="https://img.shields.io/github/stars/Villaquiranm/5MMISSI-CVE-2017-1000499">
+
+---
 ## CVE-2017-1000487 ()
 > 
 - [shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15](https://github.com/shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15">
@@ -2252,6 +3203,16 @@
 - [oppsec/pwnfaces](https://github.com/oppsec/pwnfaces)	<img alt="forks" src="https://img.shields.io/github/forks/oppsec/pwnfaces">	<img alt="stars" src="https://img.shields.io/github/stars/oppsec/pwnfaces">
 - [LongWayHomie/CVE-2017-1000486](https://github.com/LongWayHomie/CVE-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/LongWayHomie/CVE-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/LongWayHomie/CVE-2017-1000486">
 - [jam620/primefaces](https://github.com/jam620/primefaces)	<img alt="forks" src="https://img.shields.io/github/forks/jam620/primefaces">	<img alt="stars" src="https://img.shields.io/github/stars/jam620/primefaces">
+
+---
+## CVE-2017-1000475 ()
+> 
+- [lajarajorge/CVE-2017-1000475](https://github.com/lajarajorge/CVE-2017-1000475)	<img alt="forks" src="https://img.shields.io/github/forks/lajarajorge/CVE-2017-1000475">	<img alt="stars" src="https://img.shields.io/github/stars/lajarajorge/CVE-2017-1000475">
+
+---
+## CVE-2017-1000405 ()
+> 
+- [bindecy/HugeDirtyCowPOC](https://github.com/bindecy/HugeDirtyCowPOC)	<img alt="forks" src="https://img.shields.io/github/forks/bindecy/HugeDirtyCowPOC">	<img alt="stars" src="https://img.shields.io/github/stars/bindecy/HugeDirtyCowPOC">
 
 ---
 ## CVE-2017-1000381 (2017-07-07T17:29:00)
@@ -2302,9 +3263,53 @@
 - [sgxgsx/blueborne-CVE-2017-1000251](https://github.com/sgxgsx/blueborne-CVE-2017-1000251)	<img alt="forks" src="https://img.shields.io/github/forks/sgxgsx/blueborne-CVE-2017-1000251">	<img alt="stars" src="https://img.shields.io/github/stars/sgxgsx/blueborne-CVE-2017-1000251">
 
 ---
+## CVE-2017-1000250 ()
+> 
+- [olav-st/CVE-2017-1000250-PoC](https://github.com/olav-st/CVE-2017-1000250-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/olav-st/CVE-2017-1000250-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/olav-st/CVE-2017-1000250-PoC">
+
+---
 ## CVE-2017-1000209 ()
 > 
 - [andikahilmy/CVE-2017-1000209-nv-websocket-client-vulnerable](https://github.com/andikahilmy/CVE-2017-1000209-nv-websocket-client-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2017-1000209-nv-websocket-client-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2017-1000209-nv-websocket-client-vulnerable">
+
+---
+## CVE-2017-1000170 ()
+> 
+- [Nickguitar/Jquery-File-Tree-1.6.6-Path-Traversal](https://github.com/Nickguitar/Jquery-File-Tree-1.6.6-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/Nickguitar/Jquery-File-Tree-1.6.6-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/Nickguitar/Jquery-File-Tree-1.6.6-Path-Traversal">
+
+---
+## CVE-2017-1000117 ()
+> 
+- [timwr/CVE-2017-1000117](https://github.com/timwr/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/timwr/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/timwr/CVE-2017-1000117">
+- [Manouchehri/CVE-2017-1000117](https://github.com/Manouchehri/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/Manouchehri/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/Manouchehri/CVE-2017-1000117">
+- [thelastbyte/CVE-2017-1000117](https://github.com/thelastbyte/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/thelastbyte/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/thelastbyte/CVE-2017-1000117">
+- [alilangtest/CVE-2017-1000117](https://github.com/alilangtest/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/alilangtest/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/alilangtest/CVE-2017-1000117">
+- [VulApps/CVE-2017-1000117](https://github.com/VulApps/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/VulApps/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/VulApps/CVE-2017-1000117">
+- [greymd/CVE-2017-1000117](https://github.com/greymd/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/greymd/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/greymd/CVE-2017-1000117">
+- [shogo82148/Fix-CVE-2017-1000117](https://github.com/shogo82148/Fix-CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/shogo82148/Fix-CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/shogo82148/Fix-CVE-2017-1000117">
+- [sasairc/CVE-2017-1000117_wasawasa](https://github.com/sasairc/CVE-2017-1000117_wasawasa)	<img alt="forks" src="https://img.shields.io/github/forks/sasairc/CVE-2017-1000117_wasawasa">	<img alt="stars" src="https://img.shields.io/github/stars/sasairc/CVE-2017-1000117_wasawasa">
+- [Shadow5523/CVE-2017-1000117-test](https://github.com/Shadow5523/CVE-2017-1000117-test)	<img alt="forks" src="https://img.shields.io/github/forks/Shadow5523/CVE-2017-1000117-test">	<img alt="stars" src="https://img.shields.io/github/stars/Shadow5523/CVE-2017-1000117-test">
+- [ieee0824/CVE-2017-1000117](https://github.com/ieee0824/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/ieee0824/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/ieee0824/CVE-2017-1000117">
+- [rootclay/CVE-2017-1000117](https://github.com/rootclay/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/rootclay/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/rootclay/CVE-2017-1000117">
+- [ieee0824/CVE-2017-1000117-sl](https://github.com/ieee0824/CVE-2017-1000117-sl)	<img alt="forks" src="https://img.shields.io/github/forks/ieee0824/CVE-2017-1000117-sl">	<img alt="stars" src="https://img.shields.io/github/stars/ieee0824/CVE-2017-1000117-sl">
+- [takehaya/CVE-2017-1000117](https://github.com/takehaya/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/takehaya/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/takehaya/CVE-2017-1000117">
+- [ikmski/CVE-2017-1000117](https://github.com/ikmski/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/ikmski/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/ikmski/CVE-2017-1000117">
+- [nkoneko/CVE-2017-1000117](https://github.com/nkoneko/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/nkoneko/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/nkoneko/CVE-2017-1000117">
+- [chenzhuo0618/test](https://github.com/chenzhuo0618/test)	<img alt="forks" src="https://img.shields.io/github/forks/chenzhuo0618/test">	<img alt="stars" src="https://img.shields.io/github/stars/chenzhuo0618/test">
+- [siling2017/CVE-2017-1000117](https://github.com/siling2017/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/siling2017/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/siling2017/CVE-2017-1000117">
+- [chu1337/CVE-2017-1000117](https://github.com/chu1337/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/chu1337/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/chu1337/CVE-2017-1000117">
+- [cved-sources/cve-2017-1000117](https://github.com/cved-sources/cve-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2017-1000117">
+- [leezp/CVE-2017-1000117](https://github.com/leezp/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/leezp/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/leezp/CVE-2017-1000117">
+- [AnonymKing/CVE-2017-1000117](https://github.com/AnonymKing/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/AnonymKing/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/AnonymKing/CVE-2017-1000117">
+- [Jerry-zhuang/CVE-2017-1000117](https://github.com/Jerry-zhuang/CVE-2017-1000117)	<img alt="forks" src="https://img.shields.io/github/forks/Jerry-zhuang/CVE-2017-1000117">	<img alt="stars" src="https://img.shields.io/github/stars/Jerry-zhuang/CVE-2017-1000117">
+
+---
+## CVE-2017-1000112 ()
+> 
+- [hikame/docker_escape_pwn](https://github.com/hikame/docker_escape_pwn)	<img alt="forks" src="https://img.shields.io/github/forks/hikame/docker_escape_pwn">	<img alt="stars" src="https://img.shields.io/github/stars/hikame/docker_escape_pwn">
+- [ol0273st-s/CVE-2017-1000112-Adpated](https://github.com/ol0273st-s/CVE-2017-1000112-Adpated)	<img alt="forks" src="https://img.shields.io/github/forks/ol0273st-s/CVE-2017-1000112-Adpated">	<img alt="stars" src="https://img.shields.io/github/stars/ol0273st-s/CVE-2017-1000112-Adpated">
+- [IT19083124/SNP-Assignment](https://github.com/IT19083124/SNP-Assignment)	<img alt="forks" src="https://img.shields.io/github/forks/IT19083124/SNP-Assignment">	<img alt="stars" src="https://img.shields.io/github/stars/IT19083124/SNP-Assignment">
+- [Spydomain/CVE-2017-1000112-PoC](https://github.com/Spydomain/CVE-2017-1000112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2017-1000112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2017-1000112-PoC">
 
 ---
 ## CVE-2017-1000098 (2017-10-05T01:29:00)
@@ -2317,9 +3322,20 @@
 - [Live-Hack-CVE/CVE-2017-1000097](https://github.com/Live-Hack-CVE/CVE-2017-1000097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-1000097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-1000097">
 
 ---
+## CVE-2017-1000083 ()
+> 
+- [matlink/evince-cve-2017-1000083](https://github.com/matlink/evince-cve-2017-1000083)	<img alt="forks" src="https://img.shields.io/github/forks/matlink/evince-cve-2017-1000083">	<img alt="stars" src="https://img.shields.io/github/stars/matlink/evince-cve-2017-1000083">
+- [matlink/cve-2017-1000083-atril-nautilus](https://github.com/matlink/cve-2017-1000083-atril-nautilus)	<img alt="forks" src="https://img.shields.io/github/forks/matlink/cve-2017-1000083-atril-nautilus">	<img alt="stars" src="https://img.shields.io/github/stars/matlink/cve-2017-1000083-atril-nautilus">
+
+---
 ## CVE-2017-1000028 (2017-07-17T13:18:00)
 > Oracle, GlassFish Server Open Source Edition 4.1 is vulnerable to both authenticated and unauthenticated Directory Traversal vulnerability, that can be exploited by issuing a specially crafted HTTP GET request.
 - [NeonNOXX/CVE-2017-1000028](https://github.com/NeonNOXX/CVE-2017-1000028)	<img alt="forks" src="https://img.shields.io/github/forks/NeonNOXX/CVE-2017-1000028">	<img alt="stars" src="https://img.shields.io/github/stars/NeonNOXX/CVE-2017-1000028">
+
+---
+## CVE-2017-1000000 ()
+> 
+- [smythtech/DWF-CVE-2017-1000000](https://github.com/smythtech/DWF-CVE-2017-1000000)	<img alt="forks" src="https://img.shields.io/github/forks/smythtech/DWF-CVE-2017-1000000">	<img alt="stars" src="https://img.shields.io/github/stars/smythtech/DWF-CVE-2017-1000000">
 
 ---
 ## CVE-2017-0888 (2017-04-05T20:59:00)
@@ -2347,6 +3363,16 @@
 - [Live-Hack-CVE/CVE-2017-0884](https://github.com/Live-Hack-CVE/CVE-2017-0884)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-0884">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-0884">
 
 ---
+## CVE-2017-0807 ()
+> 
+- [kpatsakis/PoC_CVE-2017-0807](https://github.com/kpatsakis/PoC_CVE-2017-0807)	<img alt="forks" src="https://img.shields.io/github/forks/kpatsakis/PoC_CVE-2017-0807">	<img alt="stars" src="https://img.shields.io/github/stars/kpatsakis/PoC_CVE-2017-0807">
+
+---
+## CVE-2017-0806 ()
+> 
+- [michalbednarski/ReparcelBug](https://github.com/michalbednarski/ReparcelBug)	<img alt="forks" src="https://img.shields.io/github/forks/michalbednarski/ReparcelBug">	<img alt="stars" src="https://img.shields.io/github/stars/michalbednarski/ReparcelBug">
+
+---
 ## CVE-2017-0785 (2017-09-14T19:29:00)
 > A information disclosure vulnerability in the Android system (bluetooth). Product: Android. Versions: 4.4.4, 5.0.2, 5.1.1, 6.0, 6.0.1, 7.0, 7.1.1, 7.1.2, 8.0. Android ID: A-63146698.
 - [Joanmei/CVE-2017-0785](https://github.com/Joanmei/CVE-2017-0785)	<img alt="forks" src="https://img.shields.io/github/forks/Joanmei/CVE-2017-0785">	<img alt="stars" src="https://img.shields.io/github/stars/Joanmei/CVE-2017-0785">
@@ -2364,6 +3390,90 @@
 - [CyberKimathi/Py3-CVE-2017-0785](https://github.com/CyberKimathi/Py3-CVE-2017-0785)	<img alt="forks" src="https://img.shields.io/github/forks/CyberKimathi/Py3-CVE-2017-0785">	<img alt="stars" src="https://img.shields.io/github/stars/CyberKimathi/Py3-CVE-2017-0785">
 - [MasterCode112/Upgraded_BlueBourne-CVE-2017-0785-](https://github.com/MasterCode112/Upgraded_BlueBourne-CVE-2017-0785-)	<img alt="forks" src="https://img.shields.io/github/forks/MasterCode112/Upgraded_BlueBourne-CVE-2017-0785-">	<img alt="stars" src="https://img.shields.io/github/stars/MasterCode112/Upgraded_BlueBourne-CVE-2017-0785-">
 - [Richard1031/CVE-2017-0785-PoC](https://github.com/Richard1031/CVE-2017-0785-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Richard1031/CVE-2017-0785-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Richard1031/CVE-2017-0785-PoC">
+
+---
+## CVE-2017-0781 ()
+> 
+- [ojasookert/CVE-2017-0781](https://github.com/ojasookert/CVE-2017-0781)	<img alt="forks" src="https://img.shields.io/github/forks/ojasookert/CVE-2017-0781">	<img alt="stars" src="https://img.shields.io/github/stars/ojasookert/CVE-2017-0781">
+- [X3eRo0/android712-blueborne](https://github.com/X3eRo0/android712-blueborne)	<img alt="forks" src="https://img.shields.io/github/forks/X3eRo0/android712-blueborne">	<img alt="stars" src="https://img.shields.io/github/stars/X3eRo0/android712-blueborne">
+- [mjancek/BlueborneDetection](https://github.com/mjancek/BlueborneDetection)	<img alt="forks" src="https://img.shields.io/github/forks/mjancek/BlueborneDetection">	<img alt="stars" src="https://img.shields.io/github/stars/mjancek/BlueborneDetection">
+- [CrackSoft900/Blue-Borne](https://github.com/CrackSoft900/Blue-Borne)	<img alt="forks" src="https://img.shields.io/github/forks/CrackSoft900/Blue-Borne">	<img alt="stars" src="https://img.shields.io/github/stars/CrackSoft900/Blue-Borne">
+- [CarlosDelRosario7/sploit-bX](https://github.com/CarlosDelRosario7/sploit-bX)	<img alt="forks" src="https://img.shields.io/github/forks/CarlosDelRosario7/sploit-bX">	<img alt="stars" src="https://img.shields.io/github/stars/CarlosDelRosario7/sploit-bX">
+- [DamianSuess/Learn.BlueJam](https://github.com/DamianSuess/Learn.BlueJam)	<img alt="forks" src="https://img.shields.io/github/forks/DamianSuess/Learn.BlueJam">	<img alt="stars" src="https://img.shields.io/github/stars/DamianSuess/Learn.BlueJam">
+
+---
+## CVE-2017-0564 ()
+> 
+- [guoygang/CVE-2017-0564-ION-PoC](https://github.com/guoygang/CVE-2017-0564-ION-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/guoygang/CVE-2017-0564-ION-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/guoygang/CVE-2017-0564-ION-PoC">
+
+---
+## CVE-2017-0554 ()
+> 
+- [lanrat/tethr](https://github.com/lanrat/tethr)	<img alt="forks" src="https://img.shields.io/github/forks/lanrat/tethr">	<img alt="stars" src="https://img.shields.io/github/stars/lanrat/tethr">
+
+---
+## CVE-2017-0541 ()
+> 
+- [C0dak/CVE-2017-0541](https://github.com/C0dak/CVE-2017-0541)	<img alt="forks" src="https://img.shields.io/github/forks/C0dak/CVE-2017-0541">	<img alt="stars" src="https://img.shields.io/github/stars/C0dak/CVE-2017-0541">
+- [likekabin/CVE-2017-0541](https://github.com/likekabin/CVE-2017-0541)	<img alt="forks" src="https://img.shields.io/github/forks/likekabin/CVE-2017-0541">	<img alt="stars" src="https://img.shields.io/github/stars/likekabin/CVE-2017-0541">
+
+---
+## CVE-2017-0505 ()
+> 
+- [R0rt1z2/CVE-2017-0505-mtk](https://github.com/R0rt1z2/CVE-2017-0505-mtk)	<img alt="forks" src="https://img.shields.io/github/forks/R0rt1z2/CVE-2017-0505-mtk">	<img alt="stars" src="https://img.shields.io/github/stars/R0rt1z2/CVE-2017-0505-mtk">
+
+---
+## CVE-2017-0478 ()
+> 
+- [bingghost/CVE-2017-0478](https://github.com/bingghost/CVE-2017-0478)	<img alt="forks" src="https://img.shields.io/github/forks/bingghost/CVE-2017-0478">	<img alt="stars" src="https://img.shields.io/github/stars/bingghost/CVE-2017-0478">
+- [likekabin/CVE-2017-0478](https://github.com/likekabin/CVE-2017-0478)	<img alt="forks" src="https://img.shields.io/github/forks/likekabin/CVE-2017-0478">	<img alt="stars" src="https://img.shields.io/github/stars/likekabin/CVE-2017-0478">
+
+---
+## CVE-2017-0411 ()
+> 
+- [lulusudoku/PoC](https://github.com/lulusudoku/PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lulusudoku/PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lulusudoku/PoC">
+
+---
+## CVE-2017-0358 ()
+> 
+- [Wangsafz/cve-2017-0358.sh](https://github.com/Wangsafz/cve-2017-0358.sh)	<img alt="forks" src="https://img.shields.io/github/forks/Wangsafz/cve-2017-0358.sh">	<img alt="stars" src="https://img.shields.io/github/stars/Wangsafz/cve-2017-0358.sh">
+
+---
+## CVE-2017-0290 ()
+> 
+- [homjxi0e/CVE-2017-0290-](https://github.com/homjxi0e/CVE-2017-0290-)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-0290-">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-0290-">
+
+---
+## CVE-2017-0263 ()
+> 
+- [R06otMD5/cve-2017-0263-poc](https://github.com/R06otMD5/cve-2017-0263-poc)	<img alt="forks" src="https://img.shields.io/github/forks/R06otMD5/cve-2017-0263-poc">	<img alt="stars" src="https://img.shields.io/github/stars/R06otMD5/cve-2017-0263-poc">
+
+---
+## CVE-2017-0261 ()
+> 
+- [kcufId/eps-CVE-2017-0261](https://github.com/kcufId/eps-CVE-2017-0261)	<img alt="forks" src="https://img.shields.io/github/forks/kcufId/eps-CVE-2017-0261">	<img alt="stars" src="https://img.shields.io/github/stars/kcufId/eps-CVE-2017-0261">
+- [erfze/CVE-2017-0261](https://github.com/erfze/CVE-2017-0261)	<img alt="forks" src="https://img.shields.io/github/forks/erfze/CVE-2017-0261">	<img alt="stars" src="https://img.shields.io/github/stars/erfze/CVE-2017-0261">
+
+---
+## CVE-2017-0248 ()
+> 
+- [rubenmamo/CVE-2017-0248-Test](https://github.com/rubenmamo/CVE-2017-0248-Test)	<img alt="forks" src="https://img.shields.io/github/forks/rubenmamo/CVE-2017-0248-Test">	<img alt="stars" src="https://img.shields.io/github/stars/rubenmamo/CVE-2017-0248-Test">
+
+---
+## CVE-2017-0213 ()
+> 
+- [shaheemirza/CVE-2017-0213-](https://github.com/shaheemirza/CVE-2017-0213-)	<img alt="forks" src="https://img.shields.io/github/forks/shaheemirza/CVE-2017-0213-">	<img alt="stars" src="https://img.shields.io/github/stars/shaheemirza/CVE-2017-0213-">
+- [zcgonvh/CVE-2017-0213](https://github.com/zcgonvh/CVE-2017-0213)	<img alt="forks" src="https://img.shields.io/github/forks/zcgonvh/CVE-2017-0213">	<img alt="stars" src="https://img.shields.io/github/stars/zcgonvh/CVE-2017-0213">
+- [billa3283/CVE-2017-0213](https://github.com/billa3283/CVE-2017-0213)	<img alt="forks" src="https://img.shields.io/github/forks/billa3283/CVE-2017-0213">	<img alt="stars" src="https://img.shields.io/github/stars/billa3283/CVE-2017-0213">
+- [likekabin/CVE-2017-0213](https://github.com/likekabin/CVE-2017-0213)	<img alt="forks" src="https://img.shields.io/github/forks/likekabin/CVE-2017-0213">	<img alt="stars" src="https://img.shields.io/github/stars/likekabin/CVE-2017-0213">
+- [jbooz1/CVE-2017-0213](https://github.com/jbooz1/CVE-2017-0213)	<img alt="forks" src="https://img.shields.io/github/forks/jbooz1/CVE-2017-0213">	<img alt="stars" src="https://img.shields.io/github/stars/jbooz1/CVE-2017-0213">
+- [eonrickity/CVE-2017-0213](https://github.com/eonrickity/CVE-2017-0213)	<img alt="forks" src="https://img.shields.io/github/forks/eonrickity/CVE-2017-0213">	<img alt="stars" src="https://img.shields.io/github/stars/eonrickity/CVE-2017-0213">
+- [Anonymous-Family/CVE-2017-0213](https://github.com/Anonymous-Family/CVE-2017-0213)	<img alt="forks" src="https://img.shields.io/github/forks/Anonymous-Family/CVE-2017-0213">	<img alt="stars" src="https://img.shields.io/github/stars/Anonymous-Family/CVE-2017-0213">
+
+---
+## CVE-2017-0204 ()
+> 
+- [ryhanson/CVE-2017-0204](https://github.com/ryhanson/CVE-2017-0204)	<img alt="forks" src="https://img.shields.io/github/forks/ryhanson/CVE-2017-0204">	<img alt="stars" src="https://img.shields.io/github/stars/ryhanson/CVE-2017-0204">
 
 ---
 ## CVE-2017-0199 (2017-04-12T14:59:00)
@@ -2395,11 +3505,22 @@
 - [TheCyberWatchers/CVE-2017-0199-v5.0](https://github.com/TheCyberWatchers/CVE-2017-0199-v5.0)	<img alt="forks" src="https://img.shields.io/github/forks/TheCyberWatchers/CVE-2017-0199-v5.0">	<img alt="stars" src="https://img.shields.io/github/stars/TheCyberWatchers/CVE-2017-0199-v5.0">
 - [kash-123/CVE-2017-0199](https://github.com/kash-123/CVE-2017-0199)	<img alt="forks" src="https://img.shields.io/github/forks/kash-123/CVE-2017-0199">	<img alt="stars" src="https://img.shields.io/github/stars/kash-123/CVE-2017-0199">
 - [BlueShield-CyberDefense/Phishing-Analysis](https://github.com/BlueShield-CyberDefense/Phishing-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/BlueShield-CyberDefense/Phishing-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/BlueShield-CyberDefense/Phishing-Analysis">
+- [BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant](https://github.com/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant)	<img alt="forks" src="https://img.shields.io/github/forks/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant">	<img alt="stars" src="https://img.shields.io/github/stars/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant">
 
 ---
 ## CVE-2017-0148 (2017-03-17T00:59:00)
 > The SMBv1 server in Microsoft Windows Vista SP2; Windows Server 2008 SP2 and R2 SP1; Windows 7 SP1; Windows 8.1; Windows Server 2012 Gold and R2; Windows RT 8.1; and Windows 10 Gold, 1511, and 1607; and Windows Server 2016 allows remote attackers to execute arbitrary code via crafted packets, aka "Windows SMB Remote Code Execution Vulnerability." This vulnerability is different from those described in CVE-2017-0143, CVE-2017-0144, CVE-2017-0145, and CVE-2017-0146.
 - [HakaKali/CVE-2017-0148](https://github.com/HakaKali/CVE-2017-0148)	<img alt="forks" src="https://img.shields.io/github/forks/HakaKali/CVE-2017-0148">	<img alt="stars" src="https://img.shields.io/github/stars/HakaKali/CVE-2017-0148">
+
+---
+## CVE-2017-0147 ()
+> 
+- [RobertoLeonFR-ES/Exploit-Win32.CVE-2017-0147.A](https://github.com/RobertoLeonFR-ES/Exploit-Win32.CVE-2017-0147.A)	<img alt="forks" src="https://img.shields.io/github/forks/RobertoLeonFR-ES/Exploit-Win32.CVE-2017-0147.A">	<img alt="stars" src="https://img.shields.io/github/stars/RobertoLeonFR-ES/Exploit-Win32.CVE-2017-0147.A">
+
+---
+## CVE-2017-0145 ()
+> 
+- [MelonSmasher/chef_tissues](https://github.com/MelonSmasher/chef_tissues)	<img alt="forks" src="https://img.shields.io/github/forks/MelonSmasher/chef_tissues">	<img alt="stars" src="https://img.shields.io/github/stars/MelonSmasher/chef_tissues">
 
 ---
 ## CVE-2017-0144 (2017-03-17T00:59:00)
@@ -2424,6 +3545,13 @@
 - [Mitsu-bis/Eternal-Blue-CVE-2017-0144-THM-Write-Up](https://github.com/Mitsu-bis/Eternal-Blue-CVE-2017-0144-THM-Write-Up)	<img alt="forks" src="https://img.shields.io/github/forks/Mitsu-bis/Eternal-Blue-CVE-2017-0144-THM-Write-Up">	<img alt="stars" src="https://img.shields.io/github/stars/Mitsu-bis/Eternal-Blue-CVE-2017-0144-THM-Write-Up">
 - [althany/Windows-7_och_CVE-2017-0144_Exploit](https://github.com/althany/Windows-7_och_CVE-2017-0144_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/althany/Windows-7_och_CVE-2017-0144_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/althany/Windows-7_och_CVE-2017-0144_Exploit">
 - [FireTemple/Blackash-CVE-2017-0144](https://github.com/FireTemple/Blackash-CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/FireTemple/Blackash-CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/FireTemple/Blackash-CVE-2017-0144">
+- [klairmanraj/Multi-VLAN-Enterprise-Network-Security-Infrastructure](https://github.com/klairmanraj/Multi-VLAN-Enterprise-Network-Security-Infrastructure)	<img alt="forks" src="https://img.shields.io/github/forks/klairmanraj/Multi-VLAN-Enterprise-Network-Security-Infrastructure">	<img alt="stars" src="https://img.shields.io/github/stars/klairmanraj/Multi-VLAN-Enterprise-Network-Security-Infrastructure">
+- [klairmanraj/Vulnerability-Risk-Assessment-TVRA-Enterprise-Network](https://github.com/klairmanraj/Vulnerability-Risk-Assessment-TVRA-Enterprise-Network)	<img alt="forks" src="https://img.shields.io/github/forks/klairmanraj/Vulnerability-Risk-Assessment-TVRA-Enterprise-Network">	<img alt="stars" src="https://img.shields.io/github/stars/klairmanraj/Vulnerability-Risk-Assessment-TVRA-Enterprise-Network">
+- [klairmanraj/Multi-VLAN-Enterprise-Network-Vulnerability-Assessment](https://github.com/klairmanraj/Multi-VLAN-Enterprise-Network-Vulnerability-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/klairmanraj/Multi-VLAN-Enterprise-Network-Vulnerability-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/klairmanraj/Multi-VLAN-Enterprise-Network-Vulnerability-Assessment">
+- [dannic145/EternalBlue-Exploit-Demonstration](https://github.com/dannic145/EternalBlue-Exploit-Demonstration)	<img alt="forks" src="https://img.shields.io/github/forks/dannic145/EternalBlue-Exploit-Demonstration">	<img alt="stars" src="https://img.shields.io/github/stars/dannic145/EternalBlue-Exploit-Demonstration">
+- [ichhyak22/EternalBlue-Exploit-Demonstration-MS17-010](https://github.com/ichhyak22/EternalBlue-Exploit-Demonstration-MS17-010)	<img alt="forks" src="https://img.shields.io/github/forks/ichhyak22/EternalBlue-Exploit-Demonstration-MS17-010">	<img alt="stars" src="https://img.shields.io/github/stars/ichhyak22/EternalBlue-Exploit-Demonstration-MS17-010">
+- [trinadh-dasari-cyber/eternalblue-ms17-010-research](https://github.com/trinadh-dasari-cyber/eternalblue-ms17-010-research)	<img alt="forks" src="https://img.shields.io/github/forks/trinadh-dasari-cyber/eternalblue-ms17-010-research">	<img alt="stars" src="https://img.shields.io/github/stars/trinadh-dasari-cyber/eternalblue-ms17-010-research">
+- [0xBlackash/CVE-2017-0144](https://github.com/0xBlackash/CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2017-0144">
 
 ---
 ## CVE-2017-0143 (2017-03-17T00:59:00)
@@ -2439,8 +3567,57 @@
 - [basimnawaz6/EternalBlue-Lab](https://github.com/basimnawaz6/EternalBlue-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/basimnawaz6/EternalBlue-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/basimnawaz6/EternalBlue-Lab">
 - [Cedric-Martz/EthernalBlue_report](https://github.com/Cedric-Martz/EthernalBlue_report)	<img alt="forks" src="https://img.shields.io/github/forks/Cedric-Martz/EthernalBlue_report">	<img alt="stars" src="https://img.shields.io/github/stars/Cedric-Martz/EthernalBlue_report">
 - [Mafiosohack/offensive-security-lab-1](https://github.com/Mafiosohack/offensive-security-lab-1)	<img alt="forks" src="https://img.shields.io/github/forks/Mafiosohack/offensive-security-lab-1">	<img alt="stars" src="https://img.shields.io/github/stars/Mafiosohack/offensive-security-lab-1">
+- [hackingyseguridad/smb](https://github.com/hackingyseguridad/smb)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/smb">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/smb">
+- [FernandoTDalcin/thm-blue-writeup](https://github.com/FernandoTDalcin/thm-blue-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/FernandoTDalcin/thm-blue-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/FernandoTDalcin/thm-blue-writeup">
+
+---
+## CVE-2017-0108 ()
+> 
+- [homjxi0e/CVE-2017-0108](https://github.com/homjxi0e/CVE-2017-0108)	<img alt="forks" src="https://img.shields.io/github/forks/homjxi0e/CVE-2017-0108">	<img alt="stars" src="https://img.shields.io/github/stars/homjxi0e/CVE-2017-0108">
+
+---
+## CVE-2017-0106 ()
+> 
+- [ryhanson/CVE-2017-0106](https://github.com/ryhanson/CVE-2017-0106)	<img alt="forks" src="https://img.shields.io/github/forks/ryhanson/CVE-2017-0106">	<img alt="stars" src="https://img.shields.io/github/stars/ryhanson/CVE-2017-0106">
+
+---
+## CVE-2017-0100 ()
+> 
+- [cssxn/CVE-2017-0100](https://github.com/cssxn/CVE-2017-0100)	<img alt="forks" src="https://img.shields.io/github/forks/cssxn/CVE-2017-0100">	<img alt="stars" src="https://img.shields.io/github/stars/cssxn/CVE-2017-0100">
+
+---
+## CVE-2017-0089 ()
+> 
+- [rainhawk13/Added-Pentest-Ground-to-vulnerable-websites-for-training](https://github.com/rainhawk13/Added-Pentest-Ground-to-vulnerable-websites-for-training)	<img alt="forks" src="https://img.shields.io/github/forks/rainhawk13/Added-Pentest-Ground-to-vulnerable-websites-for-training">	<img alt="stars" src="https://img.shields.io/github/stars/rainhawk13/Added-Pentest-Ground-to-vulnerable-websites-for-training">
+
+---
+## CVE-2017-0075 ()
+> 
+- [4B5F5F4B/HyperV](https://github.com/4B5F5F4B/HyperV)	<img alt="forks" src="https://img.shields.io/github/forks/4B5F5F4B/HyperV">	<img alt="stars" src="https://img.shields.io/github/stars/4B5F5F4B/HyperV">
+- [belyakovvitagmailt/4B5F5F4Bp](https://github.com/belyakovvitagmailt/4B5F5F4Bp)	<img alt="forks" src="https://img.shields.io/github/forks/belyakovvitagmailt/4B5F5F4Bp">	<img alt="stars" src="https://img.shields.io/github/stars/belyakovvitagmailt/4B5F5F4Bp">
+- [MarkusCarelli1/4B5F5F4Bp](https://github.com/MarkusCarelli1/4B5F5F4Bp)	<img alt="forks" src="https://img.shields.io/github/forks/MarkusCarelli1/4B5F5F4Bp">	<img alt="stars" src="https://img.shields.io/github/stars/MarkusCarelli1/4B5F5F4Bp">
+
+---
+## CVE-2017-0065 ()
+> 
+- [Dankirk/cve-2017-0065](https://github.com/Dankirk/cve-2017-0065)	<img alt="forks" src="https://img.shields.io/github/forks/Dankirk/cve-2017-0065">	<img alt="stars" src="https://img.shields.io/github/stars/Dankirk/cve-2017-0065">
 
 ---
 ## CVE-2017-0055 (2017-03-17T00:59:00)
 > Microsoft Internet Information Server (IIS) in Windows Vista SP2; Windows Server 2008 SP2 and R2; Windows 7 SP1; Windows 8.1; Windows Server 2012 Gold and R2; Windows RT 8.1; Windows 10 Gold, 1511, and 1607; and Windows Server 2016 allows remote attackers to perform cross-site scripting and run script with local user privileges via a crafted request, aka "Microsoft IIS Server XSS Elevation of Privilege Vulnerability."
 - [NetJBS/CVE-2017-0055-PoC](https://github.com/NetJBS/CVE-2017-0055-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/NetJBS/CVE-2017-0055-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/NetJBS/CVE-2017-0055-PoC">
+
+---
+## CVE-2017-0038 ()
+> 
+- [k0keoyo/CVE-2017-0038-EXP-C-JS](https://github.com/k0keoyo/CVE-2017-0038-EXP-C-JS)	<img alt="forks" src="https://img.shields.io/github/forks/k0keoyo/CVE-2017-0038-EXP-C-JS">	<img alt="stars" src="https://img.shields.io/github/stars/k0keoyo/CVE-2017-0038-EXP-C-JS">
+
+---
+## CVE-2017-0037 ()
+> 
+- [chattopadhyaykittu/CVE-2017-0037](https://github.com/chattopadhyaykittu/CVE-2017-0037)	<img alt="forks" src="https://img.shields.io/github/forks/chattopadhyaykittu/CVE-2017-0037">	<img alt="stars" src="https://img.shields.io/github/stars/chattopadhyaykittu/CVE-2017-0037">
+
+---
+## CVE-2017-0005 ()
+> 
+- [sheri31/0005poc](https://github.com/sheri31/0005poc)	<img alt="forks" src="https://img.shields.io/github/forks/sheri31/0005poc">	<img alt="stars" src="https://img.shields.io/github/stars/sheri31/0005poc">

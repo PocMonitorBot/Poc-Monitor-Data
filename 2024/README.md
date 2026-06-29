@@ -53,9 +53,25 @@
 - [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-9932](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-9932)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-9932">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-9932">
 
 ---
+## CVE-2024-9926 ()
+> 
+- [m3ssap0/wordpress-jetpack-broken-access-control-vulnerable-application](https://github.com/m3ssap0/wordpress-jetpack-broken-access-control-vulnerable-application)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/wordpress-jetpack-broken-access-control-vulnerable-application">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/wordpress-jetpack-broken-access-control-vulnerable-application">
+- [m3ssap0/wordpress-jetpack-broken-access-control-exploit](https://github.com/m3ssap0/wordpress-jetpack-broken-access-control-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m3ssap0/wordpress-jetpack-broken-access-control-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m3ssap0/wordpress-jetpack-broken-access-control-exploit">
+
+---
+## CVE-2024-9902 ()
+> 
+- [M8seven/cve-2026-11837-ansible-posix-authorized-key](https://github.com/M8seven/cve-2026-11837-ansible-posix-authorized-key)	<img alt="forks" src="https://img.shields.io/github/forks/M8seven/cve-2026-11837-ansible-posix-authorized-key">	<img alt="stars" src="https://img.shields.io/github/stars/M8seven/cve-2026-11837-ansible-posix-authorized-key">
+
+---
 ## CVE-2024-9890 (2024-10-26T03:15:00)
 > The User Toolkit plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 1.2.3. This is due to an improper capability check in the 'switchUser' function. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to log in as any existing user on the site, such as an administrator.
 - [RandomRobbieBF/CVE-2024-9890](https://github.com/RandomRobbieBF/CVE-2024-9890)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9890">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9890">
+
+---
+## CVE-2024-9822 ()
+> 
+- [RandomRobbieBF/CVE-2024-9822](https://github.com/RandomRobbieBF/CVE-2024-9822)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9822">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9822">
 
 ---
 ## CVE-2024-9821 (2024-10-12T03:15:00)
@@ -91,6 +107,7 @@
 ## CVE-2024-9680 (2024-10-09T13:15:00)
 > An attacker was able to achieve code execution in the content process by exploiting a use-after-free in Animation timelines. We have had reports of this vulnerability being exploited in the wild. This vulnerability affects Firefox < 131.0.2, Firefox ESR < 128.3.1, Firefox ESR < 115.16.1, Thunderbird < 131.0.1, Thunderbird < 128.3.1, and Thunderbird < 115.16.0.
 - [tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680)	<img alt="forks" src="https://img.shields.io/github/forks/tdonaworth/Firefox-CVE-2024-9680">	<img alt="stars" src="https://img.shields.io/github/stars/tdonaworth/Firefox-CVE-2024-9680">
+- [moscovium-mc/Tor-0day-JavaScript-Exploit](https://github.com/moscovium-mc/Tor-0day-JavaScript-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/moscovium-mc/Tor-0day-JavaScript-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/moscovium-mc/Tor-0day-JavaScript-Exploit">
 
 ---
 ## CVE-2024-9659 (2024-11-23T08:15:00)
@@ -120,6 +137,11 @@
 ## CVE-2024-9513 ()
 > 
 - [ELIZEUOPAIN/Exploit-CVE-2024-9513-NetAdmin-IAM-Allows-User-Enumeration-In-Active-Directory](https://github.com/ELIZEUOPAIN/Exploit-CVE-2024-9513-NetAdmin-IAM-Allows-User-Enumeration-In-Active-Directory)	<img alt="forks" src="https://img.shields.io/github/forks/ELIZEUOPAIN/Exploit-CVE-2024-9513-NetAdmin-IAM-Allows-User-Enumeration-In-Active-Directory">	<img alt="stars" src="https://img.shields.io/github/stars/ELIZEUOPAIN/Exploit-CVE-2024-9513-NetAdmin-IAM-Allows-User-Enumeration-In-Active-Directory">
+
+---
+## CVE-2024-9506 ()
+> 
+- [bio/vue-template-compiler-patched](https://github.com/bio/vue-template-compiler-patched)	<img alt="forks" src="https://img.shields.io/github/forks/bio/vue-template-compiler-patched">	<img alt="stars" src="https://img.shields.io/github/stars/bio/vue-template-compiler-patched">
 
 ---
 ## CVE-2024-9474 (2024-11-18T16:15:00)
@@ -157,6 +179,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/mustafaakalin/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/mustafaakalin/CVE-2024-9465">
 - [XiaomingX/cve-2024-9465-poc](https://github.com/XiaomingX/cve-2024-9465-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-9465-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-9465-poc">
 - [Farzan-Kh/CVE-2024-9465](https://github.com/Farzan-Kh/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/Farzan-Kh/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/Farzan-Kh/CVE-2024-9465">
+- [Qlng/CVE-2024-9465](https://github.com/Qlng/CVE-2024-9465)	<img alt="forks" src="https://img.shields.io/github/forks/Qlng/CVE-2024-9465">	<img alt="stars" src="https://img.shields.io/github/stars/Qlng/CVE-2024-9465">
 
 ---
 ## CVE-2024-9464 (2024-10-09T17:15:00)
@@ -275,6 +298,11 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [maybeheisenberg/CVE-2024-9079](https://github.com/maybeheisenberg/CVE-2024-9079)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-9079">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-9079">
 
 ---
+## CVE-2024-9061 ()
+> 
+- [RandomRobbieBF/CVE-2024-9061](https://github.com/RandomRobbieBF/CVE-2024-9061)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9061">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9061">
+
+---
 ## CVE-2024-9047 ()
 > 
 - [iSee857/CVE-2024-9047-PoC](https://github.com/iSee857/CVE-2024-9047-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-9047-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-9047-PoC">
@@ -282,6 +310,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [Nxploited/CVE-2024-9047-Exploit](https://github.com/Nxploited/CVE-2024-9047-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-9047-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-9047-Exploit">
 - [mr-won/CVE-2024-9047](https://github.com/mr-won/CVE-2024-9047)	<img alt="forks" src="https://img.shields.io/github/forks/mr-won/CVE-2024-9047">	<img alt="stars" src="https://img.shields.io/github/stars/mr-won/CVE-2024-9047">
 - [peiqiF4ck/WebFrameworkTools-5.1-main](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main)	<img alt="forks" src="https://img.shields.io/github/forks/peiqiF4ck/WebFrameworkTools-5.1-main">	<img alt="stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main">
+- [amirqusairy99/WordPress-File-Upload-4.24.11---Unauthenticated-Path-Traversal](https://github.com/amirqusairy99/WordPress-File-Upload-4.24.11---Unauthenticated-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/amirqusairy99/WordPress-File-Upload-4.24.11---Unauthenticated-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/amirqusairy99/WordPress-File-Upload-4.24.11---Unauthenticated-Path-Traversal">
 
 ---
 ## CVE-2024-9043 (2024-09-20T11:15:00)
@@ -303,6 +332,11 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 ## CVE-2024-8949 (2024-09-17T19:15:00)
 > A vulnerability classified as critical has been found in SourceCodester Online Eyewear Shop 1.0. This affects an unknown part of the file /classes/Master.php of the component Cart Content Handler. The manipulation of the argument cart_id/id leads to improper ownership management. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.
 - [fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fa-rrel/CVE-2024-8949-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fa-rrel/CVE-2024-8949-POC">
+
+---
+## CVE-2024-8868 ()
+> 
+- [M0onc/CVE-2024-8868](https://github.com/M0onc/CVE-2024-8868)	<img alt="forks" src="https://img.shields.io/github/forks/M0onc/CVE-2024-8868">	<img alt="stars" src="https://img.shields.io/github/stars/M0onc/CVE-2024-8868">
 
 ---
 ## CVE-2024-8856 (2024-11-16T05:15:00)
@@ -343,6 +377,11 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [HyHy100/Chrome-Skia-CVE-2024-8636](https://github.com/HyHy100/Chrome-Skia-CVE-2024-8636)	<img alt="forks" src="https://img.shields.io/github/forks/HyHy100/Chrome-Skia-CVE-2024-8636">	<img alt="stars" src="https://img.shields.io/github/stars/HyHy100/Chrome-Skia-CVE-2024-8636">
 
 ---
+## CVE-2024-8529 ()
+> 
+- [RandomRobbieBF/CVE-2024-8529](https://github.com/RandomRobbieBF/CVE-2024-8529)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-8529">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-8529">
+
+---
 ## CVE-2024-8522 (2024-09-12T09:15:00)
 > The LearnPress – WordPress LMS Plugin plugin for WordPress is vulnerable to SQL Injection via the 'c_only_fields' parameter of the /wp-json/learnpress/v1/courses REST API endpoint in all versions up to, and including, 4.2.7 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [realbotnet/CVE-2024-8522](https://github.com/realbotnet/CVE-2024-8522)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-8522">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-8522">
@@ -365,6 +404,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-8504 (2024-09-10T20:15:00)
 > An attacker with authenticated access to VICIdial as an "agent" can execute arbitrary shell commands as the "root" user. This attack can be chained with CVE-2024-8503 to execute arbitrary shell commands starting from an unauthenticated perspective.
 - [Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2024-8504">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2024-8504">
+- [havokzero/ViciDial](https://github.com/havokzero/ViciDial)	<img alt="forks" src="https://img.shields.io/github/forks/havokzero/ViciDial">	<img alt="stars" src="https://img.shields.io/github/stars/havokzero/ViciDial">
 
 ---
 ## CVE-2024-8503 ()
@@ -406,6 +446,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [EQSTLab/CVE-2024-8353](https://github.com/EQSTLab/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-8353">
 - [p33d/CVE-2024-8353](https://github.com/p33d/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/CVE-2024-8353">
 - [nothe1senberg/CVE-2024-8353](https://github.com/nothe1senberg/CVE-2024-8353)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-8353">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-8353">
+- [0xb0mb3r/CVE-2024-8353-PoC](https://github.com/0xb0mb3r/CVE-2024-8353-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xb0mb3r/CVE-2024-8353-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xb0mb3r/CVE-2024-8353-PoC">
 
 ---
 ## CVE-2024-835 ()
@@ -421,6 +462,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350)	<img alt="forks" src="https://img.shields.io/github/forks/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">	<img alt="stars" src="https://img.shields.io/github/stars/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350">
 
 ---
+## CVE-2024-8309 ()
+> 
+- [liadlevy/CVE-2024-8309](https://github.com/liadlevy/CVE-2024-8309)	<img alt="forks" src="https://img.shields.io/github/forks/liadlevy/CVE-2024-8309">	<img alt="stars" src="https://img.shields.io/github/stars/liadlevy/CVE-2024-8309">
+
+---
 ## CVE-2024-8289 ()
 > 
 - [pashayogi/CVE-2024-8289](https://github.com/pashayogi/CVE-2024-8289)	<img alt="forks" src="https://img.shields.io/github/forks/pashayogi/CVE-2024-8289">	<img alt="stars" src="https://img.shields.io/github/stars/pashayogi/CVE-2024-8289">
@@ -429,6 +475,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-8277 (2024-09-11T09:15:00)
 > The WooCommerce Photo Reviews Premium plugin for WordPress is vulnerable to authentication bypass in all versions up to, and including, 1.3.13.2. This is due to the plugin not properly validating what user transient is being used in the login() function and not properly verifying the user's identity. This makes it possible for unauthenticated attackers to log in as user that has dismissed an admin notice in the past 30 days, which is often an administrator. Alternatively, a user can log in as any user with any transient that has a valid user_id as the value, though it would be more difficult to exploit this successfully.
 - [realbotnet/CVE-2024-8277](https://github.com/realbotnet/CVE-2024-8277)	<img alt="forks" src="https://img.shields.io/github/forks/realbotnet/CVE-2024-8277">	<img alt="stars" src="https://img.shields.io/github/stars/realbotnet/CVE-2024-8277">
+- [PolatBey/CVE-2024-8277](https://github.com/PolatBey/CVE-2024-8277)	<img alt="forks" src="https://img.shields.io/github/forks/PolatBey/CVE-2024-8277">	<img alt="stars" src="https://img.shields.io/github/stars/PolatBey/CVE-2024-8277">
 
 ---
 ## CVE-2024-8275 (2024-09-25T05:15:00)
@@ -478,6 +525,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-8069 ()
 > 
 - [XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN](https://github.com/XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN">
+- [mdiqbalahmad/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN](https://github.com/mdiqbalahmad/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN)	<img alt="forks" src="https://img.shields.io/github/forks/mdiqbalahmad/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN">	<img alt="stars" src="https://img.shields.io/github/stars/mdiqbalahmad/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN">
 
 ---
 ## CVE-2024-8030 (2024-08-28T03:15:00)
@@ -580,6 +628,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-7617 (2024-09-25T03:15:00)
 > The Contact Form to Any API plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Contact Form 7 form fields in all versions up to, and including, 1.2.2 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [maybeheisenberg/CVE-2024-7617](https://github.com/maybeheisenberg/CVE-2024-7617)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-7617">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-7617">
+
+---
+## CVE-2024-7595 ()
+> 
+- [PapayaJackal/ipeeyoupeewepee](https://github.com/PapayaJackal/ipeeyoupeewepee)	<img alt="forks" src="https://img.shields.io/github/forks/PapayaJackal/ipeeyoupeewepee">	<img alt="stars" src="https://img.shields.io/github/stars/PapayaJackal/ipeeyoupeewepee">
 
 ---
 ## CVE-2024-7593 (2024-08-13T19:15:00)
@@ -693,6 +746,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [zetraxz/CVE-2024-6788](https://github.com/zetraxz/CVE-2024-6788)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-6788">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-6788">
 
 ---
+## CVE-2024-6783 ()
+> 
+- [HORKimhab/CVE-2024-6783](https://github.com/HORKimhab/CVE-2024-6783)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2024-6783">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2024-6783">
+
+---
 ## CVE-2024-6782 (2024-08-06T04:16:00)
 > Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution.
 - [zangjiahe/CVE-2024-6782](https://github.com/zangjiahe/CVE-2024-6782)	<img alt="forks" src="https://img.shields.io/github/forks/zangjiahe/CVE-2024-6782">	<img alt="stars" src="https://img.shields.io/github/stars/zangjiahe/CVE-2024-6782">
@@ -780,9 +838,15 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [Jenderal92/CVE-2024-6624](https://github.com/Jenderal92/CVE-2024-6624)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2024-6624">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2024-6624">
 
 ---
+## CVE-2024-6592 ()
+> 
+- [RedTeamPentesting/watchguard-sso-client](https://github.com/RedTeamPentesting/watchguard-sso-client)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamPentesting/watchguard-sso-client">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamPentesting/watchguard-sso-client">
+
+---
 ## CVE-2024-6536 (2024-07-30T06:15:00)
 > The Zephyr Project Manager WordPress plugin before 3.3.99 does not sanitise and escape some of its settings, which could allow high privilege users such as editors and admins to perform Stored Cross-Site Scripting attacks even when the unfiltered_html capability is disallowed (for example in multisite setup)
 - [apena-ba/CVE-2024-6536](https://github.com/apena-ba/CVE-2024-6536)	<img alt="forks" src="https://img.shields.io/github/forks/apena-ba/CVE-2024-6536">	<img alt="stars" src="https://img.shields.io/github/stars/apena-ba/CVE-2024-6536">
+- [gfd6tthf/CVE-2024-6536](https://github.com/gfd6tthf/CVE-2024-6536)	<img alt="forks" src="https://img.shields.io/github/forks/gfd6tthf/CVE-2024-6536">	<img alt="stars" src="https://img.shields.io/github/stars/gfd6tthf/CVE-2024-6536">
 
 ---
 ## CVE-2024-6529 (2024-08-01T06:15:00)
@@ -793,6 +857,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ## CVE-2024-65230 ()
 > 
 - [CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)	<img alt="forks" src="https://img.shields.io/github/forks/CBaekhyunC/cve-2024-65230">	<img alt="stars" src="https://img.shields.io/github/stars/CBaekhyunC/cve-2024-65230">
+
+---
+## CVE-2024-6485 ()
+> 
+- [Yumeae/Bootstrap-with-XSS](https://github.com/Yumeae/Bootstrap-with-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Yumeae/Bootstrap-with-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Yumeae/Bootstrap-with-XSS">
 
 ---
 ## CVE-2024-6473 (2024-09-03T11:15:00)
@@ -935,6 +1004,9 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [Doux-x/CVE-2024-6387-analysis](https://github.com/Doux-x/CVE-2024-6387-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Doux-x/CVE-2024-6387-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Doux-x/CVE-2024-6387-analysis">
 - [OHHDamnBRO/Noregressh](https://github.com/OHHDamnBRO/Noregressh)	<img alt="forks" src="https://img.shields.io/github/forks/OHHDamnBRO/Noregressh">	<img alt="stars" src="https://img.shields.io/github/stars/OHHDamnBRO/Noregressh">
 - [kaleth4/CVE-2024-6387](https://github.com/kaleth4/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2024-6387">
+- [particle99/CVE-2024-6387-POC](https://github.com/particle99/CVE-2024-6387-POC)	<img alt="forks" src="https://img.shields.io/github/forks/particle99/CVE-2024-6387-POC">	<img alt="stars" src="https://img.shields.io/github/stars/particle99/CVE-2024-6387-POC">
+- [oseasfr/Scanner_CVE_OpenSSH](https://github.com/oseasfr/Scanner_CVE_OpenSSH)	<img alt="forks" src="https://img.shields.io/github/forks/oseasfr/Scanner_CVE_OpenSSH">	<img alt="stars" src="https://img.shields.io/github/stars/oseasfr/Scanner_CVE_OpenSSH">
+- [vuducmanhno100-cloud/CVE-2024-6387](https://github.com/vuducmanhno100-cloud/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/vuducmanhno100-cloud/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/vuducmanhno100-cloud/CVE-2024-6387">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
@@ -951,9 +1023,24 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [Nxploited/CVE-2024-6366-PoC](https://github.com/Nxploited/CVE-2024-6366-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-6366-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-6366-PoC">
 
 ---
+## CVE-2024-6330 ()
+> 
+- [RandomRobbieBF/CVE-2024-6330](https://github.com/RandomRobbieBF/CVE-2024-6330)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-6330">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-6330">
+
+---
+## CVE-2024-6297 ()
+> 
+- [Sudo-WP/sudowp-hooks-visualizer](https://github.com/Sudo-WP/sudowp-hooks-visualizer)	<img alt="forks" src="https://img.shields.io/github/forks/Sudo-WP/sudowp-hooks-visualizer">	<img alt="stars" src="https://img.shields.io/github/stars/Sudo-WP/sudowp-hooks-visualizer">
+
+---
 ## CVE-2024-6244 ()
 > 
 - [Nxploited/CVE-2024-6244](https://github.com/Nxploited/CVE-2024-6244)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-6244">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-6244">
+
+---
+## CVE-2024-6232 ()
+> 
+- [bgutowski/CVE-2025-4517-POC-Sudoers](https://github.com/bgutowski/CVE-2025-4517-POC-Sudoers)	<img alt="forks" src="https://img.shields.io/github/forks/bgutowski/CVE-2025-4517-POC-Sudoers">	<img alt="stars" src="https://img.shields.io/github/stars/bgutowski/CVE-2025-4517-POC-Sudoers">
 
 ---
 ## CVE-2024-6222 (2024-07-09T18:15:00)
@@ -993,6 +1080,7 @@ As exploitation requires "Allow only extensions distributed through the Docker M
 ## CVE-2024-6028 (2024-06-25T09:15:00)
 > The Quiz Maker plugin for WordPress is vulnerable to time-based SQL Injection via the 'ays_questions' parameter in all versions up to, and including, 6.5.8.3 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-6028-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-6028-Poc">
+- [gmh5225/CVE-2024-6028-Poc](https://github.com/gmh5225/CVE-2024-6028-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2024-6028-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2024-6028-Poc">
 
 ---
 ## CVE-2024-5961 (2024-06-14T08:15:00)
@@ -1028,6 +1116,11 @@ Note: Expedition is a tool aiding in configuration migration, tuning, and enrich
 - [Farzan-Kh/CVE-2024-5910](https://github.com/Farzan-Kh/CVE-2024-5910)	<img alt="forks" src="https://img.shields.io/github/forks/Farzan-Kh/CVE-2024-5910">	<img alt="stars" src="https://img.shields.io/github/stars/Farzan-Kh/CVE-2024-5910">
 
 ---
+## CVE-2024-5909 ()
+> 
+- [ig-labs/EDR-ALPC-Block-POC](https://github.com/ig-labs/EDR-ALPC-Block-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ig-labs/EDR-ALPC-Block-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ig-labs/EDR-ALPC-Block-POC">
+
+---
 ## CVE-2024-5899 (2024-06-18T09:15:00)
 > When Bazel Plugin in intellij imports a project (either using "import project" or "Auto import") the dialog for trusting the project is not displayed. This comes from the fact that both call the method ProjectBuilder.createProject which then calls ProjectManager.getInstance().createProject. This method, as its name suggests is intended to create a new project, not to import an existing one. 
 We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLion and Android Studio Bazel plugins.
@@ -1053,6 +1146,7 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 ## CVE-2024-58239 ()
 > 
 - [khoatran107/cve-2024-58239](https://github.com/khoatran107/cve-2024-58239)	<img alt="forks" src="https://img.shields.io/github/forks/khoatran107/cve-2024-58239">	<img alt="stars" src="https://img.shields.io/github/stars/khoatran107/cve-2024-58239">
+- [khoatran107/cve-2025-39682](https://github.com/khoatran107/cve-2025-39682)	<img alt="forks" src="https://img.shields.io/github/forks/khoatran107/cve-2025-39682">	<img alt="stars" src="https://img.shields.io/github/stars/khoatran107/cve-2025-39682">
 
 ---
 ## CVE-2024-5806 (2024-06-25T15:15:00)
@@ -1130,6 +1224,11 @@ We recommend upgrading to version 2024.06.04.0.2 or beyond for the IntelliJ, CLi
 ## CVE-2024-57699 ()
 > 
 - [TurtleLiu/CVE-2024-57699_PoC](https://github.com/TurtleLiu/CVE-2024-57699_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TurtleLiu/CVE-2024-57699_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TurtleLiu/CVE-2024-57699_PoC">
+
+---
+## CVE-2024-57698 ()
+> 
+- [rodolfomarianocy/xpl-ModernWMS-CVE-2024-57698](https://github.com/rodolfomarianocy/xpl-ModernWMS-CVE-2024-57698)	<img alt="forks" src="https://img.shields.io/github/forks/rodolfomarianocy/xpl-ModernWMS-CVE-2024-57698">	<img alt="stars" src="https://img.shields.io/github/stars/rodolfomarianocy/xpl-ModernWMS-CVE-2024-57698">
 
 ---
 ## CVE-2024-5764 (2024-10-23T15:15:00)
@@ -1551,6 +1650,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [T3slaa/CVE-2024-55374](https://github.com/T3slaa/CVE-2024-55374)	<img alt="forks" src="https://img.shields.io/github/forks/T3slaa/CVE-2024-55374">	<img alt="stars" src="https://img.shields.io/github/stars/T3slaa/CVE-2024-55374">
 
 ---
+## CVE-2024-5535 ()
+> 
+- [websecnl/CVE-2024-5535](https://github.com/websecnl/CVE-2024-5535)	<img alt="forks" src="https://img.shields.io/github/forks/websecnl/CVE-2024-5535">	<img alt="stars" src="https://img.shields.io/github/stars/websecnl/CVE-2024-5535">
+
+---
 ## CVE-2024-55347 ()
 > 
 - [sahil3276/CVE-2024-55347](https://github.com/sahil3276/CVE-2024-55347)	<img alt="forks" src="https://img.shields.io/github/forks/sahil3276/CVE-2024-55347">	<img alt="stars" src="https://img.shields.io/github/stars/sahil3276/CVE-2024-55347">
@@ -1571,6 +1675,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-5522-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-5522-Poc">
 - [kryptonproject/CVE-2024-5522-PoC](https://github.com/kryptonproject/CVE-2024-5522-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kryptonproject/CVE-2024-5522-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kryptonproject/CVE-2024-5522-PoC">
 - [geniuszlyy/CVE-2024-5522](https://github.com/geniuszlyy/CVE-2024-5522)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszlyy/CVE-2024-5522">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszlyy/CVE-2024-5522">
+
+---
+## CVE-2024-55215 ()
+> 
+- [ainrm/Jrohy-trojan-unauth-poc](https://github.com/ainrm/Jrohy-trojan-unauth-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ainrm/Jrohy-trojan-unauth-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ainrm/Jrohy-trojan-unauth-poc">
 
 ---
 ## CVE-2024-55211 ()
@@ -1624,6 +1733,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [KrakenEU/CVE-2024-54910](https://github.com/KrakenEU/CVE-2024-54910)	<img alt="forks" src="https://img.shields.io/github/forks/KrakenEU/CVE-2024-54910">	<img alt="stars" src="https://img.shields.io/github/stars/KrakenEU/CVE-2024-54910">
 
 ---
+## CVE-2024-54887 ()
+> 
+- [Gumbraise/CVE-2024-54887-PoC](https://github.com/Gumbraise/CVE-2024-54887-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Gumbraise/CVE-2024-54887-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Gumbraise/CVE-2024-54887-PoC">
+
+---
 ## CVE-2024-54880 ()
 > 
 - [ailenye/CVE-2024-54880](https://github.com/ailenye/CVE-2024-54880)	<img alt="forks" src="https://img.shields.io/github/forks/ailenye/CVE-2024-54880">	<img alt="stars" src="https://img.shields.io/github/stars/ailenye/CVE-2024-54880">
@@ -1670,6 +1784,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [nscan9/CVE-2024-54761](https://github.com/nscan9/CVE-2024-54761)	<img alt="forks" src="https://img.shields.io/github/forks/nscan9/CVE-2024-54761">	<img alt="stars" src="https://img.shields.io/github/stars/nscan9/CVE-2024-54761">
 
 ---
+## CVE-2024-54756 ()
+> 
+- [Chainmanner/GZDoom-Arbitrary-Code-Execution-via-ZScript-PoC](https://github.com/Chainmanner/GZDoom-Arbitrary-Code-Execution-via-ZScript-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Chainmanner/GZDoom-Arbitrary-Code-Execution-via-ZScript-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Chainmanner/GZDoom-Arbitrary-Code-Execution-via-ZScript-PoC">
+
+---
 ## CVE-2024-54679 ()
 > 
 - [hotplugin0x01/CVE-2024-54679](https://github.com/hotplugin0x01/CVE-2024-54679)	<img alt="forks" src="https://img.shields.io/github/forks/hotplugin0x01/CVE-2024-54679">	<img alt="stars" src="https://img.shields.io/github/stars/hotplugin0x01/CVE-2024-54679">
@@ -1701,6 +1820,16 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [pashayogi/CVE-2024-54383](https://github.com/pashayogi/CVE-2024-54383)	<img alt="forks" src="https://img.shields.io/github/forks/pashayogi/CVE-2024-54383">	<img alt="stars" src="https://img.shields.io/github/stars/pashayogi/CVE-2024-54383">
 
 ---
+## CVE-2024-54379 ()
+> 
+- [RandomRobbieBF/CVE-2024-54379](https://github.com/RandomRobbieBF/CVE-2024-54379)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54379">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54379">
+
+---
+## CVE-2024-54378 ()
+> 
+- [RandomRobbieBF/CVE-2024-54378](https://github.com/RandomRobbieBF/CVE-2024-54378)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54378">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54378">
+
+---
 ## CVE-2024-54369 ()
 > 
 - [Nxploited/CVE-2024-54369-PoC](https://github.com/Nxploited/CVE-2024-54369-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-54369-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-54369-PoC">
@@ -1722,6 +1851,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 > 
 - [RandomRobbieBF/CVE-2024-54262](https://github.com/RandomRobbieBF/CVE-2024-54262)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54262">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54262">
 - [Nxploited/CVE-2024-54262](https://github.com/Nxploited/CVE-2024-54262)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-54262">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-54262">
+
+---
+## CVE-2024-54239 ()
+> 
+- [RandomRobbieBF/CVE-2024-54239](https://github.com/RandomRobbieBF/CVE-2024-54239)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54239">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54239">
 
 ---
 ## CVE-2024-5420 (2024-06-04T08:15:00)
@@ -1759,6 +1893,13 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-53704 ()
 > 
 - [istagmbh/CVE-2024-53704](https://github.com/istagmbh/CVE-2024-53704)	<img alt="forks" src="https://img.shields.io/github/forks/istagmbh/CVE-2024-53704">	<img alt="stars" src="https://img.shields.io/github/stars/istagmbh/CVE-2024-53704">
+- [sfewer-r7/SonicSessionLeak](https://github.com/sfewer-r7/SonicSessionLeak)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/SonicSessionLeak">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/SonicSessionLeak">
+- [anir0y/sonicwall-audit-toolkit](https://github.com/anir0y/sonicwall-audit-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/anir0y/sonicwall-audit-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/anir0y/sonicwall-audit-toolkit">
+
+---
+## CVE-2024-53703 ()
+> 
+- [scrt/cve-2024-53703-poc](https://github.com/scrt/cve-2024-53703-poc)	<img alt="forks" src="https://img.shields.io/github/forks/scrt/cve-2024-53703-poc">	<img alt="stars" src="https://img.shields.io/github/stars/scrt/cve-2024-53703-poc">
 
 ---
 ## CVE-2024-53691 ()
@@ -1789,6 +1930,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [MartinxMax/CVE-2024-53677](https://github.com/MartinxMax/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/MartinxMax/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/MartinxMax/CVE-2024-53677">
 - [sangrok-jeon/CVE-2024-53677-Analysis](https://github.com/sangrok-jeon/CVE-2024-53677-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sangrok-jeon/CVE-2024-53677-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sangrok-jeon/CVE-2024-53677-Analysis">
 - [ctfsec/CVE-2024-53677](https://github.com/ctfsec/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/ctfsec/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/ctfsec/CVE-2024-53677">
+
+---
+## CVE-2024-53667 ()
+> 
+- [baburkin/struts-uploader-vulnerability](https://github.com/baburkin/struts-uploader-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/baburkin/struts-uploader-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/baburkin/struts-uploader-vulnerability">
 
 ---
 ## CVE-2024-53617 (2024-12-02T19:15:00)
@@ -1866,6 +2012,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 > The Post Grid Gutenberg Blocks and WordPress Blog Plugin – PostX plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the 'postx_presets_callback' function in all versions up to, and including, 4.1.2. This makes it possible for authenticated attackers, with Contributor-level access and above, to change arbitrary options on affected sites. This can be used to enable new user registration and set the default role for new users to Administrator.
 - [truonghuuphuc/CVE-2024-5326-Poc](https://github.com/truonghuuphuc/CVE-2024-5326-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-5326-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-5326-Poc">
 - [cve-2024/CVE-2024-5326-Poc](https://github.com/cve-2024/CVE-2024-5326-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-5326-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-5326-Poc">
+- [djayaGit/CVE-2024-5326-Poc](https://github.com/djayaGit/CVE-2024-5326-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/djayaGit/CVE-2024-5326-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/djayaGit/CVE-2024-5326-Poc">
 
 ---
 ## CVE-2024-53259 (2024-12-02T17:15:00)
@@ -1883,14 +2030,30 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk](https://github.com/uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk)	<img alt="forks" src="https://img.shields.io/github/forks/uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk">	<img alt="stars" src="https://img.shields.io/github/stars/uzigun/Basic_RCE_Sample_With_POST_Request_For_CVE-2024-53247_Splunk">
 
 ---
+## CVE-2024-5324 ()
+> 
+- [RandomRobbieBF/CVE-2024-5324](https://github.com/RandomRobbieBF/CVE-2024-5324)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-5324">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-5324">
+
+---
 ## CVE-2024-53027 ()
 > 
 - [ladyg00se/CVE-2024-53027-WIP](https://github.com/ladyg00se/CVE-2024-53027-WIP)	<img alt="forks" src="https://img.shields.io/github/forks/ladyg00se/CVE-2024-53027-WIP">	<img alt="stars" src="https://img.shields.io/github/stars/ladyg00se/CVE-2024-53027-WIP">
 
 ---
+## CVE-2024-52940 ()
+> 
+- [ebrasha/abdal-anydesk-remote-ip-detector](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector)	<img alt="forks" src="https://img.shields.io/github/forks/ebrasha/abdal-anydesk-remote-ip-detector">	<img alt="stars" src="https://img.shields.io/github/stars/ebrasha/abdal-anydesk-remote-ip-detector">
+- [MKultra6969/AnySniff](https://github.com/MKultra6969/AnySniff)	<img alt="forks" src="https://img.shields.io/github/forks/MKultra6969/AnySniff">	<img alt="stars" src="https://img.shields.io/github/stars/MKultra6969/AnySniff">
+
+---
 ## CVE-2024-5290 ()
 > 
 - [zrax-x/CVE-2024-5290-exp](https://github.com/zrax-x/CVE-2024-5290-exp)	<img alt="forks" src="https://img.shields.io/github/forks/zrax-x/CVE-2024-5290-exp">	<img alt="stars" src="https://img.shields.io/github/stars/zrax-x/CVE-2024-5290-exp">
+
+---
+## CVE-2024-52800 ()
+> 
+- [JAckLosingHeart/GHSA-4cx5-89vm-833x-POC](https://github.com/JAckLosingHeart/GHSA-4cx5-89vm-833x-POC)	<img alt="forks" src="https://img.shields.io/github/forks/JAckLosingHeart/GHSA-4cx5-89vm-833x-POC">	<img alt="stars" src="https://img.shields.io/github/stars/JAckLosingHeart/GHSA-4cx5-89vm-833x-POC">
 
 ---
 ## CVE-2024-52794 ()
@@ -1924,6 +2087,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [Anton-ai111/CVE-2024-52550](https://github.com/Anton-ai111/CVE-2024-52550)	<img alt="forks" src="https://img.shields.io/github/forks/Anton-ai111/CVE-2024-52550">	<img alt="stars" src="https://img.shields.io/github/stars/Anton-ai111/CVE-2024-52550">
 
 ---
+## CVE-2024-52510 ()
+> 
+- [d-xuan/CVE-2024-52510](https://github.com/d-xuan/CVE-2024-52510)	<img alt="forks" src="https://img.shields.io/github/forks/d-xuan/CVE-2024-52510">	<img alt="stars" src="https://img.shields.io/github/stars/d-xuan/CVE-2024-52510">
+
+---
 ## CVE-2024-52475 (2024-11-28T11:15:00)
 > Authentication Bypass Using an Alternate Path or Channel vulnerability in Automation Web Platform Wawp allows Authentication Bypass.This issue affects Wawp: from n/a before 3.0.18.
 - [ubaii/CVE-2024-52475](https://github.com/ubaii/CVE-2024-52475)	<img alt="forks" src="https://img.shields.io/github/forks/ubaii/CVE-2024-52475">	<img alt="stars" src="https://img.shields.io/github/stars/ubaii/CVE-2024-52475">
@@ -1952,6 +2120,7 @@ The specific flaw exists within the product installer. The issue results from th
 - [dilagluc/CVE_2024_5243](https://github.com/dilagluc/CVE_2024_5243)	<img alt="forks" src="https://img.shields.io/github/forks/dilagluc/CVE_2024_5243">	<img alt="stars" src="https://img.shields.io/github/stars/dilagluc/CVE_2024_5243">
 - [RandomRobbieBF/CVE-2024-52430](https://github.com/RandomRobbieBF/CVE-2024-52430)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52430">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52430">
 - [RandomRobbieBF/CVE-2024-52433](https://github.com/RandomRobbieBF/CVE-2024-52433)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-52433">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-52433">
+- [redpack-kr/CVE-2024-5243-pwn2own-toronto-2023](https://github.com/redpack-kr/CVE-2024-5243-pwn2own-toronto-2023)	<img alt="forks" src="https://img.shields.io/github/forks/redpack-kr/CVE-2024-5243-pwn2own-toronto-2023">	<img alt="stars" src="https://img.shields.io/github/stars/redpack-kr/CVE-2024-5243-pwn2own-toronto-2023">
 
 ---
 ## CVE-2024-52429 ()
@@ -2033,14 +2202,34 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [nanwinata/CVE-2024-52301](https://github.com/nanwinata/CVE-2024-52301)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/CVE-2024-52301">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/CVE-2024-52301">
 
 ---
+## CVE-2024-52011 ()
+> 
+- [HORKimhab/CVE-2024-52011](https://github.com/HORKimhab/CVE-2024-52011)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2024-52011">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2024-52011">
+
+---
+## CVE-2024-52010 ()
+> 
+- [iuds/-CVE-2024-52010-](https://github.com/iuds/-CVE-2024-52010-)	<img alt="forks" src="https://img.shields.io/github/forks/iuds/-CVE-2024-52010-">	<img alt="stars" src="https://img.shields.io/github/stars/iuds/-CVE-2024-52010-">
+
+---
 ## CVE-2024-52005 ()
 > 
 - [andrewd-cg/cve-2024-52005-poc](https://github.com/andrewd-cg/cve-2024-52005-poc)	<img alt="forks" src="https://img.shields.io/github/forks/andrewd-cg/cve-2024-52005-poc">	<img alt="stars" src="https://img.shields.io/github/stars/andrewd-cg/cve-2024-52005-poc">
 
 ---
+## CVE-2024-52002 ()
+> 
+- [Harshit-Mashru/iTop-CVEs-exploit](https://github.com/Harshit-Mashru/iTop-CVEs-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Harshit-Mashru/iTop-CVEs-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Harshit-Mashru/iTop-CVEs-exploit">
+
+---
 ## CVE-2024-51996 ()
 > 
 - [moften/CVE-2024-51996](https://github.com/moften/CVE-2024-51996)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2024-51996">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2024-51996">
+
+---
+## CVE-2024-51977 ()
+> 
+- [sfewer-r7/BrotherVulnerabilities](https://github.com/sfewer-r7/BrotherVulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/BrotherVulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/BrotherVulnerabilities">
 
 ---
 ## CVE-2024-51793 ()
@@ -2084,6 +2273,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [XiaomingX/cve-2024-51567-poc](https://github.com/XiaomingX/cve-2024-51567-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-51567-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-51567-poc">
 
 ---
+## CVE-2024-5153 ()
+> 
+- [Sudo-WP/sudowp-dropzone-elementor](https://github.com/Sudo-WP/sudowp-dropzone-elementor)	<img alt="forks" src="https://img.shields.io/github/forks/Sudo-WP/sudowp-dropzone-elementor">	<img alt="stars" src="https://img.shields.io/github/stars/Sudo-WP/sudowp-dropzone-elementor">
+
+---
 ## CVE-2024-51482 ()
 > 
 - [BwithE/CVE-2024-51482](https://github.com/BwithE/CVE-2024-51482)	<img alt="forks" src="https://img.shields.io/github/forks/BwithE/CVE-2024-51482">	<img alt="stars" src="https://img.shields.io/github/stars/BwithE/CVE-2024-51482">
@@ -2101,6 +2295,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ## CVE-2024-51442 ()
 > 
 - [mselbrede/CVE-2024-51442](https://github.com/mselbrede/CVE-2024-51442)	<img alt="forks" src="https://img.shields.io/github/forks/mselbrede/CVE-2024-51442">	<img alt="stars" src="https://img.shields.io/github/stars/mselbrede/CVE-2024-51442">
+
+---
+## CVE-2024-51435 ()
+> 
+- [bevennyamande/CVE-2024-51435](https://github.com/bevennyamande/CVE-2024-51435)	<img alt="forks" src="https://img.shields.io/github/forks/bevennyamande/CVE-2024-51435">	<img alt="stars" src="https://img.shields.io/github/stars/bevennyamande/CVE-2024-51435">
 
 ---
 ## CVE-2024-51430 (2024-10-31T17:15:00)
@@ -2379,9 +2578,24 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50526](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50526)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50526">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-50526">
 
 ---
+## CVE-2024-50510 ()
+> 
+- [RandomRobbieBF/CVE-2024-50510](https://github.com/RandomRobbieBF/CVE-2024-50510)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50510">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50510">
+
+---
 ## CVE-2024-50509 ()
 > 
 - [RandomRobbieBF/CVE-2024-50509](https://github.com/RandomRobbieBF/CVE-2024-50509)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50509">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50509">
+
+---
+## CVE-2024-50508 ()
+> 
+- [RandomRobbieBF/CVE-2024-50508](https://github.com/RandomRobbieBF/CVE-2024-50508)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50508">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50508">
+
+---
+## CVE-2024-50507 ()
+> 
+- [RandomRobbieBF/CVE-2024-50507](https://github.com/RandomRobbieBF/CVE-2024-50507)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-50507">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-50507">
 
 ---
 ## CVE-2024-50498 (2024-10-28T12:15:00)
@@ -2508,11 +2722,17 @@ Media Streaming add-on 500.1.1.6 ( 2024/08/02 ) and later
 - [gomtaengi/CVE-2024-50379-exp](https://github.com/gomtaengi/CVE-2024-50379-exp)	<img alt="forks" src="https://img.shields.io/github/forks/gomtaengi/CVE-2024-50379-exp">	<img alt="stars" src="https://img.shields.io/github/stars/gomtaengi/CVE-2024-50379-exp">
 - [Yuri08loveElaina/CVE-2024-50379](https://github.com/Yuri08loveElaina/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2024-50379">
 - [radzek15/CVE-2024-50379-TOCTOU](https://github.com/radzek15/CVE-2024-50379-TOCTOU)	<img alt="forks" src="https://img.shields.io/github/forks/radzek15/CVE-2024-50379-TOCTOU">	<img alt="stars" src="https://img.shields.io/github/stars/radzek15/CVE-2024-50379-TOCTOU">
+- [azilRababe/CVE-2024-50379](https://github.com/azilRababe/CVE-2024-50379)	<img alt="forks" src="https://img.shields.io/github/forks/azilRababe/CVE-2024-50379">	<img alt="stars" src="https://img.shields.io/github/stars/azilRababe/CVE-2024-50379">
 
 ---
 ## CVE-2024-50340 ()
 > 
 - [Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/CVE-2024-50340">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/CVE-2024-50340">
+
+---
+## CVE-2024-50335 ()
+> 
+- [shellkraft/CVE-2024-50335](https://github.com/shellkraft/CVE-2024-50335)	<img alt="forks" src="https://img.shields.io/github/forks/shellkraft/CVE-2024-50335">	<img alt="stars" src="https://img.shields.io/github/stars/shellkraft/CVE-2024-50335">
 
 ---
 ## CVE-2024-50251 (2024-11-09T11:15:00)
@@ -2545,6 +2765,21 @@ length to be included in the checksum calculation is fully consumed.
 - [sastraadiwiguna-purpleeliteteaming/LlamaStack-RCE-Deterministic-Supply-Chain-Exploitation-Hardening-Framework-CVE-2024-50050-](https://github.com/sastraadiwiguna-purpleeliteteaming/LlamaStack-RCE-Deterministic-Supply-Chain-Exploitation-Hardening-Framework-CVE-2024-50050-)	<img alt="forks" src="https://img.shields.io/github/forks/sastraadiwiguna-purpleeliteteaming/LlamaStack-RCE-Deterministic-Supply-Chain-Exploitation-Hardening-Framework-CVE-2024-50050-">	<img alt="stars" src="https://img.shields.io/github/stars/sastraadiwiguna-purpleeliteteaming/LlamaStack-RCE-Deterministic-Supply-Chain-Exploitation-Hardening-Framework-CVE-2024-50050-">
 
 ---
+## CVE-2024-49882 ()
+> 
+- [SpiralBL0CK/CVE-2023-1206-CVE-2025-40040-CVE-2024-49882](https://github.com/SpiralBL0CK/CVE-2023-1206-CVE-2025-40040-CVE-2024-49882)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2023-1206-CVE-2025-40040-CVE-2024-49882">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2023-1206-CVE-2025-40040-CVE-2024-49882">
+
+---
+## CVE-2024-49746 ()
+> 
+- [michalbednarski/ThisSeemsWrong](https://github.com/michalbednarski/ThisSeemsWrong)	<img alt="forks" src="https://img.shields.io/github/forks/michalbednarski/ThisSeemsWrong">	<img alt="stars" src="https://img.shields.io/github/stars/michalbednarski/ThisSeemsWrong">
+
+---
+## CVE-2024-49699 ()
+> 
+- [RandomRobbieBF/CVE-2024-49699](https://github.com/RandomRobbieBF/CVE-2024-49699)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-49699">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-49699">
+
+---
 ## CVE-2024-49681 (2024-10-24T12:15:00)
 > Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in SWIT WP Sessions Time Monitoring Full Automatic allows SQL Injection.This issue affects WP Sessions Time Monitoring Full Automatic: from n/a through 1.0.9.
 - [RandomRobbieBF/CVE-2024-49681](https://github.com/RandomRobbieBF/CVE-2024-49681)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-49681">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-49681">
@@ -2558,6 +2793,11 @@ length to be included in the checksum calculation is fully consumed.
 ## CVE-2024-49653 ()
 > 
 - [Nxploited/CVE-2024-49653](https://github.com/Nxploited/CVE-2024-49653)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-49653">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-49653">
+
+---
+## CVE-2024-49607 ()
+> 
+- [RandomRobbieBF/CVE-2024-49607](https://github.com/RandomRobbieBF/CVE-2024-49607)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-49607">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-49607">
 
 ---
 ## CVE-2024-4956 (2024-05-16T16:15:00)
@@ -2582,6 +2822,7 @@ length to be included in the checksum calculation is fully consumed.
 - [XiaomingX/cve-2024-4956](https://github.com/XiaomingX/cve-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-4956">
 - [art-of-defence/CVE-2024-4956](https://github.com/art-of-defence/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/art-of-defence/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/art-of-defence/CVE-2024-4956">
 - [Buff3st-0v3rfl0w/CVE-2024-4956](https://github.com/Buff3st-0v3rfl0w/CVE-2024-4956)	<img alt="forks" src="https://img.shields.io/github/forks/Buff3st-0v3rfl0w/CVE-2024-4956">	<img alt="stars" src="https://img.shields.io/github/stars/Buff3st-0v3rfl0w/CVE-2024-4956">
+- [amalpvatayam67/day04-nexus-4956](https://github.com/amalpvatayam67/day04-nexus-4956)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day04-nexus-4956">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day04-nexus-4956">
 
 ---
 ## CVE-2024-4947 (2024-05-15T21:15:00)
@@ -2594,6 +2835,11 @@ length to be included in the checksum calculation is fully consumed.
 ## CVE-2024-49379 (2024-11-13T18:15:00)
 > Umbrel is a home server OS for self-hosting. The login functionality of Umbrel before version 1.2.2 contains a reflected cross-site scripting (XSS) vulnerability in use-auth.tsx. An attacker can specify a malicious redirect query parameter to trigger the vulnerability. If a JavaScript URL is passed to the redirect parameter the attacker provided JavaScript will be executed after the user entered their password and clicked on login. This vulnerability is fixed in 1.2.2.
 - [OHDUDEOKNICE/CVE-2024-49379](https://github.com/OHDUDEOKNICE/CVE-2024-49379)	<img alt="forks" src="https://img.shields.io/github/forks/OHDUDEOKNICE/CVE-2024-49379">	<img alt="stars" src="https://img.shields.io/github/stars/OHDUDEOKNICE/CVE-2024-49379">
+
+---
+## CVE-2024-49375 ()
+> 
+- [lierbushiwo/Rasa-cve-exp](https://github.com/lierbushiwo/Rasa-cve-exp)	<img alt="forks" src="https://img.shields.io/github/forks/lierbushiwo/Rasa-cve-exp">	<img alt="stars" src="https://img.shields.io/github/stars/lierbushiwo/Rasa-cve-exp">
 
 ---
 ## CVE-2024-49369 ()
@@ -2635,6 +2881,11 @@ length to be included in the checksum calculation is fully consumed.
 - [codetronik/CVE-2024-49138](https://github.com/codetronik/CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/codetronik/CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/codetronik/CVE-2024-49138">
 - [vettrivel007/CVE-2024-49138](https://github.com/vettrivel007/CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/vettrivel007/CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/vettrivel007/CVE-2024-49138">
 - [Zedocun/soc-investigation-powershell-edrfreeze](https://github.com/Zedocun/soc-investigation-powershell-edrfreeze)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/soc-investigation-powershell-edrfreeze">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/soc-investigation-powershell-edrfreeze">
+
+---
+## CVE-2024-49117 ()
+> 
+- [mutkus/Microsoft-2024-December-Update-Control](https://github.com/mutkus/Microsoft-2024-December-Update-Control)	<img alt="forks" src="https://img.shields.io/github/forks/mutkus/Microsoft-2024-December-Update-Control">	<img alt="stars" src="https://img.shields.io/github/stars/mutkus/Microsoft-2024-December-Update-Control">
 
 ---
 ## CVE-2024-49113 ()
@@ -2694,12 +2945,14 @@ length to be included in the checksum calculation is fully consumed.
 - [sobbing333/CVE-2024-48990-POC](https://github.com/sobbing333/CVE-2024-48990-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sobbing333/CVE-2024-48990-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sobbing333/CVE-2024-48990-POC">
 - [grecosamuel/CVE-2024-48990](https://github.com/grecosamuel/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/grecosamuel/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/grecosamuel/CVE-2024-48990">
 - [BLUEBERRYP1LL/CVE-2024-48990](https://github.com/BLUEBERRYP1LL/CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/BLUEBERRYP1LL/CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/BLUEBERRYP1LL/CVE-2024-48990">
+- [kikechans/-Linux-PrivEsc-CVE-2024-48990](https://github.com/kikechans/-Linux-PrivEsc-CVE-2024-48990)	<img alt="forks" src="https://img.shields.io/github/forks/kikechans/-Linux-PrivEsc-CVE-2024-48990">	<img alt="stars" src="https://img.shields.io/github/stars/kikechans/-Linux-PrivEsc-CVE-2024-48990">
 
 ---
 ## CVE-2024-4898 (2024-06-12T11:15:00)
 > The InstaWP Connect – 1-click WP Staging & Migration plugin for WordPress is vulnerable to arbitrary option updates due to a missing authorization checks on the REST API calls in all versions up to, and including, 0.1.0.38. This makes it possible for unauthenticated attackers to connect the site to InstaWP API, edit arbitrary site options and create administrator accounts.
 - [truonghuuphuc/CVE-2024-4898-Poc](https://github.com/truonghuuphuc/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4898-Poc">
 - [cve-2024/CVE-2024-4898-Poc](https://github.com/cve-2024/CVE-2024-4898-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4898-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4898-Poc">
+- [gh-ost00/CVE-2024-4898](https://github.com/gh-ost00/CVE-2024-4898)	<img alt="forks" src="https://img.shields.io/github/forks/gh-ost00/CVE-2024-4898">	<img alt="stars" src="https://img.shields.io/github/stars/gh-ost00/CVE-2024-4898">
 
 ---
 ## CVE-2024-48955 (2024-10-29T18:15:00)
@@ -2811,6 +3064,11 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644)	<img alt="forks" src="https://img.shields.io/github/forks/rosembergpro/CVE-2024-48644">	<img alt="stars" src="https://img.shields.io/github/stars/rosembergpro/CVE-2024-48644">
 
 ---
+## CVE-2024-48605 ()
+> 
+- [surajhacx/HelakuruV.1.1-DLLHijack](https://github.com/surajhacx/HelakuruV.1.1-DLLHijack)	<img alt="forks" src="https://img.shields.io/github/forks/surajhacx/HelakuruV.1.1-DLLHijack">	<img alt="stars" src="https://img.shields.io/github/stars/surajhacx/HelakuruV.1.1-DLLHijack">
+
+---
 ## CVE-2024-48591 ()
 > 
 - [GCatt-AS/CVE-2024-48591](https://github.com/GCatt-AS/CVE-2024-48591)	<img alt="forks" src="https://img.shields.io/github/forks/GCatt-AS/CVE-2024-48591">	<img alt="stars" src="https://img.shields.io/github/stars/GCatt-AS/CVE-2024-48591">
@@ -2867,6 +3125,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [OpenXP-Research/CVE-2024-48359](https://github.com/OpenXP-Research/CVE-2024-48359)	<img alt="forks" src="https://img.shields.io/github/forks/OpenXP-Research/CVE-2024-48359">	<img alt="stars" src="https://img.shields.io/github/stars/OpenXP-Research/CVE-2024-48359">
 
 ---
+## CVE-2024-48336 ()
+> 
+- [canyie/MagiskEoP](https://github.com/canyie/MagiskEoP)	<img alt="forks" src="https://img.shields.io/github/forks/canyie/MagiskEoP">	<img alt="stars" src="https://img.shields.io/github/stars/canyie/MagiskEoP">
+
+---
 ## CVE-2024-48326 ()
 > 
 - [fabiobsj/CVE-2024-48326](https://github.com/fabiobsj/CVE-2024-48326)	<img alt="forks" src="https://img.shields.io/github/forks/fabiobsj/CVE-2024-48326">	<img alt="stars" src="https://img.shields.io/github/stars/fabiobsj/CVE-2024-48326">
@@ -2886,6 +3149,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 > JeecgBoot v3.7.1 was discovered to contain a SQL injection vulnerability via the component /onlDragDatasetHead/getTotalData.
 - [iSee857/CVE-2024-48307-poc](https://github.com/iSee857/CVE-2024-48307-poc)	<img alt="forks" src="https://img.shields.io/github/forks/iSee857/CVE-2024-48307-poc">	<img alt="stars" src="https://img.shields.io/github/stars/iSee857/CVE-2024-48307-poc">
 - [jisi-001/CVE-2024-48307POC](https://github.com/jisi-001/CVE-2024-48307POC)	<img alt="forks" src="https://img.shields.io/github/forks/jisi-001/CVE-2024-48307POC">	<img alt="stars" src="https://img.shields.io/github/stars/jisi-001/CVE-2024-48307POC">
+
+---
+## CVE-2024-48248 ()
+> 
+- [watchtowrlabs/nakivo-arbitrary-file-read-poc-CVE-2024-48248](https://github.com/watchtowrlabs/nakivo-arbitrary-file-read-poc-CVE-2024-48248)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/nakivo-arbitrary-file-read-poc-CVE-2024-48248">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/nakivo-arbitrary-file-read-poc-CVE-2024-48248">
 
 ---
 ## CVE-2024-48246 ()
@@ -2923,6 +3191,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [J-0k3r/CVE-2024-48180](https://github.com/J-0k3r/CVE-2024-48180)	<img alt="forks" src="https://img.shields.io/github/forks/J-0k3r/CVE-2024-48180">	<img alt="stars" src="https://img.shields.io/github/stars/J-0k3r/CVE-2024-48180">
 
 ---
+## CVE-2024-48139 ()
+> 
+- [hannahbellesheart/blackbox.ai.security.analysis](https://github.com/hannahbellesheart/blackbox.ai.security.analysis)	<img alt="forks" src="https://img.shields.io/github/forks/hannahbellesheart/blackbox.ai.security.analysis">	<img alt="stars" src="https://img.shields.io/github/stars/hannahbellesheart/blackbox.ai.security.analysis">
+
+---
 ## CVE-2024-48063 (2024-10-29T21:15:00)
 > In PyTorch <=2.4.1, the RemoteModule has Deserialization RCE.
 - [zgimszhd61/CVE-2024-48063-poc](https://github.com/zgimszhd61/CVE-2024-48063-poc)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-48063-poc">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-48063-poc">
@@ -2944,9 +3217,19 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [MarioTesoro/CVE-2024-47854](https://github.com/MarioTesoro/CVE-2024-47854)	<img alt="forks" src="https://img.shields.io/github/forks/MarioTesoro/CVE-2024-47854">	<img alt="stars" src="https://img.shields.io/github/stars/MarioTesoro/CVE-2024-47854">
 
 ---
+## CVE-2024-47823 ()
+> 
+- [HelgeSverre/livewire-honeypot](https://github.com/HelgeSverre/livewire-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/HelgeSverre/livewire-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/HelgeSverre/livewire-honeypot">
+
+---
 ## CVE-2024-47773 ()
 > 
 - [ibrahmsql/CVE-2024-47773](https://github.com/ibrahmsql/CVE-2024-47773)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2024-47773">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2024-47773">
+
+---
+## CVE-2024-47611 ()
+> 
+- [greydoubt/xz](https://github.com/greydoubt/xz)	<img alt="forks" src="https://img.shields.io/github/forks/greydoubt/xz">	<img alt="stars" src="https://img.shields.io/github/stars/greydoubt/xz">
 
 ---
 ## CVE-2024-4761 (2024-05-14T16:17:00)
@@ -2999,6 +3282,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [okkotsu1/CVE-2024-47533](https://github.com/okkotsu1/CVE-2024-47533)	<img alt="forks" src="https://img.shields.io/github/forks/okkotsu1/CVE-2024-47533">	<img alt="stars" src="https://img.shields.io/github/stars/okkotsu1/CVE-2024-47533">
 
 ---
+## CVE-2024-47177 ()
+> 
+- [referefref/cupspot-2024-47177](https://github.com/referefref/cupspot-2024-47177)	<img alt="forks" src="https://img.shields.io/github/forks/referefref/cupspot-2024-47177">	<img alt="stars" src="https://img.shields.io/github/stars/referefref/cupspot-2024-47177">
+
+---
 ## CVE-2024-47176 (2024-09-26T22:15:00)
 > CUPS is a standards-based, open-source printing system, and `cups-browsed` contains network printing functionality including, but not limited to, auto-discovering print services and shared printers. `cups-browsed` binds to `INADDR_ANY:631`, causing it to trust any packet from any source, and can cause the `Get-Printer-Attributes` IPP request to an attacker controlled URL.
 
@@ -3020,6 +3308,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [0x7556/CVE-2024-47176](https://github.com/0x7556/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2024-47176">
 - [deancooreman/CVE-2024-47176](https://github.com/deancooreman/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/deancooreman/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/deancooreman/CVE-2024-47176">
 - [jimi2x/dirtycups](https://github.com/jimi2x/dirtycups)	<img alt="forks" src="https://img.shields.io/github/forks/jimi2x/dirtycups">	<img alt="stars" src="https://img.shields.io/github/stars/jimi2x/dirtycups">
+- [Rhyru9/CUPS-CVE-2024-47176](https://github.com/Rhyru9/CUPS-CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/Rhyru9/CUPS-CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/Rhyru9/CUPS-CVE-2024-47176">
 
 ---
 ## CVE-2024-47167 ()
@@ -3072,6 +3361,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [BLUEBERRYP1LL/CVE-2024-46987](https://github.com/BLUEBERRYP1LL/CVE-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/BLUEBERRYP1LL/CVE-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/BLUEBERRYP1LL/CVE-2024-46987">
 - [bootstrapbool/msf-cve-2024-46987](https://github.com/bootstrapbool/msf-cve-2024-46987)	<img alt="forks" src="https://img.shields.io/github/forks/bootstrapbool/msf-cve-2024-46987">	<img alt="stars" src="https://img.shields.io/github/stars/bootstrapbool/msf-cve-2024-46987">
 - [0xmrsecurity/Public_Poc](https://github.com/0xmrsecurity/Public_Poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xmrsecurity/Public_Poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xmrsecurity/Public_Poc">
+- [SuriyaBoon/HackTheBox-Facts](https://github.com/SuriyaBoon/HackTheBox-Facts)	<img alt="forks" src="https://img.shields.io/github/forks/SuriyaBoon/HackTheBox-Facts">	<img alt="stars" src="https://img.shields.io/github/stars/SuriyaBoon/HackTheBox-Facts">
 
 ---
 ## CVE-2024-46986 (2024-09-18T18:15:00)
@@ -3086,6 +3376,12 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [melmathari/CVE-2024-46982-NUCLEI](https://github.com/melmathari/CVE-2024-46982-NUCLEI)	<img alt="forks" src="https://img.shields.io/github/forks/melmathari/CVE-2024-46982-NUCLEI">	<img alt="stars" src="https://img.shields.io/github/stars/melmathari/CVE-2024-46982-NUCLEI">
 - [samuel871211/CVE-2024-46982-Reproduction](https://github.com/samuel871211/CVE-2024-46982-Reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/samuel871211/CVE-2024-46982-Reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/samuel871211/CVE-2024-46982-Reproduction">
 - [hidesec/CVE-2025-32421](https://github.com/hidesec/CVE-2025-32421)	<img alt="forks" src="https://img.shields.io/github/forks/hidesec/CVE-2025-32421">	<img alt="stars" src="https://img.shields.io/github/stars/hidesec/CVE-2025-32421">
+
+---
+## CVE-2024-46981 ()
+> 
+- [publicqi/CVE-2024-46981](https://github.com/publicqi/CVE-2024-46981)	<img alt="forks" src="https://img.shields.io/github/forks/publicqi/CVE-2024-46981">	<img alt="stars" src="https://img.shields.io/github/stars/publicqi/CVE-2024-46981">
+- [xsshk/CVE-2024-46981](https://github.com/xsshk/CVE-2024-46981)	<img alt="forks" src="https://img.shields.io/github/forks/xsshk/CVE-2024-46981">	<img alt="stars" src="https://img.shields.io/github/stars/xsshk/CVE-2024-46981">
 
 ---
 ## CVE-2024-46901 ()
@@ -3106,6 +3402,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-46713 ()
 > 
 - [enlist12/CVE-2024-46713](https://github.com/enlist12/CVE-2024-46713)	<img alt="forks" src="https://img.shields.io/github/forks/enlist12/CVE-2024-46713">	<img alt="stars" src="https://img.shields.io/github/stars/enlist12/CVE-2024-46713">
+
+---
+## CVE-2024-46671 ()
+> 
+- [ixec-lab/fortinet-cve-2024-46671](https://github.com/ixec-lab/fortinet-cve-2024-46671)	<img alt="forks" src="https://img.shields.io/github/forks/ixec-lab/fortinet-cve-2024-46671">	<img alt="stars" src="https://img.shields.io/github/stars/ixec-lab/fortinet-cve-2024-46671">
 
 ---
 ## CVE-2024-46658 (2024-10-03T21:15:00)
@@ -3195,6 +3496,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-46209 ()
 > 
 - [h4ckr4v3n/CVE-2024-46209](https://github.com/h4ckr4v3n/CVE-2024-46209)	<img alt="forks" src="https://img.shields.io/github/forks/h4ckr4v3n/CVE-2024-46209">	<img alt="stars" src="https://img.shields.io/github/stars/h4ckr4v3n/CVE-2024-46209">
+
+---
+## CVE-2024-45870 ()
+> 
+- [bshyuunn/bandiview-7.05-vuln-PoC](https://github.com/bshyuunn/bandiview-7.05-vuln-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/bshyuunn/bandiview-7.05-vuln-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/bshyuunn/bandiview-7.05-vuln-PoC">
 
 ---
 ## CVE-2024-45827 ()
@@ -3297,11 +3603,17 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [InfoSec-DB/PHPCGIScanner](https://github.com/InfoSec-DB/PHPCGIScanner)	<img alt="forks" src="https://img.shields.io/github/forks/InfoSec-DB/PHPCGIScanner">	<img alt="stars" src="https://img.shields.io/github/stars/InfoSec-DB/PHPCGIScanner">
 - [mananjain61/PHP-CGI-INTERNAL-RCE](https://github.com/mananjain61/PHP-CGI-INTERNAL-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mananjain61/PHP-CGI-INTERNAL-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mananjain61/PHP-CGI-INTERNAL-RCE">
 - [rayngnpc/CVE-2024-4577-rayng](https://github.com/rayngnpc/CVE-2024-4577-rayng)	<img alt="forks" src="https://img.shields.io/github/forks/rayngnpc/CVE-2024-4577-rayng">	<img alt="stars" src="https://img.shields.io/github/stars/rayngnpc/CVE-2024-4577-rayng">
+- [gl1tch0x1/PHP_8.1.x_Exploit](https://github.com/gl1tch0x1/PHP_8.1.x_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gl1tch0x1/PHP_8.1.x_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gl1tch0x1/PHP_8.1.x_Exploit">
 
 ---
 ## CVE-2024-4573 ()
 > 
 - [Castro-Ian/CVE-2024-4573-Mitigation-Script](https://github.com/Castro-Ian/CVE-2024-4573-Mitigation-Script)	<img alt="forks" src="https://img.shields.io/github/forks/Castro-Ian/CVE-2024-4573-Mitigation-Script">	<img alt="stars" src="https://img.shields.io/github/stars/Castro-Ian/CVE-2024-4573-Mitigation-Script">
+
+---
+## CVE-2024-45712 ()
+> 
+- [tdawg506/woocommerce_scanner](https://github.com/tdawg506/woocommerce_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/tdawg506/woocommerce_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/tdawg506/woocommerce_scanner">
 
 ---
 ## CVE-2024-45614 (2024-09-19T23:15:00)
@@ -3313,6 +3625,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 > body-parser is Node.js body parsing middleware. body-parser <1.20.3 is vulnerable to denial of service when url encoding is enabled. A malicious actor using a specially crafted payload could flood the server with a large number of requests, resulting in denial of service. This issue is patched in 1.20.3.
 - [AliMilani/CVE-2024-45590](https://github.com/AliMilani/CVE-2024-45590)	<img alt="forks" src="https://img.shields.io/github/forks/AliMilani/CVE-2024-45590">	<img alt="stars" src="https://img.shields.io/github/stars/AliMilani/CVE-2024-45590">
 - [dhruvik-git/CVE-2024-45590](https://github.com/dhruvik-git/CVE-2024-45590)	<img alt="forks" src="https://img.shields.io/github/forks/dhruvik-git/CVE-2024-45590">	<img alt="stars" src="https://img.shields.io/github/stars/dhruvik-git/CVE-2024-45590">
+- [Evillm/CVE-2024-45590-PoC](https://github.com/Evillm/CVE-2024-45590-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2024-45590-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2024-45590-PoC">
 
 ---
 ## CVE-2024-45589 (2024-09-05T16:15:00)
@@ -3411,6 +3724,7 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 - [NHAS/CVE-2024-45337-POC](https://github.com/NHAS/CVE-2024-45337-POC)	<img alt="forks" src="https://img.shields.io/github/forks/NHAS/CVE-2024-45337-POC">	<img alt="stars" src="https://img.shields.io/github/stars/NHAS/CVE-2024-45337-POC">
 - [NHAS/VULNERABLE-CVE-2024-45337](https://github.com/NHAS/VULNERABLE-CVE-2024-45337)	<img alt="forks" src="https://img.shields.io/github/forks/NHAS/VULNERABLE-CVE-2024-45337">	<img alt="stars" src="https://img.shields.io/github/stars/NHAS/VULNERABLE-CVE-2024-45337">
 - [peace-maker/CVE-2024-45337](https://github.com/peace-maker/CVE-2024-45337)	<img alt="forks" src="https://img.shields.io/github/forks/peace-maker/CVE-2024-45337">	<img alt="stars" src="https://img.shields.io/github/stars/peace-maker/CVE-2024-45337">
+- [Backline-playground/gogs](https://github.com/Backline-playground/gogs)	<img alt="forks" src="https://img.shields.io/github/forks/Backline-playground/gogs">	<img alt="stars" src="https://img.shields.io/github/stars/Backline-playground/gogs">
 
 ---
 ## CVE-2024-45265 (2024-08-26T18:15:00)
@@ -3421,6 +3735,12 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 ## CVE-2024-45264 (2024-08-27T16:15:00)
 > A cross-site request forgery (CSRF) vulnerability in the admin panel in SkySystem Arfa-CMS before 5.1.3124 allows remote attackers to add a new administrator, leading to escalation of privileges.
 - [TheHermione/CVE-2024-45264](https://github.com/TheHermione/CVE-2024-45264)	<img alt="forks" src="https://img.shields.io/github/forks/TheHermione/CVE-2024-45264">	<img alt="stars" src="https://img.shields.io/github/stars/TheHermione/CVE-2024-45264">
+
+---
+## CVE-2024-45244 ()
+> 
+- [shanker-sec/HLF_TxTime_spoofing](https://github.com/shanker-sec/HLF_TxTime_spoofing)	<img alt="forks" src="https://img.shields.io/github/forks/shanker-sec/HLF_TxTime_spoofing">	<img alt="stars" src="https://img.shields.io/github/stars/shanker-sec/HLF_TxTime_spoofing">
+- [shanker-sec/hlf-time-oracle](https://github.com/shanker-sec/hlf-time-oracle)	<img alt="forks" src="https://img.shields.io/github/forks/shanker-sec/hlf-time-oracle">	<img alt="stars" src="https://img.shields.io/github/stars/shanker-sec/hlf-time-oracle">
 
 ---
 ## CVE-2024-45241 (2024-08-26T07:15:00)
@@ -3442,6 +3762,11 @@ This issue affects Apache Solr: from 5.3.0 before 8.11.4, from 9.0.0 before 9.7.
 Users are recommended to upgrade to version 9.7.0, or 8.11.4, which fix the issue.
 - [congdong007/CVE-2024-45216-Poc](https://github.com/congdong007/CVE-2024-45216-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/congdong007/CVE-2024-45216-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/congdong007/CVE-2024-45216-Poc">
 - [qhoko/CVE-2024-45216](https://github.com/qhoko/CVE-2024-45216)	<img alt="forks" src="https://img.shields.io/github/forks/qhoko/CVE-2024-45216">	<img alt="stars" src="https://img.shields.io/github/stars/qhoko/CVE-2024-45216">
+
+---
+## CVE-2024-45200 ()
+> 
+- [chadhyatt/kartlanpwn](https://github.com/chadhyatt/kartlanpwn)	<img alt="forks" src="https://img.shields.io/github/forks/chadhyatt/kartlanpwn">	<img alt="stars" src="https://img.shields.io/github/stars/chadhyatt/kartlanpwn">
 
 ---
 ## CVE-2024-45195 ()
@@ -3634,6 +3959,11 @@ Allocated by task 6166:
 - [merbinr/CVE-2024-44623](https://github.com/merbinr/CVE-2024-44623)	<img alt="forks" src="https://img.shields.io/github/forks/merbinr/CVE-2024-44623">	<img alt="stars" src="https://img.shields.io/github/stars/merbinr/CVE-2024-44623">
 
 ---
+## CVE-2024-44610 ()
+> 
+- [BertoldVdb/PcanExploit](https://github.com/BertoldVdb/PcanExploit)	<img alt="forks" src="https://img.shields.io/github/forks/BertoldVdb/PcanExploit">	<img alt="stars" src="https://img.shields.io/github/stars/BertoldVdb/PcanExploit">
+
+---
 ## CVE-2024-44542 (2024-09-18T15:15:00)
 > SQL Injection vulnerability in todesk v.1.1 allows a remote attacker to execute arbitrary code via the /todesk.com/news.html parameter.
 - [alphandbelt/CVE-2024-44542](https://github.com/alphandbelt/CVE-2024-44542)	<img alt="forks" src="https://img.shields.io/github/forks/alphandbelt/CVE-2024-44542">	<img alt="stars" src="https://img.shields.io/github/stars/alphandbelt/CVE-2024-44542">
@@ -3699,6 +4029,11 @@ Allocated by task 6166:
 - [migopp/cve-2024-44308](https://github.com/migopp/cve-2024-44308)	<img alt="forks" src="https://img.shields.io/github/forks/migopp/cve-2024-44308">	<img alt="stars" src="https://img.shields.io/github/stars/migopp/cve-2024-44308">
 
 ---
+## CVE-2024-44285 ()
+> 
+- [slds1/explt](https://github.com/slds1/explt)	<img alt="forks" src="https://img.shields.io/github/forks/slds1/explt">	<img alt="stars" src="https://img.shields.io/github/stars/slds1/explt">
+
+---
 ## CVE-2024-44258 (2024-10-28T21:15:00)
 > This issue was addressed with improved handling of symlinks. This issue is fixed in iOS 18.1 and iPadOS 18.1, iOS 17.7.1 and iPadOS 17.7.1, visionOS 2.1, tvOS 18.1. Restoring a maliciously crafted backup file may lead to modification of protected system files.
 - [ifpdz/CVE-2024-44258](https://github.com/ifpdz/CVE-2024-44258)	<img alt="forks" src="https://img.shields.io/github/forks/ifpdz/CVE-2024-44258">	<img alt="stars" src="https://img.shields.io/github/stars/ifpdz/CVE-2024-44258">
@@ -3710,6 +4045,11 @@ Allocated by task 6166:
 > A logic issue was addressed with improved restrictions. This issue is fixed in iTunes 12.13.3 for Windows. A local attacker may be able to elevate  their privileges.
 - [mbog14/CVE-2024-44193](https://github.com/mbog14/CVE-2024-44193)	<img alt="forks" src="https://img.shields.io/github/forks/mbog14/CVE-2024-44193">	<img alt="stars" src="https://img.shields.io/github/stars/mbog14/CVE-2024-44193">
 - [mbog14/CVE-2024-44193](https://github.com/mbog14/CVE-2024-44193)	<img alt="forks" src="https://img.shields.io/github/forks/mbog14/CVE-2024-44193">	<img alt="stars" src="https://img.shields.io/github/stars/mbog14/CVE-2024-44193">
+
+---
+## CVE-2024-44133 ()
+> 
+- [yo-yo-yo-jbo/hm-surf](https://github.com/yo-yo-yo-jbo/hm-surf)	<img alt="forks" src="https://img.shields.io/github/forks/yo-yo-yo-jbo/hm-surf">	<img alt="stars" src="https://img.shields.io/github/stars/yo-yo-yo-jbo/hm-surf">
 
 ---
 ## CVE-2024-44083 (2024-08-19T04:15:00)
@@ -3739,6 +4079,11 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 > 
 - [Nxploited/CVE-2024-43998](https://github.com/Nxploited/CVE-2024-43998)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-43998">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-43998">
 - [RandomRobbieBF/CVE-2024-43998](https://github.com/RandomRobbieBF/CVE-2024-43998)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-43998">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-43998">
+
+---
+## CVE-2024-43965 ()
+> 
+- [RandomRobbieBF/CVE-2024-43965](https://github.com/RandomRobbieBF/CVE-2024-43965)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-43965">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-43965">
 
 ---
 ## CVE-2024-43919 (2024-11-01T15:15:00)
@@ -3808,6 +4153,9 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf](https://github.com/1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf)	<img alt="forks" src="https://img.shields.io/github/forks/1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf">	<img alt="stars" src="https://img.shields.io/github/stars/1337rokudenashi/Odoo_PDFjs_CVE-2024-4367.pdf">
 - [John-Popovici/CVE-2024-4367-pdfjs-exploit](https://github.com/John-Popovici/CVE-2024-4367-pdfjs-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/John-Popovici/CVE-2024-4367-pdfjs-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/John-Popovici/CVE-2024-4367-pdfjs-exploit">
 - [ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework](https://github.com/ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework)	<img alt="forks" src="https://img.shields.io/github/forks/ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework">	<img alt="stars" src="https://img.shields.io/github/stars/ellenllen/CVE-2024-4367-PDFjs-Exploit-Framework">
+- [xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss](https://github.com/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss">
+- [J1nKsC/CVE-2024-4367_test](https://github.com/J1nKsC/CVE-2024-4367_test)	<img alt="forks" src="https://img.shields.io/github/forks/J1nKsC/CVE-2024-4367_test">	<img alt="stars" src="https://img.shields.io/github/stars/J1nKsC/CVE-2024-4367_test">
+- [veronimo669/pdf.js-CVE-2024-4367](https://github.com/veronimo669/pdf.js-CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/veronimo669/pdf.js-CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/veronimo669/pdf.js-CVE-2024-4367">
 
 ---
 ## CVE-2024-43639 ()
@@ -3852,6 +4200,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [verylazytech/CVE-2024-4358](https://github.com/verylazytech/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/CVE-2024-4358">
 - [gh-ost00/CVE-2024-4358](https://github.com/gh-ost00/CVE-2024-4358)	<img alt="forks" src="https://img.shields.io/github/forks/gh-ost00/CVE-2024-4358">	<img alt="stars" src="https://img.shields.io/github/stars/gh-ost00/CVE-2024-4358">
 - [jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jinxongwi/CVE-2024-43582-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jinxongwi/CVE-2024-43582-RCE">
+
+---
+## CVE-2024-43535 ()
+> 
+- [jayesther/KTM_POCS](https://github.com/jayesther/KTM_POCS)	<img alt="forks" src="https://img.shields.io/github/forks/jayesther/KTM_POCS">	<img alt="stars" src="https://img.shields.io/github/stars/jayesther/KTM_POCS">
 
 ---
 ## CVE-2024-43532 (2024-10-08T18:15:00)
@@ -3984,6 +4337,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [DACC4/CVE-2024-43044-jenkins-creds](https://github.com/DACC4/CVE-2024-43044-jenkins-creds)	<img alt="forks" src="https://img.shields.io/github/forks/DACC4/CVE-2024-43044-jenkins-creds">	<img alt="stars" src="https://img.shields.io/github/stars/DACC4/CVE-2024-43044-jenkins-creds">
 
 ---
+## CVE-2024-43035 ()
+> 
+- [ZeroPathAI/Fonoster-LFI-PoC](https://github.com/ZeroPathAI/Fonoster-LFI-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroPathAI/Fonoster-LFI-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroPathAI/Fonoster-LFI-PoC">
+
+---
 ## CVE-2024-43018 ()
 > 
 - [joaosilva21/CVE-2024-43018](https://github.com/joaosilva21/CVE-2024-43018)	<img alt="forks" src="https://img.shields.io/github/forks/joaosilva21/CVE-2024-43018">	<img alt="stars" src="https://img.shields.io/github/stars/joaosilva21/CVE-2024-43018">
@@ -3997,12 +4355,14 @@ This issue affects YARPP: from n/a through 5.30.10.
 ## CVE-2024-42992 (2024-08-23T18:15:00)
 > Python Pip Pandas v2.2.2 was discovered to contain an arbitrary file read vulnerability.
 - [juwenyi/CVE-2024-42992](https://github.com/juwenyi/CVE-2024-42992)	<img alt="forks" src="https://img.shields.io/github/forks/juwenyi/CVE-2024-42992">	<img alt="stars" src="https://img.shields.io/github/stars/juwenyi/CVE-2024-42992">
+- [thanhh23/CVE-2024-42992](https://github.com/thanhh23/CVE-2024-42992)	<img alt="forks" src="https://img.shields.io/github/forks/thanhh23/CVE-2024-42992">	<img alt="stars" src="https://img.shields.io/github/stars/thanhh23/CVE-2024-42992">
 
 ---
 ## CVE-2024-4295 (2024-06-05T06:15:00)
 > The Email Subscribers by Icegram Express plugin for WordPress is vulnerable to SQL Injection via the ‘hash’ parameter in all versions up to, and including, 5.7.20 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [truonghuuphuc/CVE-2024-4295-Poc](https://github.com/truonghuuphuc/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4295-Poc">
 - [cve-2024/CVE-2024-4295-Poc](https://github.com/cve-2024/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2024-4295-Poc">
+- [TgHook/CVE-2024-4295-Poc](https://github.com/TgHook/CVE-2024-4295-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/TgHook/CVE-2024-4295-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/TgHook/CVE-2024-4295-Poc">
 
 ---
 ## CVE-2024-42930 (2024-10-28T20:15:00)
@@ -4115,6 +4475,12 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [godylockz/CVE-2024-42327](https://github.com/godylockz/CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2024-42327">
 - [874anthony/CVE-2024-42327_Zabbix_SQLi](https://github.com/874anthony/CVE-2024-42327_Zabbix_SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/874anthony/CVE-2024-42327_Zabbix_SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/874anthony/CVE-2024-42327_Zabbix_SQLi">
 - [fellipefelix06/Zabbix-CVE-2024-42327](https://github.com/fellipefelix06/Zabbix-CVE-2024-42327)	<img alt="forks" src="https://img.shields.io/github/forks/fellipefelix06/Zabbix-CVE-2024-42327">	<img alt="stars" src="https://img.shields.io/github/stars/fellipefelix06/Zabbix-CVE-2024-42327">
+- [RichJJ98/analise-vulnerabilidades-zabbix-notebooklm](https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm)	<img alt="forks" src="https://img.shields.io/github/forks/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm">	<img alt="stars" src="https://img.shields.io/github/stars/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm">
+
+---
+## CVE-2024-42323 ()
+> 
+- [forwjm/CVE-2024-42323](https://github.com/forwjm/CVE-2024-42323)	<img alt="forks" src="https://img.shields.io/github/forks/forwjm/CVE-2024-42323">	<img alt="stars" src="https://img.shields.io/github/stars/forwjm/CVE-2024-42323">
 
 ---
 ## CVE-2024-4232 (2024-05-14T15:43:00)
@@ -4151,6 +4517,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [Foxer131/CVE-2024-42008-9-exploit](https://github.com/Foxer131/CVE-2024-42008-9-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Foxer131/CVE-2024-42008-9-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Foxer131/CVE-2024-42008-9-exploit">
 - [Shubhankargupta691/CVE-2024-42009](https://github.com/Shubhankargupta691/CVE-2024-42009)	<img alt="forks" src="https://img.shields.io/github/forks/Shubhankargupta691/CVE-2024-42009">	<img alt="stars" src="https://img.shields.io/github/stars/Shubhankargupta691/CVE-2024-42009">
 - [ZaidArif47/CVE-2024-42009](https://github.com/ZaidArif47/CVE-2024-42009)	<img alt="forks" src="https://img.shields.io/github/forks/ZaidArif47/CVE-2024-42009">	<img alt="stars" src="https://img.shields.io/github/stars/ZaidArif47/CVE-2024-42009">
+- [segunakinsoyinu/CVE-2024-42009-roundcube-xss](https://github.com/segunakinsoyinu/CVE-2024-42009-roundcube-xss)	<img alt="forks" src="https://img.shields.io/github/forks/segunakinsoyinu/CVE-2024-42009-roundcube-xss">	<img alt="stars" src="https://img.shields.io/github/stars/segunakinsoyinu/CVE-2024-42009-roundcube-xss">
 
 ---
 ## CVE-2024-42008 ()
@@ -4158,6 +4525,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [victoni/Roundcube-CVE-2024-42008-and-CVE-2024-42010-POC](https://github.com/victoni/Roundcube-CVE-2024-42008-and-CVE-2024-42010-POC)	<img alt="forks" src="https://img.shields.io/github/forks/victoni/Roundcube-CVE-2024-42008-and-CVE-2024-42010-POC">	<img alt="stars" src="https://img.shields.io/github/stars/victoni/Roundcube-CVE-2024-42008-and-CVE-2024-42010-POC">
 - [Foxer131/CVE-2024-42008-9-exploit](https://github.com/Foxer131/CVE-2024-42008-9-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Foxer131/CVE-2024-42008-9-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Foxer131/CVE-2024-42008-9-exploit">
 - [rpgsec/Roundcube-CVE-2024-42008-POC](https://github.com/rpgsec/Roundcube-CVE-2024-42008-POC)	<img alt="forks" src="https://img.shields.io/github/forks/rpgsec/Roundcube-CVE-2024-42008-POC">	<img alt="stars" src="https://img.shields.io/github/stars/rpgsec/Roundcube-CVE-2024-42008-POC">
+
+---
+## CVE-2024-42007 ()
+> 
+- [BubblyCola/CVE_2024_42007](https://github.com/BubblyCola/CVE_2024_42007)	<img alt="forks" src="https://img.shields.io/github/forks/BubblyCola/CVE_2024_42007">	<img alt="stars" src="https://img.shields.io/github/stars/BubblyCola/CVE_2024_42007">
 
 ---
 ## CVE-2024-41997 ()
@@ -4178,6 +4550,7 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-41817 ()
 > 
 - [Dxsk/CVE-2024-41817-poc](https://github.com/Dxsk/CVE-2024-41817-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Dxsk/CVE-2024-41817-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Dxsk/CVE-2024-41817-poc">
+- [maikneysm/AutoPwn-Titanic.htb](https://github.com/maikneysm/AutoPwn-Titanic.htb)	<img alt="forks" src="https://img.shields.io/github/forks/maikneysm/AutoPwn-Titanic.htb">	<img alt="stars" src="https://img.shields.io/github/stars/maikneysm/AutoPwn-Titanic.htb">
 
 ---
 ## CVE-2024-41713 (2024-10-21T21:15:00)
@@ -4197,6 +4570,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-41651 (2024-08-12T17:15:00)
 > An issue in Prestashop v.8.1.7 and before allows a remote attacker to execute arbitrary code via the module upgrade functionality.
 - [Fckroun/CVE-2024-41651](https://github.com/Fckroun/CVE-2024-41651)	<img alt="forks" src="https://img.shields.io/github/forks/Fckroun/CVE-2024-41651">	<img alt="stars" src="https://img.shields.io/github/stars/Fckroun/CVE-2024-41651">
+
+---
+## CVE-2024-41640 ()
+> 
+- [alemusix/CVE-2024-41640](https://github.com/alemusix/CVE-2024-41640)	<img alt="forks" src="https://img.shields.io/github/forks/alemusix/CVE-2024-41640">	<img alt="stars" src="https://img.shields.io/github/stars/alemusix/CVE-2024-41640">
 
 ---
 ## CVE-2024-41628 (2024-07-26T21:15:00)
@@ -4231,9 +4609,34 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [HimmeL-Byte/CVE-2024-41570-SSRF-RCE](https://github.com/HimmeL-Byte/CVE-2024-41570-SSRF-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HimmeL-Byte/CVE-2024-41570-SSRF-RCE">
 
 ---
+## CVE-2024-41505 ()
+> 
+- [rafaelbaldasso/CVE-2024-41505](https://github.com/rafaelbaldasso/CVE-2024-41505)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelbaldasso/CVE-2024-41505">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelbaldasso/CVE-2024-41505">
+
+---
+## CVE-2024-41504 ()
+> 
+- [rafaelbaldasso/CVE-2024-41504](https://github.com/rafaelbaldasso/CVE-2024-41504)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelbaldasso/CVE-2024-41504">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelbaldasso/CVE-2024-41504">
+
+---
+## CVE-2024-41503 ()
+> 
+- [rafaelbaldasso/CVE-2024-41503](https://github.com/rafaelbaldasso/CVE-2024-41503)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelbaldasso/CVE-2024-41503">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelbaldasso/CVE-2024-41503">
+
+---
+## CVE-2024-41502 ()
+> 
+- [rafaelbaldasso/CVE-2024-41502](https://github.com/rafaelbaldasso/CVE-2024-41502)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelbaldasso/CVE-2024-41502">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelbaldasso/CVE-2024-41502">
+
+---
 ## CVE-2024-41453 ()
 > 
 - [php-lover-boy/CVE-2024-41453_CVE-2024-41454](https://github.com/php-lover-boy/CVE-2024-41453_CVE-2024-41454)	<img alt="forks" src="https://img.shields.io/github/forks/php-lover-boy/CVE-2024-41453_CVE-2024-41454">	<img alt="stars" src="https://img.shields.io/github/stars/php-lover-boy/CVE-2024-41453_CVE-2024-41454">
+
+---
+## CVE-2024-41319 ()
+> 
+- [NingXin2002/TOTOLINK_poc](https://github.com/NingXin2002/TOTOLINK_poc)	<img alt="forks" src="https://img.shields.io/github/forks/NingXin2002/TOTOLINK_poc">	<img alt="stars" src="https://img.shields.io/github/stars/NingXin2002/TOTOLINK_poc">
 
 ---
 ## CVE-2024-41312 ()
@@ -4254,6 +4657,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-41290 (2024-10-02T17:15:00)
 > FlatPress CMS v1.3.1 1.3 was discovered to use insecure methods to store authentication data via the cookie's component.
 - [paragbagul111/CVE-2024-41290](https://github.com/paragbagul111/CVE-2024-41290)	<img alt="forks" src="https://img.shields.io/github/forks/paragbagul111/CVE-2024-41290">	<img alt="stars" src="https://img.shields.io/github/stars/paragbagul111/CVE-2024-41290">
+
+---
+## CVE-2024-41276 ()
+> 
+- [artemy-ccrsky/CVE-2024-41276](https://github.com/artemy-ccrsky/CVE-2024-41276)	<img alt="forks" src="https://img.shields.io/github/forks/artemy-ccrsky/CVE-2024-41276">	<img alt="stars" src="https://img.shields.io/github/stars/artemy-ccrsky/CVE-2024-41276">
 
 ---
 ## CVE-2024-41110 (2024-07-24T17:15:00)
@@ -4290,6 +4698,11 @@ Affected users are recommended to disable the SAML authentication plugin by sett
 - [anilpatel199n/CVE-2024-40898](https://github.com/anilpatel199n/CVE-2024-40898)	<img alt="forks" src="https://img.shields.io/github/forks/anilpatel199n/CVE-2024-40898">	<img alt="stars" src="https://img.shields.io/github/stars/anilpatel199n/CVE-2024-40898">
 - [TAM-K592/CVE-2024-40725-CVE-2024-40898](https://github.com/TAM-K592/CVE-2024-40725-CVE-2024-40898)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-40725-CVE-2024-40898">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-40725-CVE-2024-40898">
 - [ForceEA001/CVE-2024-40898-SSL-Bypass-Detection](https://github.com/ForceEA001/CVE-2024-40898-SSL-Bypass-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/ForceEA001/CVE-2024-40898-SSL-Bypass-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/ForceEA001/CVE-2024-40898-SSL-Bypass-Detection">
+
+---
+## CVE-2024-40892 ()
+> 
+- [xen0bit/fwbt](https://github.com/xen0bit/fwbt)	<img alt="forks" src="https://img.shields.io/github/forks/xen0bit/fwbt">	<img alt="stars" src="https://img.shields.io/github/stars/xen0bit/fwbt">
 
 ---
 ## CVE-2024-40815 ()
@@ -4468,6 +4881,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [ill-deed/CrushFTP-CVE-2024-4040-illdeed](https://github.com/ill-deed/CrushFTP-CVE-2024-4040-illdeed)	<img alt="forks" src="https://img.shields.io/github/forks/ill-deed/CrushFTP-CVE-2024-4040-illdeed">	<img alt="stars" src="https://img.shields.io/github/stars/ill-deed/CrushFTP-CVE-2024-4040-illdeed">
 - [juanorts/CrushFTP10-Docker-CVE-2024-4040](https://github.com/juanorts/CrushFTP10-Docker-CVE-2024-4040)	<img alt="forks" src="https://img.shields.io/github/forks/juanorts/CrushFTP10-Docker-CVE-2024-4040">	<img alt="stars" src="https://img.shields.io/github/stars/juanorts/CrushFTP10-Docker-CVE-2024-4040">
 - [Sidjaz/CrushFTP-CVE-2024-4040-Proof-of-Concept](https://github.com/Sidjaz/CrushFTP-CVE-2024-4040-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/Sidjaz/CrushFTP-CVE-2024-4040-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/Sidjaz/CrushFTP-CVE-2024-4040-Proof-of-Concept">
+- [cthhhhhh/CrushFTP-SSTI-LFI-Proof-of-Concept](https://github.com/cthhhhhh/CrushFTP-SSTI-LFI-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/cthhhhhh/CrushFTP-SSTI-LFI-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/cthhhhhh/CrushFTP-SSTI-LFI-Proof-of-Concept">
 
 ---
 ## CVE-2024-40348 (2024-07-20T04:15:00)
@@ -4475,6 +4889,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [bigb0x/CVE-2024-40348](https://github.com/bigb0x/CVE-2024-40348)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-40348">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-40348">
 - [codeb0ss/CVE-2024-40348-PoC](https://github.com/codeb0ss/CVE-2024-40348-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-40348-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-40348-PoC">
 - [codeb0ss/CVEploiterv2](https://github.com/codeb0ss/CVEploiterv2)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVEploiterv2">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVEploiterv2">
+- [NingXin2002/Bazaar_poc](https://github.com/NingXin2002/Bazaar_poc)	<img alt="forks" src="https://img.shields.io/github/forks/NingXin2002/Bazaar_poc">	<img alt="stars" src="https://img.shields.io/github/stars/NingXin2002/Bazaar_poc">
 
 ---
 ## CVE-2024-40324 (2024-07-25T20:15:00)
@@ -4501,6 +4916,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 > Sourcecodester Poultry Farm Management System v1.0 contains an Unauthenticated Remote Code Execution (RCE) vulnerability via the productimage parameter at /farm/product.php.
 - [Abdurahmon3236/CVE-2024-40110](https://github.com/Abdurahmon3236/CVE-2024-40110)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-40110">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-40110">
 - [thiagosmith/CVE-2024-40110](https://github.com/thiagosmith/CVE-2024-40110)	<img alt="forks" src="https://img.shields.io/github/forks/thiagosmith/CVE-2024-40110">	<img alt="stars" src="https://img.shields.io/github/stars/thiagosmith/CVE-2024-40110">
+- [AnGrY-Althaf/CVE-2024-40110](https://github.com/AnGrY-Althaf/CVE-2024-40110)	<img alt="forks" src="https://img.shields.io/github/forks/AnGrY-Althaf/CVE-2024-40110">	<img alt="stars" src="https://img.shields.io/github/stars/AnGrY-Althaf/CVE-2024-40110">
 
 ---
 ## CVE-2024-40094 ()
@@ -4519,6 +4935,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [A-little-dragon/CVE-2024-39943-Exploit](https://github.com/A-little-dragon/CVE-2024-39943-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/A-little-dragon/CVE-2024-39943-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/A-little-dragon/CVE-2024-39943-Exploit">
 - [tequilasunsh1ne/CVE_2024_39943](https://github.com/tequilasunsh1ne/CVE_2024_39943)	<img alt="forks" src="https://img.shields.io/github/forks/tequilasunsh1ne/CVE_2024_39943">	<img alt="stars" src="https://img.shields.io/github/stars/tequilasunsh1ne/CVE_2024_39943">
 - [JenmrR/Node.js-CVE-2024-39943](https://github.com/JenmrR/Node.js-CVE-2024-39943)	<img alt="forks" src="https://img.shields.io/github/forks/JenmrR/Node.js-CVE-2024-39943">	<img alt="stars" src="https://img.shields.io/github/stars/JenmrR/Node.js-CVE-2024-39943">
+- [Heyholiday067/CVE-2024-39943-Poc](https://github.com/Heyholiday067/CVE-2024-39943-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/Heyholiday067/CVE-2024-39943-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/Heyholiday067/CVE-2024-39943-Poc">
 
 ---
 ## CVE-2024-39930 ()
@@ -4537,6 +4954,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-39924 ()
 > 
 - [l4rm4nd/PoC-CVE-2024-39924](https://github.com/l4rm4nd/PoC-CVE-2024-39924)	<img alt="forks" src="https://img.shields.io/github/forks/l4rm4nd/PoC-CVE-2024-39924">	<img alt="stars" src="https://img.shields.io/github/stars/l4rm4nd/PoC-CVE-2024-39924">
+
+---
+## CVE-2024-39914 ()
+> 
+- [9874621368/FOG-Project](https://github.com/9874621368/FOG-Project)	<img alt="forks" src="https://img.shields.io/github/forks/9874621368/FOG-Project">	<img alt="stars" src="https://img.shields.io/github/stars/9874621368/FOG-Project">
 
 ---
 ## CVE-2024-39908 ()
@@ -4567,6 +4989,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-39713 ()
 > 
 - [typical-pashochek/CVE-2024-39713](https://github.com/typical-pashochek/CVE-2024-39713)	<img alt="forks" src="https://img.shields.io/github/forks/typical-pashochek/CVE-2024-39713">	<img alt="stars" src="https://img.shields.io/github/stars/typical-pashochek/CVE-2024-39713">
+- [blackcodersec/exploit-cve](https://github.com/blackcodersec/exploit-cve)	<img alt="forks" src="https://img.shields.io/github/forks/blackcodersec/exploit-cve">	<img alt="stars" src="https://img.shields.io/github/stars/blackcodersec/exploit-cve">
 
 ---
 ## CVE-2024-39700 (2024-07-16T18:15:00)
@@ -4575,9 +4998,19 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [LOURC0D3/CVE-2024-39700-PoC](https://github.com/LOURC0D3/CVE-2024-39700-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-PoC">
 
 ---
+## CVE-2024-39689 ()
+> 
+- [roy-aladin/InfraTest](https://github.com/roy-aladin/InfraTest)	<img alt="forks" src="https://img.shields.io/github/forks/roy-aladin/InfraTest">	<img alt="stars" src="https://img.shields.io/github/stars/roy-aladin/InfraTest">
+
+---
 ## CVE-2024-39614 (2024-07-10T05:15:00)
 > An issue was discovered in Django 5.0 before 5.0.7 and 4.2 before 4.2.14. get_supported_language_variant() was subject to a potential denial-of-service attack when used with very long strings containing specific characters.
 - [Abdurahmon3236/-CVE-2024-39614](https://github.com/Abdurahmon3236/-CVE-2024-39614)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/-CVE-2024-39614">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/-CVE-2024-39614">
+
+---
+## CVE-2024-39309 ()
+> 
+- [HeavyGhost-le/POC_SQL_injection_in_Parse_Server_prior_6.5.7_-_7.1.0](https://github.com/HeavyGhost-le/POC_SQL_injection_in_Parse_Server_prior_6.5.7_-_7.1.0)	<img alt="forks" src="https://img.shields.io/github/forks/HeavyGhost-le/POC_SQL_injection_in_Parse_Server_prior_6.5.7_-_7.1.0">	<img alt="stars" src="https://img.shields.io/github/stars/HeavyGhost-le/POC_SQL_injection_in_Parse_Server_prior_6.5.7_-_7.1.0">
 
 ---
 ## CVE-2024-39306 (2024-08-19T14:15:00)
@@ -4603,6 +5036,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-39248 (2024-07-03T17:15:00)
 > A cross-site scripting (XSS) vulnerability in SimpCMS v0.1 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Title field at /admin.php.
 - [jasonthename/CVE-2024-39248](https://github.com/jasonthename/CVE-2024-39248)	<img alt="forks" src="https://img.shields.io/github/forks/jasonthename/CVE-2024-39248">	<img alt="stars" src="https://img.shields.io/github/stars/jasonthename/CVE-2024-39248">
+
+---
+## CVE-2024-3922 ()
+> 
+- [truonghuuphuc/CVE-2024-3922-Poc](https://github.com/truonghuuphuc/CVE-2024-3922-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3922-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3922-Poc">
 
 ---
 ## CVE-2024-39211 (2024-07-04T13:15:00)
@@ -4646,6 +5084,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-39090 (2024-07-18T20:15:00)
 > The PHPGurukul Online Shopping Portal Project version 2.0 contains a vulnerability that allows Cross-Site Request Forgery (CSRF) to lead to Stored Cross-Site Scripting (XSS). An attacker can exploit this vulnerability to execute arbitrary JavaScript code in the context of a user's session, potentially leading to account takeover.
 - [ghostwirez/CVE-2024-39090-PoC](https://github.com/ghostwirez/CVE-2024-39090-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ghostwirez/CVE-2024-39090-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ghostwirez/CVE-2024-39090-PoC">
+
+---
+## CVE-2024-39081 ()
+> 
+- [Amirasaiyad/BLE-TPMS](https://github.com/Amirasaiyad/BLE-TPMS)	<img alt="forks" src="https://img.shields.io/github/forks/Amirasaiyad/BLE-TPMS">	<img alt="stars" src="https://img.shields.io/github/stars/Amirasaiyad/BLE-TPMS">
 
 ---
 ## CVE-2024-39069 (2024-07-09T22:15:00)
@@ -4699,6 +5142,7 @@ Unauthenticated endpoints could allow execution of screen rendering code of scre
 - [funcid/CVE-2024-38828](https://github.com/funcid/CVE-2024-38828)	<img alt="forks" src="https://img.shields.io/github/forks/funcid/CVE-2024-38828">	<img alt="stars" src="https://img.shields.io/github/stars/funcid/CVE-2024-38828">
 - [First-Roman/sprig-mvc-demo-patch](https://github.com/First-Roman/sprig-mvc-demo-patch)	<img alt="forks" src="https://img.shields.io/github/forks/First-Roman/sprig-mvc-demo-patch">	<img alt="stars" src="https://img.shields.io/github/stars/First-Roman/sprig-mvc-demo-patch">
 - [funcid/CVE-2024-38828](https://github.com/funcid/CVE-2024-38828)	<img alt="forks" src="https://img.shields.io/github/forks/funcid/CVE-2024-38828">	<img alt="stars" src="https://img.shields.io/github/stars/funcid/CVE-2024-38828">
+- [topilov/axiom-jdk-test-task](https://github.com/topilov/axiom-jdk-test-task)	<img alt="forks" src="https://img.shields.io/github/forks/topilov/axiom-jdk-test-task">	<img alt="stars" src="https://img.shields.io/github/stars/topilov/axiom-jdk-test-task">
 
 ---
 ## CVE-2024-38821 (2024-10-28T07:15:00)
@@ -4727,6 +5171,7 @@ For this to impact an application, all of the following must be true:
 - [vishalnoza/CVE-2024-38819-POC2](https://github.com/vishalnoza/CVE-2024-38819-POC2)	<img alt="forks" src="https://img.shields.io/github/forks/vishalnoza/CVE-2024-38819-POC2">	<img alt="stars" src="https://img.shields.io/github/stars/vishalnoza/CVE-2024-38819-POC2">
 - [jaloon/spring-webmvc5](https://github.com/jaloon/spring-webmvc5)	<img alt="forks" src="https://img.shields.io/github/forks/jaloon/spring-webmvc5">	<img alt="stars" src="https://img.shields.io/github/stars/jaloon/spring-webmvc5">
 - [Nandavardhan8/spring-poc-CVE-2024-38819](https://github.com/Nandavardhan8/spring-poc-CVE-2024-38819)	<img alt="forks" src="https://img.shields.io/github/forks/Nandavardhan8/spring-poc-CVE-2024-38819">	<img alt="stars" src="https://img.shields.io/github/stars/Nandavardhan8/spring-poc-CVE-2024-38819">
+- [trevorputbrese/cve-2024-38819-lab](https://github.com/trevorputbrese/cve-2024-38819-lab)	<img alt="forks" src="https://img.shields.io/github/forks/trevorputbrese/cve-2024-38819-lab">	<img alt="stars" src="https://img.shields.io/github/stars/trevorputbrese/cve-2024-38819-lab">
 
 ---
 ## CVE-2024-38816 (2024-09-13T06:15:00)
@@ -4746,6 +5191,8 @@ However, malicious requests are blocked and rejected when any of the following i
 - [masa42/CVE-2024-38816-PoC](https://github.com/masa42/CVE-2024-38816-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/masa42/CVE-2024-38816-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/masa42/CVE-2024-38816-PoC">
 - [Galaxy-system/cve-2024-38816](https://github.com/Galaxy-system/cve-2024-38816)	<img alt="forks" src="https://img.shields.io/github/forks/Galaxy-system/cve-2024-38816">	<img alt="stars" src="https://img.shields.io/github/stars/Galaxy-system/cve-2024-38816">
 - [WULINPIN/CVE-2024-38816-PoC](https://github.com/WULINPIN/CVE-2024-38816-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/WULINPIN/CVE-2024-38816-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/WULINPIN/CVE-2024-38816-PoC">
+- [Anthony1078/App-vulnerable](https://github.com/Anthony1078/App-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/Anthony1078/App-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/Anthony1078/App-vulnerable">
+- [jaloon/spring-webmvc5](https://github.com/jaloon/spring-webmvc5)	<img alt="forks" src="https://img.shields.io/github/forks/jaloon/spring-webmvc5">	<img alt="stars" src="https://img.shields.io/github/stars/jaloon/spring-webmvc5">
 
 ---
 ## CVE-2024-38812 (2024-09-17T18:15:00)
@@ -4772,6 +5219,12 @@ The vulnerability has been patched in Fides version `2.39.1`. Users are advised 
 - [Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-)	<img alt="forks" src="https://img.shields.io/github/forks/Havoc10-sw/Detect_polyfill_CVE-2024-38537-">	<img alt="stars" src="https://img.shields.io/github/stars/Havoc10-sw/Detect_polyfill_CVE-2024-38537-">
 
 ---
+## CVE-2024-38526 ()
+> 
+- [putget/CVE-2024-38526](https://github.com/putget/CVE-2024-38526)	<img alt="forks" src="https://img.shields.io/github/forks/putget/CVE-2024-38526">	<img alt="stars" src="https://img.shields.io/github/stars/putget/CVE-2024-38526">
+- [padayali-JD/pollyscan](https://github.com/padayali-JD/pollyscan)	<img alt="forks" src="https://img.shields.io/github/forks/padayali-JD/pollyscan">	<img alt="stars" src="https://img.shields.io/github/stars/padayali-JD/pollyscan">
+
+---
 ## CVE-2024-38476 ()
 > 
 - [abanop22333/Apache-Authentication-Flaw-Research-CVE-2024-38476-](https://github.com/abanop22333/Apache-Authentication-Flaw-Research-CVE-2024-38476-)	<img alt="forks" src="https://img.shields.io/github/forks/abanop22333/Apache-Authentication-Flaw-Research-CVE-2024-38476-">	<img alt="stars" src="https://img.shields.io/github/stars/abanop22333/Apache-Authentication-Flaw-Research-CVE-2024-38476-">
@@ -4787,6 +5240,7 @@ Substitutions in server context that use a backreferences or variables as the f
 - [mrmtwoj/apache-vulnerability-testing](https://github.com/mrmtwoj/apache-vulnerability-testing)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/apache-vulnerability-testing">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/apache-vulnerability-testing">
 - [abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC](https://github.com/abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC">
 - [syaifulandy/CVE-2024-38475](https://github.com/syaifulandy/CVE-2024-38475)	<img alt="forks" src="https://img.shields.io/github/forks/syaifulandy/CVE-2024-38475">	<img alt="stars" src="https://img.shields.io/github/stars/syaifulandy/CVE-2024-38475">
+- [Nyakki-Labs-0x420/Myesve](https://github.com/Nyakki-Labs-0x420/Myesve)	<img alt="forks" src="https://img.shields.io/github/forks/Nyakki-Labs-0x420/Myesve">	<img alt="stars" src="https://img.shields.io/github/stars/Nyakki-Labs-0x420/Myesve">
 
 ---
 ## CVE-2024-38473 (2024-07-01T19:15:00)
@@ -4803,6 +5257,7 @@ Users are recommended to upgrade to version 2.4.60, which fixes this issue.
 > SSRF in Apache HTTP Server on Windows allows to potentially leak NTML hashes to a malicious server via SSRF and malicious requests or content 
 Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Note: Existing configurations that access UNC paths will have to configure new directive "UNCList" to allow access during request processing.
 - [Abdurahmon3236/CVE-2024-38472](https://github.com/Abdurahmon3236/CVE-2024-38472)	<img alt="forks" src="https://img.shields.io/github/forks/Abdurahmon3236/CVE-2024-38472">	<img alt="stars" src="https://img.shields.io/github/stars/Abdurahmon3236/CVE-2024-38472">
+- [mrmtwoj/apache-vulnerability-testing](https://github.com/mrmtwoj/apache-vulnerability-testing)	<img alt="forks" src="https://img.shields.io/github/forks/mrmtwoj/apache-vulnerability-testing">	<img alt="stars" src="https://img.shields.io/github/stars/mrmtwoj/apache-vulnerability-testing">
 
 ---
 ## CVE-2024-38399 ()
@@ -4813,6 +5268,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-38396 (2024-06-16T21:15:00)
 > An issue was discovered in iTerm2 3.5.x before 3.5.2. Unfiltered use of an escape sequence to report a window title, in combination with the built-in tmux integration feature (enabled by default), allows an attacker to inject arbitrary code into the terminal, a different vulnerability than CVE-2024-38395.
 - [vin01/poc-cve-2024-38396](https://github.com/vin01/poc-cve-2024-38396)	<img alt="forks" src="https://img.shields.io/github/forks/vin01/poc-cve-2024-38396">	<img alt="stars" src="https://img.shields.io/github/stars/vin01/poc-cve-2024-38396">
+
+---
+## CVE-2024-38366 ()
+> 
+- [ReeFSpeK/CocoaPods-RCE_CVE-2024-38366](https://github.com/ReeFSpeK/CocoaPods-RCE_CVE-2024-38366)	<img alt="forks" src="https://img.shields.io/github/forks/ReeFSpeK/CocoaPods-RCE_CVE-2024-38366">	<img alt="stars" src="https://img.shields.io/github/stars/ReeFSpeK/CocoaPods-RCE_CVE-2024-38366">
 
 ---
 ## CVE-2024-38355 ()
@@ -4839,6 +5299,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-38193 (2024-08-13T18:15:00)
 > Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability
 - [Nephster/CVE-2024-38193](https://github.com/Nephster/CVE-2024-38193)	<img alt="forks" src="https://img.shields.io/github/forks/Nephster/CVE-2024-38193">	<img alt="stars" src="https://img.shields.io/github/stars/Nephster/CVE-2024-38193">
+- [killvxk/CVE-2024-38193-Nephster](https://github.com/killvxk/CVE-2024-38193-Nephster)	<img alt="forks" src="https://img.shields.io/github/forks/killvxk/CVE-2024-38193-Nephster">	<img alt="stars" src="https://img.shields.io/github/stars/killvxk/CVE-2024-38193-Nephster">
 
 ---
 ## CVE-2024-38189 (2024-08-13T18:15:00)
@@ -4875,6 +5336,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-38112 ()
 > 
 - [Anurag-Chevendra/CVE-2024-38112](https://github.com/Anurag-Chevendra/CVE-2024-38112)	<img alt="forks" src="https://img.shields.io/github/forks/Anurag-Chevendra/CVE-2024-38112">	<img alt="stars" src="https://img.shields.io/github/stars/Anurag-Chevendra/CVE-2024-38112">
+- [BunBunCodes/CPSC253_CybersecurityFinalProjectReports](https://github.com/BunBunCodes/CPSC253_CybersecurityFinalProjectReports)	<img alt="forks" src="https://img.shields.io/github/forks/BunBunCodes/CPSC253_CybersecurityFinalProjectReports">	<img alt="stars" src="https://img.shields.io/github/stars/BunBunCodes/CPSC253_CybersecurityFinalProjectReports">
 
 ---
 ## CVE-2024-38100 (2024-07-09T17:15:00)
@@ -4959,16 +5421,19 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Avidan1/CVE-2024-38063](https://github.com/Avidan1/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Avidan1/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Avidan1/CVE-2024-38063">
 - [arrhenius975/CVE-2024-38063-Exploit-Refactoring](https://github.com/arrhenius975/CVE-2024-38063-Exploit-Refactoring)	<img alt="forks" src="https://img.shields.io/github/forks/arrhenius975/CVE-2024-38063-Exploit-Refactoring">	<img alt="stars" src="https://img.shields.io/github/stars/arrhenius975/CVE-2024-38063-Exploit-Refactoring">
 - [SALMA-ESSAOUD/CVE-CVSS--CVE-2024-38063-IPv6-TCP-IP-Remote-Code-Execution-Analysis](https://github.com/SALMA-ESSAOUD/CVE-CVSS--CVE-2024-38063-IPv6-TCP-IP-Remote-Code-Execution-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/SALMA-ESSAOUD/CVE-CVSS--CVE-2024-38063-IPv6-TCP-IP-Remote-Code-Execution-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/SALMA-ESSAOUD/CVE-CVSS--CVE-2024-38063-IPv6-TCP-IP-Remote-Code-Execution-Analysis">
+- [RohitMalik7/cve-2024-38063-detection-mitigation-system](https://github.com/RohitMalik7/cve-2024-38063-detection-mitigation-system)	<img alt="forks" src="https://img.shields.io/github/forks/RohitMalik7/cve-2024-38063-detection-mitigation-system">	<img alt="stars" src="https://img.shields.io/github/stars/RohitMalik7/cve-2024-38063-detection-mitigation-system">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
 > The Porto theme for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 7.1.0 via the 'porto_ajax_posts' function. This makes it possible for unauthenticated attackers to include and execute arbitrary files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where php file type can be uploaded and included.
 - [truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc](https://github.com/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3806-AND-CVE-2024-3807-Poc">
+- [RandomRobbieBF/CVE-2024-3806](https://github.com/RandomRobbieBF/CVE-2024-3806)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-3806">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-3806">
 
 ---
 ## CVE-2024-38041 (2024-07-09T17:15:00)
 > Windows Kernel Information Disclosure Vulnerability
 - [varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041)	<img alt="forks" src="https://img.shields.io/github/forks/varwara/CVE-2024-38041">	<img alt="stars" src="https://img.shields.io/github/stars/varwara/CVE-2024-38041">
+- [dgkim-dong/CVE-2024-38041](https://github.com/dgkim-dong/CVE-2024-38041)	<img alt="forks" src="https://img.shields.io/github/forks/dgkim-dong/CVE-2024-38041">	<img alt="stars" src="https://img.shields.io/github/stars/dgkim-dong/CVE-2024-38041">
 
 ---
 ## CVE-2024-38036 (2024-10-04T18:15:00)
@@ -5036,6 +5501,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-37742 (2024-06-25T22:15:00)
 > An issue in Safe Exam Browser for Windows before 3.6 allows an attacker to share clipboard data between the SEB kiosk mode and the underlying system, compromising exam integrity which may lead to arbitrary code execution and obtaining sensitive information via the Clipboard Management component.
 - [Eteblue/CVE-2024-37742](https://github.com/Eteblue/CVE-2024-37742)	<img alt="forks" src="https://img.shields.io/github/forks/Eteblue/CVE-2024-37742">	<img alt="stars" src="https://img.shields.io/github/stars/Eteblue/CVE-2024-37742">
+- [tungdn9988/CVE-2024-37742](https://github.com/tungdn9988/CVE-2024-37742)	<img alt="forks" src="https://img.shields.io/github/forks/tungdn9988/CVE-2024-37742">	<img alt="stars" src="https://img.shields.io/github/stars/tungdn9988/CVE-2024-37742">
 
 ---
 ## CVE-2024-37726 (2024-07-03T14:15:00)
@@ -5256,9 +5722,19 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [bigb0x/CVE-2024-36527](https://github.com/bigb0x/CVE-2024-36527)	<img alt="forks" src="https://img.shields.io/github/forks/bigb0x/CVE-2024-36527">	<img alt="stars" src="https://img.shields.io/github/stars/bigb0x/CVE-2024-36527">
 
 ---
+## CVE-2024-36437 ()
+> 
+- [actuator/com.enflick.android.TextNow](https://github.com/actuator/com.enflick.android.TextNow)	<img alt="forks" src="https://img.shields.io/github/forks/actuator/com.enflick.android.TextNow">	<img alt="stars" src="https://img.shields.io/github/stars/actuator/com.enflick.android.TextNow">
+
+---
 ## CVE-2024-36424 (2024-08-06T15:15:00)
 > K7RKScan.sys in K7 Ultimate Security before 17.0.2019 allows local users to cause a denial of service (BSOD) because of a NULL pointer dereference.
 - [secunnix/CVE-2024-36424](https://github.com/secunnix/CVE-2024-36424)	<img alt="forks" src="https://img.shields.io/github/forks/secunnix/CVE-2024-36424">	<img alt="stars" src="https://img.shields.io/github/stars/secunnix/CVE-2024-36424">
+
+---
+## CVE-2024-36420 ()
+> 
+- [fineman999/POC_CVE-2024-36420](https://github.com/fineman999/POC_CVE-2024-36420)	<img alt="forks" src="https://img.shields.io/github/forks/fineman999/POC_CVE-2024-36420">	<img alt="stars" src="https://img.shields.io/github/stars/fineman999/POC_CVE-2024-36420">
 
 ---
 ## CVE-2024-36416 (2024-06-10T20:15:00)
@@ -5490,9 +5966,19 @@ PANIC from 6.8.0-rc1:
 - [labc-dev/CVE-2024-3591](https://github.com/labc-dev/CVE-2024-3591)	<img alt="forks" src="https://img.shields.io/github/forks/labc-dev/CVE-2024-3591">	<img alt="stars" src="https://img.shields.io/github/stars/labc-dev/CVE-2024-3591">
 
 ---
+## CVE-2024-3568 ()
+> 
+- [rooobeam/Pickle-Deserialization-Exploit-in-Transformers](https://github.com/rooobeam/Pickle-Deserialization-Exploit-in-Transformers)	<img alt="forks" src="https://img.shields.io/github/forks/rooobeam/Pickle-Deserialization-Exploit-in-Transformers">	<img alt="stars" src="https://img.shields.io/github/stars/rooobeam/Pickle-Deserialization-Exploit-in-Transformers">
+
+---
 ## CVE-2024-35584 (2024-10-15T19:15:00)
 > SQL injection vulnerability in Ajax.php, ForWindow.php, ForExport.php, Modules.php, functions/HackingLogFnc.php in OpenSis Community Edition 9.1, 8.0, and possibly earlier versions. It is possible for an authenticated user to perform SQL Injection due to the lack to sanitisation. The application takes arbitrary value from "X-Forwarded-For" header and appends it to a SQL INSERT statement directly, leading to SQL Injection.
 - [whwhwh96/CVE-2024-35584](https://github.com/whwhwh96/CVE-2024-35584)	<img alt="forks" src="https://img.shields.io/github/forks/whwhwh96/CVE-2024-35584">	<img alt="stars" src="https://img.shields.io/github/stars/whwhwh96/CVE-2024-35584">
+
+---
+## CVE-2024-35538 ()
+> 
+- [cyberaz0r/Typecho-Multiple-Vulnerabilities](https://github.com/cyberaz0r/Typecho-Multiple-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/cyberaz0r/Typecho-Multiple-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/cyberaz0r/Typecho-Multiple-Vulnerabilities">
 
 ---
 ## CVE-2024-3553 ()
@@ -5558,6 +6044,9 @@ PANIC from 6.8.0-rc1:
 - [0xjiefeng/CVE-2024-35250-BOF](https://github.com/0xjiefeng/CVE-2024-35250-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/0xjiefeng/CVE-2024-35250-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/0xjiefeng/CVE-2024-35250-BOF">
 - [yinsel/CVE-2024-35250-BOF](https://github.com/yinsel/CVE-2024-35250-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/yinsel/CVE-2024-35250-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/yinsel/CVE-2024-35250-BOF">
 - [ro0tmylove/CVE-2024-35250-BOF](https://github.com/ro0tmylove/CVE-2024-35250-BOF)	<img alt="forks" src="https://img.shields.io/github/forks/ro0tmylove/CVE-2024-35250-BOF">	<img alt="stars" src="https://img.shields.io/github/stars/ro0tmylove/CVE-2024-35250-BOF">
+- [CrackerCat/CVE-2024-35250](https://github.com/CrackerCat/CVE-2024-35250)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2024-35250">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2024-35250">
+- [0xROOTPLS/GiveMeKernel](https://github.com/0xROOTPLS/GiveMeKernel)	<img alt="forks" src="https://img.shields.io/github/forks/0xROOTPLS/GiveMeKernel">	<img alt="stars" src="https://img.shields.io/github/stars/0xROOTPLS/GiveMeKernel">
+- [xvalegendary/HVCIPwned](https://github.com/xvalegendary/HVCIPwned)	<img alt="forks" src="https://img.shields.io/github/forks/xvalegendary/HVCIPwned">	<img alt="stars" src="https://img.shields.io/github/stars/xvalegendary/HVCIPwned">
 
 ---
 ## CVE-2024-35242 (2024-06-10T22:15:00)
@@ -5572,6 +6061,11 @@ PANIC from 6.8.0-rc1:
 - [zrax-x/CVE-2024-35235-CVE-2024-5290-exp](https://github.com/zrax-x/CVE-2024-35235-CVE-2024-5290-exp)	<img alt="forks" src="https://img.shields.io/github/forks/zrax-x/CVE-2024-35235-CVE-2024-5290-exp">	<img alt="stars" src="https://img.shields.io/github/stars/zrax-x/CVE-2024-35235-CVE-2024-5290-exp">
 
 ---
+## CVE-2024-35205 ()
+> 
+- [cyb3r-w0lf/Dirty_Stream-Android-POC](https://github.com/cyb3r-w0lf/Dirty_Stream-Android-POC)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3r-w0lf/Dirty_Stream-Android-POC">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3r-w0lf/Dirty_Stream-Android-POC">
+
+---
 ## CVE-2024-35198 ()
 > 
 - [ibrahmsql/CVE-2024-35198](https://github.com/ibrahmsql/CVE-2024-35198)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2024-35198">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2024-35198">
@@ -5580,6 +6074,11 @@ PANIC from 6.8.0-rc1:
 ## CVE-2024-35176 ()
 > 
 - [SpiralBL0CK/CVE-2024-35176](https://github.com/SpiralBL0CK/CVE-2024-35176)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-35176">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-35176">
+
+---
+## CVE-2024-35133 ()
+> 
+- [Ozozuz/IBM-Security-Verify-oAuth_Token_Steal-CVE-2024-35133](https://github.com/Ozozuz/IBM-Security-Verify-oAuth_Token_Steal-CVE-2024-35133)	<img alt="forks" src="https://img.shields.io/github/forks/Ozozuz/IBM-Security-Verify-oAuth_Token_Steal-CVE-2024-35133">	<img alt="stars" src="https://img.shields.io/github/stars/Ozozuz/IBM-Security-Verify-oAuth_Token_Steal-CVE-2024-35133">
 
 ---
 ## CVE-2024-35106 ()
@@ -5619,6 +6118,11 @@ PANIC from 6.8.0-rc1:
 - [uthrasri/CVE-2024-34741](https://github.com/uthrasri/CVE-2024-34741)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2024-34741">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2024-34741">
 
 ---
+## CVE-2024-34740 ()
+> 
+- [michalbednarski/AbxOverflow](https://github.com/michalbednarski/AbxOverflow)	<img alt="forks" src="https://img.shields.io/github/forks/michalbednarski/AbxOverflow">	<img alt="stars" src="https://img.shields.io/github/stars/michalbednarski/AbxOverflow">
+
+---
 ## CVE-2024-34739 (2024-08-15T22:15:00)
 > In shouldRestrictOverlayActivities of UsbProfileGroupSettingsManager.java, there is a possible escape from SUW due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is needed for exploitation.
 - [uthrasri/CVE-2024-34739](https://github.com/uthrasri/CVE-2024-34739)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2024-34739">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2024-34739">
@@ -5629,6 +6133,7 @@ PANIC from 6.8.0-rc1:
 - [aelmokhtar/CVE-2024-34716](https://github.com/aelmokhtar/CVE-2024-34716)	<img alt="forks" src="https://img.shields.io/github/forks/aelmokhtar/CVE-2024-34716">	<img alt="stars" src="https://img.shields.io/github/stars/aelmokhtar/CVE-2024-34716">
 - [botnetbuddies/prestashop-cve-2024-34716](https://github.com/botnetbuddies/prestashop-cve-2024-34716)	<img alt="forks" src="https://img.shields.io/github/forks/botnetbuddies/prestashop-cve-2024-34716">	<img alt="stars" src="https://img.shields.io/github/stars/botnetbuddies/prestashop-cve-2024-34716">
 - [0xDTC/Prestashop-CVE-2024-34716](https://github.com/0xDTC/Prestashop-CVE-2024-34716)	<img alt="forks" src="https://img.shields.io/github/forks/0xDTC/Prestashop-CVE-2024-34716">	<img alt="stars" src="https://img.shields.io/github/stars/0xDTC/Prestashop-CVE-2024-34716">
+- [Pallangyo98/Trickster-HTB](https://github.com/Pallangyo98/Trickster-HTB)	<img alt="forks" src="https://img.shields.io/github/forks/Pallangyo98/Trickster-HTB">	<img alt="stars" src="https://img.shields.io/github/stars/Pallangyo98/Trickster-HTB">
 
 ---
 ## CVE-2024-34693 (2024-06-20T09:15:00)
@@ -5855,6 +6360,18 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 ## CVE-2024-34070 ()
 > 
 - [Akira07210/Exploit-CVE-2024-34070](https://github.com/Akira07210/Exploit-CVE-2024-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Akira07210/Exploit-CVE-2024-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Akira07210/Exploit-CVE-2024-34070">
+- [Okymi-X/CVE-2024-34070](https://github.com/Okymi-X/CVE-2024-34070)	<img alt="forks" src="https://img.shields.io/github/forks/Okymi-X/CVE-2024-34070">	<img alt="stars" src="https://img.shields.io/github/stars/Okymi-X/CVE-2024-34070">
+
+---
+## CVE-2024-34064 ()
+> 
+- [SandBlastx/flask-vuln-v3](https://github.com/SandBlastx/flask-vuln-v3)	<img alt="forks" src="https://img.shields.io/github/forks/SandBlastx/flask-vuln-v3">	<img alt="stars" src="https://img.shields.io/github/stars/SandBlastx/flask-vuln-v3">
+- [SandBlastx/flask-vuln-v4](https://github.com/SandBlastx/flask-vuln-v4)	<img alt="forks" src="https://img.shields.io/github/forks/SandBlastx/flask-vuln-v4">	<img alt="stars" src="https://img.shields.io/github/stars/SandBlastx/flask-vuln-v4">
+- [SandBlastx/flask-vuln-baseline](https://github.com/SandBlastx/flask-vuln-baseline)	<img alt="forks" src="https://img.shields.io/github/forks/SandBlastx/flask-vuln-baseline">	<img alt="stars" src="https://img.shields.io/github/stars/SandBlastx/flask-vuln-baseline">
+- [SandBlastx/flask-vuln-v1](https://github.com/SandBlastx/flask-vuln-v1)	<img alt="forks" src="https://img.shields.io/github/forks/SandBlastx/flask-vuln-v1">	<img alt="stars" src="https://img.shields.io/github/stars/SandBlastx/flask-vuln-v1">
+- [SandBlastx/flask-vuln-v2](https://github.com/SandBlastx/flask-vuln-v2)	<img alt="forks" src="https://img.shields.io/github/forks/SandBlastx/flask-vuln-v2">	<img alt="stars" src="https://img.shields.io/github/stars/SandBlastx/flask-vuln-v2">
+- [SandBlastx/flask-vuln-v5](https://github.com/SandBlastx/flask-vuln-v5)	<img alt="forks" src="https://img.shields.io/github/forks/SandBlastx/flask-vuln-v5">	<img alt="stars" src="https://img.shields.io/github/stars/SandBlastx/flask-vuln-v5">
+- [SandBlastx/flask-vuln-v6](https://github.com/SandBlastx/flask-vuln-v6)	<img alt="forks" src="https://img.shields.io/github/forks/SandBlastx/flask-vuln-v6">	<img alt="stars" src="https://img.shields.io/github/stars/SandBlastx/flask-vuln-v6">
 
 ---
 ## CVE-2024-3400 (2024-04-12T08:15:00)
@@ -5921,6 +6438,7 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340](https://github.com/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340)	<img alt="forks" src="https://img.shields.io/github/forks/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340">	<img alt="stars" src="https://img.shields.io/github/stars/SimoesCTT/-CTT-PAN-OS-EXPLOIT-CVE-2024-340">
 - [GhassanSabir/CVE-2024-3400-poc](https://github.com/GhassanSabir/CVE-2024-3400-poc)	<img alt="forks" src="https://img.shields.io/github/forks/GhassanSabir/CVE-2024-3400-poc">	<img alt="stars" src="https://img.shields.io/github/stars/GhassanSabir/CVE-2024-3400-poc">
 - [Nikki-the-Parcel/CVE-2024-3400_Testing](https://github.com/Nikki-the-Parcel/CVE-2024-3400_Testing)	<img alt="forks" src="https://img.shields.io/github/forks/Nikki-the-Parcel/CVE-2024-3400_Testing">	<img alt="stars" src="https://img.shields.io/github/stars/Nikki-the-Parcel/CVE-2024-3400_Testing">
+- [wa6n3r/CVE-2024-3400](https://github.com/wa6n3r/CVE-2024-3400)	<img alt="forks" src="https://img.shields.io/github/forks/wa6n3r/CVE-2024-3400">	<img alt="stars" src="https://img.shields.io/github/stars/wa6n3r/CVE-2024-3400">
 
 ---
 ## CVE-2024-340 ()
@@ -5961,9 +6479,29 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [Neo-XeD/CVE-2024-33775](https://github.com/Neo-XeD/CVE-2024-33775)	<img alt="forks" src="https://img.shields.io/github/forks/Neo-XeD/CVE-2024-33775">	<img alt="stars" src="https://img.shields.io/github/stars/Neo-XeD/CVE-2024-33775">
 
 ---
+## CVE-2024-33722 ()
+> 
+- [fuzzlove/soplanning-1.52-exploits](https://github.com/fuzzlove/soplanning-1.52-exploits)	<img alt="forks" src="https://img.shields.io/github/forks/fuzzlove/soplanning-1.52-exploits">	<img alt="stars" src="https://img.shields.io/github/stars/fuzzlove/soplanning-1.52-exploits">
+
+---
 ## CVE-2024-33676 ()
 > 
 - [dersecure/CVE-2024-33676](https://github.com/dersecure/CVE-2024-33676)	<img alt="forks" src="https://img.shields.io/github/forks/dersecure/CVE-2024-33676">	<img alt="stars" src="https://img.shields.io/github/stars/dersecure/CVE-2024-33676">
+
+---
+## CVE-2024-33648 ()
+> 
+- [sudotom/rcno-reviews](https://github.com/sudotom/rcno-reviews)	<img alt="forks" src="https://img.shields.io/github/forks/sudotom/rcno-reviews">	<img alt="stars" src="https://img.shields.io/github/stars/sudotom/rcno-reviews">
+
+---
+## CVE-2024-33644 ()
+> 
+- [Akshath-Nagulapally/ReproducingCVEs_Akshath_Nagulapally](https://github.com/Akshath-Nagulapally/ReproducingCVEs_Akshath_Nagulapally)	<img alt="forks" src="https://img.shields.io/github/forks/Akshath-Nagulapally/ReproducingCVEs_Akshath_Nagulapally">	<img alt="stars" src="https://img.shields.io/github/stars/Akshath-Nagulapally/ReproducingCVEs_Akshath_Nagulapally">
+
+---
+## CVE-2024-33559 ()
+> 
+- [absholi7ly/WordPress-XStore-theme-SQL-Injection](https://github.com/absholi7ly/WordPress-XStore-theme-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/WordPress-XStore-theme-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/WordPress-XStore-theme-SQL-Injection">
 
 ---
 ## CVE-2024-33544 (2024-04-29T07:15:00)
@@ -5981,6 +6519,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 ## CVE-2024-33438 (2024-04-29T18:15:00)
 > File Upload vulnerability in CubeCart before 6.5.5 allows an authenticated user to execute arbitrary code via a crafted .phar file.
 - [julio-cfa/CVE-2024-33438](https://github.com/julio-cfa/CVE-2024-33438)	<img alt="forks" src="https://img.shields.io/github/forks/julio-cfa/CVE-2024-33438">	<img alt="stars" src="https://img.shields.io/github/stars/julio-cfa/CVE-2024-33438">
+
+---
+## CVE-2024-33421 ()
+> 
+- [sp624/CVE-2024-33421](https://github.com/sp624/CVE-2024-33421)	<img alt="forks" src="https://img.shields.io/github/forks/sp624/CVE-2024-33421">	<img alt="stars" src="https://img.shields.io/github/stars/sp624/CVE-2024-33421">
 
 ---
 ## CVE-2024-33386 (2024-05-14T15:37:00)
@@ -6095,6 +6638,12 @@ QuTScloud c5.1.5.2651 and later
 - [OIivr/Turvan6rkus-CVE-2024-3273](https://github.com/OIivr/Turvan6rkus-CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/OIivr/Turvan6rkus-CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/OIivr/Turvan6rkus-CVE-2024-3273">
 - [X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE](https://github.com/X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE">
 - [GSTEINF/CVE-2024-3273](https://github.com/GSTEINF/CVE-2024-3273)	<img alt="forks" src="https://img.shields.io/github/forks/GSTEINF/CVE-2024-3273">	<img alt="stars" src="https://img.shields.io/github/stars/GSTEINF/CVE-2024-3273">
+- [askhatov21/Best-Practices-Cybersecurity-Otanata-Project](https://github.com/askhatov21/Best-Practices-Cybersecurity-Otanata-Project)	<img alt="forks" src="https://img.shields.io/github/forks/askhatov21/Best-Practices-Cybersecurity-Otanata-Project">	<img alt="stars" src="https://img.shields.io/github/stars/askhatov21/Best-Practices-Cybersecurity-Otanata-Project">
+
+---
+## CVE-2024-3272 ()
+> 
+- [aliask/dinkleberry](https://github.com/aliask/dinkleberry)	<img alt="forks" src="https://img.shields.io/github/forks/aliask/dinkleberry">	<img alt="stars" src="https://img.shields.io/github/stars/aliask/dinkleberry">
 
 ---
 ## CVE-2024-32709 (2024-04-24T08:15:00)
@@ -6205,6 +6754,11 @@ QuTScloud c5.1.5.2651 and later
 - [xbz0n/CVE-2024-32136](https://github.com/xbz0n/CVE-2024-32136)	<img alt="forks" src="https://img.shields.io/github/forks/xbz0n/CVE-2024-32136">	<img alt="stars" src="https://img.shields.io/github/stars/xbz0n/CVE-2024-32136">
 
 ---
+## CVE-2024-32114 ()
+> 
+- [Catherines77/ActiveMQ-EXPtools](https://github.com/Catherines77/ActiveMQ-EXPtools)	<img alt="forks" src="https://img.shields.io/github/forks/Catherines77/ActiveMQ-EXPtools">	<img alt="stars" src="https://img.shields.io/github/stars/Catherines77/ActiveMQ-EXPtools">
+
+---
 ## CVE-2024-32113 (2024-05-08T15:15:00)
 > Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Apache OFBiz.This issue affects Apache OFBiz: before 18.12.13.
 
@@ -6229,6 +6783,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 ## CVE-2024-32030 (2024-06-19T17:15:00)
 > Kafka UI is an Open-Source Web UI for Apache Kafka Management. Kafka UI API allows users to connect to different Kafka brokers by specifying their network address and port. As a separate feature, it also provides the ability to monitor the performance of Kafka brokers by connecting to their JMX ports. JMX is based on the RMI protocol, so it is inherently susceptible to deserialization attacks. A potential attacker can exploit this feature by connecting Kafka UI backend to its own malicious broker. This vulnerability affects the deployments where one of the following occurs: 1. dynamic.config.enabled property is set in settings. It's not enabled by default, but it's suggested to be enabled in many tutorials for Kafka UI, including its own README.md. OR  2. an attacker has access to the Kafka cluster that is being connected to Kafka UI. In this scenario the attacker can exploit this vulnerability to expand their access and execute code on Kafka UI as well. Instead of setting up a legitimate JMX port, an attacker can create an RMI listener that returns a malicious serialized object for any RMI call. In the worst case it could lead to remote code execution as Kafka UI has the required gadget chains in its classpath. This issue may lead to post-auth remote code execution. This is particularly dangerous as Kafka-UI does not have authentication enabled by default. This issue has been addressed in version 0.7.2. All users are advised to upgrade. There are no known workarounds for this vulnerability. These issues were discovered and reported by the GitHub Security lab and is also tracked as GHSL-2023-230.
 - [huseyinstif/CVE-2024-32030-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-32030-Nuclei-Template)	<img alt="forks" src="https://img.shields.io/github/forks/huseyinstif/CVE-2024-32030-Nuclei-Template">	<img alt="stars" src="https://img.shields.io/github/stars/huseyinstif/CVE-2024-32030-Nuclei-Template">
+
+---
+## CVE-2024-32022 ()
+> 
+- [sylwia-budzynska/codeql-workshop](https://github.com/sylwia-budzynska/codeql-workshop)	<img alt="forks" src="https://img.shields.io/github/forks/sylwia-budzynska/codeql-workshop">	<img alt="stars" src="https://img.shields.io/github/stars/sylwia-budzynska/codeql-workshop">
 
 ---
 ## CVE-2024-32019 ()
@@ -6399,6 +6958,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [DayDayDayDreaming/backup-exec-hook](https://github.com/DayDayDayDreaming/backup-exec-hook)	<img alt="forks" src="https://img.shields.io/github/forks/DayDayDayDreaming/backup-exec-hook">	<img alt="stars" src="https://img.shields.io/github/stars/DayDayDayDreaming/backup-exec-hook">
 - [DayDayDayDreaming/backup-exec-cve-32002](https://github.com/DayDayDayDreaming/backup-exec-cve-32002)	<img alt="forks" src="https://img.shields.io/github/forks/DayDayDayDreaming/backup-exec-cve-32002">	<img alt="stars" src="https://img.shields.io/github/stars/DayDayDayDreaming/backup-exec-cve-32002">
 - [BohemianHacks/CVE-2024-32002-poc](https://github.com/BohemianHacks/CVE-2024-32002-poc)	<img alt="forks" src="https://img.shields.io/github/forks/BohemianHacks/CVE-2024-32002-poc">	<img alt="stars" src="https://img.shields.io/github/stars/BohemianHacks/CVE-2024-32002-poc">
+- [AD-Appledog/wakuwaku](https://github.com/AD-Appledog/wakuwaku)	<img alt="forks" src="https://img.shields.io/github/forks/AD-Appledog/wakuwaku">	<img alt="stars" src="https://img.shields.io/github/stars/AD-Appledog/wakuwaku">
 
 ---
 ## CVE-2024-31989 (2024-05-21T19:15:00)
@@ -6414,6 +6974,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [raishin1/CVE-2024-31982](https://github.com/raishin1/CVE-2024-31982)	<img alt="forks" src="https://img.shields.io/github/forks/raishin1/CVE-2024-31982">	<img alt="stars" src="https://img.shields.io/github/stars/raishin1/CVE-2024-31982">
 
 ---
+## CVE-2024-31974 ()
+> 
+- [actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown)	<img alt="forks" src="https://img.shields.io/github/forks/actuator/com.solarized.firedown">	<img alt="stars" src="https://img.shields.io/github/stars/actuator/com.solarized.firedown">
+
+---
 ## CVE-2024-31969 ()
 > 
 - [kingfakee7/CVE-2024-31969](https://github.com/kingfakee7/CVE-2024-31969)	<img alt="forks" src="https://img.shields.io/github/forks/kingfakee7/CVE-2024-31969">	<img alt="stars" src="https://img.shields.io/github/stars/kingfakee7/CVE-2024-31969">
@@ -6422,6 +6987,11 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 ## CVE-2024-31964 ()
 > 
 - [d-Raco/CVE-2024-31964](https://github.com/d-Raco/CVE-2024-31964)	<img alt="forks" src="https://img.shields.io/github/forks/d-Raco/CVE-2024-31964">	<img alt="stars" src="https://img.shields.io/github/stars/d-Raco/CVE-2024-31964">
+
+---
+## CVE-2024-31903 ()
+> 
+- [ReversecLabs/ibm-sterling-b2b-integrator-poc](https://github.com/ReversecLabs/ibm-sterling-b2b-integrator-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ReversecLabs/ibm-sterling-b2b-integrator-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ReversecLabs/ibm-sterling-b2b-integrator-poc">
 
 ---
 ## CVE-2024-31848 (2024-04-05T18:15:00)
@@ -6458,6 +7028,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [restdone/CVE-2024-31771](https://github.com/restdone/CVE-2024-31771)	<img alt="forks" src="https://img.shields.io/github/forks/restdone/CVE-2024-31771">	<img alt="stars" src="https://img.shields.io/github/stars/restdone/CVE-2024-31771">
 
 ---
+## CVE-2024-3177 ()
+> 
+- [Cgv-Dev/Metasploit-Module-TFM](https://github.com/Cgv-Dev/Metasploit-Module-TFM)	<img alt="forks" src="https://img.shields.io/github/forks/Cgv-Dev/Metasploit-Module-TFM">	<img alt="stars" src="https://img.shields.io/github/stars/Cgv-Dev/Metasploit-Module-TFM">
+
+---
 ## CVE-2024-31734 ()
 > 
 - [HBLocker/CVE-2024-31734](https://github.com/HBLocker/CVE-2024-31734)	<img alt="forks" src="https://img.shields.io/github/forks/HBLocker/CVE-2024-31734">	<img alt="stars" src="https://img.shields.io/github/stars/HBLocker/CVE-2024-31734">
@@ -6468,6 +7043,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability](https://github.com/VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/VoltaireYoung/CVE-2024-31719----AMI-Aptio-5-Vulnerability">
 
 ---
+## CVE-2024-31680 ()
+> 
+- [h3rkk/CVE-2024-31680](https://github.com/h3rkk/CVE-2024-31680)	<img alt="forks" src="https://img.shields.io/github/forks/h3rkk/CVE-2024-31680">	<img alt="stars" src="https://img.shields.io/github/stars/h3rkk/CVE-2024-31680">
+
+---
 ## CVE-2024-31666 (2024-04-22T18:15:00)
 > An issue in flusity-CMS v.2.33 allows a remote attacker to execute arbitrary code via a crafted script to the edit_addon_post.php component.
 - [hapa3/CVE-2024-31666](https://github.com/hapa3/CVE-2024-31666)	<img alt="forks" src="https://img.shields.io/github/forks/hapa3/CVE-2024-31666">	<img alt="stars" src="https://img.shields.io/github/stars/hapa3/CVE-2024-31666">
@@ -6476,6 +7056,16 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-3154 (2024-04-26T04:15:00)
 > A flaw was found in cri-o, where an arbitrary systemd property can be injected via a Pod annotation. Any user who can create a pod with an arbitrary annotation may perform an arbitrary action on the host system.
 - [cdxiaodong/CVE-2024-3154-communication](https://github.com/cdxiaodong/CVE-2024-3154-communication)	<img alt="forks" src="https://img.shields.io/github/forks/cdxiaodong/CVE-2024-3154-communication">	<img alt="stars" src="https://img.shields.io/github/stars/cdxiaodong/CVE-2024-3154-communication">
+
+---
+## CVE-2024-31509 ()
+> 
+- [sp624/CVE-2024-31509](https://github.com/sp624/CVE-2024-31509)	<img alt="forks" src="https://img.shields.io/github/forks/sp624/CVE-2024-31509">	<img alt="stars" src="https://img.shields.io/github/stars/sp624/CVE-2024-31509">
+
+---
+## CVE-2024-31508 ()
+> 
+- [sp624/CVE-2024-31508](https://github.com/sp624/CVE-2024-31508)	<img alt="forks" src="https://img.shields.io/github/forks/sp624/CVE-2024-31508">	<img alt="stars" src="https://img.shields.io/github/stars/sp624/CVE-2024-31508">
 
 ---
 ## CVE-2024-31497 (2024-04-15T20:15:00)
@@ -6551,6 +7141,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [kalibb/CVE-2024-31317-Deployer](https://github.com/kalibb/CVE-2024-31317-Deployer)	<img alt="forks" src="https://img.shields.io/github/forks/kalibb/CVE-2024-31317-Deployer">	<img alt="stars" src="https://img.shields.io/github/stars/kalibb/CVE-2024-31317-Deployer">
 - [chengfeng30121/CVE-2024-31317-PoC](https://github.com/chengfeng30121/CVE-2024-31317-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/chengfeng30121/CVE-2024-31317-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/chengfeng30121/CVE-2024-31317-PoC">
 - [vnescape/zygote-CVE-2024-31317](https://github.com/vnescape/zygote-CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/vnescape/zygote-CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/vnescape/zygote-CVE-2024-31317">
+- [GitAmanS/ZygoteExploitDemo](https://github.com/GitAmanS/ZygoteExploitDemo)	<img alt="forks" src="https://img.shields.io/github/forks/GitAmanS/ZygoteExploitDemo">	<img alt="stars" src="https://img.shields.io/github/stars/GitAmanS/ZygoteExploitDemo">
 
 ---
 ## CVE-2024-31286 (2024-04-07T18:15:00)
@@ -6728,6 +7319,10 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [vnchk1/sec_review_cve-2024-3094](https://github.com/vnchk1/sec_review_cve-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/vnchk1/sec_review_cve-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/vnchk1/sec_review_cve-2024-3094">
 - [0xBlackash/CVE-2024-3094](https://github.com/0xBlackash/CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2024-3094">
 - [vesjolyjd/Kaspersky_CVE-2024-3094](https://github.com/vesjolyjd/Kaspersky_CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/vesjolyjd/Kaspersky_CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/vesjolyjd/Kaspersky_CVE-2024-3094">
+- [jbnetwork-git/CVE-2024-3094-XZ-Utils-Check](https://github.com/jbnetwork-git/CVE-2024-3094-XZ-Utils-Check)	<img alt="forks" src="https://img.shields.io/github/forks/jbnetwork-git/CVE-2024-3094-XZ-Utils-Check">	<img alt="stars" src="https://img.shields.io/github/stars/jbnetwork-git/CVE-2024-3094-XZ-Utils-Check">
+- [stevehenderson/lab_xz_backdoor](https://github.com/stevehenderson/lab_xz_backdoor)	<img alt="forks" src="https://img.shields.io/github/forks/stevehenderson/lab_xz_backdoor">	<img alt="stars" src="https://img.shields.io/github/stars/stevehenderson/lab_xz_backdoor">
+- [nnatsopoulos/xz-backdoor-research](https://github.com/nnatsopoulos/xz-backdoor-research)	<img alt="forks" src="https://img.shields.io/github/forks/nnatsopoulos/xz-backdoor-research">	<img alt="stars" src="https://img.shields.io/github/stars/nnatsopoulos/xz-backdoor-research">
+- [Bryn018/Semantic-Backdoor-Detector](https://github.com/Bryn018/Semantic-Backdoor-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/Bryn018/Semantic-Backdoor-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/Bryn018/Semantic-Backdoor-Detector">
 
 ---
 ## CVE-2024-30937 ()
@@ -7055,6 +7650,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [yashpatelphd/CVE-2024-30657](https://github.com/yashpatelphd/CVE-2024-30657)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-30657">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-30657">
 
 ---
+## CVE-2024-30656 ()
+> 
+- [Yashodhanvivek/Firebolt-wristphone-vulnerability](https://github.com/Yashodhanvivek/Firebolt-wristphone-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Yashodhanvivek/Firebolt-wristphone-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Yashodhanvivek/Firebolt-wristphone-vulnerability">
+
+---
 ## CVE-2024-30614 (2024-04-12T06:15:00)
 > An issue in Ametys CMS v4.5.0 and before allows attackers to obtain sensitive information via exposed resources to the error scope.
 - [Lucky-lm/CVE-2024-30614](https://github.com/Lucky-lm/CVE-2024-30614)	<img alt="forks" src="https://img.shields.io/github/forks/Lucky-lm/CVE-2024-30614">	<img alt="stars" src="https://img.shields.io/github/stars/Lucky-lm/CVE-2024-30614">
@@ -7075,6 +7675,16 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-30270 (2024-04-04T21:15:00)
 > mailcow: dockerized is an open source groupware/email suite based on docker. A security vulnerability has been identified in mailcow affecting versions prior to 2024-04. This vulnerability is a combination of path traversal and arbitrary code execution, specifically targeting the `rspamd_maps()` function. It allows authenticated admin users to overwrite any file writable by the www-data user by exploiting improper path validation. The exploit chain can lead to the execution of arbitrary commands on the server. Version 2024-04 contains a patch for the issue.
 - [Alchemist3dot14/CVE-2024-30270-PoC](https://github.com/Alchemist3dot14/CVE-2024-30270-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-30270-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-30270-PoC">
+
+---
+## CVE-2024-30255 ()
+> 
+- [blackmagic2023/Envoy-CPU-Exhaustion-Vulnerability-PoC](https://github.com/blackmagic2023/Envoy-CPU-Exhaustion-Vulnerability-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/blackmagic2023/Envoy-CPU-Exhaustion-Vulnerability-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/blackmagic2023/Envoy-CPU-Exhaustion-Vulnerability-PoC">
+
+---
+## CVE-2024-30212 ()
+> 
+- [Fehr-GmbH/blackleak](https://github.com/Fehr-GmbH/blackleak)	<img alt="forks" src="https://img.shields.io/github/forks/Fehr-GmbH/blackleak">	<img alt="stars" src="https://img.shields.io/github/stars/Fehr-GmbH/blackleak">
 
 ---
 ## CVE-2024-30167 ()
@@ -7100,6 +7710,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [ramzihafiz/cve-2024-30088-binary](https://github.com/ramzihafiz/cve-2024-30088-binary)	<img alt="forks" src="https://img.shields.io/github/forks/ramzihafiz/cve-2024-30088-binary">	<img alt="stars" src="https://img.shields.io/github/stars/ramzihafiz/cve-2024-30088-binary">
 - [repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit](https://github.com/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit">
 - [oioio-space/maldev](https://github.com/oioio-space/maldev)	<img alt="forks" src="https://img.shields.io/github/forks/oioio-space/maldev">	<img alt="stars" src="https://img.shields.io/github/stars/oioio-space/maldev">
+- [FangFang-Yi/CVE-2024-30088](https://github.com/FangFang-Yi/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/FangFang-Yi/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/FangFang-Yi/CVE-2024-30088">
 
 ---
 ## CVE-2024-30085 ()
@@ -7120,6 +7731,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [blkph0x/CVE_2024_30078_POC_WIFI](https://github.com/blkph0x/CVE_2024_30078_POC_WIFI)	<img alt="forks" src="https://img.shields.io/github/forks/blkph0x/CVE_2024_30078_POC_WIFI">	<img alt="stars" src="https://img.shields.io/github/stars/blkph0x/CVE_2024_30078_POC_WIFI">
 - [zgimszhd61/CVE-2024-30078-POC_WIFI](https://github.com/zgimszhd61/CVE-2024-30078-POC_WIFI)	<img alt="forks" src="https://img.shields.io/github/forks/zgimszhd61/CVE-2024-30078-POC_WIFI">	<img alt="stars" src="https://img.shields.io/github/stars/zgimszhd61/CVE-2024-30078-POC_WIFI">
 - [a-roshbaik/CVE_2024_30078_POC_WIFI](https://github.com/a-roshbaik/CVE_2024_30078_POC_WIFI)	<img alt="forks" src="https://img.shields.io/github/forks/a-roshbaik/CVE_2024_30078_POC_WIFI">	<img alt="stars" src="https://img.shields.io/github/stars/a-roshbaik/CVE_2024_30078_POC_WIFI">
+
+---
+## CVE-2024-30056 ()
+> 
+- [absholi7ly/Microsoft-Edge-Information-Disclosure](https://github.com/absholi7ly/Microsoft-Edge-Information-Disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/Microsoft-Edge-Information-Disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/Microsoft-Edge-Information-Disclosure">
 
 ---
 ## CVE-2024-30052 (2024-06-11T17:15:00)
@@ -7187,6 +7803,7 @@ The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxe
 - [NullEssa/CVE-2024-2997](https://github.com/NullEssa/CVE-2024-2997)	<img alt="forks" src="https://img.shields.io/github/forks/NullEssa/CVE-2024-2997">	<img alt="stars" src="https://img.shields.io/github/stars/NullEssa/CVE-2024-2997">
 - [NullEssa/CVE-2024-2997](https://github.com/NullEssa/CVE-2024-2997)	<img alt="forks" src="https://img.shields.io/github/forks/NullEssa/CVE-2024-2997">	<img alt="stars" src="https://img.shields.io/github/stars/NullEssa/CVE-2024-2997">
 - [0xUho/CVE-2024-2997](https://github.com/0xUho/CVE-2024-2997)	<img alt="forks" src="https://img.shields.io/github/forks/0xUho/CVE-2024-2997">	<img alt="stars" src="https://img.shields.io/github/stars/0xUho/CVE-2024-2997">
+- [o9-9/CVE-2024-2997](https://github.com/o9-9/CVE-2024-2997)	<img alt="forks" src="https://img.shields.io/github/forks/o9-9/CVE-2024-2997">	<img alt="stars" src="https://img.shields.io/github/stars/o9-9/CVE-2024-2997">
 
 ---
 ## CVE-2024-29943 (2024-03-22T13:15:00)
@@ -7265,6 +7882,8 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [suce0155/CVE-2024-2961_buddyforms_2.7.7](https://github.com/suce0155/CVE-2024-2961_buddyforms_2.7.7)	<img alt="forks" src="https://img.shields.io/github/forks/suce0155/CVE-2024-2961_buddyforms_2.7.7">	<img alt="stars" src="https://img.shields.io/github/stars/suce0155/CVE-2024-2961_buddyforms_2.7.7">
 - [regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-](https://github.com/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-)	<img alt="forks" src="https://img.shields.io/github/forks/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-">	<img alt="stars" src="https://img.shields.io/github/stars/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-">
 - [rcribelar-nucleus/demo-php-cve-2024-2961](https://github.com/rcribelar-nucleus/demo-php-cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/rcribelar-nucleus/demo-php-cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/rcribelar-nucleus/demo-php-cve-2024-2961">
+- [Clarissss/osTicketFileReadIntoRCE](https://github.com/Clarissss/osTicketFileReadIntoRCE)	<img alt="forks" src="https://img.shields.io/github/forks/Clarissss/osTicketFileReadIntoRCE">	<img alt="stars" src="https://img.shields.io/github/stars/Clarissss/osTicketFileReadIntoRCE">
+- [whyuhurtz/wongpress](https://github.com/whyuhurtz/wongpress)	<img alt="forks" src="https://img.shields.io/github/forks/whyuhurtz/wongpress">	<img alt="stars" src="https://img.shields.io/github/stars/whyuhurtz/wongpress">
 
 ---
 ## CVE-2024-29510 (2024-07-03T19:15:00)
@@ -7343,6 +7962,11 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439)	<img alt="forks" src="https://img.shields.io/github/forks/yashpatelphd/CVE-2024-29439">	<img alt="stars" src="https://img.shields.io/github/stars/yashpatelphd/CVE-2024-29439">
 
 ---
+## CVE-2024-29415 ()
+> 
+- [felipecruz91/node-ip-vex](https://github.com/felipecruz91/node-ip-vex)	<img alt="forks" src="https://img.shields.io/github/forks/felipecruz91/node-ip-vex">	<img alt="stars" src="https://img.shields.io/github/stars/felipecruz91/node-ip-vex">
+
+---
 ## CVE-2024-29404 (2024-12-03T17:15:00)
 > An issue in Razer Synapse 3 v.3.9.131.20813 and Synapse 3 App v.20240213 allows a local attacker to execute arbitrary code via the export parameter of the Chroma Effects function in the Profiles component.
 - [mansk1es/CVE-2024-29404_Razer](https://github.com/mansk1es/CVE-2024-29404_Razer)	<img alt="forks" src="https://img.shields.io/github/forks/mansk1es/CVE-2024-29404_Razer">	<img alt="stars" src="https://img.shields.io/github/stars/mansk1es/CVE-2024-29404_Razer">
@@ -7373,6 +7997,16 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 > A Local File Inclusion (LFI) vulnerability was identified in mlflow/mlflow, specifically in version 2.9.2, which was fixed in version 2.11.3. This vulnerability arises from the application's failure to properly validate URI fragments for directory traversal sequences such as '../'. An attacker can exploit this flaw by manipulating the fragment part of the URI to read arbitrary files on the local file system, including sensitive files like '/etc/passwd'. The vulnerability is a bypass to a previous patch that only addressed similar manipulation within the URI's query string, highlighting the need for comprehensive validation of all parts of a URI to prevent LFI attacks.
 - [nuridincersaygili/CVE-2024-2928](https://github.com/nuridincersaygili/CVE-2024-2928)	<img alt="forks" src="https://img.shields.io/github/forks/nuridincersaygili/CVE-2024-2928">	<img alt="stars" src="https://img.shields.io/github/stars/nuridincersaygili/CVE-2024-2928">
 - [rain321654/sjtu_CVE-2024-2928](https://github.com/rain321654/sjtu_CVE-2024-2928)	<img alt="forks" src="https://img.shields.io/github/forks/rain321654/sjtu_CVE-2024-2928">	<img alt="stars" src="https://img.shields.io/github/stars/rain321654/sjtu_CVE-2024-2928">
+
+---
+## CVE-2024-29278 ()
+> 
+- [QDming/cve](https://github.com/QDming/cve)	<img alt="forks" src="https://img.shields.io/github/forks/QDming/cve">	<img alt="stars" src="https://img.shields.io/github/stars/QDming/cve">
+
+---
+## CVE-2024-29275 ()
+> 
+- [Cyphercoda/nuclei_template](https://github.com/Cyphercoda/nuclei_template)	<img alt="forks" src="https://img.shields.io/github/forks/Cyphercoda/nuclei_template">	<img alt="stars" src="https://img.shields.io/github/stars/Cyphercoda/nuclei_template">
 
 ---
 ## CVE-2024-29272 (2024-03-22T04:15:00)
@@ -7417,6 +8051,11 @@ The impact of this vulnerability is severe as it allows an attacker to compromis
 
 Version 1.8.128 contains a patch for this issue.
 - [abdulbugblaster/CVE-2024-29184](https://github.com/abdulbugblaster/CVE-2024-29184)	<img alt="forks" src="https://img.shields.io/github/forks/abdulbugblaster/CVE-2024-29184">	<img alt="stars" src="https://img.shields.io/github/stars/abdulbugblaster/CVE-2024-29184">
+
+---
+## CVE-2024-29059 ()
+> 
+- [codewhitesec/HttpRemotingObjRefLeak](https://github.com/codewhitesec/HttpRemotingObjRefLeak)	<img alt="forks" src="https://img.shields.io/github/forks/codewhitesec/HttpRemotingObjRefLeak">	<img alt="stars" src="https://img.shields.io/github/stars/codewhitesec/HttpRemotingObjRefLeak">
 
 ---
 ## CVE-2024-29050 (2024-04-09T17:15:00)
@@ -7500,6 +8139,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [rycbar77/CVE-2024-2887](https://github.com/rycbar77/CVE-2024-2887)	<img alt="forks" src="https://img.shields.io/github/forks/rycbar77/CVE-2024-2887">	<img alt="stars" src="https://img.shields.io/github/stars/rycbar77/CVE-2024-2887">
 - [jjyuorg/reproduce-cve-2024-2887](https://github.com/jjyuorg/reproduce-cve-2024-2887)	<img alt="forks" src="https://img.shields.io/github/forks/jjyuorg/reproduce-cve-2024-2887">	<img alt="stars" src="https://img.shields.io/github/stars/jjyuorg/reproduce-cve-2024-2887">
 - [junfuture1103/CVE-2024-2887](https://github.com/junfuture1103/CVE-2024-2887)	<img alt="forks" src="https://img.shields.io/github/forks/junfuture1103/CVE-2024-2887">	<img alt="stars" src="https://img.shields.io/github/stars/junfuture1103/CVE-2024-2887">
+- [ad3210/CVE-2024-2887-REPORT](https://github.com/ad3210/CVE-2024-2887-REPORT)	<img alt="forks" src="https://img.shields.io/github/forks/ad3210/CVE-2024-2887-REPORT">	<img alt="stars" src="https://img.shields.io/github/stars/ad3210/CVE-2024-2887-REPORT">
 
 ---
 ## CVE-2024-2879 (2024-04-03T04:15:00)
@@ -7648,6 +8288,18 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [0x1x02/CVE-2024-28213](https://github.com/0x1x02/CVE-2024-28213)	<img alt="forks" src="https://img.shields.io/github/forks/0x1x02/CVE-2024-28213">	<img alt="stars" src="https://img.shields.io/github/stars/0x1x02/CVE-2024-28213">
 
 ---
+## CVE-2024-28157 ()
+> 
+- [shinigami-777/PoC_CVE-2024-28157](https://github.com/shinigami-777/PoC_CVE-2024-28157)	<img alt="forks" src="https://img.shields.io/github/forks/shinigami-777/PoC_CVE-2024-28157">	<img alt="stars" src="https://img.shields.io/github/stars/shinigami-777/PoC_CVE-2024-28157">
+
+---
+## CVE-2024-28116 ()
+> 
+- [akabe1/Graver](https://github.com/akabe1/Graver)	<img alt="forks" src="https://img.shields.io/github/forks/akabe1/Graver">	<img alt="stars" src="https://img.shields.io/github/stars/akabe1/Graver">
+- [gunzf0x/Grav-CMS-RCE-Authenticated](https://github.com/gunzf0x/Grav-CMS-RCE-Authenticated)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/Grav-CMS-RCE-Authenticated">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/Grav-CMS-RCE-Authenticated">
+- [geniuszly/GenGravSSTIExploit](https://github.com/geniuszly/GenGravSSTIExploit)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszly/GenGravSSTIExploit">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszly/GenGravSSTIExploit">
+
+---
 ## CVE-2024-28088 (2024-03-04T00:15:00)
 > LangChain through 0.1.10 allows ../ directory traversal by an actor who is able to control the final part of the path parameter in a load_chain call. This bypasses the intended behavior of loading configurations only from the hwchase17/langchain-hub GitHub repository. The outcome can be disclosure of an API key for a large language model online service, or remote code execution. (A patch is available as of release 0.1.29 of langchain-core.)
 - [levpachmanov/cve-2024-28088-poc](https://github.com/levpachmanov/cve-2024-28088-poc)	<img alt="forks" src="https://img.shields.io/github/forks/levpachmanov/cve-2024-28088-poc">	<img alt="stars" src="https://img.shields.io/github/stars/levpachmanov/cve-2024-28088-poc">
@@ -7656,6 +8308,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-28085 (2024-03-27T19:15:00)
 > wall in util-linux through 2.40, often installed with setgid tty permissions, allows escape sequences to be sent to other users' terminals through argv. (Specifically, escape sequences received from stdin are blocked, but escape sequences received from argv are not blocked.) There may be plausible scenarios where this leads to account takeover.
 - [skyler-ferrante/CVE-2024-28085](https://github.com/skyler-ferrante/CVE-2024-28085)	<img alt="forks" src="https://img.shields.io/github/forks/skyler-ferrante/CVE-2024-28085">	<img alt="stars" src="https://img.shields.io/github/stars/skyler-ferrante/CVE-2024-28085">
+- [oditynet/sleepall](https://github.com/oditynet/sleepall)	<img alt="forks" src="https://img.shields.io/github/forks/oditynet/sleepall">	<img alt="stars" src="https://img.shields.io/github/stars/oditynet/sleepall">
 
 ---
 ## CVE-2024-28084 ()
@@ -7724,6 +8377,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [r0otk3r/CVE-2024-27954](https://github.com/r0otk3r/CVE-2024-27954)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2024-27954">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2024-27954">
 
 ---
+## CVE-2024-27914 ()
+> 
+- [shellkraft/CVE-2024-27914](https://github.com/shellkraft/CVE-2024-27914)	<img alt="forks" src="https://img.shields.io/github/forks/shellkraft/CVE-2024-27914">	<img alt="stars" src="https://img.shields.io/github/stars/shellkraft/CVE-2024-27914">
+
+---
 ## CVE-2024-27876 ()
 > 
 - [0xilis/CVE-2024-27876](https://github.com/0xilis/CVE-2024-27876)	<img alt="forks" src="https://img.shields.io/github/forks/0xilis/CVE-2024-27876">	<img alt="stars" src="https://img.shields.io/github/stars/0xilis/CVE-2024-27876">
@@ -7759,6 +8417,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-27804 (2024-05-14T15:13:00)
 > The issue was addressed with improved memory handling. This issue is fixed in iOS 17.5 and iPadOS 17.5, tvOS 17.5, watchOS 10.5, macOS Sonoma 14.5. An app may be able to execute arbitrary code with kernel privileges.
 - [R00tkitSMM/CVE-2024-27804](https://github.com/R00tkitSMM/CVE-2024-27804)	<img alt="forks" src="https://img.shields.io/github/forks/R00tkitSMM/CVE-2024-27804">	<img alt="stars" src="https://img.shields.io/github/stars/R00tkitSMM/CVE-2024-27804">
+- [a0zhar/QuarkPoC](https://github.com/a0zhar/QuarkPoC)	<img alt="forks" src="https://img.shields.io/github/forks/a0zhar/QuarkPoC">	<img alt="stars" src="https://img.shields.io/github/stars/a0zhar/QuarkPoC">
 
 ---
 ## CVE-2024-27766 (2024-10-17T22:15:00)
@@ -7812,11 +8471,17 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [ally-petitt/CVE-2024-27630](https://github.com/ally-petitt/CVE-2024-27630)	<img alt="forks" src="https://img.shields.io/github/forks/ally-petitt/CVE-2024-27630">	<img alt="stars" src="https://img.shields.io/github/stars/ally-petitt/CVE-2024-27630">
 
 ---
+## CVE-2024-27619 ()
+> 
+- [ioprojecton/dir-3040_dos](https://github.com/ioprojecton/dir-3040_dos)	<img alt="forks" src="https://img.shields.io/github/forks/ioprojecton/dir-3040_dos">	<img alt="stars" src="https://img.shields.io/github/stars/ioprojecton/dir-3040_dos">
+
+---
 ## CVE-2024-27564 (2024-03-05T17:15:00)
 > A Server-Side Request Forgery (SSRF) in pictureproxy.php of ChatGPT commit f9f4bbc allows attackers to force the application to make arbitrary requests via injection of crafted URLs into the urlparameter.
 - [Quantum-Hacker/CVE-2024-27564](https://github.com/Quantum-Hacker/CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-27564">
 - [MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564](https://github.com/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564">
 - [Quantum-Hacker/CVE-2024-27564](https://github.com/Quantum-Hacker/CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-27564">
+- [chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564](https://github.com/chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564">
 
 ---
 ## CVE-2024-27518 (2024-04-29T21:15:00)
@@ -7827,6 +8492,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-27499 ()
 > 
 - [auspicious7/CVE-2024-27499-Bagisto-XSS-FileUpload](https://github.com/auspicious7/CVE-2024-27499-Bagisto-XSS-FileUpload)	<img alt="forks" src="https://img.shields.io/github/forks/auspicious7/CVE-2024-27499-Bagisto-XSS-FileUpload">	<img alt="stars" src="https://img.shields.io/github/stars/auspicious7/CVE-2024-27499-Bagisto-XSS-FileUpload">
+
+---
+## CVE-2024-27474 ()
+> 
+- [dead1nfluence/Leantime-POC](https://github.com/dead1nfluence/Leantime-POC)	<img alt="forks" src="https://img.shields.io/github/forks/dead1nfluence/Leantime-POC">	<img alt="stars" src="https://img.shields.io/github/stars/dead1nfluence/Leantime-POC">
 
 ---
 ## CVE-2024-27462 (2024-04-14T23:15:00)
@@ -7887,6 +8557,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 ## CVE-2024-27292 (2024-03-21T02:52:00)
 > Docassemble is an expert system for guided interviews and document assembly. The vulnerability allows attackers to gain unauthorized access to information on the system through URL manipulation. It affects versions 1.4.53 to 1.4.96. The vulnerability has been patched in version 1.4.97 of the master branch.
 - [th3gokul/CVE-2024-27292](https://github.com/th3gokul/CVE-2024-27292)	<img alt="forks" src="https://img.shields.io/github/forks/th3gokul/CVE-2024-27292">	<img alt="stars" src="https://img.shields.io/github/stars/th3gokul/CVE-2024-27292">
+- [NingXin2002/Docassemble_poc](https://github.com/NingXin2002/Docassemble_poc)	<img alt="forks" src="https://img.shields.io/github/forks/NingXin2002/Docassemble_poc">	<img alt="stars" src="https://img.shields.io/github/stars/NingXin2002/Docassemble_poc">
 
 ---
 ## CVE-2024-27282 (2024-05-14T15:11:00)
@@ -7926,6 +8597,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [dbwlsdnr95/CVE-2024-27198](https://github.com/dbwlsdnr95/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/dbwlsdnr95/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/dbwlsdnr95/CVE-2024-27198">
 - [cmpnn-romain/CVE-2024-27198_Lab](https://github.com/cmpnn-romain/CVE-2024-27198_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/cmpnn-romain/CVE-2024-27198_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/cmpnn-romain/CVE-2024-27198_Lab">
 - [Ne0zer01/CVE-2024-27198_LAB](https://github.com/Ne0zer01/CVE-2024-27198_LAB)	<img alt="forks" src="https://img.shields.io/github/forks/Ne0zer01/CVE-2024-27198_LAB">	<img alt="stars" src="https://img.shields.io/github/stars/Ne0zer01/CVE-2024-27198_LAB">
+- [ptd200110/CVE-2024-27198-SOC-Lab](https://github.com/ptd200110/CVE-2024-27198-SOC-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/ptd200110/CVE-2024-27198-SOC-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/ptd200110/CVE-2024-27198-SOC-Lab">
 
 ---
 ## CVE-2024-27191 (2024-04-03T12:15:00)
@@ -7951,11 +8623,17 @@ QuTS hero h5.1.7.2770 build 20240520 and later
 - [watchtowrlabs/CVE-2024-27130](https://github.com/watchtowrlabs/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-27130">
 - [d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130)	<img alt="forks" src="https://img.shields.io/github/forks/d0rb/CVE-2024-27130">	<img alt="stars" src="https://img.shields.io/github/stars/d0rb/CVE-2024-27130">
 - [XiaomingX/cve-2024-27130-poc](https://github.com/XiaomingX/cve-2024-27130-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-27130-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-27130-poc">
+- [dkstar11q/cve-2024-27130-poc](https://github.com/dkstar11q/cve-2024-27130-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dkstar11q/cve-2024-27130-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dkstar11q/cve-2024-27130-poc">
 
 ---
 ## CVE-2024-27115 ()
 > 
 - [theexploiters/CVE-2024-27115-Exploit](https://github.com/theexploiters/CVE-2024-27115-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/theexploiters/CVE-2024-27115-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/theexploiters/CVE-2024-27115-Exploit">
+
+---
+## CVE-2024-27102 ()
+> 
+- [wyllowDev/Magnohost-Vulnerabilities-pentest](https://github.com/wyllowDev/Magnohost-Vulnerabilities-pentest)	<img alt="forks" src="https://img.shields.io/github/forks/wyllowDev/Magnohost-Vulnerabilities-pentest">	<img alt="stars" src="https://img.shields.io/github/stars/wyllowDev/Magnohost-Vulnerabilities-pentest">
 
 ---
 ## CVE-2024-27088 (2024-02-26T17:15:00)
@@ -8041,6 +8719,11 @@ are not yet active.
 - [TronciuVlad/CVE-2024-26475](https://github.com/TronciuVlad/CVE-2024-26475)	<img alt="forks" src="https://img.shields.io/github/forks/TronciuVlad/CVE-2024-26475">	<img alt="stars" src="https://img.shields.io/github/stars/TronciuVlad/CVE-2024-26475">
 
 ---
+## CVE-2024-26308 ()
+> 
+- [crazycatMyopic/cve](https://github.com/crazycatMyopic/cve)	<img alt="forks" src="https://img.shields.io/github/forks/crazycatMyopic/cve">	<img alt="stars" src="https://img.shields.io/github/stars/crazycatMyopic/cve">
+
+---
 ## CVE-2024-26304 (2024-05-01T15:15:00)
 > There is a buffer overflow vulnerability in the underlying L2/L3 Management service that could lead to unauthenticated remote code execution by sending specially crafted packets destined to the PAPI (Aruba's access point management protocol) UDP port (8211). Successful exploitation of this vulnerability results in the ability to execute arbitrary code as a privileged user on the underlying operating system. 
 
@@ -8086,6 +8769,11 @@ are not yet active.
 - [AlexDoe11/CVE-2024-26198-Exchange-RCE](https://github.com/AlexDoe11/CVE-2024-26198-Exchange-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AlexDoe11/CVE-2024-26198-Exchange-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AlexDoe11/CVE-2024-26198-Exchange-RCE">
 
 ---
+## CVE-2024-26170 ()
+> 
+- [ProbNotAnExploiter/CVE-2024-26170-extended](https://github.com/ProbNotAnExploiter/CVE-2024-26170-extended)	<img alt="forks" src="https://img.shields.io/github/forks/ProbNotAnExploiter/CVE-2024-26170-extended">	<img alt="stars" src="https://img.shields.io/github/stars/ProbNotAnExploiter/CVE-2024-26170-extended">
+
+---
 ## CVE-2024-26169 (2024-03-12T17:15:00)
 > Windows Error Reporting Service Elevation of Privilege Vulnerability
 - [ldpreload/CVE-2024-26169](https://github.com/ldpreload/CVE-2024-26169)	<img alt="forks" src="https://img.shields.io/github/forks/ldpreload/CVE-2024-26169">	<img alt="stars" src="https://img.shields.io/github/stars/ldpreload/CVE-2024-26169">
@@ -8095,6 +8783,13 @@ are not yet active.
 ## CVE-2024-26160 (2024-03-12T17:15:00)
 > Windows Cloud Files Mini Filter Driver Information Disclosure Vulnerability
 - [0x00Alchemist/CVE-2024-26160](https://github.com/0x00Alchemist/CVE-2024-26160)	<img alt="forks" src="https://img.shields.io/github/forks/0x00Alchemist/CVE-2024-26160">	<img alt="stars" src="https://img.shields.io/github/stars/0x00Alchemist/CVE-2024-26160">
+- [CrackerCat/CVE-2024-26160](https://github.com/CrackerCat/CVE-2024-26160)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/CVE-2024-26160">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/CVE-2024-26160">
+
+---
+## CVE-2024-26144 ()
+> 
+- [usutani/study-turbolinks-link](https://github.com/usutani/study-turbolinks-link)	<img alt="forks" src="https://img.shields.io/github/forks/usutani/study-turbolinks-link">	<img alt="stars" src="https://img.shields.io/github/stars/usutani/study-turbolinks-link">
+- [gmo-ierae/CVE-2024-26144-test](https://github.com/gmo-ierae/CVE-2024-26144-test)	<img alt="forks" src="https://img.shields.io/github/forks/gmo-ierae/CVE-2024-26144-test">	<img alt="stars" src="https://img.shields.io/github/stars/gmo-ierae/CVE-2024-26144-test">
 
 ---
 ## CVE-2024-26026 (2024-05-08T15:15:00)
@@ -8131,6 +8826,16 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 ## CVE-2024-25735 (2024-03-27T03:15:00)
 > An issue was discovered on WyreStorm Apollo VX20 devices before 1.3.58. Remote attackers can discover cleartext passwords via a SoftAP /device/config GET request.
 - [codeb0ss/CVE-2024-25735-PoC](https://github.com/codeb0ss/CVE-2024-25735-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-25735-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-25735-PoC">
+
+---
+## CVE-2024-25733 ()
+> 
+- [hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC](https://github.com/hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hackintoanetwork/ARC-Browser-Address-Bar-Spoofing-PoC">
+
+---
+## CVE-2024-25731 ()
+> 
+- [actuator/com.cn.dq.ipc](https://github.com/actuator/com.cn.dq.ipc)	<img alt="forks" src="https://img.shields.io/github/forks/actuator/com.cn.dq.ipc">	<img alt="stars" src="https://img.shields.io/github/stars/actuator/com.cn.dq.ipc">
 
 ---
 ## CVE-2024-25723 (2024-02-27T15:15:00)
@@ -8189,6 +8894,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [frankfm-labs/bricks-rce-writeup](https://github.com/frankfm-labs/bricks-rce-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/frankfm-labs/bricks-rce-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/frankfm-labs/bricks-rce-writeup">
 - [estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC](https://github.com/estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC">
 - [h0w1tzxr/TryHack3M-Bricks-Heist](https://github.com/h0w1tzxr/TryHack3M-Bricks-Heist)	<img alt="forks" src="https://img.shields.io/github/forks/h0w1tzxr/TryHack3M-Bricks-Heist">	<img alt="stars" src="https://img.shields.io/github/stars/h0w1tzxr/TryHack3M-Bricks-Heist">
+- [Anjai7/TryHack3M-Bricks-Heist](https://github.com/Anjai7/TryHack3M-Bricks-Heist)	<img alt="forks" src="https://img.shields.io/github/forks/Anjai7/TryHack3M-Bricks-Heist">	<img alt="stars" src="https://img.shields.io/github/stars/Anjai7/TryHack3M-Bricks-Heist">
 
 ---
 ## CVE-2024-25503 (2024-04-04T08:15:00)
@@ -8204,6 +8910,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 ## CVE-2024-25423 (2024-02-22T01:15:00)
 > An issue in MAXON CINEMA 4D R2024.2.0 allows a local attacker to execute arbitrary code via a crafted c4d_base.xdl64 file.
 - [DriverUnload/cve-2024-25423](https://github.com/DriverUnload/cve-2024-25423)	<img alt="forks" src="https://img.shields.io/github/forks/DriverUnload/cve-2024-25423">	<img alt="stars" src="https://img.shields.io/github/stars/DriverUnload/cve-2024-25423">
+
+---
+## CVE-2024-25422 ()
+> 
+- [tzyyyyyyy/semcms](https://github.com/tzyyyyyyy/semcms)	<img alt="forks" src="https://img.shields.io/github/forks/tzyyyyyyy/semcms">	<img alt="stars" src="https://img.shields.io/github/stars/tzyyyyyyy/semcms">
 
 ---
 ## CVE-2024-25412 (2024-09-27T18:15:00)
@@ -8331,6 +9042,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 ## CVE-2024-25096 ()
 > 
 - [puppetma4ster/Metasploit-Wordpress-Canto-Exploit-RCE-CVE-2024-25096](https://github.com/puppetma4ster/Metasploit-Wordpress-Canto-Exploit-RCE-CVE-2024-25096)	<img alt="forks" src="https://img.shields.io/github/forks/puppetma4ster/Metasploit-Wordpress-Canto-Exploit-RCE-CVE-2024-25096">	<img alt="stars" src="https://img.shields.io/github/stars/puppetma4ster/Metasploit-Wordpress-Canto-Exploit-RCE-CVE-2024-25096">
+- [puppetma4ster/Metasploit-Wordpress-Canto-Exploit-RCE](https://github.com/puppetma4ster/Metasploit-Wordpress-Canto-Exploit-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/puppetma4ster/Metasploit-Wordpress-Canto-Exploit-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/puppetma4ster/Metasploit-Wordpress-Canto-Exploit-RCE">
 
 ---
 ## CVE-2024-25092 (2024-06-09T11:15:00)
@@ -8342,11 +9054,17 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 ## CVE-2024-25082 ()
 > 
 - [AliElKhatteb/CVE-2024-25082_CVE-2024-25081](https://github.com/AliElKhatteb/CVE-2024-25082_CVE-2024-25081)	<img alt="forks" src="https://img.shields.io/github/forks/AliElKhatteb/CVE-2024-25082_CVE-2024-25081">	<img alt="stars" src="https://img.shields.io/github/stars/AliElKhatteb/CVE-2024-25082_CVE-2024-25081">
+- [moamenx8/CVE-2024-25082](https://github.com/moamenx8/CVE-2024-25082)	<img alt="forks" src="https://img.shields.io/github/forks/moamenx8/CVE-2024-25082">	<img alt="stars" src="https://img.shields.io/github/stars/moamenx8/CVE-2024-25082">
 
 ---
 ## CVE-2024-25081 ()
 > 
 - [InzegoSec/CVE-2024-25081_2025-47273](https://github.com/InzegoSec/CVE-2024-25081_2025-47273)	<img alt="forks" src="https://img.shields.io/github/forks/InzegoSec/CVE-2024-25081_2025-47273">	<img alt="stars" src="https://img.shields.io/github/stars/InzegoSec/CVE-2024-25081_2025-47273">
+
+---
+## CVE-2024-24945 ()
+> 
+- [BenedictEjepu/CVE-2024-24945-NGINX-RIFT---TryHackMe-Lab-Walkthrough](https://github.com/BenedictEjepu/CVE-2024-24945-NGINX-RIFT---TryHackMe-Lab-Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/BenedictEjepu/CVE-2024-24945-NGINX-RIFT---TryHackMe-Lab-Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/BenedictEjepu/CVE-2024-24945-NGINX-RIFT---TryHackMe-Lab-Walkthrough">
 
 ---
 ## CVE-2024-24926 ()
@@ -8363,7 +9081,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [eoslvs/CVE-2024-24919](https://github.com/eoslvs/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/eoslvs/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/eoslvs/CVE-2024-24919">
 - [Bytenull00/CVE-2024-24919](https://github.com/Bytenull00/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Bytenull00/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Bytenull00/CVE-2024-24919">
 - [am-eid/CVE-2024-24919](https://github.com/am-eid/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/am-eid/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/am-eid/CVE-2024-24919">
-- [pewc0/CVE-2024-24919](https://github.com/pewc0/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/pewc0/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/pewc0/CVE-2024-24919">
+- [P3wc0/CVE-2024-24919](https://github.com/P3wc0/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/P3wc0/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/P3wc0/CVE-2024-24919">
 - [satriarizka/CVE-2024-24919](https://github.com/satriarizka/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/satriarizka/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/satriarizka/CVE-2024-24919">
 - [zam89/CVE-2024-24919](https://github.com/zam89/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/zam89/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/zam89/CVE-2024-24919">
 - [3UR/CVE-2024-24919](https://github.com/3UR/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/3UR/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/3UR/CVE-2024-24919">
@@ -8376,7 +9094,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [GlobalsecureAcademy/CVE-2024-24919](https://github.com/GlobalsecureAcademy/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/GlobalsecureAcademy/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/GlobalsecureAcademy/CVE-2024-24919">
 - [nexblade12/CVE-2024-24919](https://github.com/nexblade12/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/nexblade12/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/nexblade12/CVE-2024-24919">
 - [un9nplayer/CVE-2024-24919](https://github.com/un9nplayer/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/un9nplayer/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/un9nplayer/CVE-2024-24919">
-- [MohamedWagdy7/CVE-2024-24919](https://github.com/MohamedWagdy7/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/MohamedWagdy7/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/MohamedWagdy7/CVE-2024-24919">
+- [0xkalawy/CVE-2024-24919](https://github.com/0xkalawy/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/0xkalawy/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/0xkalawy/CVE-2024-24919">
 - [seed1337/CVE-2024-24919-POC](https://github.com/seed1337/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/seed1337/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/seed1337/CVE-2024-24919-POC">
 - [Cappricio-Securities/CVE-2024-24919](https://github.com/Cappricio-Securities/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2024-24919">
 - [fernandobortotti/CVE-2024-24919](https://github.com/fernandobortotti/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/fernandobortotti/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/fernandobortotti/CVE-2024-24919">
@@ -8411,12 +9129,12 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [LuisMateo1/Arbitrary-File-Read-CVE-2024-24919](https://github.com/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919">
 - [AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-](https://github.com/AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-">
 - [geniuszly/CVE-2024-24919](https://github.com/geniuszly/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszly/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszly/CVE-2024-24919">
-- [zxcod3/CVE-2024-24919](https://github.com/zxcod3/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/zxcod3/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/zxcod3/CVE-2024-24919">
+- [h21n/CVE-2024-24919](https://github.com/h21n/CVE-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/h21n/CVE-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/h21n/CVE-2024-24919">
 - [sar-3mar/CVE-2024-24919_POC](https://github.com/sar-3mar/CVE-2024-24919_POC)	<img alt="forks" src="https://img.shields.io/github/forks/sar-3mar/CVE-2024-24919_POC">	<img alt="stars" src="https://img.shields.io/github/stars/sar-3mar/CVE-2024-24919_POC">
 - [funixone/CVE-2024-24919---Exploit-Script](https://github.com/funixone/CVE-2024-24919---Exploit-Script)	<img alt="forks" src="https://img.shields.io/github/forks/funixone/CVE-2024-24919---Exploit-Script">	<img alt="stars" src="https://img.shields.io/github/stars/funixone/CVE-2024-24919---Exploit-Script">
 - [hashdr1ft/SOC_287](https://github.com/hashdr1ft/SOC_287)	<img alt="forks" src="https://img.shields.io/github/forks/hashdr1ft/SOC_287">	<img alt="stars" src="https://img.shields.io/github/stars/hashdr1ft/SOC_287">
 - [NingXin2002/Check-Point_poc](https://github.com/NingXin2002/Check-Point_poc)	<img alt="forks" src="https://img.shields.io/github/forks/NingXin2002/Check-Point_poc">	<img alt="stars" src="https://img.shields.io/github/stars/NingXin2002/Check-Point_poc">
-- [spider00009/CVE-2024-24919-POC](https://github.com/spider00009/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/spider00009/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/spider00009/CVE-2024-24919-POC">
+- [SpiX-7/CVE-2024-24919-POC](https://github.com/SpiX-7/CVE-2024-24919-POC)	<img alt="forks" src="https://img.shields.io/github/forks/SpiX-7/CVE-2024-24919-POC">	<img alt="stars" src="https://img.shields.io/github/stars/SpiX-7/CVE-2024-24919-POC">
 - [ejaboz/cve-2024-24919](https://github.com/ejaboz/cve-2024-24919)	<img alt="forks" src="https://img.shields.io/github/forks/ejaboz/cve-2024-24919">	<img alt="stars" src="https://img.shields.io/github/stars/ejaboz/cve-2024-24919">
 - [CyprianAtsyor/CVE-2024-24919-Incident-Report.md](https://github.com/CyprianAtsyor/CVE-2024-24919-Incident-Report.md)	<img alt="forks" src="https://img.shields.io/github/forks/CyprianAtsyor/CVE-2024-24919-Incident-Report.md">	<img alt="stars" src="https://img.shields.io/github/stars/CyprianAtsyor/CVE-2024-24919-Incident-Report.md">
 - [CyberBibs/Event-ID-263-Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-](https://github.com/CyberBibs/Event-ID-263-Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-)	<img alt="forks" src="https://img.shields.io/github/forks/CyberBibs/Event-ID-263-Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-">	<img alt="stars" src="https://img.shields.io/github/stars/CyberBibs/Event-ID-263-Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-">
@@ -8553,6 +9271,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 > 
 - [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409)	<img alt="forks" src="https://img.shields.io/github/forks/passtheticket/CVE-2024-24409">	<img alt="stars" src="https://img.shields.io/github/stars/passtheticket/CVE-2024-24409">
 - [passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409)	<img alt="forks" src="https://img.shields.io/github/forks/passtheticket/CVE-2024-24409">	<img alt="stars" src="https://img.shields.io/github/stars/passtheticket/CVE-2024-24409">
+
+---
+## CVE-2024-24402 ()
+> 
+- [MAWK0235/CVE-2024-24402](https://github.com/MAWK0235/CVE-2024-24402)	<img alt="forks" src="https://img.shields.io/github/forks/MAWK0235/CVE-2024-24402">	<img alt="stars" src="https://img.shields.io/github/stars/MAWK0235/CVE-2024-24402">
 
 ---
 ## CVE-2024-24401 (2024-02-26T17:15:00)
@@ -8757,6 +9480,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [EQSTLab/CVE-2024-23995](https://github.com/EQSTLab/CVE-2024-23995)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2024-23995">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2024-23995">
 
 ---
+## CVE-2024-23898 ()
+> 
+- [davidmgaviria/CVE2_Jenkins_RCE](https://github.com/davidmgaviria/CVE2_Jenkins_RCE)	<img alt="forks" src="https://img.shields.io/github/forks/davidmgaviria/CVE2_Jenkins_RCE">	<img alt="stars" src="https://img.shields.io/github/stars/davidmgaviria/CVE2_Jenkins_RCE">
+
+---
 ## CVE-2024-23897 (2024-01-24T18:15:00)
 > Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable a feature of its CLI command parser that replaces an '@' character followed by a file path in an argument with the file's contents, allowing unauthenticated attackers to read arbitrary files on the Jenkins controller file system.
 - [forsaken0127/CVE-2024-23897](https://github.com/forsaken0127/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/forsaken0127/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/forsaken0127/CVE-2024-23897">
@@ -8821,6 +9549,8 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [wvverez/CVE-2024-23897](https://github.com/wvverez/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2024-23897">
 - [vmc8ll/poc-CVE-2024-23897](https://github.com/vmc8ll/poc-CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/vmc8ll/poc-CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/vmc8ll/poc-CVE-2024-23897">
 - [aldamd/CTF](https://github.com/aldamd/CTF)	<img alt="forks" src="https://img.shields.io/github/forks/aldamd/CTF">	<img alt="stars" src="https://img.shields.io/github/stars/aldamd/CTF">
+- [w41l3r/jenkins_scan](https://github.com/w41l3r/jenkins_scan)	<img alt="forks" src="https://img.shields.io/github/forks/w41l3r/jenkins_scan">	<img alt="stars" src="https://img.shields.io/github/stars/w41l3r/jenkins_scan">
+- [rivaedoardo62-boop/cve-2024-23897-jenkins-poc](https://github.com/rivaedoardo62-boop/cve-2024-23897-jenkins-poc)	<img alt="forks" src="https://img.shields.io/github/forks/rivaedoardo62-boop/cve-2024-23897-jenkins-poc">	<img alt="stars" src="https://img.shields.io/github/stars/rivaedoardo62-boop/cve-2024-23897-jenkins-poc">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
@@ -8930,9 +9660,20 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [ekcrsm/CVE-2024-23733](https://github.com/ekcrsm/CVE-2024-23733)	<img alt="forks" src="https://img.shields.io/github/forks/ekcrsm/CVE-2024-23733">	<img alt="stars" src="https://img.shields.io/github/stars/ekcrsm/CVE-2024-23733">
 
 ---
+## CVE-2024-23729 ()
+> 
+- [actuator/com.heytap.browser](https://github.com/actuator/com.heytap.browser)	<img alt="forks" src="https://img.shields.io/github/forks/actuator/com.heytap.browser">	<img alt="stars" src="https://img.shields.io/github/stars/actuator/com.heytap.browser">
+
+---
+## CVE-2024-23727 ()
+> 
+- [actuator/yi](https://github.com/actuator/yi)	<img alt="forks" src="https://img.shields.io/github/forks/actuator/yi">	<img alt="stars" src="https://img.shields.io/github/stars/actuator/yi">
+
+---
 ## CVE-2024-23724 ()
 > 
 - [Youssefdds/CVE-2024-23724](https://github.com/Youssefdds/CVE-2024-23724)	<img alt="forks" src="https://img.shields.io/github/forks/Youssefdds/CVE-2024-23724">	<img alt="stars" src="https://img.shields.io/github/stars/Youssefdds/CVE-2024-23724">
+- [gl1tch0x1/Ghost-CMS-Exploit](https://github.com/gl1tch0x1/Ghost-CMS-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gl1tch0x1/Ghost-CMS-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gl1tch0x1/Ghost-CMS-Exploit">
 
 ---
 ## CVE-2024-23722 (2024-03-26T15:15:00)
@@ -8972,11 +9713,17 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [XiaomingX/cve-2024-23692-poc](https://github.com/XiaomingX/cve-2024-23692-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-23692-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-23692-poc">
 - [NingXin2002/HFS2.3_poc](https://github.com/NingXin2002/HFS2.3_poc)	<img alt="forks" src="https://img.shields.io/github/forks/NingXin2002/HFS2.3_poc">	<img alt="stars" src="https://img.shields.io/github/stars/NingXin2002/HFS2.3_poc">
 - [999gawkboyy/CVE-2024-23692_Exploit](https://github.com/999gawkboyy/CVE-2024-23692_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/999gawkboyy/CVE-2024-23692_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/999gawkboyy/CVE-2024-23692_Exploit">
+- [wgetnz/hfs2](https://github.com/wgetnz/hfs2)	<img alt="forks" src="https://img.shields.io/github/forks/wgetnz/hfs2">	<img alt="stars" src="https://img.shields.io/github/stars/wgetnz/hfs2">
 
 ---
 ## CVE-2024-23673 ()
 > 
 - [shoucheng3/apache__sling-org-apache-sling-servlets-resolver_CVE-2024-23673_2-10-0](https://github.com/shoucheng3/apache__sling-org-apache-sling-servlets-resolver_CVE-2024-23673_2-10-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__sling-org-apache-sling-servlets-resolver_CVE-2024-23673_2-10-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__sling-org-apache-sling-servlets-resolver_CVE-2024-23673_2-10-0">
+
+---
+## CVE-2024-23666 ()
+> 
+- [synacktiv/CVE-2023-42791_CVE-2024-23666](https://github.com/synacktiv/CVE-2023-42791_CVE-2024-23666)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2023-42791_CVE-2024-23666">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2023-42791_CVE-2024-23666">
 
 ---
 ## CVE-2024-23653 ()
@@ -9224,6 +9971,11 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If us
 - [securekomodo/CVE-2024-22734](https://github.com/securekomodo/CVE-2024-22734)	<img alt="forks" src="https://img.shields.io/github/forks/securekomodo/CVE-2024-22734">	<img alt="stars" src="https://img.shields.io/github/stars/securekomodo/CVE-2024-22734">
 
 ---
+## CVE-2024-22722 ()
+> 
+- [terribledactyl/Form-Tools-3.1.1-RCE](https://github.com/terribledactyl/Form-Tools-3.1.1-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/terribledactyl/Form-Tools-3.1.1-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/terribledactyl/Form-Tools-3.1.1-RCE">
+
+---
 ## CVE-2024-22678 ()
 > 
 - [l00neyhacker/CVE-2024-22678](https://github.com/l00neyhacker/CVE-2024-22678)	<img alt="forks" src="https://img.shields.io/github/forks/l00neyhacker/CVE-2024-22678">	<img alt="stars" src="https://img.shields.io/github/stars/l00neyhacker/CVE-2024-22678">
@@ -9316,6 +10068,8 @@ Users are recommended to upgrade to version [1.2.5], which fixes the issue.
 
 
 - [omranisecurity/CVE-2024-22393](https://github.com/omranisecurity/CVE-2024-22393)	<img alt="forks" src="https://img.shields.io/github/forks/omranisecurity/CVE-2024-22393">	<img alt="stars" src="https://img.shields.io/github/stars/omranisecurity/CVE-2024-22393">
+- [Rk-000/Pixel-Flood-Attack](https://github.com/Rk-000/Pixel-Flood-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/Rk-000/Pixel-Flood-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/Rk-000/Pixel-Flood-Attack">
+- [Rk-000/Apache-Hunter](https://github.com/Rk-000/Apache-Hunter)	<img alt="forks" src="https://img.shields.io/github/forks/Rk-000/Apache-Hunter">	<img alt="stars" src="https://img.shields.io/github/stars/Rk-000/Apache-Hunter">
 
 ---
 ## CVE-2024-22371 ()
@@ -9330,6 +10084,11 @@ Users are recommended to upgrade to version 4.4.0, which fixes the issue. If use
 
 
 - [oscerd/CVE-2024-22369](https://github.com/oscerd/CVE-2024-22369)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2024-22369">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2024-22369">
+
+---
+## CVE-2024-22363 ()
+> 
+- [weareu/xlsx](https://github.com/weareu/xlsx)	<img alt="forks" src="https://img.shields.io/github/forks/weareu/xlsx">	<img alt="stars" src="https://img.shields.io/github/stars/weareu/xlsx">
 
 ---
 ## CVE-2024-22328 (2024-04-06T12:15:00)
@@ -9401,12 +10160,18 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-22145">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-22145">
 
 ---
+## CVE-2024-22127 ()
+> 
+- [mylo-2001/SAPSlayer](https://github.com/mylo-2001/SAPSlayer)	<img alt="forks" src="https://img.shields.io/github/forks/mylo-2001/SAPSlayer">	<img alt="stars" src="https://img.shields.io/github/stars/mylo-2001/SAPSlayer">
+
+---
 ## CVE-2024-22120 (2024-05-17T10:15:00)
 > Zabbix server can perform command execution for configured scripts. After command is executed, audit entry is added to "Audit Log". Due to "clientip" field is not sanitized, it is possible to injection SQL into "clientip" and exploit time based blind SQL injection.
 - [W01fh4cker/CVE-2024-22120-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/W01fh4cker/CVE-2024-22120-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/W01fh4cker/CVE-2024-22120-RCE">
 - [g4nkd/CVE-2024-22120-RCE-with-gopher](https://github.com/g4nkd/CVE-2024-22120-RCE-with-gopher)	<img alt="forks" src="https://img.shields.io/github/forks/g4nkd/CVE-2024-22120-RCE-with-gopher">	<img alt="stars" src="https://img.shields.io/github/stars/g4nkd/CVE-2024-22120-RCE-with-gopher">
 - [g4nkd/CVE-2024-22120-RCE-with-gopher](https://github.com/g4nkd/CVE-2024-22120-RCE-with-gopher)	<img alt="forks" src="https://img.shields.io/github/forks/g4nkd/CVE-2024-22120-RCE-with-gopher">	<img alt="stars" src="https://img.shields.io/github/stars/g4nkd/CVE-2024-22120-RCE-with-gopher">
 - [isPique/CVE-2024-22120-RCE-with-gopher](https://github.com/isPique/CVE-2024-22120-RCE-with-gopher)	<img alt="forks" src="https://img.shields.io/github/forks/isPique/CVE-2024-22120-RCE-with-gopher">	<img alt="stars" src="https://img.shields.io/github/stars/isPique/CVE-2024-22120-RCE-with-gopher">
+- [darkbytehunter/CVE-2024-22120-RCE-with-gopher](https://github.com/darkbytehunter/CVE-2024-22120-RCE-with-gopher)	<img alt="forks" src="https://img.shields.io/github/forks/darkbytehunter/CVE-2024-22120-RCE-with-gopher">	<img alt="stars" src="https://img.shields.io/github/stars/darkbytehunter/CVE-2024-22120-RCE-with-gopher">
 
 ---
 ## CVE-2024-22026 (2024-05-22T23:15:00)
@@ -9430,6 +10195,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002](https://github.com/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002)	<img alt="forks" src="https://img.shields.io/github/forks/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002">	<img alt="stars" src="https://img.shields.io/github/stars/0xkickit/iCUE_DllHijack_LPE-CVE-2024-22002">
 
 ---
+## CVE-2024-21980 ()
+> 
+- [Freax13/cve-2024-21980-poc](https://github.com/Freax13/cve-2024-21980-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Freax13/cve-2024-21980-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Freax13/cve-2024-21980-poc">
+
+---
 ## CVE-2024-21978 (2024-08-05T16:15:00)
 > Improper input validation in SEV-SNP could allow a malicious hypervisor to read or overwrite guest memory potentially leading to data leakage or data corruption.
 - [Freax13/cve-2024-21978-poc](https://github.com/Freax13/cve-2024-21978-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Freax13/cve-2024-21978-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Freax13/cve-2024-21978-poc">
@@ -9438,6 +10208,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 ## CVE-2024-2193 (2024-03-15T18:15:00)
 > A Speculative Race Condition (SRC) vulnerability that impacts modern CPU architectures supporting speculative execution (related to Spectre V1) has been disclosed. An unauthenticated attacker can exploit this vulnerability to disclose arbitrary data from the CPU using race conditions to access the speculative executable code paths.
 - [uthrasri/CVE-2024-2193](https://github.com/uthrasri/CVE-2024-2193)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2024-2193">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2024-2193">
+
+---
+## CVE-2024-21907 ()
+> 
+- [seal-sec-demo-2/seal-security-nuget-demo-net7](https://github.com/seal-sec-demo-2/seal-security-nuget-demo-net7)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sec-demo-2/seal-security-nuget-demo-net7">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sec-demo-2/seal-security-nuget-demo-net7">
 
 ---
 ## CVE-2024-21899 (2024-03-08T17:15:00)
@@ -9548,6 +10323,7 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [deFr0ggy/CVE-2024-21762-Checker](https://github.com/deFr0ggy/CVE-2024-21762-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/deFr0ggy/CVE-2024-21762-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/deFr0ggy/CVE-2024-21762-Checker">
 - [0x0asif/CVE-2024-21762](https://github.com/0x0asif/CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/0x0asif/CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/0x0asif/CVE-2024-21762">
 - [CrackerCat/cve-2024-21762-poc](https://github.com/CrackerCat/cve-2024-21762-poc)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/cve-2024-21762-poc">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/cve-2024-21762-poc">
+- [Sxmpl3/CVE-2024-21762-Safe-Check](https://github.com/Sxmpl3/CVE-2024-21762-Safe-Check)	<img alt="forks" src="https://img.shields.io/github/forks/Sxmpl3/CVE-2024-21762-Safe-Check">	<img alt="stars" src="https://img.shields.io/github/stars/Sxmpl3/CVE-2024-21762-Safe-Check">
 
 ---
 ## CVE-2024-21754 (2024-06-11T15:16:00)
@@ -9564,6 +10340,11 @@ Users are recommended to upgrade to version 8.5.64 onwards or 9.0.44 onwards, wh
 
 
 - [LtmThink/CVE-2024-21733](https://github.com/LtmThink/CVE-2024-21733)	<img alt="forks" src="https://img.shields.io/github/forks/LtmThink/CVE-2024-21733">	<img alt="stars" src="https://img.shields.io/github/stars/LtmThink/CVE-2024-21733">
+
+---
+## CVE-2024-2169 ()
+> 
+- [renancesarr/G3-Loop-DoS](https://github.com/renancesarr/G3-Loop-DoS)	<img alt="forks" src="https://img.shields.io/github/forks/renancesarr/G3-Loop-DoS">	<img alt="stars" src="https://img.shields.io/github/stars/renancesarr/G3-Loop-DoS">
 
 ---
 ## CVE-2024-21689 (2024-08-20T10:15:00)
@@ -9654,6 +10435,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [R4mbb/CVE-2024-21626-PoC](https://github.com/R4mbb/CVE-2024-21626-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/R4mbb/CVE-2024-21626-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/R4mbb/CVE-2024-21626-PoC">
 - [strikoder/cve-2024-21626-runc-1.1.11-escape](https://github.com/strikoder/cve-2024-21626-runc-1.1.11-escape)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/cve-2024-21626-runc-1.1.11-escape">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/cve-2024-21626-runc-1.1.11-escape">
 - [scherepiuk/container-escape-ebpf](https://github.com/scherepiuk/container-escape-ebpf)	<img alt="forks" src="https://img.shields.io/github/forks/scherepiuk/container-escape-ebpf">	<img alt="stars" src="https://img.shields.io/github/stars/scherepiuk/container-escape-ebpf">
+- [skysbsb/CVE-2024-21626-POC](https://github.com/skysbsb/CVE-2024-21626-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skysbsb/CVE-2024-21626-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skysbsb/CVE-2024-21626-POC">
 
 ---
 ## CVE-2024-21591 (2024-01-12T01:15:00)
@@ -9704,6 +10486,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [pabloopez/CVE-2024-21534](https://github.com/pabloopez/CVE-2024-21534)	<img alt="forks" src="https://img.shields.io/github/forks/pabloopez/CVE-2024-21534">	<img alt="stars" src="https://img.shields.io/github/stars/pabloopez/CVE-2024-21534">
 - [XiaomingX/cve-2024-21534-poc](https://github.com/XiaomingX/cve-2024-21534-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-21534-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-21534-poc">
 - [verylazytech/cve-2024-21534](https://github.com/verylazytech/cve-2024-21534)	<img alt="forks" src="https://img.shields.io/github/forks/verylazytech/cve-2024-21534">	<img alt="stars" src="https://img.shields.io/github/stars/verylazytech/cve-2024-21534">
+- [BohemianHacks/CVE-2024-21534-poc](https://github.com/BohemianHacks/CVE-2024-21534-poc)	<img alt="forks" src="https://img.shields.io/github/forks/BohemianHacks/CVE-2024-21534-poc">	<img alt="stars" src="https://img.shields.io/github/stars/BohemianHacks/CVE-2024-21534-poc">
 
 ---
 ## CVE-2024-21533 ()
@@ -9714,6 +10497,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-21532 ()
 > 
 - [lirantal/CVE-2024-21532-PoC-ggit](https://github.com/lirantal/CVE-2024-21532-PoC-ggit)	<img alt="forks" src="https://img.shields.io/github/forks/lirantal/CVE-2024-21532-PoC-ggit">	<img alt="stars" src="https://img.shields.io/github/stars/lirantal/CVE-2024-21532-PoC-ggit">
+
+---
+## CVE-2024-21520 ()
+> 
+- [ch4n3-yoon/CVE-2024-21520-Demo](https://github.com/ch4n3-yoon/CVE-2024-21520-Demo)	<img alt="forks" src="https://img.shields.io/github/forks/ch4n3-yoon/CVE-2024-21520-Demo">	<img alt="stars" src="https://img.shields.io/github/stars/ch4n3-yoon/CVE-2024-21520-Demo">
 
 ---
 ## CVE-2024-21514 (2024-06-22T05:15:00)
@@ -9730,6 +10518,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-21508 (2024-04-11T05:15:00)
 > Versions of the package mysql2 before 3.9.4 are vulnerable to Remote Code Execution (RCE) via the readCodeFor function due to improper validation of the supportBigNumbers and bigNumberStrings values.
 - [Geniorio01/CVE-2024-21508-mysql2-RCE](https://github.com/Geniorio01/CVE-2024-21508-mysql2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Geniorio01/CVE-2024-21508-mysql2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Geniorio01/CVE-2024-21508-mysql2-RCE">
+
+---
+## CVE-2024-21490 ()
+> 
+- [RoninForge/roninforge-angularjs-migration](https://github.com/RoninForge/roninforge-angularjs-migration)	<img alt="forks" src="https://img.shields.io/github/forks/RoninForge/roninforge-angularjs-migration">	<img alt="stars" src="https://img.shields.io/github/stars/RoninForge/roninforge-angularjs-migration">
 
 ---
 ## CVE-2024-21426 (2024-03-12T17:15:00)
@@ -9784,6 +10577,8 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [E-m-e-k-a/Moniker-Link-Lab-Setup](https://github.com/E-m-e-k-a/Moniker-Link-Lab-Setup)	<img alt="forks" src="https://img.shields.io/github/forks/E-m-e-k-a/Moniker-Link-Lab-Setup">	<img alt="stars" src="https://img.shields.io/github/stars/E-m-e-k-a/Moniker-Link-Lab-Setup">
 - [bhatbhupendra/Moniker-Link--CVE-2024-21413-](https://github.com/bhatbhupendra/Moniker-Link--CVE-2024-21413-)	<img alt="forks" src="https://img.shields.io/github/forks/bhatbhupendra/Moniker-Link--CVE-2024-21413-">	<img alt="stars" src="https://img.shields.io/github/stars/bhatbhupendra/Moniker-Link--CVE-2024-21413-">
 - [Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability">
+- [KaiHaoChen04/monikerlinktest](https://github.com/KaiHaoChen04/monikerlinktest)	<img alt="forks" src="https://img.shields.io/github/forks/KaiHaoChen04/monikerlinktest">	<img alt="stars" src="https://img.shields.io/github/stars/KaiHaoChen04/monikerlinktest">
+- [H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research](https://github.com/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research)	<img alt="forks" src="https://img.shields.io/github/forks/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research">	<img alt="stars" src="https://img.shields.io/github/stars/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
@@ -9802,6 +10597,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [FreakyMondy/CVE-2024-21410](https://github.com/FreakyMondy/CVE-2024-21410)	<img alt="forks" src="https://img.shields.io/github/forks/FreakyMondy/CVE-2024-21410">	<img alt="stars" src="https://img.shields.io/github/stars/FreakyMondy/CVE-2024-21410">
 - [FreakyM0ndy/CVE-2024-21410-poc](https://github.com/FreakyM0ndy/CVE-2024-21410-poc)	<img alt="forks" src="https://img.shields.io/github/forks/FreakyM0ndy/CVE-2024-21410-poc">	<img alt="stars" src="https://img.shields.io/github/stars/FreakyM0ndy/CVE-2024-21410-poc">
 - [JohnBordon/CVE-2024-21410-poc](https://github.com/JohnBordon/CVE-2024-21410-poc)	<img alt="forks" src="https://img.shields.io/github/forks/JohnBordon/CVE-2024-21410-poc">	<img alt="stars" src="https://img.shields.io/github/stars/JohnBordon/CVE-2024-21410-poc">
+- [Piyush20004/SentinelStream-AI](https://github.com/Piyush20004/SentinelStream-AI)	<img alt="forks" src="https://img.shields.io/github/forks/Piyush20004/SentinelStream-AI">	<img alt="stars" src="https://img.shields.io/github/stars/Piyush20004/SentinelStream-AI">
 
 ---
 ## CVE-2024-21409 ()
@@ -9867,6 +10663,13 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 > Microsoft Bluetooth Driver Spoofing Vulnerability
 - [TheRedDevil1/CVE-2024-21306](https://github.com/TheRedDevil1/CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/TheRedDevil1/CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/TheRedDevil1/CVE-2024-21306">
 - [d4rks1d33/C-PoC-for-CVE-2024-21306](https://github.com/d4rks1d33/C-PoC-for-CVE-2024-21306)	<img alt="forks" src="https://img.shields.io/github/forks/d4rks1d33/C-PoC-for-CVE-2024-21306">	<img alt="stars" src="https://img.shields.io/github/stars/d4rks1d33/C-PoC-for-CVE-2024-21306">
+- [PhucHauDeveloper/BadBlue](https://github.com/PhucHauDeveloper/BadBlue)	<img alt="forks" src="https://img.shields.io/github/forks/PhucHauDeveloper/BadBlue">	<img alt="stars" src="https://img.shields.io/github/stars/PhucHauDeveloper/BadBlue">
+- [Danyw24/blueXploit](https://github.com/Danyw24/blueXploit)	<img alt="forks" src="https://img.shields.io/github/forks/Danyw24/blueXploit">	<img alt="stars" src="https://img.shields.io/github/stars/Danyw24/blueXploit">
+
+---
+## CVE-2024-21305 ()
+> 
+- [tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305)	<img alt="forks" src="https://img.shields.io/github/forks/tandasat/CVE-2024-21305">	<img alt="stars" src="https://img.shields.io/github/stars/tandasat/CVE-2024-21305">
 
 ---
 ## CVE-2024-21262 ()
@@ -9884,6 +10687,8 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [k4it0k1d/CVE-2024-21182](https://github.com/k4it0k1d/CVE-2024-21182)	<img alt="forks" src="https://img.shields.io/github/forks/k4it0k1d/CVE-2024-21182">	<img alt="stars" src="https://img.shields.io/github/stars/k4it0k1d/CVE-2024-21182">
 - [kursadalsan/CVE-2024-21182](https://github.com/kursadalsan/CVE-2024-21182)	<img alt="forks" src="https://img.shields.io/github/forks/kursadalsan/CVE-2024-21182">	<img alt="stars" src="https://img.shields.io/github/stars/kursadalsan/CVE-2024-21182">
 - [dinosn/CVE-2024-21182](https://github.com/dinosn/CVE-2024-21182)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/CVE-2024-21182">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/CVE-2024-21182">
+- [jenniferreire26/CVE-2024-21182](https://github.com/jenniferreire26/CVE-2024-21182)	<img alt="forks" src="https://img.shields.io/github/forks/jenniferreire26/CVE-2024-21182">	<img alt="stars" src="https://img.shields.io/github/stars/jenniferreire26/CVE-2024-21182">
+- [fevar54/CVE-2024-21182---Oracle-WebLogic-Server-JNDI-Injection-RCE](https://github.com/fevar54/CVE-2024-21182---Oracle-WebLogic-Server-JNDI-Injection-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2024-21182---Oracle-WebLogic-Server-JNDI-Injection-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2024-21182---Oracle-WebLogic-Server-JNDI-Injection-RCE">
 
 ---
 ## CVE-2024-21164 (2024-07-16T23:15:00)
@@ -9955,6 +10760,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [200101WhoAmI/CVE-2024-20746](https://github.com/200101WhoAmI/CVE-2024-20746)	<img alt="forks" src="https://img.shields.io/github/forks/200101WhoAmI/CVE-2024-20746">	<img alt="stars" src="https://img.shields.io/github/stars/200101WhoAmI/CVE-2024-20746">
 
 ---
+## CVE-2024-2074 ()
+> 
+- [yuziiiiiiiiii/CVE-2024-2074](https://github.com/yuziiiiiiiiii/CVE-2024-2074)	<img alt="forks" src="https://img.shields.io/github/forks/yuziiiiiiiiii/CVE-2024-2074">	<img alt="stars" src="https://img.shields.io/github/stars/yuziiiiiiiiii/CVE-2024-2074">
+
+---
 ## CVE-2024-20720 (2024-02-15T14:15:00)
 > Adobe Commerce versions 2.4.6-p3, 2.4.5-p5, 2.4.4-p6 and earlier are affected by an Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability that could lead in arbitrary code execution by an attacker. Exploitation of this issue does not require user interaction.
 - [xxDlib/CVE-2024-20720-PoC](https://github.com/xxDlib/CVE-2024-20720-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/xxDlib/CVE-2024-20720-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/xxDlib/CVE-2024-20720-PoC">
@@ -9980,6 +10790,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [nnotwen/Script-For-CVE-2024-20666](https://github.com/nnotwen/Script-For-CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/nnotwen/Script-For-CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/nnotwen/Script-For-CVE-2024-20666">
 - [invaderslabs/CVE-2024-20666](https://github.com/invaderslabs/CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/invaderslabs/CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/invaderslabs/CVE-2024-20666">
 - [HYZ3K/CVE-2024-20666](https://github.com/HYZ3K/CVE-2024-20666)	<img alt="forks" src="https://img.shields.io/github/forks/HYZ3K/CVE-2024-20666">	<img alt="stars" src="https://img.shields.io/github/stars/HYZ3K/CVE-2024-20666">
+- [tazxtazxedu/WinRE-Fix](https://github.com/tazxtazxedu/WinRE-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/tazxtazxedu/WinRE-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/tazxtazxedu/WinRE-Fix">
 
 ---
 ## CVE-2024-206565 ()
@@ -10006,6 +10817,11 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-2054 (2024-03-21T02:52:00)
 > The Artica-Proxy administrative web application will deserialize arbitrary PHP objects supplied by unauthenticated users and subsequently enable code execution as the "www-data" user.
 - [Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054)	<img alt="forks" src="https://img.shields.io/github/forks/Madan301/CVE-2024-2054">	<img alt="stars" src="https://img.shields.io/github/stars/Madan301/CVE-2024-2054">
+
+---
+## CVE-2024-2053 ()
+> 
+- [b-L-x/CVE-2024-2053](https://github.com/b-L-x/CVE-2024-2053)	<img alt="forks" src="https://img.shields.io/github/forks/b-L-x/CVE-2024-2053">	<img alt="stars" src="https://img.shields.io/github/stars/b-L-x/CVE-2024-2053">
 
 ---
 ## CVE-2024-20467 (2024-09-25T17:15:00)
@@ -10046,6 +10862,7 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
  This vulnerability is due to insufficient validation of arguments that are passed to specific configuration CLI commands. An attacker could exploit this vulnerability by including crafted input as the argument of an affected configuration CLI command. A successful exploit could allow the attacker to execute arbitrary commands on the underlying operating system with the privileges of root.
  Note: To successfully exploit this vulnerability on a Cisco NX-OS device, an attacker must have Administrator credentials.
 - [Blootus/CVE-2024-20399-Cisco-RCE](https://github.com/Blootus/CVE-2024-20399-Cisco-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Blootus/CVE-2024-20399-Cisco-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Blootus/CVE-2024-20399-Cisco-RCE">
+- [HORKimhab/CVE-2024-20399](https://github.com/HORKimhab/CVE-2024-20399)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2024-20399">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2024-20399">
 
 ---
 ## CVE-2024-20359 (2024-04-24T19:15:00)
@@ -10058,6 +10875,7 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
 ## CVE-2024-20356 (2024-04-24T20:15:00)
 > A vulnerability in the web-based management interface of Cisco Integrated Management Controller (IMC) could allow an authenticated, remote attacker with Administrator-level privileges to perform command injection attacks on an affected system and elevate their privileges to root. This vulnerability is due to insufficient user input validation. An attacker could exploit this vulnerability by sending crafted commands to the web-based management interface of the affected software. A successful exploit could allow the attacker to elevate their privileges to root.
 - [nettitude/CVE-2024-20356](https://github.com/nettitude/CVE-2024-20356)	<img alt="forks" src="https://img.shields.io/github/forks/nettitude/CVE-2024-20356">	<img alt="stars" src="https://img.shields.io/github/stars/nettitude/CVE-2024-20356">
+- [SherllyNeo/CVE_2024_20356](https://github.com/SherllyNeo/CVE_2024_20356)	<img alt="forks" src="https://img.shields.io/github/forks/SherllyNeo/CVE_2024_20356">	<img alt="stars" src="https://img.shields.io/github/stars/SherllyNeo/CVE_2024_20356">
 
 ---
 ## CVE-2024-20353 (2024-04-24T19:15:00)
@@ -10066,6 +10884,11 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
 - [Spl0stus/CVE-2024-20353-CiscoASAandFTD](https://github.com/Spl0stus/CVE-2024-20353-CiscoASAandFTD)	<img alt="forks" src="https://img.shields.io/github/forks/Spl0stus/CVE-2024-20353-CiscoASAandFTD">	<img alt="stars" src="https://img.shields.io/github/stars/Spl0stus/CVE-2024-20353-CiscoASAandFTD">
 - [west-wind/Threat-Hunting-With-Splunk](https://github.com/west-wind/Threat-Hunting-With-Splunk)	<img alt="forks" src="https://img.shields.io/github/forks/west-wind/Threat-Hunting-With-Splunk">	<img alt="stars" src="https://img.shields.io/github/stars/west-wind/Threat-Hunting-With-Splunk">
 - [codeb0ss/CVE-2024-20353-PoC](https://github.com/codeb0ss/CVE-2024-20353-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-20353-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-20353-PoC">
+
+---
+## CVE-2024-20338 ()
+> 
+- [annmuor/CVE-2024-20338](https://github.com/annmuor/CVE-2024-20338)	<img alt="forks" src="https://img.shields.io/github/forks/annmuor/CVE-2024-20338">	<img alt="stars" src="https://img.shields.io/github/stars/annmuor/CVE-2024-20338">
 
 ---
 ## CVE-2024-20337 (2024-03-06T17:15:00)
@@ -10119,6 +10942,11 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
 - [HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-](https://github.com/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-)	<img alt="forks" src="https://img.shields.io/github/forks/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">	<img alt="stars" src="https://img.shields.io/github/stars/HexDoesRandomShit/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-">
 
 ---
+## CVE-2024-20154 ()
+> 
+- [sneakid/CVE-2024-20154](https://github.com/sneakid/CVE-2024-20154)	<img alt="forks" src="https://img.shields.io/github/forks/sneakid/CVE-2024-20154">	<img alt="stars" src="https://img.shields.io/github/stars/sneakid/CVE-2024-20154">
+
+---
 ## CVE-2024-20137 ()
 > 
 - [takistmr/CVE-2024-20137](https://github.com/takistmr/CVE-2024-20137)	<img alt="forks" src="https://img.shields.io/github/forks/takistmr/CVE-2024-20137">	<img alt="stars" src="https://img.shields.io/github/stars/takistmr/CVE-2024-20137">
@@ -10150,6 +10978,11 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
 
 - [ox1111/-CVE-2024-1874-](https://github.com/ox1111/-CVE-2024-1874-)	<img alt="forks" src="https://img.shields.io/github/forks/ox1111/-CVE-2024-1874-">	<img alt="stars" src="https://img.shields.io/github/stars/ox1111/-CVE-2024-1874-">
 - [Tgcohce/CVE-2024-1874](https://github.com/Tgcohce/CVE-2024-1874)	<img alt="forks" src="https://img.shields.io/github/forks/Tgcohce/CVE-2024-1874">	<img alt="stars" src="https://img.shields.io/github/stars/Tgcohce/CVE-2024-1874">
+
+---
+## CVE-2024-1781 ()
+> 
+- [Icycu123/CVE-2024-1781](https://github.com/Icycu123/CVE-2024-1781)	<img alt="forks" src="https://img.shields.io/github/forks/Icycu123/CVE-2024-1781">	<img alt="stars" src="https://img.shields.io/github/stars/Icycu123/CVE-2024-1781">
 
 ---
 ## CVE-2024-1728 ()
@@ -10191,6 +11024,7 @@ the ability to execute remote code or directly impact confidential data or criti
 - [kamranhasan/CVE-2024-1698-Exploit](https://github.com/kamranhasan/CVE-2024-1698-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/kamranhasan/CVE-2024-1698-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/kamranhasan/CVE-2024-1698-Exploit">
 - [shanglyu/CVE-2024-1698](https://github.com/shanglyu/CVE-2024-1698)	<img alt="forks" src="https://img.shields.io/github/forks/shanglyu/CVE-2024-1698">	<img alt="stars" src="https://img.shields.io/github/stars/shanglyu/CVE-2024-1698">
 - [jesicatjan/WordPress-NotificationX-CVE-2024-1698](https://github.com/jesicatjan/WordPress-NotificationX-CVE-2024-1698)	<img alt="forks" src="https://img.shields.io/github/forks/jesicatjan/WordPress-NotificationX-CVE-2024-1698">	<img alt="stars" src="https://img.shields.io/github/stars/jesicatjan/WordPress-NotificationX-CVE-2024-1698">
+- [Dhananjayasj/CVE-2024-1698-NotificationX-WordPress-Plugin-SQL-Injection-to-Admin-Credential-Extraction](https://github.com/Dhananjayasj/CVE-2024-1698-NotificationX-WordPress-Plugin-SQL-Injection-to-Admin-Credential-Extraction)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2024-1698-NotificationX-WordPress-Plugin-SQL-Injection-to-Admin-Credential-Extraction">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2024-1698-NotificationX-WordPress-Plugin-SQL-Injection-to-Admin-Credential-Extraction">
 
 ---
 ## CVE-2024-1655 (2024-04-15T04:15:00)
@@ -10328,6 +11162,36 @@ authentication.   
 - [tausifzaman/CVE-2024-13346](https://github.com/tausifzaman/CVE-2024-13346)	<img alt="forks" src="https://img.shields.io/github/forks/tausifzaman/CVE-2024-13346">	<img alt="stars" src="https://img.shields.io/github/stars/tausifzaman/CVE-2024-13346">
 
 ---
+## CVE-2024-13184 ()
+> 
+- [RandomRobbieBF/CVE-2024-13184](https://github.com/RandomRobbieBF/CVE-2024-13184)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-13184">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-13184">
+
+---
+## CVE-2024-13159 ()
+> 
+- [horizon3ai/Ivanti-EPM-Coercion-Vulnerabilities](https://github.com/horizon3ai/Ivanti-EPM-Coercion-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/Ivanti-EPM-Coercion-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/Ivanti-EPM-Coercion-Vulnerabilities">
+
+---
+## CVE-2024-1304 ()
+> 
+- [guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS](https://github.com/guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/guillermogm4/CVE-2024-1304---Badgermeter-moni-tool-Reflected-Cross-Site-Scripting-XSS">
+
+---
+## CVE-2024-1303 ()
+> 
+- [guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal](https://github.com/guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/guillermogm4/CVE-2024-1303---Badgermeter-moni-tool-Path-Traversal">
+
+---
+## CVE-2024-1302 ()
+> 
+- [guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure](https://github.com/guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure)	<img alt="forks" src="https://img.shields.io/github/forks/guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure">	<img alt="stars" src="https://img.shields.io/github/stars/guillermogm4/CVE-2024-1302---Badgermeter-moni-tool-Sensitive-information-exposure">
+
+---
+## CVE-2024-1301 ()
+> 
+- [guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection](https://github.com/guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection)	<img alt="forks" src="https://img.shields.io/github/forks/guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection">	<img alt="stars" src="https://img.shields.io/github/stars/guillermogm4/CVE-2024-1301---Badgermeter-moni-tool-SQL-Injection">
+
+---
 ## CVE-2024-12986 ()
 > 
 - [Aether-0/CVE-2024-12986](https://github.com/Aether-0/CVE-2024-12986)	<img alt="forks" src="https://img.shields.io/github/forks/Aether-0/CVE-2024-12986">	<img alt="stars" src="https://img.shields.io/github/stars/Aether-0/CVE-2024-12986">
@@ -10338,9 +11202,20 @@ authentication.   
 - [osmancanvural/CVE-2024-12970](https://github.com/osmancanvural/CVE-2024-12970)	<img alt="forks" src="https://img.shields.io/github/forks/osmancanvural/CVE-2024-12970">	<img alt="stars" src="https://img.shields.io/github/stars/osmancanvural/CVE-2024-12970">
 
 ---
+## CVE-2024-12912 ()
+> 
+- [murrez/ASUS-AiCloud-RCE](https://github.com/murrez/ASUS-AiCloud-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/murrez/ASUS-AiCloud-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/murrez/ASUS-AiCloud-RCE">
+
+---
 ## CVE-2024-12905 ()
 > 
 - [theMcSam/CVE-2024-12905-PoC](https://github.com/theMcSam/CVE-2024-12905-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/theMcSam/CVE-2024-12905-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/theMcSam/CVE-2024-12905-PoC">
+
+---
+## CVE-2024-12886 ()
+> 
+- [dannyEndorTest/ollama](https://github.com/dannyEndorTest/ollama)	<img alt="forks" src="https://img.shields.io/github/forks/dannyEndorTest/ollama">	<img alt="stars" src="https://img.shields.io/github/stars/dannyEndorTest/ollama">
+- [dannyEndorTest/ollama-consumer](https://github.com/dannyEndorTest/ollama-consumer)	<img alt="forks" src="https://img.shields.io/github/forks/dannyEndorTest/ollama-consumer">	<img alt="stars" src="https://img.shields.io/github/stars/dannyEndorTest/ollama-consumer">
 
 ---
 ## CVE-2024-12883 ()
@@ -10351,6 +11226,7 @@ authentication.   
 ## CVE-2024-12877 ()
 > 
 - [soltanali0/CVE-2024-12877-Exploit](https://github.com/soltanali0/CVE-2024-12877-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2024-12877-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2024-12877-Exploit">
+- [RandomRobbieBF/CVE-2024-12877](https://github.com/RandomRobbieBF/CVE-2024-12877)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12877">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12877">
 
 ---
 ## CVE-2024-12856 ()
@@ -10397,6 +11273,16 @@ authentication.   
 - [Nxploited/CVE-2024-12542-PoC](https://github.com/Nxploited/CVE-2024-12542-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-12542-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-12542-PoC">
 
 ---
+## CVE-2024-12537 ()
+> 
+- [fineman999/POC_CVE-2024-12537](https://github.com/fineman999/POC_CVE-2024-12537)	<img alt="forks" src="https://img.shields.io/github/forks/fineman999/POC_CVE-2024-12537">	<img alt="stars" src="https://img.shields.io/github/stars/fineman999/POC_CVE-2024-12537">
+
+---
+## CVE-2024-12484 ()
+> 
+- [LiChaser/CVE-2024-12484](https://github.com/LiChaser/CVE-2024-12484)	<img alt="forks" src="https://img.shields.io/github/forks/LiChaser/CVE-2024-12484">	<img alt="stars" src="https://img.shields.io/github/stars/LiChaser/CVE-2024-12484">
+
+---
 ## CVE-2024-12471 ()
 > 
 - [Nxploited/CVE-2024-12471-Exploit-](https://github.com/Nxploited/CVE-2024-12471-Exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-12471-Exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-12471-Exploit-">
@@ -10408,6 +11294,16 @@ authentication.   
 - [RandomRobbieBF/CVE-2024-12471](https://github.com/RandomRobbieBF/CVE-2024-12471)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12471">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12471">
 
 ---
+## CVE-2024-12381 ()
+> 
+- [FatfishIO/CVE-2024-12381-PoC](https://github.com/FatfishIO/CVE-2024-12381-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FatfishIO/CVE-2024-12381-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FatfishIO/CVE-2024-12381-PoC">
+
+---
+## CVE-2024-12365 ()
+> 
+- [spyata123/W3TotalChache](https://github.com/spyata123/W3TotalChache)	<img alt="forks" src="https://img.shields.io/github/forks/spyata123/W3TotalChache">	<img alt="stars" src="https://img.shields.io/github/stars/spyata123/W3TotalChache">
+
+---
 ## CVE-2024-12356 ()
 > 
 - [cloudefence/CVE-2024-12356](https://github.com/cloudefence/CVE-2024-12356)	<img alt="forks" src="https://img.shields.io/github/forks/cloudefence/CVE-2024-12356">	<img alt="stars" src="https://img.shields.io/github/stars/cloudefence/CVE-2024-12356">
@@ -10416,6 +11312,11 @@ authentication.   
 ## CVE-2024-12345 ()
 > 
 - [RoyaRadin/CVE-2024-12345-POC](https://github.com/RoyaRadin/CVE-2024-12345-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RoyaRadin/CVE-2024-12345-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RoyaRadin/CVE-2024-12345-POC">
+
+---
+## CVE-2024-12342 ()
+> 
+- [becrevex/TPLink-VN020-DoS](https://github.com/becrevex/TPLink-VN020-DoS)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/TPLink-VN020-DoS">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/TPLink-VN020-DoS">
 
 ---
 ## CVE-2024-12270 ()
@@ -10438,6 +11339,11 @@ authentication.   
 > 
 - [RandomRobbieBF/CVE-2024-12209](https://github.com/RandomRobbieBF/CVE-2024-12209)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12209">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12209">
 - [Nxploited/CVE-2024-12209](https://github.com/Nxploited/CVE-2024-12209)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-12209">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-12209">
+
+---
+## CVE-2024-12172 ()
+> 
+- [RandomRobbieBF/CVE-2024-12172](https://github.com/RandomRobbieBF/CVE-2024-12172)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12172">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12172">
 
 ---
 ## CVE-2024-12155 ()
@@ -10489,6 +11395,11 @@ authentication.   
 - [sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207)	<img alt="forks" src="https://img.shields.io/github/forks/sahar042/CVE-2024-1207">	<img alt="stars" src="https://img.shields.io/github/stars/sahar042/CVE-2024-1207">
 
 ---
+## CVE-2024-12029 ()
+> 
+- [Lu3ky13/Alternative-Approach-Reverse-Shell-Callback-Test-InvokeAI-RCE](https://github.com/Lu3ky13/Alternative-Approach-Reverse-Shell-Callback-Test-InvokeAI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Lu3ky13/Alternative-Approach-Reverse-Shell-Callback-Test-InvokeAI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Lu3ky13/Alternative-Approach-Reverse-Shell-Callback-Test-InvokeAI-RCE">
+
+---
 ## CVE-2024-12025 ()
 > 
 - [RandomRobbieBF/CVE-2024-12025](https://github.com/RandomRobbieBF/CVE-2024-12025)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12025">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12025">
@@ -10506,6 +11417,11 @@ authentication.   
 - [Nxploited/CVE-2024-11972-PoC](https://github.com/Nxploited/CVE-2024-11972-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-11972-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-11972-PoC">
 
 ---
+## CVE-2024-11848 ()
+> 
+- [RandomRobbieBF/CVE-2024-11848](https://github.com/RandomRobbieBF/CVE-2024-11848)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-11848">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-11848">
+
+---
 ## CVE-2024-11728 ()
 > 
 - [samogod/CVE-2024-11728](https://github.com/samogod/CVE-2024-11728)	<img alt="forks" src="https://img.shields.io/github/forks/samogod/CVE-2024-11728">	<img alt="stars" src="https://img.shields.io/github/stars/samogod/CVE-2024-11728">
@@ -10517,6 +11433,11 @@ authentication.   
 - [exploitboom/CVE-2024-11680](https://github.com/exploitboom/CVE-2024-11680)	<img alt="forks" src="https://img.shields.io/github/forks/exploitboom/CVE-2024-11680">	<img alt="stars" src="https://img.shields.io/github/stars/exploitboom/CVE-2024-11680">
 - [D3N14LD15K/CVE-2024-11680_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-11680_PoC_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/D3N14LD15K/CVE-2024-11680_PoC_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/D3N14LD15K/CVE-2024-11680_PoC_Exploit">
 - [qucklecrabik/CVE-2024-11680](https://github.com/qucklecrabik/CVE-2024-11680)	<img alt="forks" src="https://img.shields.io/github/forks/qucklecrabik/CVE-2024-11680">	<img alt="stars" src="https://img.shields.io/github/stars/qucklecrabik/CVE-2024-11680">
+
+---
+## CVE-2024-11643 ()
+> 
+- [RandomRobbieBF/CVE-2024-11643](https://github.com/RandomRobbieBF/CVE-2024-11643)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-11643">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-11643">
 
 ---
 ## CVE-2024-11635 ()
@@ -10790,6 +11711,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [ClaraSto/CVE-2024-1086_Ausarbeitung](https://github.com/ClaraSto/CVE-2024-1086_Ausarbeitung)	<img alt="forks" src="https://img.shields.io/github/forks/ClaraSto/CVE-2024-1086_Ausarbeitung">	<img alt="stars" src="https://img.shields.io/github/stars/ClaraSto/CVE-2024-1086_Ausarbeitung">
 - [b1nhack/CVE-2024-1086](https://github.com/b1nhack/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/b1nhack/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/b1nhack/CVE-2024-1086">
 - [garatc/bitpixie](https://github.com/garatc/bitpixie)	<img alt="forks" src="https://img.shields.io/github/forks/garatc/bitpixie">	<img alt="stars" src="https://img.shields.io/github/stars/garatc/bitpixie">
+- [Luisbuilds-data/cve-2024-1086-writeup](https://github.com/Luisbuilds-data/cve-2024-1086-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Luisbuilds-data/cve-2024-1086-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Luisbuilds-data/cve-2024-1086-writeup">
 
 ---
 ## CVE-2024-10858 ()
@@ -10802,11 +11724,23 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [6jeffr3y/CNVD-2026-12436-and-CVE-2024-10835](https://github.com/6jeffr3y/CNVD-2026-12436-and-CVE-2024-10835)	<img alt="forks" src="https://img.shields.io/github/forks/6jeffr3y/CNVD-2026-12436-and-CVE-2024-10835">	<img alt="stars" src="https://img.shields.io/github/stars/6jeffr3y/CNVD-2026-12436-and-CVE-2024-10835">
 
 ---
+## CVE-2024-10829 ()
+> 
+- [junn34/POC_CVE-2024-10829](https://github.com/junn34/POC_CVE-2024-10829)	<img alt="forks" src="https://img.shields.io/github/forks/junn34/POC_CVE-2024-10829">	<img alt="stars" src="https://img.shields.io/github/stars/junn34/POC_CVE-2024-10829">
+
+---
+## CVE-2024-10821 ()
+> 
+- [dannyEndorTest/invokeai](https://github.com/dannyEndorTest/invokeai)	<img alt="forks" src="https://img.shields.io/github/forks/dannyEndorTest/invokeai">	<img alt="stars" src="https://img.shields.io/github/stars/dannyEndorTest/invokeai">
+- [dannyEndorTest/invokeai-consumer](https://github.com/dannyEndorTest/invokeai-consumer)	<img alt="forks" src="https://img.shields.io/github/forks/dannyEndorTest/invokeai-consumer">	<img alt="stars" src="https://img.shields.io/github/stars/dannyEndorTest/invokeai-consumer">
+
+---
 ## CVE-2024-10793 ()
 > 
 - [windz3r0day/CVE-2024-10793](https://github.com/windz3r0day/CVE-2024-10793)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-10793">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-10793">
 - [windz3r0day/CVE-2024-10793](https://github.com/windz3r0day/CVE-2024-10793)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-10793">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-10793">
 - [MAHajian/CVE-2024-10793](https://github.com/MAHajian/CVE-2024-10793)	<img alt="forks" src="https://img.shields.io/github/forks/MAHajian/CVE-2024-10793">	<img alt="stars" src="https://img.shields.io/github/stars/MAHajian/CVE-2024-10793">
+- [djayaGit/CVE-2024-10793](https://github.com/djayaGit/CVE-2024-10793)	<img alt="forks" src="https://img.shields.io/github/forks/djayaGit/CVE-2024-10793">	<img alt="stars" src="https://img.shields.io/github/stars/djayaGit/CVE-2024-10793">
 
 ---
 ## CVE-2024-10728 ()
@@ -10836,10 +11770,25 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Nxploited/CVE-2024-10673](https://github.com/Nxploited/CVE-2024-10673)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-10673">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-10673">
 
 ---
+## CVE-2024-10654 ()
+> 
+- [c0nyy/IoT_vuln](https://github.com/c0nyy/IoT_vuln)	<img alt="forks" src="https://img.shields.io/github/forks/c0nyy/IoT_vuln">	<img alt="stars" src="https://img.shields.io/github/stars/c0nyy/IoT_vuln">
+
+---
+## CVE-2024-1065 ()
+> 
+- [kuzeyardabulut/CVE-2024-1065](https://github.com/kuzeyardabulut/CVE-2024-1065)	<img alt="forks" src="https://img.shields.io/github/forks/kuzeyardabulut/CVE-2024-1065">	<img alt="stars" src="https://img.shields.io/github/stars/kuzeyardabulut/CVE-2024-1065">
+
+---
 ## CVE-2024-10629 ()
 > 
 - [RandomRobbieBF/CVE-2024-10629](https://github.com/RandomRobbieBF/CVE-2024-10629)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10629">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10629">
 - [Nxploited/CVE-2024-10629](https://github.com/Nxploited/CVE-2024-10629)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-10629">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-10629">
+
+---
+## CVE-2024-10605 ()
+> 
+- [bevennyamande/CVE-2024-10605](https://github.com/bevennyamande/CVE-2024-10605)	<img alt="forks" src="https://img.shields.io/github/forks/bevennyamande/CVE-2024-10605">	<img alt="stars" src="https://img.shields.io/github/stars/bevennyamande/CVE-2024-10605">
 
 ---
 ## CVE-2024-10592 ()
@@ -10861,6 +11810,11 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 ## CVE-2024-10571 ()
 > 
 - [RandomRobbieBF/CVE-2024-10571](https://github.com/RandomRobbieBF/CVE-2024-10571)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10571">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10571">
+
+---
+## CVE-2024-10557 ()
+> 
+- [bevennyamande/CVE-2024-10557](https://github.com/bevennyamande/CVE-2024-10557)	<img alt="forks" src="https://img.shields.io/github/forks/bevennyamande/CVE-2024-10557">	<img alt="stars" src="https://img.shields.io/github/stars/bevennyamande/CVE-2024-10557">
 
 ---
 ## CVE-2024-10542 (2024-11-26T06:15:00)
@@ -10930,6 +11884,16 @@ resulting in database manipulation.
 - [zetraxz/CVE-2024-10386](https://github.com/zetraxz/CVE-2024-10386)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-10386">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-10386">
 
 ---
+## CVE-2024-10355 ()
+> 
+- [K1nakoo/CVE-2024-10355](https://github.com/K1nakoo/CVE-2024-10355)	<img alt="forks" src="https://img.shields.io/github/forks/K1nakoo/CVE-2024-10355">	<img alt="stars" src="https://img.shields.io/github/stars/K1nakoo/CVE-2024-10355">
+
+---
+## CVE-2024-10354 ()
+> 
+- [K1nakoo/CVE-2024-10354](https://github.com/K1nakoo/CVE-2024-10354)	<img alt="forks" src="https://img.shields.io/github/forks/K1nakoo/CVE-2024-10354">	<img alt="stars" src="https://img.shields.io/github/stars/K1nakoo/CVE-2024-10354">
+
+---
 ## CVE-2024-10245 ()
 > 
 - [RandomRobbieBF/CVE-2024-10245](https://github.com/RandomRobbieBF/CVE-2024-10245)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10245">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10245">
@@ -10974,6 +11938,11 @@ resulting in database manipulation.
 - [RandomRobbieBF/CVE-2024-10008](https://github.com/RandomRobbieBF/CVE-2024-10008)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-10008">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-10008">
 
 ---
+## CVE-2024-0986 ()
+> 
+- [gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated](https://github.com/gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/Issabel-PBX-4.0.0-RCE-Authenticated">
+
+---
 ## CVE-2024-0967 (2024-03-01T15:15:00)
 > A potential vulnerability has been identified in OpenText / Micro Focus ArcSight Enterprise Security Manager (ESM). The vulnerability could be remotely exploited.
 - [Oxdestiny/CVE-2024-0967-exploit](https://github.com/Oxdestiny/CVE-2024-0967-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Oxdestiny/CVE-2024-0967-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Oxdestiny/CVE-2024-0967-exploit">
@@ -10992,6 +11961,11 @@ resulting in database manipulation.
 ## CVE-2024-0844 (2024-02-02T12:15:00)
 > The Popup More Popups, Lightboxes, and more popup modules plugin for WordPress is vulnerable to Local File Inclusion in version 2.1.6 via the ycfChangeElementData() function. This makes it possible for authenticated attackers, with administrator-level access and above, to include and execute arbitrary files ending with "Form.php" on the server , allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where images and other “safe” file types can be uploaded and included.
 - [0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844)	<img alt="forks" src="https://img.shields.io/github/forks/0x9567b/CVE-2024-0844">	<img alt="stars" src="https://img.shields.io/github/stars/0x9567b/CVE-2024-0844">
+
+---
+## CVE-2024-0783 ()
+> 
+- [pwnpwnpur1n/Online-Admission-System-RCE-PoC](https://github.com/pwnpwnpur1n/Online-Admission-System-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/pwnpwnpur1n/Online-Admission-System-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/pwnpwnpur1n/Online-Admission-System-RCE-PoC">
 
 ---
 ## CVE-2024-0762 (2024-05-14T16:15:00)
@@ -11183,11 +12157,13 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 ## CVE-2024-0406 ()
 > 
 - [walidpyh/CVE-2024-0406-POC](https://github.com/walidpyh/CVE-2024-0406-POC)	<img alt="forks" src="https://img.shields.io/github/forks/walidpyh/CVE-2024-0406-POC">	<img alt="stars" src="https://img.shields.io/github/stars/walidpyh/CVE-2024-0406-POC">
+- [veissa/Desires](https://github.com/veissa/Desires)	<img alt="forks" src="https://img.shields.io/github/forks/veissa/Desires">	<img alt="stars" src="https://img.shields.io/github/stars/veissa/Desires">
 
 ---
 ## CVE-2024-0402 (2024-01-26T01:15:00)
 > An issue has been discovered in GitLab CE/EE affecting all versions from 16.0 prior to 16.6.6, 16.7 prior to 16.7.4, and 16.8 prior to 16.8.1 which allows an authenticated user to write files to arbitrary locations on the GitLab server while creating a workspace.
 - [ch4nui/CVE-2024-0402-RCE](https://github.com/ch4nui/CVE-2024-0402-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/ch4nui/CVE-2024-0402-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/ch4nui/CVE-2024-0402-RCE">
+- [doyensec/malicious-devfile-registry](https://github.com/doyensec/malicious-devfile-registry)	<img alt="forks" src="https://img.shields.io/github/forks/doyensec/malicious-devfile-registry">	<img alt="stars" src="https://img.shields.io/github/stars/doyensec/malicious-devfile-registry">
 
 ---
 ## CVE-2024-0399 (2024-04-15T05:15:00)
@@ -11223,6 +12199,11 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 ## CVE-2024-0305 (2024-01-08T09:15:00)
 > A vulnerability was found in Guangzhou Yingke Electronic Technology Ncast up to 2017 and classified as problematic. Affected by this issue is some unknown functionality of the file /manage/IPSetup.php of the component Guest Login. The manipulation leads to information disclosure. The attack may be launched remotely. The exploit has been disclosed to the public and may be used. The identifier of this vulnerability is VDB-249872.
 - [jidle123/cve-2024-0305exp](https://github.com/jidle123/cve-2024-0305exp)	<img alt="forks" src="https://img.shields.io/github/forks/jidle123/cve-2024-0305exp">	<img alt="stars" src="https://img.shields.io/github/stars/jidle123/cve-2024-0305exp">
+
+---
+## CVE-2024-0258 ()
+> 
+- [aliyabuz25/CVE-2024-0258-Research](https://github.com/aliyabuz25/CVE-2024-0258-Research)	<img alt="forks" src="https://img.shields.io/github/forks/aliyabuz25/CVE-2024-0258-Research">	<img alt="stars" src="https://img.shields.io/github/stars/aliyabuz25/CVE-2024-0258-Research">
 
 ---
 ## CVE-2024-0252 (2024-01-11T08:15:00)
@@ -11280,6 +12261,12 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [codeb0ss/CVE-2024-0190-PoC](https://github.com/codeb0ss/CVE-2024-0190-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-0190-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-0190-PoC">
 
 ---
+## CVE-2024-0132 ()
+> 
+- [ssst0n3/poc-cve-2024-0132](https://github.com/ssst0n3/poc-cve-2024-0132)	<img alt="forks" src="https://img.shields.io/github/forks/ssst0n3/poc-cve-2024-0132">	<img alt="stars" src="https://img.shields.io/github/stars/ssst0n3/poc-cve-2024-0132">
+- [r0binak/CVE-2024-0132](https://github.com/r0binak/CVE-2024-0132)	<img alt="forks" src="https://img.shields.io/github/forks/r0binak/CVE-2024-0132">	<img alt="stars" src="https://img.shields.io/github/stars/r0binak/CVE-2024-0132">
+
+---
 ## CVE-2024-0113 (2024-08-12T13:38:00)
 > NVIDIA Mellanox OS, ONYX, Skyway, and MetroX-3 XCC contain a vulnerability in the web support, where an attacker can cause a CGI path traversal by a specially crafted URI. A successful exploit of this vulnerability might lead to escalation of privileges and information disclosure.
 - [zetraxz/CVE-2024-0113](https://github.com/zetraxz/CVE-2024-0113)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-0113">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-0113">
@@ -11317,6 +12304,8 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [HoyoenKim/CVE-2024-0044_PoC](https://github.com/HoyoenKim/CVE-2024-0044_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/HoyoenKim/CVE-2024-0044_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/HoyoenKim/CVE-2024-0044_PoC">
 - [Athexhacker/EXPLOITER](https://github.com/Athexhacker/EXPLOITER)	<img alt="forks" src="https://img.shields.io/github/forks/Athexhacker/EXPLOITER">	<img alt="stars" src="https://img.shields.io/github/stars/Athexhacker/EXPLOITER">
 - [JackTekno/Chrome-Forensic_CVE-2024-0044](https://github.com/JackTekno/Chrome-Forensic_CVE-2024-0044)	<img alt="forks" src="https://img.shields.io/github/forks/JackTekno/Chrome-Forensic_CVE-2024-0044">	<img alt="stars" src="https://img.shields.io/github/stars/JackTekno/Chrome-Forensic_CVE-2024-0044">
+- [k4ran909/cve_2024_0044](https://github.com/k4ran909/cve_2024_0044)	<img alt="forks" src="https://img.shields.io/github/forks/k4ran909/cve_2024_0044">	<img alt="stars" src="https://img.shields.io/github/stars/k4ran909/cve_2024_0044">
+- [bfurkanyildiz/Android-rce-analizi](https://github.com/bfurkanyildiz/Android-rce-analizi)	<img alt="forks" src="https://img.shields.io/github/forks/bfurkanyildiz/Android-rce-analizi">	<img alt="stars" src="https://img.shields.io/github/stars/bfurkanyildiz/Android-rce-analizi">
 
 ---
 ## CVE-2024-0040 (2024-02-16T02:15:00)
@@ -11365,6 +12354,8 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [0xjessie21/CVE-2024-0012](https://github.com/0xjessie21/CVE-2024-0012)	<img alt="forks" src="https://img.shields.io/github/forks/0xjessie21/CVE-2024-0012">	<img alt="stars" src="https://img.shields.io/github/stars/0xjessie21/CVE-2024-0012">
 - [TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC](https://github.com/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/TalatumLabs/CVE-2024-0012_CVE-2024-9474_PoC">
 - [dcollaoa/cve-2024-0012-gui-poc](https://github.com/dcollaoa/cve-2024-0012-gui-poc)	<img alt="forks" src="https://img.shields.io/github/forks/dcollaoa/cve-2024-0012-gui-poc">	<img alt="stars" src="https://img.shields.io/github/stars/dcollaoa/cve-2024-0012-gui-poc">
+- [Gr-1m/cve-2024-0012-poc](https://github.com/Gr-1m/cve-2024-0012-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Gr-1m/cve-2024-0012-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Gr-1m/cve-2024-0012-poc">
+- [Regent8SH/PanOsExploitMultitool](https://github.com/Regent8SH/PanOsExploitMultitool)	<img alt="forks" src="https://img.shields.io/github/forks/Regent8SH/PanOsExploitMultitool">	<img alt="stars" src="https://img.shields.io/github/stars/Regent8SH/PanOsExploitMultitool">
 
 ---
 ## CVE-2024-0001 (2024-09-23T18:15:00)

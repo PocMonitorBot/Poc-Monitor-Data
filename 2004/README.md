@@ -21,6 +21,16 @@
 - [micheaol/distccd_rce_CVE-2004-2687](https://github.com/micheaol/distccd_rce_CVE-2004-2687)	<img alt="forks" src="https://img.shields.io/github/forks/micheaol/distccd_rce_CVE-2004-2687">	<img alt="stars" src="https://img.shields.io/github/stars/micheaol/distccd_rce_CVE-2004-2687">
 
 ---
+## CVE-2004-2549 ()
+> 
+- [alt3kx/CVE-2004-2549](https://github.com/alt3kx/CVE-2004-2549)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2004-2549">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2004-2549">
+
+---
+## CVE-2004-2449 ()
+> 
+- [ParallelVisions/DoSTool](https://github.com/ParallelVisions/DoSTool)	<img alt="forks" src="https://img.shields.io/github/forks/ParallelVisions/DoSTool">	<img alt="stars" src="https://img.shields.io/github/stars/ParallelVisions/DoSTool">
+
+---
 ## CVE-2004-2271 (2004-12-31T05:00:00)
 > Buffer overflow in MiniShare 1.4.1 and earlier allows remote attackers to execute arbitrary code via a long HTTP GET request.
 - [lautarolopez4/CVE-2004-2271](https://github.com/lautarolopez4/CVE-2004-2271)	<img alt="forks" src="https://img.shields.io/github/forks/lautarolopez4/CVE-2004-2271">	<img alt="stars" src="https://img.shields.io/github/stars/lautarolopez4/CVE-2004-2271">
@@ -30,6 +40,17 @@
 - [kkirsche/CVE-2004-2271](https://github.com/kkirsche/CVE-2004-2271)	<img alt="forks" src="https://img.shields.io/github/forks/kkirsche/CVE-2004-2271">	<img alt="stars" src="https://img.shields.io/github/stars/kkirsche/CVE-2004-2271">
 
 ---
+## CVE-2004-2167 ()
+> 
+- [uzzzval/cve-2004-2167](https://github.com/uzzzval/cve-2004-2167)	<img alt="forks" src="https://img.shields.io/github/forks/uzzzval/cve-2004-2167">	<img alt="stars" src="https://img.shields.io/github/stars/uzzzval/cve-2004-2167">
+
+---
+## CVE-2004-1769 ()
+> 
+- [sinkaroid/shiguresh](https://github.com/sinkaroid/shiguresh)	<img alt="forks" src="https://img.shields.io/github/forks/sinkaroid/shiguresh">	<img alt="stars" src="https://img.shields.io/github/stars/sinkaroid/shiguresh">
+- [Redsplit/shiguresh](https://github.com/Redsplit/shiguresh)	<img alt="forks" src="https://img.shields.io/github/forks/Redsplit/shiguresh">	<img alt="stars" src="https://img.shields.io/github/stars/Redsplit/shiguresh">
+
+---
 ## CVE-2004-1561 ()
 > 
 - [Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-](https://github.com/Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-)	<img alt="forks" src="https://img.shields.io/github/forks/Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-">	<img alt="stars" src="https://img.shields.io/github/stars/Danyw24/CVE-2004-1561-Icecast-Header-Overwrite-buffer-overflow-RCE-2.0.1-Win32-">
@@ -37,6 +58,7 @@
 - [thel1nus/CVE-2004-1561-Notes](https://github.com/thel1nus/CVE-2004-1561-Notes)	<img alt="forks" src="https://img.shields.io/github/forks/thel1nus/CVE-2004-1561-Notes">	<img alt="stars" src="https://img.shields.io/github/stars/thel1nus/CVE-2004-1561-Notes">
 - [darrynb89/CVE-2004-1561](https://github.com/darrynb89/CVE-2004-1561)	<img alt="forks" src="https://img.shields.io/github/forks/darrynb89/CVE-2004-1561">	<img alt="stars" src="https://img.shields.io/github/stars/darrynb89/CVE-2004-1561">
 - [ivanitlearning/CVE-2004-1561](https://github.com/ivanitlearning/CVE-2004-1561)	<img alt="forks" src="https://img.shields.io/github/forks/ivanitlearning/CVE-2004-1561">	<img alt="stars" src="https://img.shields.io/github/stars/ivanitlearning/CVE-2004-1561">
+- [MonseigneurPatas/thm-ice-icecast-rce-privesc](https://github.com/MonseigneurPatas/thm-ice-icecast-rce-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/MonseigneurPatas/thm-ice-icecast-rce-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/MonseigneurPatas/thm-ice-icecast-rce-privesc">
 
 ---
 ## CVE-2004-0789 ()
@@ -47,3 +69,8 @@
 ## CVE-2004-0589 (2004-08-06T04:00:00)
 > Cisco IOS 11.1(x) through 11.3(x) and 12.0(x) through 12.2(x), when configured for BGP routing, allows remote attackers to cause a denial of service (device reload) via malformed BGP (1) OPEN or (2) UPDATE messages.
 - [Live-Hack-CVE/CVE-2004-0589](https://github.com/Live-Hack-CVE/CVE-2004-0589)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2004-0589">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2004-0589">
+
+---
+## CVE-2004-0558 ()
+> 
+- [fibonascii/CVE-2004-0558](https://github.com/fibonascii/CVE-2004-0558)	<img alt="forks" src="https://img.shields.io/github/forks/fibonascii/CVE-2004-0558">	<img alt="stars" src="https://img.shields.io/github/stars/fibonascii/CVE-2004-0558">

@@ -1,6 +1,17 @@
 # 2009 List
 
 ---
+## CVE-2009-5147 ()
+> 
+- [vpereira/CVE-2009-5147](https://github.com/vpereira/CVE-2009-5147)	<img alt="forks" src="https://img.shields.io/github/forks/vpereira/CVE-2009-5147">	<img alt="stars" src="https://img.shields.io/github/stars/vpereira/CVE-2009-5147">
+- [zhangyongbo100/-Ruby-dl-handle.c-CVE-2009-5147-](https://github.com/zhangyongbo100/-Ruby-dl-handle.c-CVE-2009-5147-)	<img alt="forks" src="https://img.shields.io/github/forks/zhangyongbo100/-Ruby-dl-handle.c-CVE-2009-5147-">	<img alt="stars" src="https://img.shields.io/github/stars/zhangyongbo100/-Ruby-dl-handle.c-CVE-2009-5147-">
+
+---
+## CVE-2009-4660 ()
+> 
+- [war4uthor/CVE-2009-4660](https://github.com/war4uthor/CVE-2009-4660)	<img alt="forks" src="https://img.shields.io/github/forks/war4uthor/CVE-2009-4660">	<img alt="stars" src="https://img.shields.io/github/stars/war4uthor/CVE-2009-4660">
+
+---
 ## CVE-2009-4623 (2010-01-18T20:30:00)
 > Multiple PHP remote file inclusion vulnerabilities in Advanced Comment System 1.0 allow remote attackers to execute arbitrary PHP code via a URL in the ACS_path parameter to (1) index.php and (2) admin.php in advanced_comment_system/. NOTE: this might only be a vulnerability when the administrator has not followed installation instructions in install.php. NOTE: this might be the same as CVE-2020-35598.
 - [hupe1980/CVE-2009-4623](https://github.com/hupe1980/CVE-2009-4623)	<img alt="forks" src="https://img.shields.io/github/forks/hupe1980/CVE-2009-4623">	<img alt="stars" src="https://img.shields.io/github/stars/hupe1980/CVE-2009-4623">
@@ -8,9 +19,25 @@
 - [MonsempesSamuel/CVE-2009-4623](https://github.com/MonsempesSamuel/CVE-2009-4623)	<img alt="forks" src="https://img.shields.io/github/forks/MonsempesSamuel/CVE-2009-4623">	<img alt="stars" src="https://img.shields.io/github/stars/MonsempesSamuel/CVE-2009-4623">
 
 ---
+## CVE-2009-4137 ()
+> 
+- [Alexeyan/CVE-2009-4137](https://github.com/Alexeyan/CVE-2009-4137)	<img alt="forks" src="https://img.shields.io/github/forks/Alexeyan/CVE-2009-4137">	<img alt="stars" src="https://img.shields.io/github/stars/Alexeyan/CVE-2009-4137">
+
+---
+## CVE-2009-4118 ()
+> 
+- [alt3kx/CVE-2009-4118](https://github.com/alt3kx/CVE-2009-4118)	<img alt="forks" src="https://img.shields.io/github/forks/alt3kx/CVE-2009-4118">	<img alt="stars" src="https://img.shields.io/github/stars/alt3kx/CVE-2009-4118">
+
+---
+## CVE-2009-4092 ()
+> 
+- [xiaoyu-iid/Simplog-Exploit](https://github.com/xiaoyu-iid/Simplog-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoyu-iid/Simplog-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoyu-iid/Simplog-Exploit">
+
+---
 ## CVE-2009-4049 (2009-11-23T17:30:00)
 > Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.
 - [Exploitables/CVE-2009-4049](https://github.com/Exploitables/CVE-2009-4049)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2009-4049">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2009-4049">
+- [fengjixuchui/CVE-2009-4049](https://github.com/fengjixuchui/CVE-2009-4049)	<img alt="forks" src="https://img.shields.io/github/forks/fengjixuchui/CVE-2009-4049">	<img alt="stars" src="https://img.shields.io/github/stars/fengjixuchui/CVE-2009-4049">
 
 ---
 ## CVE-2009-3999 ()
@@ -32,6 +59,11 @@
 ## CVE-2009-3559 (2009-11-23T17:30:00)
 > ** DISPUTED ** main/streams/plain_wrapper.c in PHP 5.3.x before 5.3.1 does not recognize the safe_mode_include_dir directive, which allows context-dependent attackers to have an unknown impact by triggering the failure of PHP scripts that perform include or require operations, as demonstrated by a script that attempts to perform a require_once on a file in a standard library directory. NOTE: a reliable third party reports that this is not a vulnerability, because it results in a more restrictive security policy.
 - [Live-Hack-CVE/CVE-2009-3559](https://github.com/Live-Hack-CVE/CVE-2009-3559)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-3559">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-3559">
+
+---
+## CVE-2009-3555 ()
+> 
+- [johnwchadwick/cve-2009-3555-test-server](https://github.com/johnwchadwick/cve-2009-3555-test-server)	<img alt="forks" src="https://img.shields.io/github/forks/johnwchadwick/cve-2009-3555-test-server">	<img alt="stars" src="https://img.shields.io/github/stars/johnwchadwick/cve-2009-3555-test-server">
 
 ---
 ## CVE-2009-3103 (2009-09-08T22:30:00)
@@ -65,6 +97,16 @@
 - [Live-Hack-CVE/CVE-2009-2699](https://github.com/Live-Hack-CVE/CVE-2009-2699)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-2699">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-2699">
 
 ---
+## CVE-2009-2698 ()
+> 
+- [xiaoxiaoleo/CVE-2009-2698](https://github.com/xiaoxiaoleo/CVE-2009-2698)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoxiaoleo/CVE-2009-2698">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoxiaoleo/CVE-2009-2698">
+
+---
+## CVE-2009-2692 ()
+> 
+- [jdvalentini/CVE-2009-2692](https://github.com/jdvalentini/CVE-2009-2692)	<img alt="forks" src="https://img.shields.io/github/forks/jdvalentini/CVE-2009-2692">	<img alt="stars" src="https://img.shields.io/github/stars/jdvalentini/CVE-2009-2692">
+
+---
 ## CVE-2009-2687 (2009-08-05T19:30:00)
 > The exif_read_data function in the Exif module in PHP before 5.2.10 allows remote attackers to cause a denial of service (crash) via a malformed JPEG image with invalid offset fields, a different issue than CVE-2005-3353.
 - [Live-Hack-CVE/CVE-2009-2687](https://github.com/Live-Hack-CVE/CVE-2009-2687)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-2687">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-2687">
@@ -87,6 +129,11 @@
 - [matesz44/CVE-2009-2265](https://github.com/matesz44/CVE-2009-2265)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2009-2265">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2009-2265">
 
 ---
+## CVE-2009-1904 ()
+> 
+- [NZKoz/bigdecimal-segfault-fix](https://github.com/NZKoz/bigdecimal-segfault-fix)	<img alt="forks" src="https://img.shields.io/github/forks/NZKoz/bigdecimal-segfault-fix">	<img alt="stars" src="https://img.shields.io/github/stars/NZKoz/bigdecimal-segfault-fix">
+
+---
 ## CVE-2009-1891 (2009-07-10T15:30:00)
 > The mod_deflate module in Apache httpd 2.2.11 and earlier compresses large files until completion even after the associated network connection is closed, which allows remote attackers to cause a denial of service (CPU consumption).
 - [Live-Hack-CVE/CVE-2009-1891](https://github.com/Live-Hack-CVE/CVE-2009-1891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-1891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-1891">
@@ -95,6 +142,35 @@
 ## CVE-2009-1890 (2009-07-05T16:30:00)
 > The stream_reqbody_cl function in mod_proxy_http.c in the mod_proxy module in the Apache HTTP Server before 2.3.3, when a reverse proxy is configured, does not properly handle an amount of streamed data that exceeds the Content-Length value, which allows remote attackers to cause a denial of service (CPU consumption) via crafted requests.
 - [Live-Hack-CVE/CVE-2009-1890](https://github.com/Live-Hack-CVE/CVE-2009-1890)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-1890">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-1890">
+
+---
+## CVE-2009-1437 ()
+> 
+- [HanseSecure/CVE-2009-1437](https://github.com/HanseSecure/CVE-2009-1437)	<img alt="forks" src="https://img.shields.io/github/forks/HanseSecure/CVE-2009-1437">	<img alt="stars" src="https://img.shields.io/github/stars/HanseSecure/CVE-2009-1437">
+
+---
+## CVE-2009-1330 ()
+> 
+- [adenkiewicz/CVE-2009-1330](https://github.com/adenkiewicz/CVE-2009-1330)	<img alt="forks" src="https://img.shields.io/github/forks/adenkiewicz/CVE-2009-1330">	<img alt="stars" src="https://img.shields.io/github/stars/adenkiewicz/CVE-2009-1330">
+- [war4uthor/CVE-2009-1330](https://github.com/war4uthor/CVE-2009-1330)	<img alt="forks" src="https://img.shields.io/github/forks/war4uthor/CVE-2009-1330">	<img alt="stars" src="https://img.shields.io/github/stars/war4uthor/CVE-2009-1330">
+- [exploitwritter/CVE-2009-1330_EasyRMToMp3Converter](https://github.com/exploitwritter/CVE-2009-1330_EasyRMToMp3Converter)	<img alt="forks" src="https://img.shields.io/github/forks/exploitwritter/CVE-2009-1330_EasyRMToMp3Converter">	<img alt="stars" src="https://img.shields.io/github/stars/exploitwritter/CVE-2009-1330_EasyRMToMp3Converter">
+
+---
+## CVE-2009-1324 ()
+> 
+- [war4uthor/CVE-2009-1324](https://github.com/war4uthor/CVE-2009-1324)	<img alt="forks" src="https://img.shields.io/github/forks/war4uthor/CVE-2009-1324">	<img alt="stars" src="https://img.shields.io/github/stars/war4uthor/CVE-2009-1324">
+
+---
+## CVE-2009-1244 ()
+> 
+- [piotrbania/vmware_exploit_pack_CVE-2009-1244](https://github.com/piotrbania/vmware_exploit_pack_CVE-2009-1244)	<img alt="forks" src="https://img.shields.io/github/forks/piotrbania/vmware_exploit_pack_CVE-2009-1244">	<img alt="stars" src="https://img.shields.io/github/stars/piotrbania/vmware_exploit_pack_CVE-2009-1244">
+
+---
+## CVE-2009-1151 ()
+> 
+- [pagvac/pocs](https://github.com/pagvac/pocs)	<img alt="forks" src="https://img.shields.io/github/forks/pagvac/pocs">	<img alt="stars" src="https://img.shields.io/github/stars/pagvac/pocs">
+- [e-Thug/PhpMyAdmin](https://github.com/e-Thug/PhpMyAdmin)	<img alt="forks" src="https://img.shields.io/github/forks/e-Thug/PhpMyAdmin">	<img alt="stars" src="https://img.shields.io/github/stars/e-Thug/PhpMyAdmin">
+- [tpdlshdmlrkfmcla/ZmEu](https://github.com/tpdlshdmlrkfmcla/ZmEu)	<img alt="forks" src="https://img.shields.io/github/forks/tpdlshdmlrkfmcla/ZmEu">	<img alt="stars" src="https://img.shields.io/github/stars/tpdlshdmlrkfmcla/ZmEu">
 
 ---
 ## CVE-2009-10003 (2023-01-29T19:15:00)
@@ -118,6 +194,11 @@
 - [Exploitables/CVE-2009-0824](https://github.com/Exploitables/CVE-2009-0824)	<img alt="forks" src="https://img.shields.io/github/forks/Exploitables/CVE-2009-0824">	<img alt="stars" src="https://img.shields.io/github/stars/Exploitables/CVE-2009-0824">
 
 ---
+## CVE-2009-0689 ()
+> 
+- [Fullmetal5/str2hax](https://github.com/Fullmetal5/str2hax)	<img alt="forks" src="https://img.shields.io/github/forks/Fullmetal5/str2hax">	<img alt="stars" src="https://img.shields.io/github/stars/Fullmetal5/str2hax">
+
+---
 ## CVE-2009-0586 (2009-03-14T18:30:00)
 > Integer overflow in the gst_vorbis_tag_add_coverart function (gst-libs/gst/tag/gstvorbistag.c) in vorbistag in gst-plugins-base (aka gstreamer-plugins-base) before 0.10.23 in GStreamer allows context-dependent attackers to execute arbitrary code via a crafted COVERART tag that is converted from a base64 representation, which triggers a heap-based buffer overflow.
 - [Live-Hack-CVE/CVE-2009-0586](https://github.com/Live-Hack-CVE/CVE-2009-0586)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2009-0586">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2009-0586">
@@ -132,3 +213,13 @@
 ## CVE-2009-0347 (2009-01-29T19:30:00)
 > Open redirect vulnerability in cs.html in the Autonomy (formerly Verity) Ultraseek search engine allows remote attackers to redirect users to arbitrary web sites and conduct phishing attacks via the url parameter.
 - [Cappricio-Securities/CVE-2009-0347](https://github.com/Cappricio-Securities/CVE-2009-0347)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2009-0347">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2009-0347">
+
+---
+## CVE-2009-0229 ()
+> 
+- [zveriu/CVE-2009-0229-PoC](https://github.com/zveriu/CVE-2009-0229-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/zveriu/CVE-2009-0229-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/zveriu/CVE-2009-0229-PoC">
+
+---
+## CVE-2009-0182 ()
+> 
+- [nobodyatall648/CVE-2009-0182](https://github.com/nobodyatall648/CVE-2009-0182)	<img alt="forks" src="https://img.shields.io/github/forks/nobodyatall648/CVE-2009-0182">	<img alt="stars" src="https://img.shields.io/github/stars/nobodyatall648/CVE-2009-0182">

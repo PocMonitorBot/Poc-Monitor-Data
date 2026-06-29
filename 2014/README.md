@@ -16,9 +16,40 @@
 - [ForceFledgling/CVE-2014-9690](https://github.com/ForceFledgling/CVE-2014-9690)	<img alt="forks" src="https://img.shields.io/github/forks/ForceFledgling/CVE-2014-9690">	<img alt="stars" src="https://img.shields.io/github/stars/ForceFledgling/CVE-2014-9690">
 
 ---
+## CVE-2014-9495 ()
+> 
+- [Enessar/LibPNG_OSS-Fuzz](https://github.com/Enessar/LibPNG_OSS-Fuzz)	<img alt="forks" src="https://img.shields.io/github/forks/Enessar/LibPNG_OSS-Fuzz">	<img alt="stars" src="https://img.shields.io/github/stars/Enessar/LibPNG_OSS-Fuzz">
+
+---
 ## CVE-2014-9428 (2015-01-02T21:59:00)
 > The batadv_frag_merge_packets function in net/batman-adv/fragmentation.c in the B.A.T.M.A.N. implementation in the Linux kernel through 3.18.1 uses an incorrect length field during a calculation of an amount of memory, which allows remote attackers to cause a denial of service (mesh-node system crash) via fragmented packets.
 - [Live-Hack-CVE/CVE-2014-9428](https://github.com/Live-Hack-CVE/CVE-2014-9428)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-9428">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-9428">
+
+---
+## CVE-2014-9390 ()
+> 
+- [hakatashi/CVE-2014-9390](https://github.com/hakatashi/CVE-2014-9390)	<img alt="forks" src="https://img.shields.io/github/forks/hakatashi/CVE-2014-9390">	<img alt="stars" src="https://img.shields.io/github/stars/hakatashi/CVE-2014-9390">
+
+---
+## CVE-2014-9322 ()
+> 
+- [RKX1209/CVE-2014-9322](https://github.com/RKX1209/CVE-2014-9322)	<img alt="forks" src="https://img.shields.io/github/forks/RKX1209/CVE-2014-9322">	<img alt="stars" src="https://img.shields.io/github/stars/RKX1209/CVE-2014-9322">
+
+---
+## CVE-2014-9301 ()
+> 
+- [ottimo/burp-alfresco-referer-proxy-cve-2014-9301](https://github.com/ottimo/burp-alfresco-referer-proxy-cve-2014-9301)	<img alt="forks" src="https://img.shields.io/github/forks/ottimo/burp-alfresco-referer-proxy-cve-2014-9301">	<img alt="stars" src="https://img.shields.io/github/stars/ottimo/burp-alfresco-referer-proxy-cve-2014-9301">
+
+---
+## CVE-2014-9295 ()
+> 
+- [MacMiniVault/NTPUpdateSnowLeopard](https://github.com/MacMiniVault/NTPUpdateSnowLeopard)	<img alt="forks" src="https://img.shields.io/github/forks/MacMiniVault/NTPUpdateSnowLeopard">	<img alt="stars" src="https://img.shields.io/github/stars/MacMiniVault/NTPUpdateSnowLeopard">
+
+---
+## CVE-2014-9222 ()
+> 
+- [donfanning/MIPS-CVE-2014-9222](https://github.com/donfanning/MIPS-CVE-2014-9222)	<img alt="forks" src="https://img.shields.io/github/forks/donfanning/MIPS-CVE-2014-9222">	<img alt="stars" src="https://img.shields.io/github/stars/donfanning/MIPS-CVE-2014-9222">
+- [mercul1ninna/MIPS-CVE-2014-9222](https://github.com/mercul1ninna/MIPS-CVE-2014-9222)	<img alt="forks" src="https://img.shields.io/github/forks/mercul1ninna/MIPS-CVE-2014-9222">	<img alt="stars" src="https://img.shields.io/github/stars/mercul1ninna/MIPS-CVE-2014-9222">
 
 ---
 ## CVE-2014-9219 ()
@@ -31,6 +62,17 @@
 - [jamaal001/CVE-2014-91371-Wordpress-](https://github.com/jamaal001/CVE-2014-91371-Wordpress-)	<img alt="forks" src="https://img.shields.io/github/forks/jamaal001/CVE-2014-91371-Wordpress-">	<img alt="stars" src="https://img.shields.io/github/stars/jamaal001/CVE-2014-91371-Wordpress-">
 
 ---
+## CVE-2014-9016 ()
+> 
+- [c0r3dump3d/wp_drupal_timing_attack](https://github.com/c0r3dump3d/wp_drupal_timing_attack)	<img alt="forks" src="https://img.shields.io/github/forks/c0r3dump3d/wp_drupal_timing_attack">	<img alt="stars" src="https://img.shields.io/github/stars/c0r3dump3d/wp_drupal_timing_attack">
+- [Primus27/WordPress-Long-Password-Denial-of-Service](https://github.com/Primus27/WordPress-Long-Password-Denial-of-Service)	<img alt="forks" src="https://img.shields.io/github/forks/Primus27/WordPress-Long-Password-Denial-of-Service">	<img alt="stars" src="https://img.shields.io/github/stars/Primus27/WordPress-Long-Password-Denial-of-Service">
+
+---
+## CVE-2014-8757 ()
+> 
+- [irsl/lgosp-poc](https://github.com/irsl/lgosp-poc)	<img alt="forks" src="https://img.shields.io/github/forks/irsl/lgosp-poc">	<img alt="stars" src="https://img.shields.io/github/stars/irsl/lgosp-poc">
+
+---
 ## CVE-2014-8739 ()
 > 
 - [Pranjal6955/CVE-2014-8739-Test-Environment](https://github.com/Pranjal6955/CVE-2014-8739-Test-Environment)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/CVE-2014-8739-Test-Environment">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/CVE-2014-8739-Test-Environment">
@@ -41,16 +83,92 @@
 - [sbani/CVE-2014-8731-PoC](https://github.com/sbani/CVE-2014-8731-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sbani/CVE-2014-8731-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sbani/CVE-2014-8731-PoC">
 
 ---
+## CVE-2014-8729 ()
+> 
+- [inso1337/TORQUE-Resource-Manager-2.5.x-2.5.13-stack-based-buffer-overflow-exploit-CVE-2014-8729-CVE-2014-878](https://github.com/inso1337/TORQUE-Resource-Manager-2.5.x-2.5.13-stack-based-buffer-overflow-exploit-CVE-2014-8729-CVE-2014-878)	<img alt="forks" src="https://img.shields.io/github/forks/inso1337/TORQUE-Resource-Manager-2.5.x-2.5.13-stack-based-buffer-overflow-exploit-CVE-2014-8729-CVE-2014-878">	<img alt="stars" src="https://img.shields.io/github/stars/inso1337/TORQUE-Resource-Manager-2.5.x-2.5.13-stack-based-buffer-overflow-exploit-CVE-2014-8729-CVE-2014-878">
+
+---
+## CVE-2014-8682 ()
+> 
+- [nihal1306/gogs](https://github.com/nihal1306/gogs)	<img alt="forks" src="https://img.shields.io/github/forks/nihal1306/gogs">	<img alt="stars" src="https://img.shields.io/github/stars/nihal1306/gogs">
+
+---
+## CVE-2014-8610 ()
+> 
+- [eddieoz/dual-ec-drbg](https://github.com/eddieoz/dual-ec-drbg)	<img alt="forks" src="https://img.shields.io/github/forks/eddieoz/dual-ec-drbg">	<img alt="stars" src="https://img.shields.io/github/stars/eddieoz/dual-ec-drbg">
+
+---
+## CVE-2014-8609 ()
+> 
+- [locisvv/Vulnerable-CVE-2014-8609](https://github.com/locisvv/Vulnerable-CVE-2014-8609)	<img alt="forks" src="https://img.shields.io/github/forks/locisvv/Vulnerable-CVE-2014-8609">	<img alt="stars" src="https://img.shields.io/github/stars/locisvv/Vulnerable-CVE-2014-8609">
+- [MazX0p/CVE-2014-8609-POC](https://github.com/MazX0p/CVE-2014-8609-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MazX0p/CVE-2014-8609-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MazX0p/CVE-2014-8609-POC">
+- [ratiros01/CVE-2014-8609-exploit](https://github.com/ratiros01/CVE-2014-8609-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ratiros01/CVE-2014-8609-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ratiros01/CVE-2014-8609-exploit">
+
+---
 ## CVE-2014-8275 (2015-01-09T02:59:00)
 > OpenSSL before 0.9.8zd, 1.0.0 before 1.0.0p, and 1.0.1 before 1.0.1k does not enforce certain constraints on certificate data, which allows remote attackers to defeat a fingerprint-based certificate-blacklist protection mechanism by including crafted data within a certificate's unsigned portion, related to crypto/asn1/a_verify.c, crypto/dsa/dsa_asn1.c, crypto/ecdsa/ecs_vrf.c, and crypto/x509/x_all.c.
 - [uthrasri/Openssl_G2.5_CVE-2014-8275](https://github.com/uthrasri/Openssl_G2.5_CVE-2014-8275)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/Openssl_G2.5_CVE-2014-8275">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/Openssl_G2.5_CVE-2014-8275">
 - [uthrasri/CVE-2014-8275_openssl_g2.5](https://github.com/uthrasri/CVE-2014-8275_openssl_g2.5)	<img alt="forks" src="https://img.shields.io/github/forks/uthrasri/CVE-2014-8275_openssl_g2.5">	<img alt="stars" src="https://img.shields.io/github/stars/uthrasri/CVE-2014-8275_openssl_g2.5">
 
 ---
+## CVE-2014-8244 ()
+> 
+- [JollyJumbuckk/LinksysLeaks](https://github.com/JollyJumbuckk/LinksysLeaks)	<img alt="forks" src="https://img.shields.io/github/forks/JollyJumbuckk/LinksysLeaks">	<img alt="stars" src="https://img.shields.io/github/stars/JollyJumbuckk/LinksysLeaks">
+
+---
+## CVE-2014-8142 ()
+> 
+- [3xp10it/php_cve-2014-8142_cve-2015-0231](https://github.com/3xp10it/php_cve-2014-8142_cve-2015-0231)	<img alt="forks" src="https://img.shields.io/github/forks/3xp10it/php_cve-2014-8142_cve-2015-0231">	<img alt="stars" src="https://img.shields.io/github/stars/3xp10it/php_cve-2014-8142_cve-2015-0231">
+
+---
+## CVE-2014-8110 ()
+> 
+- [tafamace/CVE-2014-8110](https://github.com/tafamace/CVE-2014-8110)	<img alt="forks" src="https://img.shields.io/github/forks/tafamace/CVE-2014-8110">	<img alt="stars" src="https://img.shields.io/github/stars/tafamace/CVE-2014-8110">
+
+---
+## CVE-2014-7920 ()
+> 
+- [laginimaineb/cve-2014-7920-7921](https://github.com/laginimaineb/cve-2014-7920-7921)	<img alt="forks" src="https://img.shields.io/github/forks/laginimaineb/cve-2014-7920-7921">	<img alt="stars" src="https://img.shields.io/github/stars/laginimaineb/cve-2014-7920-7921">
+- [Vinc3nt4H/cve-2014-7920-7921_update](https://github.com/Vinc3nt4H/cve-2014-7920-7921_update)	<img alt="forks" src="https://img.shields.io/github/forks/Vinc3nt4H/cve-2014-7920-7921_update">	<img alt="stars" src="https://img.shields.io/github/stars/Vinc3nt4H/cve-2014-7920-7921_update">
+
+---
+## CVE-2014-7912 ()
+> 
+- [vaginessa/cve-2014-7912](https://github.com/vaginessa/cve-2014-7912)	<img alt="forks" src="https://img.shields.io/github/forks/vaginessa/cve-2014-7912">	<img alt="stars" src="https://img.shields.io/github/stars/vaginessa/cve-2014-7912">
+
+---
+## CVE-2014-7911 ()
+> 
+- [retme7/CVE-2014-7911_poc](https://github.com/retme7/CVE-2014-7911_poc)	<img alt="forks" src="https://img.shields.io/github/forks/retme7/CVE-2014-7911_poc">	<img alt="stars" src="https://img.shields.io/github/stars/retme7/CVE-2014-7911_poc">
+- [ele7enxxh/CVE-2014-7911](https://github.com/ele7enxxh/CVE-2014-7911)	<img alt="forks" src="https://img.shields.io/github/forks/ele7enxxh/CVE-2014-7911">	<img alt="stars" src="https://img.shields.io/github/stars/ele7enxxh/CVE-2014-7911">
+- [heeeeen/CVE-2014-7911poc](https://github.com/heeeeen/CVE-2014-7911poc)	<img alt="forks" src="https://img.shields.io/github/forks/heeeeen/CVE-2014-7911poc">	<img alt="stars" src="https://img.shields.io/github/stars/heeeeen/CVE-2014-7911poc">
+- [GeneBlue/cve-2014-7911-exp](https://github.com/GeneBlue/cve-2014-7911-exp)	<img alt="forks" src="https://img.shields.io/github/forks/GeneBlue/cve-2014-7911-exp">	<img alt="stars" src="https://img.shields.io/github/stars/GeneBlue/cve-2014-7911-exp">
+- [koozxcv/CVE-2014-7911](https://github.com/koozxcv/CVE-2014-7911)	<img alt="forks" src="https://img.shields.io/github/forks/koozxcv/CVE-2014-7911">	<img alt="stars" src="https://img.shields.io/github/stars/koozxcv/CVE-2014-7911">
+- [koozxcv/CVE-2014-7911-CVE-2014-4322_get_root_privilege](https://github.com/koozxcv/CVE-2014-7911-CVE-2014-4322_get_root_privilege)	<img alt="forks" src="https://img.shields.io/github/forks/koozxcv/CVE-2014-7911-CVE-2014-4322_get_root_privilege">	<img alt="stars" src="https://img.shields.io/github/stars/koozxcv/CVE-2014-7911-CVE-2014-4322_get_root_privilege">
+
+---
 ## CVE-2014-7816 ()
 > 
 - [shoucheng3/undertow-io__undertow_CVE-2014-7816_1-0-16-Final](https://github.com/shoucheng3/undertow-io__undertow_CVE-2014-7816_1-0-16-Final)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/undertow-io__undertow_CVE-2014-7816_1-0-16-Final">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/undertow-io__undertow_CVE-2014-7816_1-0-16-Final">
 - [andikahilmy/CVE-2014-7816-undertow-vulnerable](https://github.com/andikahilmy/CVE-2014-7816-undertow-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2014-7816-undertow-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2014-7816-undertow-vulnerable">
+
+---
+## CVE-2014-7236 ()
+> 
+- [m0nad/CVE-2014-7236_Exploit](https://github.com/m0nad/CVE-2014-7236_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/m0nad/CVE-2014-7236_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/m0nad/CVE-2014-7236_Exploit">
+
+---
+## CVE-2014-7205 ()
+> 
+- [maximilianmarx/bassmaster-rce](https://github.com/maximilianmarx/bassmaster-rce)	<img alt="forks" src="https://img.shields.io/github/forks/maximilianmarx/bassmaster-rce">	<img alt="stars" src="https://img.shields.io/github/stars/maximilianmarx/bassmaster-rce">
+- [AndrewTrube/CVE-2014-7205](https://github.com/AndrewTrube/CVE-2014-7205)	<img alt="forks" src="https://img.shields.io/github/forks/AndrewTrube/CVE-2014-7205">	<img alt="stars" src="https://img.shields.io/github/stars/AndrewTrube/CVE-2014-7205">
+
+---
+## CVE-2014-7169 ()
+> 
+- [chef-boneyard/bash-shellshock](https://github.com/chef-boneyard/bash-shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/chef-boneyard/bash-shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/chef-boneyard/bash-shellshock">
+- [gina-alaska/bash-cve-2014-7169-cookbook](https://github.com/gina-alaska/bash-cve-2014-7169-cookbook)	<img alt="forks" src="https://img.shields.io/github/forks/gina-alaska/bash-cve-2014-7169-cookbook">	<img alt="stars" src="https://img.shields.io/github/stars/gina-alaska/bash-cve-2014-7169-cookbook">
+- [Gobinath-B/SHELL-SCHOCK](https://github.com/Gobinath-B/SHELL-SCHOCK)	<img alt="forks" src="https://img.shields.io/github/forks/Gobinath-B/SHELL-SCHOCK">	<img alt="stars" src="https://img.shields.io/github/stars/Gobinath-B/SHELL-SCHOCK">
 
 ---
 ## CVE-2014-7145 (2014-09-28T10:55:00)
@@ -61,6 +179,16 @@
 ## CVE-2014-6721 (2014-09-26T10:55:00)
 > The Pharmaguideline (aka com.pharmaguideline) application 1.2.0 for Android does not verify X.509 certificates from SSL servers, which allows man-in-the-middle attackers to spoof servers and obtain sensitive information via a crafted certificate.
 - [sagisar1/CVE-2014-6721-exploit-Shellshock](https://github.com/sagisar1/CVE-2014-6721-exploit-Shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/sagisar1/CVE-2014-6721-exploit-Shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/sagisar1/CVE-2014-6721-exploit-Shellshock">
+
+---
+## CVE-2014-6598 ()
+> 
+- [KPN-CISO/DRA_writeup](https://github.com/KPN-CISO/DRA_writeup)	<img alt="forks" src="https://img.shields.io/github/forks/KPN-CISO/DRA_writeup">	<img alt="stars" src="https://img.shields.io/github/stars/KPN-CISO/DRA_writeup">
+
+---
+## CVE-2014-6577 ()
+> 
+- [SecurityArtWork/oracle-xxe-sqli](https://github.com/SecurityArtWork/oracle-xxe-sqli)	<img alt="forks" src="https://img.shields.io/github/forks/SecurityArtWork/oracle-xxe-sqli">	<img alt="stars" src="https://img.shields.io/github/stars/SecurityArtWork/oracle-xxe-sqli">
 
 ---
 ## CVE-2014-6568 (2015-01-21T15:28:00)
@@ -83,6 +211,13 @@
 - [Live-Hack-CVE/CVE-2014-6416](https://github.com/Live-Hack-CVE/CVE-2014-6416)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-6416">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-6416">
 
 ---
+## CVE-2014-6332 ()
+> 
+- [MarkoArmitage/metasploit-framework](https://github.com/MarkoArmitage/metasploit-framework)	<img alt="forks" src="https://img.shields.io/github/forks/MarkoArmitage/metasploit-framework">	<img alt="stars" src="https://img.shields.io/github/stars/MarkoArmitage/metasploit-framework">
+- [tjjh89017/cve-2014-6332](https://github.com/tjjh89017/cve-2014-6332)	<img alt="forks" src="https://img.shields.io/github/forks/tjjh89017/cve-2014-6332">	<img alt="stars" src="https://img.shields.io/github/stars/tjjh89017/cve-2014-6332">
+- [mourr/CVE-2014-6332](https://github.com/mourr/CVE-2014-6332)	<img alt="forks" src="https://img.shields.io/github/forks/mourr/CVE-2014-6332">	<img alt="stars" src="https://img.shields.io/github/stars/mourr/CVE-2014-6332">
+
+---
 ## CVE-2014-6287 (2014-10-07T10:55:00)
 > The findMacroMarker function in parserLib.pas in Rejetto HTTP File Server (aks HFS or HttpFileServer) 2.3x before 2.3c allows remote attackers to execute arbitrary programs via a %00 sequence in a search action.
 - [0xTabun/CVE-2014-6287](https://github.com/0xTabun/CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/0xTabun/CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/0xTabun/CVE-2014-6287">
@@ -101,6 +236,7 @@
 - [nika0x38/CVE-2014-6287](https://github.com/nika0x38/CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/nika0x38/CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/nika0x38/CVE-2014-6287">
 - [JoaZ94/rejjeto_hfs-rce-exploit-cve-2014-6287](https://github.com/JoaZ94/rejjeto_hfs-rce-exploit-cve-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/JoaZ94/rejjeto_hfs-rce-exploit-cve-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/JoaZ94/rejjeto_hfs-rce-exploit-cve-2014-6287">
 - [jagg3rsec/CVE-2014-6287](https://github.com/jagg3rsec/CVE-2014-6287)	<img alt="forks" src="https://img.shields.io/github/forks/jagg3rsec/CVE-2014-6287">	<img alt="stars" src="https://img.shields.io/github/stars/jagg3rsec/CVE-2014-6287">
+- [R3fr4kt/Optimum](https://github.com/R3fr4kt/Optimum)	<img alt="forks" src="https://img.shields.io/github/forks/R3fr4kt/Optimum">	<img alt="stars" src="https://img.shields.io/github/stars/R3fr4kt/Optimum">
 
 ---
 ## CVE-2014-6271 (2014-09-24T18:48:00)
@@ -170,11 +306,61 @@
 - [0xAshwesker/CVE-2014-6271](https://github.com/0xAshwesker/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2014-6271">
 - [kaleth4/-CVE-2014-6271](https://github.com/kaleth4/-CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/-CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/-CVE-2014-6271">
 - [kaleth4/CVE-2014-6271](https://github.com/kaleth4/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2014-6271">
+- [dlitz/bash-cve-2014-6271-fixes](https://github.com/dlitz/bash-cve-2014-6271-fixes)	<img alt="forks" src="https://img.shields.io/github/forks/dlitz/bash-cve-2014-6271-fixes">	<img alt="stars" src="https://img.shields.io/github/stars/dlitz/bash-cve-2014-6271-fixes">
+- [npm/ansible-bashpocalypse](https://github.com/npm/ansible-bashpocalypse)	<img alt="forks" src="https://img.shields.io/github/forks/npm/ansible-bashpocalypse">	<img alt="stars" src="https://img.shields.io/github/stars/npm/ansible-bashpocalypse">
+- [ryancnelson/patched-bash-4.3](https://github.com/ryancnelson/patched-bash-4.3)	<img alt="forks" src="https://img.shields.io/github/forks/ryancnelson/patched-bash-4.3">	<img alt="stars" src="https://img.shields.io/github/stars/ryancnelson/patched-bash-4.3">
+- [jblaine/cookbook-bash-CVE-2014-6271](https://github.com/jblaine/cookbook-bash-CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/jblaine/cookbook-bash-CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/jblaine/cookbook-bash-CVE-2014-6271">
+- [rrreeeyyy/cve-2014-6271-spec](https://github.com/rrreeeyyy/cve-2014-6271-spec)	<img alt="forks" src="https://img.shields.io/github/forks/rrreeeyyy/cve-2014-6271-spec">	<img alt="stars" src="https://img.shields.io/github/stars/rrreeeyyy/cve-2014-6271-spec">
+- [scottjpack/shellshock_scanner](https://github.com/scottjpack/shellshock_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/scottjpack/shellshock_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/scottjpack/shellshock_scanner">
+- [Anklebiter87/Cgi-bin_bash_Reverse](https://github.com/Anklebiter87/Cgi-bin_bash_Reverse)	<img alt="forks" src="https://img.shields.io/github/forks/Anklebiter87/Cgi-bin_bash_Reverse">	<img alt="stars" src="https://img.shields.io/github/stars/Anklebiter87/Cgi-bin_bash_Reverse">
+- [justzx2011/bash-up](https://github.com/justzx2011/bash-up)	<img alt="forks" src="https://img.shields.io/github/forks/justzx2011/bash-up">	<img alt="stars" src="https://img.shields.io/github/stars/justzx2011/bash-up">
+- [mattclegg/CVE-2014-6271](https://github.com/mattclegg/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/mattclegg/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/mattclegg/CVE-2014-6271">
+- [ilismal/Nessus_CVE-2014-6271_check](https://github.com/ilismal/Nessus_CVE-2014-6271_check)	<img alt="forks" src="https://img.shields.io/github/forks/ilismal/Nessus_CVE-2014-6271_check">	<img alt="stars" src="https://img.shields.io/github/stars/ilismal/Nessus_CVE-2014-6271_check">
+- [RainMak3r/Rainstorm](https://github.com/RainMak3r/Rainstorm)	<img alt="forks" src="https://img.shields.io/github/forks/RainMak3r/Rainstorm">	<img alt="stars" src="https://img.shields.io/github/stars/RainMak3r/Rainstorm">
+- [gabemarshall/shocknaww](https://github.com/gabemarshall/shocknaww)	<img alt="forks" src="https://img.shields.io/github/forks/gabemarshall/shocknaww">	<img alt="stars" src="https://img.shields.io/github/stars/gabemarshall/shocknaww">
+- [woltage/CVE-2014-6271](https://github.com/woltage/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/woltage/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/woltage/CVE-2014-6271">
+- [ariarijp/vagrant-shellshock](https://github.com/ariarijp/vagrant-shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/ariarijp/vagrant-shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/ariarijp/vagrant-shellshock">
+- [themson/shellshock](https://github.com/themson/shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/themson/shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/themson/shellshock">
+- [securusglobal/BadBash](https://github.com/securusglobal/BadBash)	<img alt="forks" src="https://img.shields.io/github/forks/securusglobal/BadBash">	<img alt="stars" src="https://img.shields.io/github/stars/securusglobal/BadBash">
+- [villadora/CVE-2014-6271](https://github.com/villadora/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/villadora/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/villadora/CVE-2014-6271">
+- [APSL/salt-shellshock](https://github.com/APSL/salt-shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/APSL/salt-shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/APSL/salt-shellshock">
+- [teedeedubya/bash-fix-exploit](https://github.com/teedeedubya/bash-fix-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/teedeedubya/bash-fix-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/teedeedubya/bash-fix-exploit">
+- [internero/debian-lenny-bash_3.2.52-cve-2014-6271](https://github.com/internero/debian-lenny-bash_3.2.52-cve-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/internero/debian-lenny-bash_3.2.52-cve-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/internero/debian-lenny-bash_3.2.52-cve-2014-6271">
+- [u20024804/bash-3.2-fixed-CVE-2014-6271](https://github.com/u20024804/bash-3.2-fixed-CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/u20024804/bash-3.2-fixed-CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/u20024804/bash-3.2-fixed-CVE-2014-6271">
+- [u20024804/bash-4.2-fixed-CVE-2014-6271](https://github.com/u20024804/bash-4.2-fixed-CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/u20024804/bash-4.2-fixed-CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/u20024804/bash-4.2-fixed-CVE-2014-6271">
+- [u20024804/bash-4.3-fixed-CVE-2014-6271](https://github.com/u20024804/bash-4.3-fixed-CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/u20024804/bash-4.3-fixed-CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/u20024804/bash-4.3-fixed-CVE-2014-6271">
+- [francisck/shellshock-cgi](https://github.com/francisck/shellshock-cgi)	<img alt="forks" src="https://img.shields.io/github/forks/francisck/shellshock-cgi">	<img alt="stars" src="https://img.shields.io/github/stars/francisck/shellshock-cgi">
+- [proclnas/ShellShock-CGI-Scan](https://github.com/proclnas/ShellShock-CGI-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/proclnas/ShellShock-CGI-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/proclnas/ShellShock-CGI-Scan">
+- [sch3m4/RIS](https://github.com/sch3m4/RIS)	<img alt="forks" src="https://img.shields.io/github/forks/sch3m4/RIS">	<img alt="stars" src="https://img.shields.io/github/stars/sch3m4/RIS">
+- [ryeyao/CVE-2014-6271_Test](https://github.com/ryeyao/CVE-2014-6271_Test)	<img alt="forks" src="https://img.shields.io/github/forks/ryeyao/CVE-2014-6271_Test">	<img alt="stars" src="https://img.shields.io/github/stars/ryeyao/CVE-2014-6271_Test">
+- [cj1324/CGIShell](https://github.com/cj1324/CGIShell)	<img alt="forks" src="https://img.shields.io/github/forks/cj1324/CGIShell">	<img alt="stars" src="https://img.shields.io/github/stars/cj1324/CGIShell">
+- [renanvicente/puppet-shellshock](https://github.com/renanvicente/puppet-shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/renanvicente/puppet-shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/renanvicente/puppet-shellshock">
+- [ramnes/pyshellshock](https://github.com/ramnes/pyshellshock)	<img alt="forks" src="https://img.shields.io/github/forks/ramnes/pyshellshock">	<img alt="stars" src="https://img.shields.io/github/stars/ramnes/pyshellshock">
+- [akiraaisha/shellshocker-python](https://github.com/akiraaisha/shellshocker-python)	<img alt="forks" src="https://img.shields.io/github/forks/akiraaisha/shellshocker-python">	<img alt="stars" src="https://img.shields.io/github/stars/akiraaisha/shellshocker-python">
+- [352926/shellshock_crawler](https://github.com/352926/shellshock_crawler)	<img alt="forks" src="https://img.shields.io/github/forks/352926/shellshock_crawler">	<img alt="stars" src="https://img.shields.io/github/stars/352926/shellshock_crawler">
+- [kelleykong/cve-2014-6271-mengjia-kong](https://github.com/kelleykong/cve-2014-6271-mengjia-kong)	<img alt="forks" src="https://img.shields.io/github/forks/kelleykong/cve-2014-6271-mengjia-kong">	<img alt="stars" src="https://img.shields.io/github/stars/kelleykong/cve-2014-6271-mengjia-kong">
+- [huanlu/cve-2014-6271-huan-lu](https://github.com/huanlu/cve-2014-6271-huan-lu)	<img alt="forks" src="https://img.shields.io/github/forks/huanlu/cve-2014-6271-huan-lu">	<img alt="stars" src="https://img.shields.io/github/stars/huanlu/cve-2014-6271-huan-lu">
+- [sunnyjiang/shellshocker-android](https://github.com/sunnyjiang/shellshocker-android)	<img alt="forks" src="https://img.shields.io/github/forks/sunnyjiang/shellshocker-android">	<img alt="stars" src="https://img.shields.io/github/stars/sunnyjiang/shellshocker-android">
+- [P0cL4bs/ShellShock-CGI-Scan](https://github.com/P0cL4bs/ShellShock-CGI-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/P0cL4bs/ShellShock-CGI-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/P0cL4bs/ShellShock-CGI-Scan">
+- [Pilou-Pilou/docker_CVE-2014-6271.](https://github.com/Pilou-Pilou/docker_CVE-2014-6271.)	<img alt="forks" src="https://img.shields.io/github/forks/Pilou-Pilou/docker_CVE-2014-6271.">	<img alt="stars" src="https://img.shields.io/github/stars/Pilou-Pilou/docker_CVE-2014-6271.">
+- [zalalov/CVE-2014-6271](https://github.com/zalalov/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/zalalov/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/zalalov/CVE-2014-6271">
+- [heikipikker/shellshock-shell](https://github.com/heikipikker/shellshock-shell)	<img alt="forks" src="https://img.shields.io/github/forks/heikipikker/shellshock-shell">	<img alt="stars" src="https://img.shields.io/github/stars/heikipikker/shellshock-shell">
+- [ambjlou/it355-lab4-enterprise-lan-security](https://github.com/ambjlou/it355-lab4-enterprise-lan-security)	<img alt="forks" src="https://img.shields.io/github/forks/ambjlou/it355-lab4-enterprise-lan-security">	<img alt="stars" src="https://img.shields.io/github/stars/ambjlou/it355-lab4-enterprise-lan-security">
+- [V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection](https://github.com/V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection)	<img alt="forks" src="https://img.shields.io/github/forks/V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection">	<img alt="stars" src="https://img.shields.io/github/stars/V3nG4mxV1p3r/Mobile-Drop-Device-SOC-Detection">
+- [im2sinister/CVE-2014-6271](https://github.com/im2sinister/CVE-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/im2sinister/CVE-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/im2sinister/CVE-2014-6271">
+- [HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor](https://github.com/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor)	<img alt="forks" src="https://img.shields.io/github/forks/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor">	<img alt="stars" src="https://img.shields.io/github/stars/HevenTafese/Penetration-Testing-Walkthrough-Hacksudo-Thor">
+- [FacundoMfernandez/pentesting-obioba](https://github.com/FacundoMfernandez/pentesting-obioba)	<img alt="forks" src="https://img.shields.io/github/forks/FacundoMfernandez/pentesting-obioba">	<img alt="stars" src="https://img.shields.io/github/stars/FacundoMfernandez/pentesting-obioba">
+- [R3fr4kt/Shocker-TJNULL-OSCP-](https://github.com/R3fr4kt/Shocker-TJNULL-OSCP-)	<img alt="forks" src="https://img.shields.io/github/forks/R3fr4kt/Shocker-TJNULL-OSCP-">	<img alt="stars" src="https://img.shields.io/github/stars/R3fr4kt/Shocker-TJNULL-OSCP-">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
 > WP-Ban plugin before 1.6.4 for WordPress, when running in certain configurations, allows remote attackers to bypass the IP blacklist via a crafted X-Forwarded-For header.
 - [Live-Hack-CVE/CVE-2014-6230](https://github.com/Live-Hack-CVE/CVE-2014-6230)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-6230">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-6230">
+
+---
+## CVE-2014-62 ()
+> 
+- [sage954526/HFS_EXPLOIT_PROJECT](https://github.com/sage954526/HFS_EXPLOIT_PROJECT)	<img alt="forks" src="https://img.shields.io/github/forks/sage954526/HFS_EXPLOIT_PROJECT">	<img alt="stars" src="https://img.shields.io/github/stars/sage954526/HFS_EXPLOIT_PROJECT">
 
 ---
 ## CVE-2014-6195 (2015-02-14T02:59:00)
@@ -185,6 +371,11 @@
 ## CVE-2014-5460 (2014-09-11T15:55:00)
 > Unrestricted file upload vulnerability in the Tribulant Slideshow Gallery plugin before 1.4.7 for WordPress allows remote authenticated users to execute arbitrary code by uploading a PHP file, then accessing it via a direct request to the file in wp-content/uploads/slideshow-gallery/.
 - [brookeses69/CVE-2014-5460](https://github.com/brookeses69/CVE-2014-5460)	<img alt="forks" src="https://img.shields.io/github/forks/brookeses69/CVE-2014-5460">	<img alt="stars" src="https://img.shields.io/github/stars/brookeses69/CVE-2014-5460">
+
+---
+## CVE-2014-5284 ()
+> 
+- [mbadanoiu/CVE-2014-5284](https://github.com/mbadanoiu/CVE-2014-5284)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2014-5284">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2014-5284">
 
 ---
 ## CVE-2014-5139 (2014-08-13T23:55:00)
@@ -201,6 +392,16 @@
 ## CVE-2014-4982 (2020-01-10T13:15:00)
 > LPAR2RRD ? 4.53 and ? 3.5 has arbitrary command injection on the application server.
 - [Live-Hack-CVE/CVE-2014-4982](https://github.com/Live-Hack-CVE/CVE-2014-4982)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4982">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4982">
+
+---
+## CVE-2014-4943 ()
+> 
+- [redes-2015/l2tp-socket-bug](https://github.com/redes-2015/l2tp-socket-bug)	<img alt="forks" src="https://img.shields.io/github/forks/redes-2015/l2tp-socket-bug">	<img alt="stars" src="https://img.shields.io/github/stars/redes-2015/l2tp-socket-bug">
+
+---
+## CVE-2014-4936 ()
+> 
+- [0x3a/CVE-2014-4936](https://github.com/0x3a/CVE-2014-4936)	<img alt="forks" src="https://img.shields.io/github/forks/0x3a/CVE-2014-4936">	<img alt="stars" src="https://img.shields.io/github/stars/0x3a/CVE-2014-4936">
 
 ---
 ## CVE-2014-4726 ()
@@ -221,6 +422,11 @@
 - [Live-Hack-CVE/CVE-2014-4717](https://github.com/Live-Hack-CVE/CVE-2014-4717)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4717">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4717">
 
 ---
+## CVE-2014-4699 ()
+> 
+- [vnik5287/cve-2014-4699-ptrace](https://github.com/vnik5287/cve-2014-4699-ptrace)	<img alt="forks" src="https://img.shields.io/github/forks/vnik5287/cve-2014-4699-ptrace">	<img alt="stars" src="https://img.shields.io/github/stars/vnik5287/cve-2014-4699-ptrace">
+
+---
 ## CVE-2014-4698 (2014-07-10T11:06:00)
 > Use-after-free vulnerability in ext/spl/spl_array.c in the SPL component in PHP through 5.5.14 allows context-dependent attackers to cause a denial of service or possibly have unspecified other impact via crafted ArrayIterator usage within applications in certain web-hosting environments.
 - [Live-Hack-CVE/CVE-2014-4698](https://github.com/Live-Hack-CVE/CVE-2014-4698)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4698">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4698">
@@ -233,6 +439,50 @@
 - [jaydenblair/CVE-2014-4688-pfsense](https://github.com/jaydenblair/CVE-2014-4688-pfsense)	<img alt="forks" src="https://img.shields.io/github/forks/jaydenblair/CVE-2014-4688-pfsense">	<img alt="stars" src="https://img.shields.io/github/stars/jaydenblair/CVE-2014-4688-pfsense">
 
 ---
+## CVE-2014-4671 ()
+> 
+- [cph/rabl-old](https://github.com/cph/rabl-old)	<img alt="forks" src="https://img.shields.io/github/forks/cph/rabl-old">	<img alt="stars" src="https://img.shields.io/github/stars/cph/rabl-old">
+
+---
+## CVE-2014-4511 ()
+> 
+- [michaelsss1/gitlist-RCE](https://github.com/michaelsss1/gitlist-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/michaelsss1/gitlist-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/michaelsss1/gitlist-RCE">
+
+---
+## CVE-2014-4481 ()
+> 
+- [feliam/CVE-2014-4481](https://github.com/feliam/CVE-2014-4481)	<img alt="forks" src="https://img.shields.io/github/forks/feliam/CVE-2014-4481">	<img alt="stars" src="https://img.shields.io/github/stars/feliam/CVE-2014-4481">
+
+---
+## CVE-2014-4378 ()
+> 
+- [feliam/CVE-2014-4378](https://github.com/feliam/CVE-2014-4378)	<img alt="forks" src="https://img.shields.io/github/forks/feliam/CVE-2014-4378">	<img alt="stars" src="https://img.shields.io/github/stars/feliam/CVE-2014-4378">
+
+---
+## CVE-2014-4377 ()
+> 
+- [feliam/CVE-2014-4377](https://github.com/feliam/CVE-2014-4377)	<img alt="forks" src="https://img.shields.io/github/forks/feliam/CVE-2014-4377">	<img alt="stars" src="https://img.shields.io/github/stars/feliam/CVE-2014-4377">
+- [davidmurray/CVE-2014-4377](https://github.com/davidmurray/CVE-2014-4377)	<img alt="forks" src="https://img.shields.io/github/forks/davidmurray/CVE-2014-4377">	<img alt="stars" src="https://img.shields.io/github/stars/davidmurray/CVE-2014-4377">
+
+---
+## CVE-2014-4323 ()
+> 
+- [marcograss/cve-2014-4323](https://github.com/marcograss/cve-2014-4323)	<img alt="forks" src="https://img.shields.io/github/forks/marcograss/cve-2014-4323">	<img alt="stars" src="https://img.shields.io/github/stars/marcograss/cve-2014-4323">
+
+---
+## CVE-2014-4322 ()
+> 
+- [retme7/CVE-2014-4322_poc](https://github.com/retme7/CVE-2014-4322_poc)	<img alt="forks" src="https://img.shields.io/github/forks/retme7/CVE-2014-4322_poc">	<img alt="stars" src="https://img.shields.io/github/stars/retme7/CVE-2014-4322_poc">
+- [laginimaineb/cve-2014-4322](https://github.com/laginimaineb/cve-2014-4322)	<img alt="forks" src="https://img.shields.io/github/forks/laginimaineb/cve-2014-4322">	<img alt="stars" src="https://img.shields.io/github/stars/laginimaineb/cve-2014-4322">
+- [askk/CVE-2014-4322_adaptation](https://github.com/askk/CVE-2014-4322_adaptation)	<img alt="forks" src="https://img.shields.io/github/forks/askk/CVE-2014-4322_adaptation">	<img alt="stars" src="https://img.shields.io/github/stars/askk/CVE-2014-4322_adaptation">
+- [koozxcv/CVE-2014-4322](https://github.com/koozxcv/CVE-2014-4322)	<img alt="forks" src="https://img.shields.io/github/forks/koozxcv/CVE-2014-4322">	<img alt="stars" src="https://img.shields.io/github/stars/koozxcv/CVE-2014-4322">
+
+---
+## CVE-2014-4321 ()
+> 
+- [android-rooting-tools/libmsm_vfe_read_exploit](https://github.com/android-rooting-tools/libmsm_vfe_read_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/android-rooting-tools/libmsm_vfe_read_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/android-rooting-tools/libmsm_vfe_read_exploit">
+
+---
 ## CVE-2014-4210 ()
 > 
 - [ZorvithonLeo/Exploit-CVE-2014-4210-](https://github.com/ZorvithonLeo/Exploit-CVE-2014-4210-)	<img alt="forks" src="https://img.shields.io/github/forks/ZorvithonLeo/Exploit-CVE-2014-4210-">	<img alt="stars" src="https://img.shields.io/github/stars/ZorvithonLeo/Exploit-CVE-2014-4210-">
@@ -242,14 +492,47 @@
 - [NoneNotNull/SSRFX](https://github.com/NoneNotNull/SSRFX)	<img alt="forks" src="https://img.shields.io/github/forks/NoneNotNull/SSRFX">	<img alt="stars" src="https://img.shields.io/github/stars/NoneNotNull/SSRFX">
 
 ---
+## CVE-2014-4140 ()
+> 
+- [day6reak/CVE-2014-4140](https://github.com/day6reak/CVE-2014-4140)	<img alt="forks" src="https://img.shields.io/github/forks/day6reak/CVE-2014-4140">	<img alt="stars" src="https://img.shields.io/github/stars/day6reak/CVE-2014-4140">
+
+---
+## CVE-2014-4114 ()
+> 
+- [gousseine-systems/vuln-rabilit-windows7](https://github.com/gousseine-systems/vuln-rabilit-windows7)	<img alt="forks" src="https://img.shields.io/github/forks/gousseine-systems/vuln-rabilit-windows7">	<img alt="stars" src="https://img.shields.io/github/stars/gousseine-systems/vuln-rabilit-windows7">
+
+---
+## CVE-2014-4113 ()
+> 
+- [johnjohnsp1/CVE-2014-4113](https://github.com/johnjohnsp1/CVE-2014-4113)	<img alt="forks" src="https://img.shields.io/github/forks/johnjohnsp1/CVE-2014-4113">	<img alt="stars" src="https://img.shields.io/github/stars/johnjohnsp1/CVE-2014-4113">
+- [nsxz/Exploit-CVE-2014-4113](https://github.com/nsxz/Exploit-CVE-2014-4113)	<img alt="forks" src="https://img.shields.io/github/forks/nsxz/Exploit-CVE-2014-4113">	<img alt="stars" src="https://img.shields.io/github/stars/nsxz/Exploit-CVE-2014-4113">
+- [sam-b/CVE-2014-4113](https://github.com/sam-b/CVE-2014-4113)	<img alt="forks" src="https://img.shields.io/github/forks/sam-b/CVE-2014-4113">	<img alt="stars" src="https://img.shields.io/github/stars/sam-b/CVE-2014-4113">
+- [wikiZ/cve-2014-4113](https://github.com/wikiZ/cve-2014-4113)	<img alt="forks" src="https://img.shields.io/github/forks/wikiZ/cve-2014-4113">	<img alt="stars" src="https://img.shields.io/github/stars/wikiZ/cve-2014-4113">
+
+---
+## CVE-2014-4109 ()
+> 
+- [day6reak/CVE-2014-4109](https://github.com/day6reak/CVE-2014-4109)	<img alt="forks" src="https://img.shields.io/github/forks/day6reak/CVE-2014-4109">	<img alt="stars" src="https://img.shields.io/github/stars/day6reak/CVE-2014-4109">
+
+---
 ## CVE-2014-4078 (2014-11-11T22:55:00)
 > The IP Security feature in Microsoft Internet Information Services (IIS) 8.0 and 8.5 does not properly process wildcard allow and deny rules for domains within the "IP Address and Domain Restrictions" list, which makes it easier for remote attackers to bypass an intended rule set via an HTTP request, aka "IIS Security Feature Bypass Vulnerability."
 - [AleMizandari/-CVE-2014-4078](https://github.com/AleMizandari/-CVE-2014-4078)	<img alt="forks" src="https://img.shields.io/github/forks/AleMizandari/-CVE-2014-4078">	<img alt="stars" src="https://img.shields.io/github/stars/AleMizandari/-CVE-2014-4078">
 
 ---
+## CVE-2014-4076 ()
+> 
+- [fungoshacks/CVE-2014-4076](https://github.com/fungoshacks/CVE-2014-4076)	<img alt="forks" src="https://img.shields.io/github/forks/fungoshacks/CVE-2014-4076">	<img alt="stars" src="https://img.shields.io/github/stars/fungoshacks/CVE-2014-4076">
+
+---
 ## CVE-2014-4049 (2014-06-18T19:55:00)
 > Heap-based buffer overflow in the php_parserr function in ext/standard/dns.c in PHP 5.6.0beta4 and earlier allows remote servers to cause a denial of service (crash) and possibly execute arbitrary code via a crafted DNS TXT record, related to the dns_get_record function.
 - [Live-Hack-CVE/CVE-2014-4049](https://github.com/Live-Hack-CVE/CVE-2014-4049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-4049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-4049">
+
+---
+## CVE-2014-4014 ()
+> 
+- [vnik5287/cve-2014-4014-privesc](https://github.com/vnik5287/cve-2014-4014-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/vnik5287/cve-2014-4014-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/vnik5287/cve-2014-4014-privesc">
 
 ---
 ## CVE-2014-3981 (2014-06-08T18:55:00)
@@ -268,12 +551,19 @@
 - [Neldeborg/Drupalgeddon-Python3](https://github.com/Neldeborg/Drupalgeddon-Python3)	<img alt="forks" src="https://img.shields.io/github/forks/Neldeborg/Drupalgeddon-Python3">	<img alt="stars" src="https://img.shields.io/github/stars/Neldeborg/Drupalgeddon-Python3">
 - [AleDiBen/Drupalgeddon](https://github.com/AleDiBen/Drupalgeddon)	<img alt="forks" src="https://img.shields.io/github/forks/AleDiBen/Drupalgeddon">	<img alt="stars" src="https://img.shields.io/github/stars/AleDiBen/Drupalgeddon">
 - [happynote3966/CVE-2014-3704](https://github.com/happynote3966/CVE-2014-3704)	<img alt="forks" src="https://img.shields.io/github/forks/happynote3966/CVE-2014-3704">	<img alt="stars" src="https://img.shields.io/github/stars/happynote3966/CVE-2014-3704">
+- [fbm31/Audit-BlackBox-Web-to-Root](https://github.com/fbm31/Audit-BlackBox-Web-to-Root)	<img alt="forks" src="https://img.shields.io/github/forks/fbm31/Audit-BlackBox-Web-to-Root">	<img alt="stars" src="https://img.shields.io/github/stars/fbm31/Audit-BlackBox-Web-to-Root">
 
 ---
 ## CVE-2014-3656 ()
 > 
 - [shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final](https://github.com/shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final">
 - [shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final](https://github.com/shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final">
+
+---
+## CVE-2014-3625 ()
+> 
+- [ilmila/springcss-cve-2014-3625](https://github.com/ilmila/springcss-cve-2014-3625)	<img alt="forks" src="https://img.shields.io/github/forks/ilmila/springcss-cve-2014-3625">	<img alt="stars" src="https://img.shields.io/github/stars/ilmila/springcss-cve-2014-3625">
+- [gforresu/SpringPathTraversal](https://github.com/gforresu/SpringPathTraversal)	<img alt="forks" src="https://img.shields.io/github/forks/gforresu/SpringPathTraversal">	<img alt="stars" src="https://img.shields.io/github/stars/gforresu/SpringPathTraversal">
 
 ---
 ## CVE-2014-3576 ()
@@ -307,6 +597,20 @@
 - [cloudpassage/mangy-beast](https://github.com/cloudpassage/mangy-beast)	<img alt="forks" src="https://img.shields.io/github/forks/cloudpassage/mangy-beast">	<img alt="stars" src="https://img.shields.io/github/stars/cloudpassage/mangy-beast">
 - [stdevel/poodle_protector](https://github.com/stdevel/poodle_protector)	<img alt="forks" src="https://img.shields.io/github/forks/stdevel/poodle_protector">	<img alt="stars" src="https://img.shields.io/github/stars/stdevel/poodle_protector">
 - [mikesplain/CVE-2014-3566-poodle-cookbook](https://github.com/mikesplain/CVE-2014-3566-poodle-cookbook)	<img alt="forks" src="https://img.shields.io/github/forks/mikesplain/CVE-2014-3566-poodle-cookbook">	<img alt="stars" src="https://img.shields.io/github/stars/mikesplain/CVE-2014-3566-poodle-cookbook">
+- [GoRuGoo/poodle-attack-sandbox](https://github.com/GoRuGoo/poodle-attack-sandbox)	<img alt="forks" src="https://img.shields.io/github/forks/GoRuGoo/poodle-attack-sandbox">	<img alt="stars" src="https://img.shields.io/github/stars/GoRuGoo/poodle-attack-sandbox">
+- [josecl200/VC-PoodlePOC](https://github.com/josecl200/VC-PoodlePOC)	<img alt="forks" src="https://img.shields.io/github/forks/josecl200/VC-PoodlePOC">	<img alt="stars" src="https://img.shields.io/github/stars/josecl200/VC-PoodlePOC">
+- [jmonge12/Home-Network-Vulnerability-Assessment](https://github.com/jmonge12/Home-Network-Vulnerability-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/jmonge12/Home-Network-Vulnerability-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/jmonge12/Home-Network-Vulnerability-Assessment">
+- [Karma4488/CVE-2014-3566](https://github.com/Karma4488/CVE-2014-3566)	<img alt="forks" src="https://img.shields.io/github/forks/Karma4488/CVE-2014-3566">	<img alt="stars" src="https://img.shields.io/github/stars/Karma4488/CVE-2014-3566">
+
+---
+## CVE-2014-3551 ()
+> 
+- [JavaGarcia/CVE-2014-3551](https://github.com/JavaGarcia/CVE-2014-3551)	<img alt="forks" src="https://img.shields.io/github/forks/JavaGarcia/CVE-2014-3551">	<img alt="stars" src="https://img.shields.io/github/stars/JavaGarcia/CVE-2014-3551">
+
+---
+## CVE-2014-3544 ()
+> 
+- [aforesaid/MoodleHack](https://github.com/aforesaid/MoodleHack)	<img alt="forks" src="https://img.shields.io/github/forks/aforesaid/MoodleHack">	<img alt="stars" src="https://img.shields.io/github/stars/aforesaid/MoodleHack">
 
 ---
 ## CVE-2014-3538 (2014-07-03T14:55:00)
@@ -342,9 +646,19 @@
 - [hshivhare67/OpenSSL_1.0.1g_CVE-2014-3470](https://github.com/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3470)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3470">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3470">
 
 ---
+## CVE-2014-3466 ()
+> 
+- [azet/CVE-2014-3466_PoC](https://github.com/azet/CVE-2014-3466_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/azet/CVE-2014-3466_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/azet/CVE-2014-3466_PoC">
+
+---
 ## CVE-2014-3394 (2014-10-10T10:55:00)
 > The Smart Call Home (SCH) implementation in Cisco ASA Software 8.2 before 8.2(5.50), 8.4 before 8.4(7.15), 8.6 before 8.6(1.14), 8.7 before 8.7(1.13), 9.0 before 9.0(4.8), and 9.1 before 9.1(5.1) allows remote attackers to bypass certificate validation via an arbitrary VeriSign certificate, aka Bug ID CSCun10916.
 - [Live-Hack-CVE/CVE-2014-3394](https://github.com/Live-Hack-CVE/CVE-2014-3394)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3394">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3394">
+
+---
+## CVE-2014-3341 ()
+> 
+- [ehabhussein/snmpvlan](https://github.com/ehabhussein/snmpvlan)	<img alt="forks" src="https://img.shields.io/github/forks/ehabhussein/snmpvlan">	<img alt="stars" src="https://img.shields.io/github/stars/ehabhussein/snmpvlan">
 
 ---
 ## CVE-2014-3206 ()
@@ -357,11 +671,41 @@
 - [Live-Hack-CVE/CVE-2014-3166](https://github.com/Live-Hack-CVE/CVE-2014-3166)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-3166">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-3166">
 
 ---
+## CVE-2014-3153 ()
+> 
+- [timwr/CVE-2014-3153](https://github.com/timwr/CVE-2014-3153)	<img alt="forks" src="https://img.shields.io/github/forks/timwr/CVE-2014-3153">	<img alt="stars" src="https://img.shields.io/github/stars/timwr/CVE-2014-3153">
+- [android-rooting-tools/libfutex_exploit](https://github.com/android-rooting-tools/libfutex_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/android-rooting-tools/libfutex_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/android-rooting-tools/libfutex_exploit">
+- [geekben/towelroot](https://github.com/geekben/towelroot)	<img alt="forks" src="https://img.shields.io/github/forks/geekben/towelroot">	<img alt="stars" src="https://img.shields.io/github/stars/geekben/towelroot">
+- [lieanu/CVE-2014-3153](https://github.com/lieanu/CVE-2014-3153)	<img alt="forks" src="https://img.shields.io/github/forks/lieanu/CVE-2014-3153">	<img alt="stars" src="https://img.shields.io/github/stars/lieanu/CVE-2014-3153">
+- [zerodavinci/CVE-2014-3153-exploit](https://github.com/zerodavinci/CVE-2014-3153-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/zerodavinci/CVE-2014-3153-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/zerodavinci/CVE-2014-3153-exploit">
+- [c3c/CVE-2014-3153](https://github.com/c3c/CVE-2014-3153)	<img alt="forks" src="https://img.shields.io/github/forks/c3c/CVE-2014-3153">	<img alt="stars" src="https://img.shields.io/github/stars/c3c/CVE-2014-3153">
+- [dangtunguyen/TowelRoot](https://github.com/dangtunguyen/TowelRoot)	<img alt="forks" src="https://img.shields.io/github/forks/dangtunguyen/TowelRoot">	<img alt="stars" src="https://img.shields.io/github/stars/dangtunguyen/TowelRoot">
+- [elongl/CVE-2014-3153](https://github.com/elongl/CVE-2014-3153)	<img alt="forks" src="https://img.shields.io/github/forks/elongl/CVE-2014-3153">	<img alt="stars" src="https://img.shields.io/github/stars/elongl/CVE-2014-3153">
+- [c4mx/Linux-kernel-code-injection_CVE-2014-3153](https://github.com/c4mx/Linux-kernel-code-injection_CVE-2014-3153)	<img alt="forks" src="https://img.shields.io/github/forks/c4mx/Linux-kernel-code-injection_CVE-2014-3153">	<img alt="stars" src="https://img.shields.io/github/stars/c4mx/Linux-kernel-code-injection_CVE-2014-3153">
+
+---
 ## CVE-2014-3120 (2014-07-28T19:55:00)
 > The default configuration in Elasticsearch before 1.2 enables dynamic scripting, which allows remote attackers to execute arbitrary MVEL expressions and Java code via the source parameter to _search.  NOTE: this only violates the vendor's intended security policy if the user does not run Elasticsearch in its own independent virtual machine.
 - [xpgdgit/CVE-2014-3120](https://github.com/xpgdgit/CVE-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/xpgdgit/CVE-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/xpgdgit/CVE-2014-3120">
 - [echohtp/ElasticSearch-CVE-2014-3120](https://github.com/echohtp/ElasticSearch-CVE-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/echohtp/ElasticSearch-CVE-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/echohtp/ElasticSearch-CVE-2014-3120">
 - [jeffgeiger/es_inject](https://github.com/jeffgeiger/es_inject)	<img alt="forks" src="https://img.shields.io/github/forks/jeffgeiger/es_inject">	<img alt="stars" src="https://img.shields.io/github/stars/jeffgeiger/es_inject">
+- [Dungsocool/CVE-2014-3120](https://github.com/Dungsocool/CVE-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2014-3120">
+
+---
+## CVE-2014-2815 ()
+> 
+- [Edubr2020/CABTrap_OneNote2007](https://github.com/Edubr2020/CABTrap_OneNote2007)	<img alt="forks" src="https://img.shields.io/github/forks/Edubr2020/CABTrap_OneNote2007">	<img alt="stars" src="https://img.shields.io/github/stars/Edubr2020/CABTrap_OneNote2007">
+
+---
+## CVE-2014-2734 ()
+> 
+- [gdisneyleugers/CVE-2014-2734](https://github.com/gdisneyleugers/CVE-2014-2734)	<img alt="forks" src="https://img.shields.io/github/forks/gdisneyleugers/CVE-2014-2734">	<img alt="stars" src="https://img.shields.io/github/stars/gdisneyleugers/CVE-2014-2734">
+- [adrienthebo/cve-2014-2734](https://github.com/adrienthebo/cve-2014-2734)	<img alt="forks" src="https://img.shields.io/github/forks/adrienthebo/cve-2014-2734">	<img alt="stars" src="https://img.shields.io/github/stars/adrienthebo/cve-2014-2734">
+
+---
+## CVE-2014-2630 ()
+> 
+- [redtimmy/perf-exploiter](https://github.com/redtimmy/perf-exploiter)	<img alt="forks" src="https://img.shields.io/github/forks/redtimmy/perf-exploiter">	<img alt="stars" src="https://img.shields.io/github/stars/redtimmy/perf-exploiter">
 
 ---
 ## CVE-2014-2523 (2014-03-24T16:40:00)
@@ -396,9 +740,45 @@
 - [Relativ3Pa1n/CVE-2014-2383-LFI-to-RCE-Escalation](https://github.com/Relativ3Pa1n/CVE-2014-2383-LFI-to-RCE-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/Relativ3Pa1n/CVE-2014-2383-LFI-to-RCE-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/Relativ3Pa1n/CVE-2014-2383-LFI-to-RCE-Escalation">
 
 ---
+## CVE-2014-2324 ()
+> 
+- [sp4c30x1/uc_httpd_exploit](https://github.com/sp4c30x1/uc_httpd_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/sp4c30x1/uc_httpd_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/sp4c30x1/uc_httpd_exploit">
+
+---
+## CVE-2014-2323 ()
+> 
+- [cirocosta/lighty-sqlinj-demo](https://github.com/cirocosta/lighty-sqlinj-demo)	<img alt="forks" src="https://img.shields.io/github/forks/cirocosta/lighty-sqlinj-demo">	<img alt="stars" src="https://img.shields.io/github/stars/cirocosta/lighty-sqlinj-demo">
+
+---
+## CVE-2014-2321 ()
+> 
+- [injectionmethod/ZTE-Vuln-4-Skids](https://github.com/injectionmethod/ZTE-Vuln-4-Skids)	<img alt="forks" src="https://img.shields.io/github/forks/injectionmethod/ZTE-Vuln-4-Skids">	<img alt="stars" src="https://img.shields.io/github/stars/injectionmethod/ZTE-Vuln-4-Skids">
+- [injectionmethod/Windows-ZTE-Loader](https://github.com/injectionmethod/Windows-ZTE-Loader)	<img alt="forks" src="https://img.shields.io/github/forks/injectionmethod/Windows-ZTE-Loader">	<img alt="stars" src="https://img.shields.io/github/stars/injectionmethod/Windows-ZTE-Loader">
+
+---
 ## CVE-2014-2265 (2014-03-14T10:55:00)
 > Rock Lobster Contact Form 7 before 3.7.2 allows remote attackers to bypass the CAPTCHA protection mechanism and submit arbitrary form data by omitting the _wpcf7_captcha_challenge_captcha-719 parameter.
 - [Live-Hack-CVE/CVE-2014-2265](https://github.com/Live-Hack-CVE/CVE-2014-2265)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-2265">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-2265">
+
+---
+## CVE-2014-2064 ()
+> 
+- [Naramsim/Offensive](https://github.com/Naramsim/Offensive)	<img alt="forks" src="https://img.shields.io/github/forks/Naramsim/Offensive">	<img alt="stars" src="https://img.shields.io/github/stars/Naramsim/Offensive">
+
+---
+## CVE-2014-1812 ()
+> 
+- [mauricelambert/gpp-encrypt](https://github.com/mauricelambert/gpp-encrypt)	<img alt="forks" src="https://img.shields.io/github/forks/mauricelambert/gpp-encrypt">	<img alt="stars" src="https://img.shields.io/github/stars/mauricelambert/gpp-encrypt">
+
+---
+## CVE-2014-1773 ()
+> 
+- [day6reak/CVE-2014-1773](https://github.com/day6reak/CVE-2014-1773)	<img alt="forks" src="https://img.shields.io/github/forks/day6reak/CVE-2014-1773">	<img alt="stars" src="https://img.shields.io/github/stars/day6reak/CVE-2014-1773">
+
+---
+## CVE-2014-1767 ()
+> 
+- [ExploitCN/CVE-2014-1767-EXP-PAPER](https://github.com/ExploitCN/CVE-2014-1767-EXP-PAPER)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitCN/CVE-2014-1767-EXP-PAPER">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitCN/CVE-2014-1767-EXP-PAPER">
 
 ---
 ## CVE-2014-1736 (2014-05-06T10:44:00)
@@ -456,6 +836,27 @@
 - [Live-Hack-CVE/CVE-2014-1705](https://github.com/Live-Hack-CVE/CVE-2014-1705)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-1705">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-1705">
 
 ---
+## CVE-2014-1677 ()
+> 
+- [tihmstar/freePW_tc7200Eploit](https://github.com/tihmstar/freePW_tc7200Eploit)	<img alt="forks" src="https://img.shields.io/github/forks/tihmstar/freePW_tc7200Eploit">	<img alt="stars" src="https://img.shields.io/github/stars/tihmstar/freePW_tc7200Eploit">
+
+---
+## CVE-2014-160 ()
+> 
+- [menrcom/CVE-2014-160](https://github.com/menrcom/CVE-2014-160)	<img alt="forks" src="https://img.shields.io/github/forks/menrcom/CVE-2014-160">	<img alt="stars" src="https://img.shields.io/github/stars/menrcom/CVE-2014-160">
+- [GitMirar/heartbleed_exploit](https://github.com/GitMirar/heartbleed_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/GitMirar/heartbleed_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/GitMirar/heartbleed_exploit">
+
+---
+## CVE-2014-1447 ()
+> 
+- [tagatac/libvirt-CVE-2014-1447](https://github.com/tagatac/libvirt-CVE-2014-1447)	<img alt="forks" src="https://img.shields.io/github/forks/tagatac/libvirt-CVE-2014-1447">	<img alt="stars" src="https://img.shields.io/github/stars/tagatac/libvirt-CVE-2014-1447">
+
+---
+## CVE-2014-1322 ()
+> 
+- [raymondpittman/IPC-Memory-Mac-OSX-Exploit](https://github.com/raymondpittman/IPC-Memory-Mac-OSX-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/raymondpittman/IPC-Memory-Mac-OSX-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/raymondpittman/IPC-Memory-Mac-OSX-Exploit">
+
+---
 ## CVE-2014-1303 ()
 > 
 - [RKX1209/CVE-2014-1303](https://github.com/RKX1209/CVE-2014-1303)	<img alt="forks" src="https://img.shields.io/github/forks/RKX1209/CVE-2014-1303">	<img alt="stars" src="https://img.shields.io/github/stars/RKX1209/CVE-2014-1303">
@@ -467,6 +868,7 @@
 - [gabrielg/CVE-2014-1266-poc](https://github.com/gabrielg/CVE-2014-1266-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gabrielg/CVE-2014-1266-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gabrielg/CVE-2014-1266-poc">
 - [linusyang/SSLPatch](https://github.com/linusyang/SSLPatch)	<img alt="forks" src="https://img.shields.io/github/forks/linusyang/SSLPatch">	<img alt="stars" src="https://img.shields.io/github/stars/linusyang/SSLPatch">
 - [landonf/Testability-CVE-2014-1266](https://github.com/landonf/Testability-CVE-2014-1266)	<img alt="forks" src="https://img.shields.io/github/forks/landonf/Testability-CVE-2014-1266">	<img alt="stars" src="https://img.shields.io/github/stars/landonf/Testability-CVE-2014-1266">
+- [macressler/SSLPatch](https://github.com/macressler/SSLPatch)	<img alt="forks" src="https://img.shields.io/github/forks/macressler/SSLPatch">	<img alt="stars" src="https://img.shields.io/github/stars/macressler/SSLPatch">
 
 ---
 ## CVE-2014-125086 (2023-02-06T04:15:00)
@@ -759,6 +1161,31 @@
 - [Live-Hack-CVE/CVE-2014-125027](https://github.com/Live-Hack-CVE/CVE-2014-125027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125027">
 
 ---
+## CVE-2014-10069 ()
+> 
+- [aimoda/hitron-cfg-decrypter](https://github.com/aimoda/hitron-cfg-decrypter)	<img alt="forks" src="https://img.shields.io/github/forks/aimoda/hitron-cfg-decrypter">	<img alt="stars" src="https://img.shields.io/github/stars/aimoda/hitron-cfg-decrypter">
+
+---
+## CVE-2014-0993 ()
+> 
+- [helpsystems/Embarcadero-Workaround](https://github.com/helpsystems/Embarcadero-Workaround)	<img alt="forks" src="https://img.shields.io/github/forks/helpsystems/Embarcadero-Workaround">	<img alt="stars" src="https://img.shields.io/github/stars/helpsystems/Embarcadero-Workaround">
+
+---
+## CVE-2014-0816 ()
+> 
+- [tandasat/CVE-2014-0816](https://github.com/tandasat/CVE-2014-0816)	<img alt="forks" src="https://img.shields.io/github/forks/tandasat/CVE-2014-0816">	<img alt="stars" src="https://img.shields.io/github/stars/tandasat/CVE-2014-0816">
+
+---
+## CVE-2014-0521 ()
+> 
+- [molnarg/cve-2014-0521](https://github.com/molnarg/cve-2014-0521)	<img alt="forks" src="https://img.shields.io/github/forks/molnarg/cve-2014-0521">	<img alt="stars" src="https://img.shields.io/github/stars/molnarg/cve-2014-0521">
+
+---
+## CVE-2014-0472 ()
+> 
+- [christasa/CVE-2014-0472](https://github.com/christasa/CVE-2014-0472)	<img alt="forks" src="https://img.shields.io/github/forks/christasa/CVE-2014-0472">	<img alt="stars" src="https://img.shields.io/github/stars/christasa/CVE-2014-0472">
+
+---
 ## CVE-2014-0437 (2014-01-15T16:08:00)
 > Unspecified vulnerability in the MySQL Server component in Oracle MySQL 5.1.72 and earlier, 5.5.34 and earlier, and 5.6.14 and earlier allows remote authenticated users to affect availability via unknown vectors related to Optimizer.
 - [Live-Hack-CVE/CVE-2014-0437](https://github.com/Live-Hack-CVE/CVE-2014-0437)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0437">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0437">
@@ -769,6 +1196,16 @@
 - [Songul-Kizilay/CVE-2014-0346](https://github.com/Songul-Kizilay/CVE-2014-0346)	<img alt="forks" src="https://img.shields.io/github/forks/Songul-Kizilay/CVE-2014-0346">	<img alt="stars" src="https://img.shields.io/github/stars/Songul-Kizilay/CVE-2014-0346">
 
 ---
+## CVE-2014-0291 ()
+> 
+- [niccoX/patch-openssl-CVE-2014-0291_CVE-2015-0204](https://github.com/niccoX/patch-openssl-CVE-2014-0291_CVE-2015-0204)	<img alt="forks" src="https://img.shields.io/github/forks/niccoX/patch-openssl-CVE-2014-0291_CVE-2015-0204">	<img alt="stars" src="https://img.shields.io/github/stars/niccoX/patch-openssl-CVE-2014-0291_CVE-2015-0204">
+
+---
+## CVE-2014-0282 ()
+> 
+- [Charmve/PyStegosploit](https://github.com/Charmve/PyStegosploit)	<img alt="forks" src="https://img.shields.io/github/forks/Charmve/PyStegosploit">	<img alt="stars" src="https://img.shields.io/github/stars/Charmve/PyStegosploit">
+
+---
 ## CVE-2014-0239 (2014-05-28T04:58:00)
 > The internal DNS server in Samba 4.x before 4.0.18 does not check the QR field in the header section of an incoming DNS message before sending a response, which allows remote attackers to cause a denial of service (CPU and bandwidth consumption) via a forged response packet that triggers a communication loop, a related issue to CVE-1999-0103.
 - [Live-Hack-CVE/CVE-2014-0239](https://github.com/Live-Hack-CVE/CVE-2014-0239)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0239">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0239">
@@ -777,6 +1214,7 @@
 ## CVE-2014-0226 (2014-07-20T11:12:00)
 > Race condition in the mod_status module in the Apache HTTP Server before 2.4.10 allows remote attackers to cause a denial of service (heap-based buffer overflow), or possibly obtain sensitive credential information or execute arbitrary code, via a crafted request that triggers improper scoreboard handling within the status_handler function in modules/generators/mod_status.c and the lua_ap_scoreboard_worker function in modules/lua/lua_request.c.
 - [Live-Hack-CVE/CVE-2014-0226](https://github.com/Live-Hack-CVE/CVE-2014-0226)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0226">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0226">
+- [shreesh1/CVE-2014-0226-poc](https://github.com/shreesh1/CVE-2014-0226-poc)	<img alt="forks" src="https://img.shields.io/github/forks/shreesh1/CVE-2014-0226-poc">	<img alt="stars" src="https://img.shields.io/github/stars/shreesh1/CVE-2014-0226-poc">
 
 ---
 ## CVE-2014-0224 (2014-06-05T21:55:00)
@@ -789,6 +1227,11 @@
 - [droptables/ccs-eval](https://github.com/droptables/ccs-eval)	<img alt="forks" src="https://img.shields.io/github/forks/droptables/ccs-eval">	<img alt="stars" src="https://img.shields.io/github/stars/droptables/ccs-eval">
 - [iph0n3/CVE-2014-0224](https://github.com/iph0n3/CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/iph0n3/CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/iph0n3/CVE-2014-0224">
 - [nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224)	<img alt="forks" src="https://img.shields.io/github/forks/nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224">	<img alt="stars" src="https://img.shields.io/github/stars/nidhi7598/OPENSSL_1.0.1g_CVE-2014-0224">
+
+---
+## CVE-2014-0221 ()
+> 
+- [tpdlshdmlrkfmcla/OpenSSL_DTLS_CVE_2014_0221](https://github.com/tpdlshdmlrkfmcla/OpenSSL_DTLS_CVE_2014_0221)	<img alt="forks" src="https://img.shields.io/github/forks/tpdlshdmlrkfmcla/OpenSSL_DTLS_CVE_2014_0221">	<img alt="stars" src="https://img.shields.io/github/stars/tpdlshdmlrkfmcla/OpenSSL_DTLS_CVE_2014_0221">
 
 ---
 ## CVE-2014-0207 (2014-07-09T11:07:00)
@@ -812,6 +1255,11 @@
 ## CVE-2014-0185 (2014-05-06T10:44:00)
 > sapi/fpm/fpm/fpm_unix.c in the FastCGI Process Manager (FPM) in PHP before 5.4.28 and 5.5.x before 5.5.12 uses 0666 permissions for the UNIX socket, which allows local users to gain privileges via a crafted FastCGI client.
 - [Live-Hack-CVE/CVE-2014-0185](https://github.com/Live-Hack-CVE/CVE-2014-0185)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0185">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0185">
+
+---
+## CVE-2014-0166 ()
+> 
+- [Ettack/POC-CVE-2014-0166](https://github.com/Ettack/POC-CVE-2014-0166)	<img alt="forks" src="https://img.shields.io/github/forks/Ettack/POC-CVE-2014-0166">	<img alt="stars" src="https://img.shields.io/github/stars/Ettack/POC-CVE-2014-0166">
 
 ---
 ## CVE-2014-0160 (2014-04-07T22:55:00)
@@ -854,6 +1302,41 @@
 - [ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration](https://github.com/ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration)	<img alt="forks" src="https://img.shields.io/github/forks/ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration">	<img alt="stars" src="https://img.shields.io/github/stars/ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration">
 - [22imer/CVE-2014-0160](https://github.com/22imer/CVE-2014-0160)	<img alt="forks" src="https://img.shields.io/github/forks/22imer/CVE-2014-0160">	<img alt="stars" src="https://img.shields.io/github/stars/22imer/CVE-2014-0160">
 - [0xAshwesker/CVE-2014-0160](https://github.com/0xAshwesker/CVE-2014-0160)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2014-0160">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2014-0160">
+- [titanous/heartbleeder](https://github.com/titanous/heartbleeder)	<img alt="forks" src="https://img.shields.io/github/forks/titanous/heartbleeder">	<img alt="stars" src="https://img.shields.io/github/stars/titanous/heartbleeder">
+- [DominikTo/bleed](https://github.com/DominikTo/bleed)	<img alt="forks" src="https://img.shields.io/github/forks/DominikTo/bleed">	<img alt="stars" src="https://img.shields.io/github/stars/DominikTo/bleed">
+- [cyphar/heartthreader](https://github.com/cyphar/heartthreader)	<img alt="forks" src="https://img.shields.io/github/forks/cyphar/heartthreader">	<img alt="stars" src="https://img.shields.io/github/stars/cyphar/heartthreader">
+- [jdauphant/patch-openssl-CVE-2014-0160](https://github.com/jdauphant/patch-openssl-CVE-2014-0160)	<img alt="forks" src="https://img.shields.io/github/forks/jdauphant/patch-openssl-CVE-2014-0160">	<img alt="stars" src="https://img.shields.io/github/stars/jdauphant/patch-openssl-CVE-2014-0160">
+- [obayesshelton/CVE-2014-0160-Scanner](https://github.com/obayesshelton/CVE-2014-0160-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/obayesshelton/CVE-2014-0160-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/obayesshelton/CVE-2014-0160-Scanner">
+- [isgroup/openmagic](https://github.com/isgroup/openmagic)	<img alt="forks" src="https://img.shields.io/github/forks/isgroup/openmagic">	<img alt="stars" src="https://img.shields.io/github/stars/isgroup/openmagic">
+- [fb1h2s/CVE-2014-0160](https://github.com/fb1h2s/CVE-2014-0160)	<img alt="forks" src="https://img.shields.io/github/forks/fb1h2s/CVE-2014-0160">	<img alt="stars" src="https://img.shields.io/github/stars/fb1h2s/CVE-2014-0160">
+- [takeshixx/ssl-heartbleed.nse](https://github.com/takeshixx/ssl-heartbleed.nse)	<img alt="forks" src="https://img.shields.io/github/forks/takeshixx/ssl-heartbleed.nse">	<img alt="stars" src="https://img.shields.io/github/stars/takeshixx/ssl-heartbleed.nse">
+- [roganartu/heartbleedchecker-chrome](https://github.com/roganartu/heartbleedchecker-chrome)	<img alt="forks" src="https://img.shields.io/github/forks/roganartu/heartbleedchecker-chrome">	<img alt="stars" src="https://img.shields.io/github/stars/roganartu/heartbleedchecker-chrome">
+- [zouguangxian/heartbleed](https://github.com/zouguangxian/heartbleed)	<img alt="forks" src="https://img.shields.io/github/forks/zouguangxian/heartbleed">	<img alt="stars" src="https://img.shields.io/github/stars/zouguangxian/heartbleed">
+- [sensepost/heartbleed-poc](https://github.com/sensepost/heartbleed-poc)	<img alt="forks" src="https://img.shields.io/github/forks/sensepost/heartbleed-poc">	<img alt="stars" src="https://img.shields.io/github/stars/sensepost/heartbleed-poc">
+- [proactiveRISK/heartbleed-extention](https://github.com/proactiveRISK/heartbleed-extention)	<img alt="forks" src="https://img.shields.io/github/forks/proactiveRISK/heartbleed-extention">	<img alt="stars" src="https://img.shields.io/github/stars/proactiveRISK/heartbleed-extention">
+- [amerine/coronary](https://github.com/amerine/coronary)	<img alt="forks" src="https://img.shields.io/github/forks/amerine/coronary">	<img alt="stars" src="https://img.shields.io/github/stars/amerine/coronary">
+- [0x90/CVE-2014-0160](https://github.com/0x90/CVE-2014-0160)	<img alt="forks" src="https://img.shields.io/github/forks/0x90/CVE-2014-0160">	<img alt="stars" src="https://img.shields.io/github/stars/0x90/CVE-2014-0160">
+- [ice-security88/CVE-2014-0160](https://github.com/ice-security88/CVE-2014-0160)	<img alt="forks" src="https://img.shields.io/github/forks/ice-security88/CVE-2014-0160">	<img alt="stars" src="https://img.shields.io/github/stars/ice-security88/CVE-2014-0160">
+- [waqasjamal-zz/HeartBleed-Vulnerability-Checker](https://github.com/waqasjamal-zz/HeartBleed-Vulnerability-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/waqasjamal-zz/HeartBleed-Vulnerability-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/waqasjamal-zz/HeartBleed-Vulnerability-Checker">
+- [siddolo/knockbleed](https://github.com/siddolo/knockbleed)	<img alt="forks" src="https://img.shields.io/github/forks/siddolo/knockbleed">	<img alt="stars" src="https://img.shields.io/github/stars/siddolo/knockbleed">
+- [sammyfung/openssl-heartbleed-fix](https://github.com/sammyfung/openssl-heartbleed-fix)	<img alt="forks" src="https://img.shields.io/github/forks/sammyfung/openssl-heartbleed-fix">	<img alt="stars" src="https://img.shields.io/github/stars/sammyfung/openssl-heartbleed-fix">
+- [a0726h77/heartbleed-test](https://github.com/a0726h77/heartbleed-test)	<img alt="forks" src="https://img.shields.io/github/forks/a0726h77/heartbleed-test">	<img alt="stars" src="https://img.shields.io/github/stars/a0726h77/heartbleed-test">
+- [pblittle/aws-suture](https://github.com/pblittle/aws-suture)	<img alt="forks" src="https://img.shields.io/github/forks/pblittle/aws-suture">	<img alt="stars" src="https://img.shields.io/github/stars/pblittle/aws-suture">
+- [0xinf0/bleeding_onions](https://github.com/0xinf0/bleeding_onions)	<img alt="forks" src="https://img.shields.io/github/forks/0xinf0/bleeding_onions">	<img alt="stars" src="https://img.shields.io/github/stars/0xinf0/bleeding_onions">
+- [idkqh7/heatbleeding](https://github.com/idkqh7/heatbleeding)	<img alt="forks" src="https://img.shields.io/github/forks/idkqh7/heatbleeding">	<img alt="stars" src="https://img.shields.io/github/stars/idkqh7/heatbleeding">
+- [GeeksXtreme/ssl-heartbleed.nse](https://github.com/GeeksXtreme/ssl-heartbleed.nse)	<img alt="forks" src="https://img.shields.io/github/forks/GeeksXtreme/ssl-heartbleed.nse">	<img alt="stars" src="https://img.shields.io/github/stars/GeeksXtreme/ssl-heartbleed.nse">
+- [xlucas/heartbleed](https://github.com/xlucas/heartbleed)	<img alt="forks" src="https://img.shields.io/github/forks/xlucas/heartbleed">	<img alt="stars" src="https://img.shields.io/github/stars/xlucas/heartbleed">
+- [indiw0rm/-Heartbleed-](https://github.com/indiw0rm/-Heartbleed-)	<img alt="forks" src="https://img.shields.io/github/forks/indiw0rm/-Heartbleed-">	<img alt="stars" src="https://img.shields.io/github/stars/indiw0rm/-Heartbleed-">
+- [einaros/heartbleed-tools](https://github.com/einaros/heartbleed-tools)	<img alt="forks" src="https://img.shields.io/github/forks/einaros/heartbleed-tools">	<img alt="stars" src="https://img.shields.io/github/stars/einaros/heartbleed-tools">
+- [yryz/heartbleed.js](https://github.com/yryz/heartbleed.js)	<img alt="forks" src="https://img.shields.io/github/forks/yryz/heartbleed.js">	<img alt="stars" src="https://img.shields.io/github/stars/yryz/heartbleed.js">
+- [DisK0nn3cT/MaltegoHeartbleed](https://github.com/DisK0nn3cT/MaltegoHeartbleed)	<img alt="forks" src="https://img.shields.io/github/forks/DisK0nn3cT/MaltegoHeartbleed">	<img alt="stars" src="https://img.shields.io/github/stars/DisK0nn3cT/MaltegoHeartbleed">
+- [OffensivePython/HeartLeak](https://github.com/OffensivePython/HeartLeak)	<img alt="forks" src="https://img.shields.io/github/forks/OffensivePython/HeartLeak">	<img alt="stars" src="https://img.shields.io/github/stars/OffensivePython/HeartLeak">
+- [vortextube/ssl_scanner](https://github.com/vortextube/ssl_scanner)	<img alt="forks" src="https://img.shields.io/github/forks/vortextube/ssl_scanner">	<img alt="stars" src="https://img.shields.io/github/stars/vortextube/ssl_scanner">
+- [xanas/heartbleed.py](https://github.com/xanas/heartbleed.py)	<img alt="forks" src="https://img.shields.io/github/forks/xanas/heartbleed.py">	<img alt="stars" src="https://img.shields.io/github/stars/xanas/heartbleed.py">
+- [iSCInc/heartbleed](https://github.com/iSCInc/heartbleed)	<img alt="forks" src="https://img.shields.io/github/forks/iSCInc/heartbleed">	<img alt="stars" src="https://img.shields.io/github/stars/iSCInc/heartbleed">
+- [marstornado/cve-2014-0160-Yunfeng-Jiang](https://github.com/marstornado/cve-2014-0160-Yunfeng-Jiang)	<img alt="forks" src="https://img.shields.io/github/forks/marstornado/cve-2014-0160-Yunfeng-Jiang">	<img alt="stars" src="https://img.shields.io/github/stars/marstornado/cve-2014-0160-Yunfeng-Jiang">
+- [Ryo-Soikutsu/Heartbleed](https://github.com/Ryo-Soikutsu/Heartbleed)	<img alt="forks" src="https://img.shields.io/github/forks/Ryo-Soikutsu/Heartbleed">	<img alt="stars" src="https://img.shields.io/github/stars/Ryo-Soikutsu/Heartbleed">
+- [victoriacfigueiredo/heartbleed-lab](https://github.com/victoriacfigueiredo/heartbleed-lab)	<img alt="forks" src="https://img.shields.io/github/forks/victoriacfigueiredo/heartbleed-lab">	<img alt="stars" src="https://img.shields.io/github/stars/victoriacfigueiredo/heartbleed-lab">
 
 ---
 ## CVE-2014-016 ()
@@ -893,9 +1376,21 @@
 - [Live-Hack-CVE/CVE-2014-0144](https://github.com/Live-Hack-CVE/CVE-2014-0144)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0144">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0144">
 
 ---
+## CVE-2014-0130 ()
+> 
+- [omarkurt/cve-2014-0130](https://github.com/omarkurt/cve-2014-0130)	<img alt="forks" src="https://img.shields.io/github/forks/omarkurt/cve-2014-0130">	<img alt="stars" src="https://img.shields.io/github/stars/omarkurt/cve-2014-0130">
+
+---
 ## CVE-2014-0118 (2014-07-20T11:12:00)
 > The deflate_in_filter function in mod_deflate.c in the mod_deflate module in the Apache HTTP Server before 2.4.10, when request body decompression is enabled, allows remote attackers to cause a denial of service (resource consumption) via crafted request data that decompresses to a much larger size.
 - [Live-Hack-CVE/CVE-2014-0118](https://github.com/Live-Hack-CVE/CVE-2014-0118)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-0118">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-0118">
+
+---
+## CVE-2014-0114 ()
+> 
+- [rgielen/struts1filter](https://github.com/rgielen/struts1filter)	<img alt="forks" src="https://img.shields.io/github/forks/rgielen/struts1filter">	<img alt="stars" src="https://img.shields.io/github/stars/rgielen/struts1filter">
+- [ricedu/struts1-patch](https://github.com/ricedu/struts1-patch)	<img alt="forks" src="https://img.shields.io/github/forks/ricedu/struts1-patch">	<img alt="stars" src="https://img.shields.io/github/stars/ricedu/struts1-patch">
+- [aenlr/strutt-cve-2014-0114](https://github.com/aenlr/strutt-cve-2014-0114)	<img alt="forks" src="https://img.shields.io/github/forks/aenlr/strutt-cve-2014-0114">	<img alt="stars" src="https://img.shields.io/github/stars/aenlr/strutt-cve-2014-0114">
 
 ---
 ## CVE-2014-0098 (2014-03-18T05:18:00)
@@ -912,3 +1407,19 @@
 ## CVE-2014-0075 ()
 > 
 - [LiviuPtr/CVE-2014-0075_PoC](https://github.com/LiviuPtr/CVE-2014-0075_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LiviuPtr/CVE-2014-0075_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LiviuPtr/CVE-2014-0075_PoC">
+
+---
+## CVE-2014-0050 ()
+> 
+- [jrrdev/cve-2014-0050](https://github.com/jrrdev/cve-2014-0050)	<img alt="forks" src="https://img.shields.io/github/forks/jrrdev/cve-2014-0050">	<img alt="stars" src="https://img.shields.io/github/stars/jrrdev/cve-2014-0050">
+
+---
+## CVE-2014-0043 ()
+> 
+- [JJK96/JavaClasspathEnum](https://github.com/JJK96/JavaClasspathEnum)	<img alt="forks" src="https://img.shields.io/github/forks/JJK96/JavaClasspathEnum">	<img alt="stars" src="https://img.shields.io/github/stars/JJK96/JavaClasspathEnum">
+
+---
+## CVE-2014-0038 ()
+> 
+- [saelo/cve-2014-0038](https://github.com/saelo/cve-2014-0038)	<img alt="forks" src="https://img.shields.io/github/forks/saelo/cve-2014-0038">	<img alt="stars" src="https://img.shields.io/github/stars/saelo/cve-2014-0038">
+- [kiruthikan99/IT19115276](https://github.com/kiruthikan99/IT19115276)	<img alt="forks" src="https://img.shields.io/github/forks/kiruthikan99/IT19115276">	<img alt="stars" src="https://img.shields.io/github/stars/kiruthikan99/IT19115276">

@@ -26,6 +26,33 @@
 - [Live-Hack-CVE/CVE-2012-6638](https://github.com/Live-Hack-CVE/CVE-2012-6638)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-6638">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-6638">
 
 ---
+## CVE-2012-6636 ()
+> 
+- [xckevin/AndroidWebviewInjectDemo](https://github.com/xckevin/AndroidWebviewInjectDemo)	<img alt="forks" src="https://img.shields.io/github/forks/xckevin/AndroidWebviewInjectDemo">	<img alt="stars" src="https://img.shields.io/github/stars/xckevin/AndroidWebviewInjectDemo">
+- [Snip3R69/CVE-2013-4710-WebView-RCE-Vulnerability](https://github.com/Snip3R69/CVE-2013-4710-WebView-RCE-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Snip3R69/CVE-2013-4710-WebView-RCE-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Snip3R69/CVE-2013-4710-WebView-RCE-Vulnerability">
+
+---
+## CVE-2012-6422 ()
+> 
+- [wired0ut/CVE-2012-6422](https://github.com/wired0ut/CVE-2012-6422)	<img alt="forks" src="https://img.shields.io/github/forks/wired0ut/CVE-2012-6422">	<img alt="stars" src="https://img.shields.io/github/stars/wired0ut/CVE-2012-6422">
+
+---
+## CVE-2012-6066 ()
+> 
+- [bongbongco/CVE-2012-6066](https://github.com/bongbongco/CVE-2012-6066)	<img alt="forks" src="https://img.shields.io/github/forks/bongbongco/CVE-2012-6066">	<img alt="stars" src="https://img.shields.io/github/stars/bongbongco/CVE-2012-6066">
+
+---
+## CVE-2012-5960 ()
+> 
+- [finn79426/CVE-2012-5960-PoC](https://github.com/finn79426/CVE-2012-5960-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/finn79426/CVE-2012-5960-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/finn79426/CVE-2012-5960-PoC">
+
+---
+## CVE-2012-5958 ()
+> 
+- [lochiiconnectivity/vulnupnp](https://github.com/lochiiconnectivity/vulnupnp)	<img alt="forks" src="https://img.shields.io/github/forks/lochiiconnectivity/vulnupnp">	<img alt="stars" src="https://img.shields.io/github/stars/lochiiconnectivity/vulnupnp">
+- [hmrumman777-beep/NetAudit-IoT](https://github.com/hmrumman777-beep/NetAudit-IoT)	<img alt="forks" src="https://img.shields.io/github/forks/hmrumman777-beep/NetAudit-IoT">	<img alt="stars" src="https://img.shields.io/github/stars/hmrumman777-beep/NetAudit-IoT">
+
+---
 ## CVE-2012-5664 (2012-12-26T20:55:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6496, CVE-2012-6497. Reason: this candidate was intended for one issue, but the candidate was publicly used to label concerns about multiple products. Notes: All CVE users should consult CVE-2012-6496 and CVE-2012-6497 to determine which ID is appropriate. All references and descriptions in this candidate have been removed to prevent accidental usage.
 - [Live-Hack-CVE/CVE-2012-5664](https://github.com/Live-Hack-CVE/CVE-2012-5664)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5664">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5664">
@@ -89,6 +116,11 @@
 - [Live-Hack-CVE/CVE-2012-5592](https://github.com/Live-Hack-CVE/CVE-2012-5592)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-5592">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-5592">
 
 ---
+## CVE-2012-5575 ()
+> 
+- [tafamace/CVE-2012-5575](https://github.com/tafamace/CVE-2012-5575)	<img alt="forks" src="https://img.shields.io/github/forks/tafamace/CVE-2012-5575">	<img alt="stars" src="https://img.shields.io/github/stars/tafamace/CVE-2012-5575">
+
+---
 ## CVE-2012-5519 (2012-11-20T00:55:00)
 > CUPS 1.4.4, when running in certain Linux distributions such as Debian GNU/Linux, stores the web interface administrator key in /var/run/cups/certs/0 using certain permissions, which allows local users in the lpadmin group to read or write arbitrary files as root by leveraging the web interface.
 - [p1ckzi/CVE-2012-5519](https://github.com/p1ckzi/CVE-2012-5519)	<img alt="forks" src="https://img.shields.io/github/forks/p1ckzi/CVE-2012-5519">	<img alt="stars" src="https://img.shields.io/github/stars/p1ckzi/CVE-2012-5519">
@@ -104,9 +136,20 @@
 - [Cappricio-Securities/CVE-2012-5321](https://github.com/Cappricio-Securities/CVE-2012-5321)	<img alt="forks" src="https://img.shields.io/github/forks/Cappricio-Securities/CVE-2012-5321">	<img alt="stars" src="https://img.shields.io/github/stars/Cappricio-Securities/CVE-2012-5321">
 
 ---
+## CVE-2012-5106 ()
+> 
+- [war4uthor/CVE-2012-5106](https://github.com/war4uthor/CVE-2012-5106)	<img alt="forks" src="https://img.shields.io/github/forks/war4uthor/CVE-2012-5106">	<img alt="stars" src="https://img.shields.io/github/stars/war4uthor/CVE-2012-5106">
+
+---
 ## CVE-2012-4960 ()
 > 
 - [ghcohu/Decrypt-passwords-for-Huawei-routers-and-switches-CVE-2012-4960](https://github.com/ghcohu/Decrypt-passwords-for-Huawei-routers-and-switches-CVE-2012-4960)	<img alt="forks" src="https://img.shields.io/github/forks/ghcohu/Decrypt-passwords-for-Huawei-routers-and-switches-CVE-2012-4960">	<img alt="stars" src="https://img.shields.io/github/stars/ghcohu/Decrypt-passwords-for-Huawei-routers-and-switches-CVE-2012-4960">
+
+---
+## CVE-2012-4929 ()
+> 
+- [mpgn/CRIME-poc](https://github.com/mpgn/CRIME-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CRIME-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CRIME-poc">
+- [anthophilee/A2SV--SSL-VUL-Scan](https://github.com/anthophilee/A2SV--SSL-VUL-Scan)	<img alt="forks" src="https://img.shields.io/github/forks/anthophilee/A2SV--SSL-VUL-Scan">	<img alt="stars" src="https://img.shields.io/github/stars/anthophilee/A2SV--SSL-VUL-Scan">
 
 ---
 ## CVE-2012-4869 ()
@@ -116,12 +159,22 @@
 - [AndyCyberSec/OSCP](https://github.com/AndyCyberSec/OSCP)	<img alt="forks" src="https://img.shields.io/github/forks/AndyCyberSec/OSCP">	<img alt="stars" src="https://img.shields.io/github/stars/AndyCyberSec/OSCP">
 
 ---
+## CVE-2012-4792 ()
+> 
+- [WizardVan/CVE-2012-4792](https://github.com/WizardVan/CVE-2012-4792)	<img alt="forks" src="https://img.shields.io/github/forks/WizardVan/CVE-2012-4792">	<img alt="stars" src="https://img.shields.io/github/stars/WizardVan/CVE-2012-4792">
+
+---
 ## CVE-2012-4681 (2012-08-28T00:55:00)
 > Multiple vulnerabilities in the Java Runtime Environment (JRE) component in Oracle Java SE 7 Update 6 and earlier allow remote attackers to execute arbitrary code via a crafted applet that bypasses SecurityManager restrictions by (1) using com.sun.beans.finder.ClassFinder.findClass and leveraging an exception with the forName method to access restricted classes from arbitrary packages such as sun.awt.SunToolkit, then (2) using "reflection with a trusted immediate caller" to leverage the getField method to access and modify private fields, as exploited in the wild in August 2012 using Gondzz.class and Gondvv.class.
 - [Live-Hack-CVE/CVE-2012-4681](https://github.com/Live-Hack-CVE/CVE-2012-4681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-4681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-4681">
 - [Live-Hack-CVE/CVE-2012-4681](https://github.com/Live-Hack-CVE/CVE-2012-4681)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-4681">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-4681">
 - [ZH3FENG/PoCs-CVE_2012_4681](https://github.com/ZH3FENG/PoCs-CVE_2012_4681)	<img alt="forks" src="https://img.shields.io/github/forks/ZH3FENG/PoCs-CVE_2012_4681">	<img alt="stars" src="https://img.shields.io/github/stars/ZH3FENG/PoCs-CVE_2012_4681">
 - [benjholla/CVE-2012-4681-Armoring](https://github.com/benjholla/CVE-2012-4681-Armoring)	<img alt="forks" src="https://img.shields.io/github/forks/benjholla/CVE-2012-4681-Armoring">	<img alt="stars" src="https://img.shields.io/github/stars/benjholla/CVE-2012-4681-Armoring">
+
+---
+## CVE-2012-4431 ()
+> 
+- [imjdl/CVE-2012-4431](https://github.com/imjdl/CVE-2012-4431)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2012-4431">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2012-4431">
 
 ---
 ## CVE-2012-4388 (2012-09-07T22:55:00)
@@ -133,6 +186,22 @@
 > ISC BIND 9.x before 9.7.6-P3, 9.8.x before 9.8.3-P3, 9.9.x before 9.9.1-P3, and 9.4-ESV and 9.6-ESV before 9.6-ESV-R7-P3 allows remote attackers to cause a denial of service (assertion failure and named daemon exit) via a query for a long resource record.
 - [Live-Hack-CVE/CVE-2012-4244](https://github.com/Live-Hack-CVE/CVE-2012-4244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-4244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-4244">
 - [Live-Hack-CVE/CVE-2012-4244](https://github.com/Live-Hack-CVE/CVE-2012-4244)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-4244">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-4244">
+
+---
+## CVE-2012-4220 ()
+> 
+- [hiikezoe/diaggetroot](https://github.com/hiikezoe/diaggetroot)	<img alt="forks" src="https://img.shields.io/github/forks/hiikezoe/diaggetroot">	<img alt="stars" src="https://img.shields.io/github/stars/hiikezoe/diaggetroot">
+- [poliva/root-zte-open](https://github.com/poliva/root-zte-open)	<img alt="forks" src="https://img.shields.io/github/forks/poliva/root-zte-open">	<img alt="stars" src="https://img.shields.io/github/stars/poliva/root-zte-open">
+
+---
+## CVE-2012-3716 ()
+> 
+- [d4rkcat/killosx](https://github.com/d4rkcat/killosx)	<img alt="forks" src="https://img.shields.io/github/forks/d4rkcat/killosx">	<img alt="stars" src="https://img.shields.io/github/stars/d4rkcat/killosx">
+
+---
+## CVE-2012-3576 ()
+> 
+- [Ydvmtzv/wpstorecart-exploit](https://github.com/Ydvmtzv/wpstorecart-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Ydvmtzv/wpstorecart-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Ydvmtzv/wpstorecart-exploit">
 
 ---
 ## CVE-2012-3400 (2012-10-03T11:02:00)
@@ -148,6 +217,22 @@
 ## CVE-2012-3287 (2012-06-13T19:55:00)
 > Poul-Henning Kamp md5crypt has insufficient algorithmic complexity and a consequently short runtime, which makes it easier for context-dependent attackers to discover cleartext passwords via a brute-force attack, as demonstrated by an attack using GPU hardware.
 - [Live-Hack-CVE/CVE-2012-3287](https://github.com/Live-Hack-CVE/CVE-2012-3287)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-3287">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-3287">
+
+---
+## CVE-2012-3153 ()
+> 
+- [Mekanismen/pwnacle-fusion](https://github.com/Mekanismen/pwnacle-fusion)	<img alt="forks" src="https://img.shields.io/github/forks/Mekanismen/pwnacle-fusion">	<img alt="stars" src="https://img.shields.io/github/stars/Mekanismen/pwnacle-fusion">
+
+---
+## CVE-2012-3152 ()
+> 
+- [abq0/rwsploit](https://github.com/abq0/rwsploit)	<img alt="forks" src="https://img.shields.io/github/forks/abq0/rwsploit">	<img alt="stars" src="https://img.shields.io/github/stars/abq0/rwsploit">
+
+---
+## CVE-2012-3137 ()
+> 
+- [hantwister/o5logon-fetch](https://github.com/hantwister/o5logon-fetch)	<img alt="forks" src="https://img.shields.io/github/forks/hantwister/o5logon-fetch">	<img alt="stars" src="https://img.shields.io/github/stars/hantwister/o5logon-fetch">
+- [r1-/cve-2012-3137](https://github.com/r1-/cve-2012-3137)	<img alt="forks" src="https://img.shields.io/github/forks/r1-/cve-2012-3137">	<img alt="stars" src="https://img.shields.io/github/stars/r1-/cve-2012-3137">
 
 ---
 ## CVE-2012-2982 (2012-09-11T18:55:00)
@@ -173,6 +258,12 @@
 - [boriitoo/CVE-2012-2982](https://github.com/boriitoo/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/boriitoo/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/boriitoo/CVE-2012-2982">
 - [JRrooot/CVE-2012-2982-Webmin-RCE](https://github.com/JRrooot/CVE-2012-2982-Webmin-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/JRrooot/CVE-2012-2982-Webmin-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/JRrooot/CVE-2012-2982-Webmin-RCE">
 - [danielvilaca/PoC_Webmin](https://github.com/danielvilaca/PoC_Webmin)	<img alt="forks" src="https://img.shields.io/github/forks/danielvilaca/PoC_Webmin">	<img alt="stars" src="https://img.shields.io/github/stars/danielvilaca/PoC_Webmin">
+- [marinovharisan/Webmin-1.580---file-show.cgi-Manual-Remote-Command-Execution-Non-Metasploit-](https://github.com/marinovharisan/Webmin-1.580---file-show.cgi-Manual-Remote-Command-Execution-Non-Metasploit-)	<img alt="forks" src="https://img.shields.io/github/forks/marinovharisan/Webmin-1.580---file-show.cgi-Manual-Remote-Command-Execution-Non-Metasploit-">	<img alt="stars" src="https://img.shields.io/github/stars/marinovharisan/Webmin-1.580---file-show.cgi-Manual-Remote-Command-Execution-Non-Metasploit-">
+
+---
+## CVE-2012-2688 ()
+> 
+- [shelld3v/CVE-2012-2688](https://github.com/shelld3v/CVE-2012-2688)	<img alt="forks" src="https://img.shields.io/github/forks/shelld3v/CVE-2012-2688">	<img alt="stars" src="https://img.shields.io/github/stars/shelld3v/CVE-2012-2688">
 
 ---
 ## CVE-2012-2661 (2012-06-22T14:55:00)
@@ -188,6 +279,11 @@
 ## CVE-2012-2657 (2012-08-31T18:55:00)
 > ** DISPUTED ** Buffer overflow in the SQLDriverConnect function in unixODBC 2.0.10, 2.3.1, and earlier allows local users to cause a denial of service (crash) via a long string in the FILEDSN option. NOTE: this issue might not be a vulnerability, since the ability to set this option typically implies that the attacker already has legitimate access to cause a DoS or execute code, and therefore the issue would not cross privilege boundaries. There may be limited attack scenarios if isql command-line options are exposed to an attacker, although it seems likely that other, more serious issues would also be exposed, and this issue might not cross privilege boundaries in that context.
 - [Live-Hack-CVE/CVE-2012-2657](https://github.com/Live-Hack-CVE/CVE-2012-2657)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-2657">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-2657">
+
+---
+## CVE-2012-2593 ()
+> 
+- [AndrewTrube/CVE-2012-2593](https://github.com/AndrewTrube/CVE-2012-2593)	<img alt="forks" src="https://img.shields.io/github/forks/AndrewTrube/CVE-2012-2593">	<img alt="stars" src="https://img.shields.io/github/stars/AndrewTrube/CVE-2012-2593">
 
 ---
 ## CVE-2012-2386 (2012-07-07T10:21:00)
@@ -248,6 +344,23 @@
 - [OstojaOfficial/CVE-2012-2982](https://github.com/OstojaOfficial/CVE-2012-2982)	<img alt="forks" src="https://img.shields.io/github/forks/OstojaOfficial/CVE-2012-2982">	<img alt="stars" src="https://img.shields.io/github/stars/OstojaOfficial/CVE-2012-2982">
 
 ---
+## CVE-2012-1889 ()
+> 
+- [whu-enjoy/CVE-2012-1889](https://github.com/whu-enjoy/CVE-2012-1889)	<img alt="forks" src="https://img.shields.io/github/forks/whu-enjoy/CVE-2012-1889">	<img alt="stars" src="https://img.shields.io/github/stars/whu-enjoy/CVE-2012-1889">
+- [l-iberty/cve-2012-1889](https://github.com/l-iberty/cve-2012-1889)	<img alt="forks" src="https://img.shields.io/github/forks/l-iberty/cve-2012-1889">	<img alt="stars" src="https://img.shields.io/github/stars/l-iberty/cve-2012-1889">
+
+---
+## CVE-2012-1876 ()
+> 
+- [WizardVan/CVE-2012-1876](https://github.com/WizardVan/CVE-2012-1876)	<img alt="forks" src="https://img.shields.io/github/forks/WizardVan/CVE-2012-1876">	<img alt="stars" src="https://img.shields.io/github/stars/WizardVan/CVE-2012-1876">
+- [ExploitCN/CVE-2012-1876-win7_x86_and_win7x64](https://github.com/ExploitCN/CVE-2012-1876-win7_x86_and_win7x64)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitCN/CVE-2012-1876-win7_x86_and_win7x64">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitCN/CVE-2012-1876-win7_x86_and_win7x64">
+
+---
+## CVE-2012-1870 ()
+> 
+- [dja2TaqkGEEfA45/CVE-2012-1870](https://github.com/dja2TaqkGEEfA45/CVE-2012-1870)	<img alt="forks" src="https://img.shields.io/github/forks/dja2TaqkGEEfA45/CVE-2012-1870">	<img alt="stars" src="https://img.shields.io/github/stars/dja2TaqkGEEfA45/CVE-2012-1870">
+
+---
 ## CVE-2012-1831 (2012-07-05T03:23:00)
 > Heap-based buffer overflow in WellinTech KingView 6.53 allows remote attackers to execute arbitrary code via a crafted packet to TCP port 555.
 - [Astrowmist/POC-CVE-2012-1831](https://github.com/Astrowmist/POC-CVE-2012-1831)	<img alt="forks" src="https://img.shields.io/github/forks/Astrowmist/POC-CVE-2012-1831">	<img alt="stars" src="https://img.shields.io/github/stars/Astrowmist/POC-CVE-2012-1831">
@@ -268,6 +381,20 @@
 - [Jimmy01240397/CVE-2012-1823-Analyze](https://github.com/Jimmy01240397/CVE-2012-1823-Analyze)	<img alt="forks" src="https://img.shields.io/github/forks/Jimmy01240397/CVE-2012-1823-Analyze">	<img alt="stars" src="https://img.shields.io/github/stars/Jimmy01240397/CVE-2012-1823-Analyze">
 - [JasonHobs/CVE-2012-1823-exploit-for-https-user-password-web](https://github.com/JasonHobs/CVE-2012-1823-exploit-for-https-user-password-web)	<img alt="forks" src="https://img.shields.io/github/forks/JasonHobs/CVE-2012-1823-exploit-for-https-user-password-web">	<img alt="stars" src="https://img.shields.io/github/stars/JasonHobs/CVE-2012-1823-exploit-for-https-user-password-web">
 - [tryj/CVE-2012-1823---PHP-CGI---RCE](https://github.com/tryj/CVE-2012-1823---PHP-CGI---RCE)	<img alt="forks" src="https://img.shields.io/github/forks/tryj/CVE-2012-1823---PHP-CGI---RCE">	<img alt="stars" src="https://img.shields.io/github/stars/tryj/CVE-2012-1823---PHP-CGI---RCE">
+- [Dmitri131313/CVE-2012-1823-exploit-for-https-user-password-web](https://github.com/Dmitri131313/CVE-2012-1823-exploit-for-https-user-password-web)	<img alt="forks" src="https://img.shields.io/github/forks/Dmitri131313/CVE-2012-1823-exploit-for-https-user-password-web">	<img alt="stars" src="https://img.shields.io/github/stars/Dmitri131313/CVE-2012-1823-exploit-for-https-user-password-web">
+- [nulltrace1336/PHP-CGI-Argument-Injection-Exploit](https://github.com/nulltrace1336/PHP-CGI-Argument-Injection-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/nulltrace1336/PHP-CGI-Argument-Injection-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/nulltrace1336/PHP-CGI-Argument-Injection-Exploit">
+- [waburig/Open-Worldwide-Application-Security-Project-OWASP-](https://github.com/waburig/Open-Worldwide-Application-Security-Project-OWASP-)	<img alt="forks" src="https://img.shields.io/github/forks/waburig/Open-Worldwide-Application-Security-Project-OWASP-">	<img alt="stars" src="https://img.shields.io/github/stars/waburig/Open-Worldwide-Application-Security-Project-OWASP-">
+- [hackherMind-Pixel/Vulnerable-Lab-Exploitation](https://github.com/hackherMind-Pixel/Vulnerable-Lab-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/hackherMind-Pixel/Vulnerable-Lab-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/hackherMind-Pixel/Vulnerable-Lab-Exploitation">
+
+---
+## CVE-2012-1803 ()
+> 
+- [x3roxismygood/CVE-2012-1803](https://github.com/x3roxismygood/CVE-2012-1803)	<img alt="forks" src="https://img.shields.io/github/forks/x3roxismygood/CVE-2012-1803">	<img alt="stars" src="https://img.shields.io/github/stars/x3roxismygood/CVE-2012-1803">
+
+---
+## CVE-2012-1723 ()
+> 
+- [EthanNJC/CVE-2012-1723](https://github.com/EthanNJC/CVE-2012-1723)	<img alt="forks" src="https://img.shields.io/github/forks/EthanNJC/CVE-2012-1723">	<img alt="stars" src="https://img.shields.io/github/stars/EthanNJC/CVE-2012-1723">
 
 ---
 ## CVE-2012-1705 (2013-01-17T01:55:00)
@@ -290,6 +417,11 @@
 > Unspecified vulnerability in the MySQL Server component in Oracle MySQL 5.1.61 and earlier, and 5.5.21 and earlier, allows remote authenticated users to affect availability, related to Server DML.
 - [Live-Hack-CVE/CVE-2012-1688](https://github.com/Live-Hack-CVE/CVE-2012-1688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-1688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-1688">
 - [Live-Hack-CVE/CVE-2012-1688](https://github.com/Live-Hack-CVE/CVE-2012-1688)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-1688">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-1688">
+
+---
+## CVE-2012-1675 ()
+> 
+- [bongbongco/CVE-2012-1675](https://github.com/bongbongco/CVE-2012-1675)	<img alt="forks" src="https://img.shields.io/github/forks/bongbongco/CVE-2012-1675">	<img alt="stars" src="https://img.shields.io/github/stars/bongbongco/CVE-2012-1675">
 
 ---
 ## CVE-2012-1495 (2020-01-27T15:15:00)
@@ -368,6 +500,17 @@
 - [RobertoLeonFR-ES/Exploit-Win32.CVE-2012-0158.F.doc](https://github.com/RobertoLeonFR-ES/Exploit-Win32.CVE-2012-0158.F.doc)	<img alt="forks" src="https://img.shields.io/github/forks/RobertoLeonFR-ES/Exploit-Win32.CVE-2012-0158.F.doc">	<img alt="stars" src="https://img.shields.io/github/stars/RobertoLeonFR-ES/Exploit-Win32.CVE-2012-0158.F.doc">
 
 ---
+## CVE-2012-0152 ()
+> 
+- [rutvijjethwa/RDP_jammer](https://github.com/rutvijjethwa/RDP_jammer)	<img alt="forks" src="https://img.shields.io/github/forks/rutvijjethwa/RDP_jammer">	<img alt="stars" src="https://img.shields.io/github/stars/rutvijjethwa/RDP_jammer">
+
+---
+## CVE-2012-0056 ()
+> 
+- [srclib/CVE-2012-0056](https://github.com/srclib/CVE-2012-0056)	<img alt="forks" src="https://img.shields.io/github/forks/srclib/CVE-2012-0056">	<img alt="stars" src="https://img.shields.io/github/stars/srclib/CVE-2012-0056">
+- [pythonone/CVE-2012-0056](https://github.com/pythonone/CVE-2012-0056)	<img alt="forks" src="https://img.shields.io/github/forks/pythonone/CVE-2012-0056">	<img alt="stars" src="https://img.shields.io/github/stars/pythonone/CVE-2012-0056">
+
+---
 ## CVE-2012-0053 (2012-01-28T04:05:00)
 > protocol.c in the Apache HTTP Server 2.2.x through 2.2.21 does not properly restrict header information during construction of Bad Request (aka 400) error documents, which allows remote attackers to obtain the values of HTTPOnly cookies via vectors involving a (1) long or (2) malformed header in conjunction with crafted web script.
 - [Live-Hack-CVE/CVE-2012-0053](https://github.com/Live-Hack-CVE/CVE-2012-0053)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0053">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0053">
@@ -382,3 +525,9 @@
 > Unspecified vulnerability in winmm.dll in Windows Multimedia Library in Windows Media Player (WMP) in Microsoft Windows XP SP2 and SP3, Server 2003 SP2, Vista SP2, and Server 2008 SP2 allows remote attackers to execute arbitrary code via a crafted MIDI file, aka "MIDI Remote Code Execution Vulnerability."
 - [Sunqiz/CVE-2012-0003-reproduction](https://github.com/Sunqiz/CVE-2012-0003-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Sunqiz/CVE-2012-0003-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Sunqiz/CVE-2012-0003-reproduction">
 - [k0keoyo/CVE-2012-0003_eXP](https://github.com/k0keoyo/CVE-2012-0003_eXP)	<img alt="forks" src="https://img.shields.io/github/forks/k0keoyo/CVE-2012-0003_eXP">	<img alt="stars" src="https://img.shields.io/github/stars/k0keoyo/CVE-2012-0003_eXP">
+- [gousseine-systems/vuln-rabilit-windows7](https://github.com/gousseine-systems/vuln-rabilit-windows7)	<img alt="forks" src="https://img.shields.io/github/forks/gousseine-systems/vuln-rabilit-windows7">	<img alt="stars" src="https://img.shields.io/github/stars/gousseine-systems/vuln-rabilit-windows7">
+
+---
+## CVE-2012-0002 ()
+> 
+- [zhangkaibin0921/MS12-020-CVE-2012-0002](https://github.com/zhangkaibin0921/MS12-020-CVE-2012-0002)	<img alt="forks" src="https://img.shields.io/github/forks/zhangkaibin0921/MS12-020-CVE-2012-0002">	<img alt="stars" src="https://img.shields.io/github/stars/zhangkaibin0921/MS12-020-CVE-2012-0002">
