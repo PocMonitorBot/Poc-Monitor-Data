@@ -1293,6 +1293,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [KillReal01/CVE-2023-4911](https://github.com/KillReal01/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/KillReal01/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/KillReal01/CVE-2023-4911">
 - [Aryan20057/CVE-2023-4911](https://github.com/Aryan20057/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/Aryan20057/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/Aryan20057/CVE-2023-4911">
 - [0xMOGA/CVE-2023-4911-Lab](https://github.com/0xMOGA/CVE-2023-4911-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/0xMOGA/CVE-2023-4911-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/0xMOGA/CVE-2023-4911-Lab">
+- [jarpex/cve-2023-4911-exploit-optimized](https://github.com/jarpex/cve-2023-4911-exploit-optimized)	<img alt="forks" src="https://img.shields.io/github/forks/jarpex/cve-2023-4911-exploit-optimized">	<img alt="stars" src="https://img.shields.io/github/stars/jarpex/cve-2023-4911-exploit-optimized">
 
 ---
 ## CVE-2023-49109 ()
@@ -2704,6 +2705,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 ## CVE-2023-43364 (2023-12-12T18:15:00)
 > main.py in Searchor before 2.4.2 uses eval on CLI input, which may cause unexpected code execution.
 - [libertycityhacker/CVE-2023-43364-Exploit-CVE](https://github.com/libertycityhacker/CVE-2023-43364-Exploit-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/libertycityhacker/CVE-2023-43364-Exploit-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/libertycityhacker/CVE-2023-43364-Exploit-CVE">
+- [Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit](https://github.com/Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Herick-Costa/CVE-2023-43364-Searchor-RCE-Exploit">
 
 ---
 ## CVE-2023-43360 ()
@@ -4129,6 +4131,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [DaniTheHack3r/CVE-2023-38646](https://github.com/DaniTheHack3r/CVE-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/DaniTheHack3r/CVE-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/DaniTheHack3r/CVE-2023-38646">
 - [cleanmgr112/cve-2023-38646-poc](https://github.com/cleanmgr112/cve-2023-38646-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cleanmgr112/cve-2023-38646-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cleanmgr112/cve-2023-38646-poc">
 - [NosrevytsNg/Metabase-Pre-Auth-RCE-POC](https://github.com/NosrevytsNg/Metabase-Pre-Auth-RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/NosrevytsNg/Metabase-Pre-Auth-RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/NosrevytsNg/Metabase-Pre-Auth-RCE-POC">
+- [nuclide-research/metabase-cve-2023-38646](https://github.com/nuclide-research/metabase-cve-2023-38646)	<img alt="forks" src="https://img.shields.io/github/forks/nuclide-research/metabase-cve-2023-38646">	<img alt="stars" src="https://img.shields.io/github/stars/nuclide-research/metabase-cve-2023-38646">
 
 ---
 ## CVE-2023-38632 (2023-07-21T02:15:00)

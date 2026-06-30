@@ -4609,7 +4609,7 @@
 - [predyy/totorum](https://github.com/predyy/totorum)	<img alt="forks" src="https://img.shields.io/github/forks/predyy/totorum">	<img alt="stars" src="https://img.shields.io/github/stars/predyy/totorum">
 - [DeDnY/CVE-2025-55182-in-docker](https://github.com/DeDnY/CVE-2025-55182-in-docker)	<img alt="forks" src="https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-in-docker">	<img alt="stars" src="https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-in-docker">
 - [H4R335HR/reactshell](https://github.com/H4R335HR/reactshell)	<img alt="forks" src="https://img.shields.io/github/forks/H4R335HR/reactshell">	<img alt="stars" src="https://img.shields.io/github/stars/H4R335HR/reactshell">
-- [0xAshwesker/CVE-2025-55182](https://github.com/0xAshwesker/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2025-55182">
+- [0xBlackash/CVE-2025-55182](https://github.com/0xBlackash/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-55182">
 - [Yusril-git/OWASP-Detection-Lab](https://github.com/Yusril-git/OWASP-Detection-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Yusril-git/OWASP-Detection-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Yusril-git/OWASP-Detection-Lab">
 - [alptexans/RSC-Detect-CVE-2025-55182](https://github.com/alptexans/RSC-Detect-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/alptexans/RSC-Detect-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/alptexans/RSC-Detect-CVE-2025-55182">
 - [revasec/CVE-2025-55182-Interactive-mode](https://github.com/revasec/CVE-2025-55182-Interactive-mode)	<img alt="forks" src="https://img.shields.io/github/forks/revasec/CVE-2025-55182-Interactive-mode">	<img alt="stars" src="https://img.shields.io/github/stars/revasec/CVE-2025-55182-Interactive-mode">
@@ -8097,7 +8097,7 @@
 - [pr0v3rbs/CVE-2025-32463_chwoot](https://github.com/pr0v3rbs/CVE-2025-32463_chwoot)	<img alt="forks" src="https://img.shields.io/github/forks/pr0v3rbs/CVE-2025-32463_chwoot">	<img alt="stars" src="https://img.shields.io/github/stars/pr0v3rbs/CVE-2025-32463_chwoot">
 - [4f-kira/CVE-2025-32463](https://github.com/4f-kira/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/4f-kira/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/4f-kira/CVE-2025-32463">
 - [K1tt3h/CVE-2025-32463-POC](https://github.com/K1tt3h/CVE-2025-32463-POC)	<img alt="forks" src="https://img.shields.io/github/forks/K1tt3h/CVE-2025-32463-POC">	<img alt="stars" src="https://img.shields.io/github/stars/K1tt3h/CVE-2025-32463-POC">
-- [Adonijah01/cve-2025-32463-lab](https://github.com/Adonijah01/cve-2025-32463-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Adonijah01/cve-2025-32463-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Adonijah01/cve-2025-32463-lab">
+- [7r00t/cve-2025-32463-lab](https://github.com/7r00t/cve-2025-32463-lab)	<img alt="forks" src="https://img.shields.io/github/forks/7r00t/cve-2025-32463-lab">	<img alt="stars" src="https://img.shields.io/github/stars/7r00t/cve-2025-32463-lab">
 - [SysMancer/CVE-2025-32463](https://github.com/SysMancer/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/SysMancer/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/SysMancer/CVE-2025-32463">
 - [kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2025-32463">
 - [neko205-mx/CVE-2025-32463_Exploit](https://github.com/neko205-mx/CVE-2025-32463_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/neko205-mx/CVE-2025-32463_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/neko205-mx/CVE-2025-32463_Exploit">
@@ -8197,6 +8197,8 @@
 - [v3rycl0p3r/CVE-2025-32463](https://github.com/v3rycl0p3r/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/v3rycl0p3r/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/v3rycl0p3r/CVE-2025-32463">
 - [Fomovet/cve-2025-32463](https://github.com/Fomovet/cve-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-32463">
 - [gmh5225/Blackash-CVE-2025-32463](https://github.com/gmh5225/Blackash-CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/Blackash-CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/Blackash-CVE-2025-32463">
+- [khoazero123/CVE-2025-32463](https://github.com/khoazero123/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/khoazero123/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/khoazero123/CVE-2025-32463">
+- [12bijaya/CVE-2025-32463](https://github.com/12bijaya/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/12bijaya/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/12bijaya/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
@@ -8590,6 +8592,9 @@
 - [Drelinss/Blackash-CVE-2025-31161](https://github.com/Drelinss/Blackash-CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/Drelinss/Blackash-CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/Drelinss/Blackash-CVE-2025-31161">
 - [eserror/CVE-2025-31161](https://github.com/eserror/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/eserror/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/eserror/CVE-2025-31161">
 - [0xBlackash/CVE-2025-31161](https://github.com/0xBlackash/CVE-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2025-31161">
+- [rufflabs/ludus_crushftp_cve-2025-31161](https://github.com/rufflabs/ludus_crushftp_cve-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/rufflabs/ludus_crushftp_cve-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/rufflabs/ludus_crushftp_cve-2025-31161">
+- [rufflabs/crushftp_cve-2025-31161](https://github.com/rufflabs/crushftp_cve-2025-31161)	<img alt="forks" src="https://img.shields.io/github/forks/rufflabs/crushftp_cve-2025-31161">	<img alt="stars" src="https://img.shields.io/github/stars/rufflabs/crushftp_cve-2025-31161">
+- [rufflabs/ludus_crushftp_cve-2025-31161_sim](https://github.com/rufflabs/ludus_crushftp_cve-2025-31161_sim)	<img alt="forks" src="https://img.shields.io/github/forks/rufflabs/ludus_crushftp_cve-2025-31161_sim">	<img alt="stars" src="https://img.shields.io/github/stars/rufflabs/ludus_crushftp_cve-2025-31161_sim">
 
 ---
 ## CVE-2025-31137 ()
@@ -12364,6 +12369,7 @@
 - [shawarkhanethicalhacker/CVE-2025-0133-exploit](https://github.com/shawarkhanethicalhacker/CVE-2025-0133-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/shawarkhanethicalhacker/CVE-2025-0133-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/shawarkhanethicalhacker/CVE-2025-0133-exploit">
 - [adhamelhansye/CVE-2025-0133](https://github.com/adhamelhansye/CVE-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/adhamelhansye/CVE-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/adhamelhansye/CVE-2025-0133">
 - [cruxN3T/CVE-2025-0133](https://github.com/cruxN3T/CVE-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/cruxN3T/CVE-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/cruxN3T/CVE-2025-0133">
+- [radityahack/cve-2025-0133](https://github.com/radityahack/cve-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/radityahack/cve-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/radityahack/cve-2025-0133">
 
 ---
 ## CVE-2025-0108 ()

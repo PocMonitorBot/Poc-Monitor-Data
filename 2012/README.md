@@ -286,6 +286,11 @@
 - [AndrewTrube/CVE-2012-2593](https://github.com/AndrewTrube/CVE-2012-2593)	<img alt="forks" src="https://img.shields.io/github/forks/AndrewTrube/CVE-2012-2593">	<img alt="stars" src="https://img.shields.io/github/stars/AndrewTrube/CVE-2012-2593">
 
 ---
+## CVE-2012-2459 ()
+> 
+- [systemslibrarian/crypto-lab-merkle-proofs](https://github.com/systemslibrarian/crypto-lab-merkle-proofs)	<img alt="forks" src="https://img.shields.io/github/forks/systemslibrarian/crypto-lab-merkle-proofs">	<img alt="stars" src="https://img.shields.io/github/stars/systemslibrarian/crypto-lab-merkle-proofs">
+
+---
 ## CVE-2012-2386 (2012-07-07T10:21:00)
 > CVE-2012-2386 php: Integer overflow leading to heap-buffer overflow in the Phar extension
 - [Live-Hack-CVE/CVE-2012-2386](https://github.com/Live-Hack-CVE/CVE-2012-2386)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-2386">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-2386">

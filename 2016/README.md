@@ -918,6 +918,10 @@
 - [maur0amaya/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow](https://github.com/maur0amaya/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow)	<img alt="forks" src="https://img.shields.io/github/forks/maur0amaya/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow">	<img alt="stars" src="https://img.shields.io/github/stars/maur0amaya/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow">
 - [GonzaBot/kernel-exploit-dirtycow](https://github.com/GonzaBot/kernel-exploit-dirtycow)	<img alt="forks" src="https://img.shields.io/github/forks/GonzaBot/kernel-exploit-dirtycow">	<img alt="stars" src="https://img.shields.io/github/stars/GonzaBot/kernel-exploit-dirtycow">
 - [gogooma125732/CVE-2016-5195](https://github.com/gogooma125732/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/gogooma125732/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/gogooma125732/CVE-2016-5195">
+- [SaanviShah30/IoT-Firmware-Reverse-Engineering](https://github.com/SaanviShah30/IoT-Firmware-Reverse-Engineering)	<img alt="forks" src="https://img.shields.io/github/forks/SaanviShah30/IoT-Firmware-Reverse-Engineering">	<img alt="stars" src="https://img.shields.io/github/stars/SaanviShah30/IoT-Firmware-Reverse-Engineering">
+- [hermesash1ray/cow](https://github.com/hermesash1ray/cow)	<img alt="forks" src="https://img.shields.io/github/forks/hermesash1ray/cow">	<img alt="stars" src="https://img.shields.io/github/stars/hermesash1ray/cow">
+- [martinmullins/amazon_remove_ads_apk](https://github.com/martinmullins/amazon_remove_ads_apk)	<img alt="forks" src="https://img.shields.io/github/forks/martinmullins/amazon_remove_ads_apk">	<img alt="stars" src="https://img.shields.io/github/stars/martinmullins/amazon_remove_ads_apk">
+- [nndhanasekaran/redhat_cve2016](https://github.com/nndhanasekaran/redhat_cve2016)	<img alt="forks" src="https://img.shields.io/github/forks/nndhanasekaran/redhat_cve2016">	<img alt="stars" src="https://img.shields.io/github/stars/nndhanasekaran/redhat_cve2016">
 
 ---
 ## CVE-2016-5180 (2016-10-03T15:59:00)

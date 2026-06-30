@@ -241,10 +241,11 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [Exerrdev/CVE-2024-9264-Fixed](https://github.com/Exerrdev/CVE-2024-9264-Fixed)	<img alt="forks" src="https://img.shields.io/github/forks/Exerrdev/CVE-2024-9264-Fixed">	<img alt="stars" src="https://img.shields.io/github/stars/Exerrdev/CVE-2024-9264-Fixed">
 - [Royall-Researchers/CVE-2024-9264](https://github.com/Royall-Researchers/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/Royall-Researchers/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/Royall-Researchers/CVE-2024-9264">
 - [ruizii/CVE-2024-9264](https://github.com/ruizii/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/ruizii/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/ruizii/CVE-2024-9264">
-- [rvizx/CVE-2024-9264](https://github.com/rvizx/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2024-9264">
+- [rvzsec/CVE-2024-9264](https://github.com/rvzsec/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/CVE-2024-9264">
 - [patrickpichler/grafana-CVE-2024-9264](https://github.com/patrickpichler/grafana-CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/patrickpichler/grafana-CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/patrickpichler/grafana-CVE-2024-9264">
 - [ISabbiI/PoC---Implementation-Plan---Grafana-CVE-2024-9264-SQL-Injection-](https://github.com/ISabbiI/PoC---Implementation-Plan---Grafana-CVE-2024-9264-SQL-Injection-)	<img alt="forks" src="https://img.shields.io/github/forks/ISabbiI/PoC---Implementation-Plan---Grafana-CVE-2024-9264-SQL-Injection-">	<img alt="stars" src="https://img.shields.io/github/stars/ISabbiI/PoC---Implementation-Plan---Grafana-CVE-2024-9264-SQL-Injection-">
 - [amalpvatayam67/day05-grafana-sqlexpr-lab](https://github.com/amalpvatayam67/day05-grafana-sqlexpr-lab)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day05-grafana-sqlexpr-lab">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day05-grafana-sqlexpr-lab">
+- [yeonchoda/CVE-2024-9264](https://github.com/yeonchoda/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/yeonchoda/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/yeonchoda/CVE-2024-9264">
 
 ---
 ## CVE-2024-9263 (2024-10-17T04:15:00)
@@ -9141,6 +9142,11 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation](https://github.com/MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation">
 
 ---
+## CVE-2024-24824 ()
+> 
+- [rootkiTED/graylog-cve-2024-24824-exploit](https://github.com/rootkiTED/graylog-cve-2024-24824-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/rootkiTED/graylog-cve-2024-24824-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/rootkiTED/graylog-cve-2024-24824-exploit">
+
+---
 ## CVE-2024-24816 (2024-02-07T17:15:00)
 > CKEditor4 is an open source what-you-see-is-what-you-get HTML editor. A cross-site scripting vulnerability vulnerability has been discovered in versions prior to 4.24.0-lts in samples that use the `preview` feature. All integrators that use these samples in the production code can be affected. The vulnerability allows an attacker to execute JavaScript code by abusing the misconfigured preview feature. It affects all users using the CKEditor 4 at version < 4.24.0-lts with affected samples used in a production environment. A fix is available in version 4.24.0-lts.
 - [afine-com/CVE-2024-24816](https://github.com/afine-com/CVE-2024-24816)	<img alt="forks" src="https://img.shields.io/github/forks/afine-com/CVE-2024-24816">	<img alt="stars" src="https://img.shields.io/github/stars/afine-com/CVE-2024-24816">
@@ -11712,6 +11718,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [b1nhack/CVE-2024-1086](https://github.com/b1nhack/CVE-2024-1086)	<img alt="forks" src="https://img.shields.io/github/forks/b1nhack/CVE-2024-1086">	<img alt="stars" src="https://img.shields.io/github/stars/b1nhack/CVE-2024-1086">
 - [garatc/bitpixie](https://github.com/garatc/bitpixie)	<img alt="forks" src="https://img.shields.io/github/forks/garatc/bitpixie">	<img alt="stars" src="https://img.shields.io/github/stars/garatc/bitpixie">
 - [Luisbuilds-data/cve-2024-1086-writeup](https://github.com/Luisbuilds-data/cve-2024-1086-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Luisbuilds-data/cve-2024-1086-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Luisbuilds-data/cve-2024-1086-writeup">
+- [JHarv613/CVE_2024_1086_vulnerability_check](https://github.com/JHarv613/CVE_2024_1086_vulnerability_check)	<img alt="forks" src="https://img.shields.io/github/forks/JHarv613/CVE_2024_1086_vulnerability_check">	<img alt="stars" src="https://img.shields.io/github/stars/JHarv613/CVE_2024_1086_vulnerability_check">
 
 ---
 ## CVE-2024-10858 ()
