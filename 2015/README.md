@@ -1127,6 +1127,11 @@
 - [ScottyBauer/CVE-2015-1318](https://github.com/ScottyBauer/CVE-2015-1318)	<img alt="forks" src="https://img.shields.io/github/forks/ScottyBauer/CVE-2015-1318">	<img alt="stars" src="https://img.shields.io/github/stars/ScottyBauer/CVE-2015-1318">
 
 ---
+## CVE-2015-1187 ()
+> 
+- [Flanbox/cve-2015-1187-dir820l-reproduction](https://github.com/Flanbox/cve-2015-1187-dir820l-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/Flanbox/cve-2015-1187-dir820l-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/Flanbox/cve-2015-1187-dir820l-reproduction">
+
+---
 ## CVE-2015-1157 ()
 > 
 - [perillamint/CVE-2015-1157](https://github.com/perillamint/CVE-2015-1157)	<img alt="forks" src="https://img.shields.io/github/forks/perillamint/CVE-2015-1157">	<img alt="stars" src="https://img.shields.io/github/stars/perillamint/CVE-2015-1157">

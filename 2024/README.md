@@ -4157,6 +4157,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss](https://github.com/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiesec0x1/CVE-2024-4367-PDF.js-xss">
 - [J1nKsC/CVE-2024-4367_test](https://github.com/J1nKsC/CVE-2024-4367_test)	<img alt="forks" src="https://img.shields.io/github/forks/J1nKsC/CVE-2024-4367_test">	<img alt="stars" src="https://img.shields.io/github/stars/J1nKsC/CVE-2024-4367_test">
 - [veronimo669/pdf.js-CVE-2024-4367](https://github.com/veronimo669/pdf.js-CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/veronimo669/pdf.js-CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/veronimo669/pdf.js-CVE-2024-4367">
+- [Nishab-Khatiwada/cve_2024_4367_poc.pdf](https://github.com/Nishab-Khatiwada/cve_2024_4367_poc.pdf)	<img alt="forks" src="https://img.shields.io/github/forks/Nishab-Khatiwada/cve_2024_4367_poc.pdf">	<img alt="stars" src="https://img.shields.io/github/stars/Nishab-Khatiwada/cve_2024_4367_poc.pdf">
 
 ---
 ## CVE-2024-43639 ()
@@ -7143,6 +7144,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [chengfeng30121/CVE-2024-31317-PoC](https://github.com/chengfeng30121/CVE-2024-31317-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/chengfeng30121/CVE-2024-31317-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/chengfeng30121/CVE-2024-31317-PoC">
 - [vnescape/zygote-CVE-2024-31317](https://github.com/vnescape/zygote-CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/vnescape/zygote-CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/vnescape/zygote-CVE-2024-31317">
 - [GitAmanS/ZygoteExploitDemo](https://github.com/GitAmanS/ZygoteExploitDemo)	<img alt="forks" src="https://img.shields.io/github/forks/GitAmanS/ZygoteExploitDemo">	<img alt="stars" src="https://img.shields.io/github/stars/GitAmanS/ZygoteExploitDemo">
+- [Tinnci/cve-2024-31317](https://github.com/Tinnci/cve-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/Tinnci/cve-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/Tinnci/cve-2024-31317">
 
 ---
 ## CVE-2024-31286 (2024-04-07T18:15:00)
@@ -8599,6 +8601,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [cmpnn-romain/CVE-2024-27198_Lab](https://github.com/cmpnn-romain/CVE-2024-27198_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/cmpnn-romain/CVE-2024-27198_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/cmpnn-romain/CVE-2024-27198_Lab">
 - [Ne0zer01/CVE-2024-27198_LAB](https://github.com/Ne0zer01/CVE-2024-27198_LAB)	<img alt="forks" src="https://img.shields.io/github/forks/Ne0zer01/CVE-2024-27198_LAB">	<img alt="stars" src="https://img.shields.io/github/stars/Ne0zer01/CVE-2024-27198_LAB">
 - [ptd200110/CVE-2024-27198-SOC-Lab](https://github.com/ptd200110/CVE-2024-27198-SOC-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/ptd200110/CVE-2024-27198-SOC-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/ptd200110/CVE-2024-27198-SOC-Lab">
+- [BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-](https://github.com/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-)	<img alt="forks" src="https://img.shields.io/github/forks/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-">	<img alt="stars" src="https://img.shields.io/github/stars/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-">
 
 ---
 ## CVE-2024-27191 (2024-04-03T12:15:00)
