@@ -74,6 +74,11 @@
 - [andikahilmy/CVE-2020-9546-jackson-databind-vulnerable](https://github.com/andikahilmy/CVE-2020-9546-jackson-databind-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2020-9546-jackson-databind-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2020-9546-jackson-databind-vulnerable">
 
 ---
+## CVE-2020-9529 ()
+> 
+- [prisect/hichipreset](https://github.com/prisect/hichipreset)	<img alt="forks" src="https://img.shields.io/github/forks/prisect/hichipreset">	<img alt="stars" src="https://img.shields.io/github/stars/prisect/hichipreset">
+
+---
 ## CVE-2020-9496 (2020-07-15T16:15:00)
 > XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03
 - [Ly0nt4r/CVE-2020-9496](https://github.com/Ly0nt4r/CVE-2020-9496)	<img alt="forks" src="https://img.shields.io/github/forks/Ly0nt4r/CVE-2020-9496">	<img alt="stars" src="https://img.shields.io/github/stars/Ly0nt4r/CVE-2020-9496">

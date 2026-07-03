@@ -3129,6 +3129,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [Least-Significant-Bit/CVE-2023-4220](https://github.com/Least-Significant-Bit/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/Least-Significant-Bit/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/Least-Significant-Bit/CVE-2023-4220">
 - [Sn0wBaall/CVE-2023-4220-PoC](https://github.com/Sn0wBaall/CVE-2023-4220-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sn0wBaall/CVE-2023-4220-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sn0wBaall/CVE-2023-4220-PoC">
 - [SpeatX/ChamiloLMS-cve-2023-4220](https://github.com/SpeatX/ChamiloLMS-cve-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/SpeatX/ChamiloLMS-cve-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/SpeatX/ChamiloLMS-cve-2023-4220">
+- [RandyNin/CVE-2023-4220](https://github.com/RandyNin/CVE-2023-4220)	<img alt="forks" src="https://img.shields.io/github/forks/RandyNin/CVE-2023-4220">	<img alt="stars" src="https://img.shields.io/github/stars/RandyNin/CVE-2023-4220">
 
 ---
 ## CVE-2023-422 ()
@@ -8055,6 +8056,12 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [dr-cable-tv/Geoserver-CVE-2023-25157](https://github.com/dr-cable-tv/Geoserver-CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/dr-cable-tv/Geoserver-CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/dr-cable-tv/Geoserver-CVE-2023-25157">
 - [custiya/geoserver-CVE-2023-25157](https://github.com/custiya/geoserver-CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/custiya/geoserver-CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/custiya/geoserver-CVE-2023-25157">
 - [charis3306/CVE-2023-25157](https://github.com/charis3306/CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/charis3306/CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/charis3306/CVE-2023-25157">
+
+---
+## CVE-2023-25155 ()
+> 
+- [qwqqaqqwq00/opensource_defect_repare_cc](https://github.com/qwqqaqqwq00/opensource_defect_repare_cc)	<img alt="forks" src="https://img.shields.io/github/forks/qwqqaqqwq00/opensource_defect_repare_cc">	<img alt="stars" src="https://img.shields.io/github/stars/qwqqaqqwq00/opensource_defect_repare_cc">
+- [qwqqaqqwq00/opensource_defect_repair_cc](https://github.com/qwqqaqqwq00/opensource_defect_repair_cc)	<img alt="forks" src="https://img.shields.io/github/forks/qwqqaqqwq00/opensource_defect_repair_cc">	<img alt="stars" src="https://img.shields.io/github/stars/qwqqaqqwq00/opensource_defect_repair_cc">
 
 ---
 ## CVE-2023-25153 (2023-02-16T15:15:00)

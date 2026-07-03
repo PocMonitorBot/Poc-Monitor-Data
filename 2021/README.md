@@ -9553,6 +9553,11 @@
 - [xiaopan233/Mybb-XSS_SQL_RCE-POC](https://github.com/xiaopan233/Mybb-XSS_SQL_RCE-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xiaopan233/Mybb-XSS_SQL_RCE-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xiaopan233/Mybb-XSS_SQL_RCE-POC">
 
 ---
+## CVE-2021-27877 ()
+> 
+- [yashswarup12/CVE-2021-27877-PoC](https://github.com/yashswarup12/CVE-2021-27877-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/yashswarup12/CVE-2021-27877-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/yashswarup12/CVE-2021-27877-PoC">
+
+---
 ## CVE-2021-27876 ()
 > 
 - [wingerbijay/CVE-2021-27876](https://github.com/wingerbijay/CVE-2021-27876)	<img alt="forks" src="https://img.shields.io/github/forks/wingerbijay/CVE-2021-27876">	<img alt="stars" src="https://img.shields.io/github/stars/wingerbijay/CVE-2021-27876">
@@ -12724,6 +12729,7 @@
 ## CVE-2021-1931 ()
 > 
 - [FakeShell/CVE-2021-1931-BBRY-KEY2](https://github.com/FakeShell/CVE-2021-1931-BBRY-KEY2)	<img alt="forks" src="https://img.shields.io/github/forks/FakeShell/CVE-2021-1931-BBRY-KEY2">	<img alt="stars" src="https://img.shields.io/github/stars/FakeShell/CVE-2021-1931-BBRY-KEY2">
+- [aomsin2526/xperia_5_bl_unlocker_poc](https://github.com/aomsin2526/xperia_5_bl_unlocker_poc)	<img alt="forks" src="https://img.shields.io/github/forks/aomsin2526/xperia_5_bl_unlocker_poc">	<img alt="stars" src="https://img.shields.io/github/stars/aomsin2526/xperia_5_bl_unlocker_poc">
 
 ---
 ## CVE-2021-1905 ()
