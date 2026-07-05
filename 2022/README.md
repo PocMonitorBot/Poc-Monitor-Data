@@ -22540,6 +22540,7 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [kh4sh3i/Webmin-CVE](https://github.com/kh4sh3i/Webmin-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/Webmin-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/Webmin-CVE">
 - [Live-Hack-CVE/CVE-2022-36446](https://github.com/Live-Hack-CVE/CVE-2022-36446)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36446">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36446">
 - [Kang3639/CVE-2022-36446](https://github.com/Kang3639/CVE-2022-36446)	<img alt="forks" src="https://img.shields.io/github/forks/Kang3639/CVE-2022-36446">	<img alt="stars" src="https://img.shields.io/github/stars/Kang3639/CVE-2022-36446">
+- [darnabin/CVE-2022-36446-Webmin-RCE](https://github.com/darnabin/CVE-2022-36446-Webmin-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/darnabin/CVE-2022-36446-Webmin-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/darnabin/CVE-2022-36446-Webmin-RCE">
 
 ---
 ## CVE-2022-3644 (2022-10-25T18:15:00)
@@ -23445,6 +23446,12 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 ## CVE-2022-36022 (2022-11-10T18:15:00)
 > Deeplearning4J is a suite of tools for deploying and training deep learning models using the JVM. Packages org.deeplearning4j:dl4j-examples and org.deeplearning4j:platform-tests through version 1.0.0-M2.1 may use some unclaimed S3 buckets in tests in examples. This is likely affect people who use some older NLP examples that reference an old S3 bucket. The problem has been patched. Users should upgrade to snapshots as Deeplearning4J plan to publish a release with the fix at a later date. As a workaround, download a word2vec google news vector from a new source using git lfs from here.
 - [Live-Hack-CVE/CVE-2022-36022](https://github.com/Live-Hack-CVE/CVE-2022-36022)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-36022">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-36022">
+
+---
+## CVE-2022-36021 ()
+> 
+- [qwqqaqqwq00/opensource_defect_repair_cc](https://github.com/qwqqaqqwq00/opensource_defect_repair_cc)	<img alt="forks" src="https://img.shields.io/github/forks/qwqqaqqwq00/opensource_defect_repair_cc">	<img alt="stars" src="https://img.shields.io/github/stars/qwqqaqqwq00/opensource_defect_repair_cc">
+- [qwqqaqqwq00/opensource_defect_repare_cc](https://github.com/qwqqaqqwq00/opensource_defect_repare_cc)	<img alt="forks" src="https://img.shields.io/github/forks/qwqqaqqwq00/opensource_defect_repare_cc">	<img alt="stars" src="https://img.shields.io/github/stars/qwqqaqqwq00/opensource_defect_repare_cc">
 
 ---
 ## CVE-2022-36020 (2022-09-13T17:15:00)

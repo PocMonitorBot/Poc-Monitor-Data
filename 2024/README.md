@@ -7085,6 +7085,8 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-31449 ()
 > 
 - [daeseong1209/CVE-2024-31449](https://github.com/daeseong1209/CVE-2024-31449)	<img alt="forks" src="https://img.shields.io/github/forks/daeseong1209/CVE-2024-31449">	<img alt="stars" src="https://img.shields.io/github/stars/daeseong1209/CVE-2024-31449">
+- [qwqqaqqwq00/opensource_defect_repair_cc](https://github.com/qwqqaqqwq00/opensource_defect_repair_cc)	<img alt="forks" src="https://img.shields.io/github/forks/qwqqaqqwq00/opensource_defect_repair_cc">	<img alt="stars" src="https://img.shields.io/github/stars/qwqqaqqwq00/opensource_defect_repair_cc">
+- [qwqqaqqwq00/opensource_defect_repare_cc](https://github.com/qwqqaqqwq00/opensource_defect_repare_cc)	<img alt="forks" src="https://img.shields.io/github/forks/qwqqaqqwq00/opensource_defect_repare_cc">	<img alt="stars" src="https://img.shields.io/github/stars/qwqqaqqwq00/opensource_defect_repare_cc">
 
 ---
 ## CVE-2024-31380 (2024-04-03T12:15:00)
@@ -7968,6 +7970,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 ## CVE-2024-29415 ()
 > 
 - [felipecruz91/node-ip-vex](https://github.com/felipecruz91/node-ip-vex)	<img alt="forks" src="https://img.shields.io/github/forks/felipecruz91/node-ip-vex">	<img alt="stars" src="https://img.shields.io/github/stars/felipecruz91/node-ip-vex">
+- [bybraveHQ/ip2](https://github.com/bybraveHQ/ip2)	<img alt="forks" src="https://img.shields.io/github/forks/bybraveHQ/ip2">	<img alt="stars" src="https://img.shields.io/github/stars/bybraveHQ/ip2">
 
 ---
 ## CVE-2024-29404 (2024-12-03T17:15:00)
@@ -10588,6 +10591,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability">
 - [KaiHaoChen04/monikerlinktest](https://github.com/KaiHaoChen04/monikerlinktest)	<img alt="forks" src="https://img.shields.io/github/forks/KaiHaoChen04/monikerlinktest">	<img alt="stars" src="https://img.shields.io/github/stars/KaiHaoChen04/monikerlinktest">
 - [H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research](https://github.com/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research)	<img alt="forks" src="https://img.shields.io/github/forks/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research">	<img alt="stars" src="https://img.shields.io/github/stars/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research">
+- [YoguiCR/CVE-2024-21413-Outlook-Assessment](https://github.com/YoguiCR/CVE-2024-21413-Outlook-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/YoguiCR/CVE-2024-21413-Outlook-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/YoguiCR/CVE-2024-21413-Outlook-Assessment">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
@@ -11067,6 +11071,7 @@ This is possible because the application is vulnerable to insecure deserializati
 > An issue was discovered in gradio-app/gradio, where the `/component_server` endpoint improperly allows the invocation of any method on a `Component` class with attacker-controlled arguments. Specifically, by exploiting the `move_resource_to_block_cache()` method of the `Block` class, an attacker can copy any file on the filesystem to a temporary directory and subsequently retrieve it. This vulnerability enables unauthorized local file read access, posing a significant risk especially when the application is exposed to the internet via `launch(share=True)`, thereby allowing remote attackers to read files on the host machine. Furthermore, gradio apps hosted on `huggingface.co` are also affected, potentially leading to the exposure of sensitive information such as API keys and credentials stored in environment variables.
 - [DiabloHTB/CVE-2024-1561](https://github.com/DiabloHTB/CVE-2024-1561)	<img alt="forks" src="https://img.shields.io/github/forks/DiabloHTB/CVE-2024-1561">	<img alt="stars" src="https://img.shields.io/github/stars/DiabloHTB/CVE-2024-1561">
 - [DiabloHTB/Nuclei-Template-CVE-2024-1561](https://github.com/DiabloHTB/Nuclei-Template-CVE-2024-1561)	<img alt="forks" src="https://img.shields.io/github/forks/DiabloHTB/Nuclei-Template-CVE-2024-1561">	<img alt="stars" src="https://img.shields.io/github/stars/DiabloHTB/Nuclei-Template-CVE-2024-1561">
+- [K3ysTr0K3R/CVE-2024-1561](https://github.com/K3ysTr0K3R/CVE-2024-1561)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-1561">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-1561">
 
 ---
 ## CVE-2024-1512 (2024-02-17T08:15:00)

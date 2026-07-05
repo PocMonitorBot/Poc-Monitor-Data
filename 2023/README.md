@@ -315,6 +315,11 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [RonF98/CVE-2023-6000-POC](https://github.com/RonF98/CVE-2023-6000-POC)	<img alt="forks" src="https://img.shields.io/github/forks/RonF98/CVE-2023-6000-POC">	<img alt="stars" src="https://img.shields.io/github/stars/RonF98/CVE-2023-6000-POC">
 
 ---
+## CVE-2023-5968 ()
+> 
+- [Curtail-Inc/hello-ReGrade-security](https://github.com/Curtail-Inc/hello-ReGrade-security)	<img alt="forks" src="https://img.shields.io/github/forks/Curtail-Inc/hello-ReGrade-security">	<img alt="stars" src="https://img.shields.io/github/stars/Curtail-Inc/hello-ReGrade-security">
+
+---
 ## CVE-2023-5966 (2023-11-30T14:15:00)
 > An authenticated privileged attacker could upload a specially crafted zip to the EspoCRM server in version 7.2.5, via the extension deployment form, which could lead to arbitrary PHP code execution.
 - [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966)	<img alt="forks" src="https://img.shields.io/github/forks/pedrojosenavasperez/cve-2023-5966">	<img alt="stars" src="https://img.shields.io/github/stars/pedrojosenavasperez/cve-2023-5966">
@@ -11758,6 +11763,7 @@ For more details, please review the linked advisory on this CVE.
 - [radoi-teodor/CVE-2023-21768-DSE-Bypass](https://github.com/radoi-teodor/CVE-2023-21768-DSE-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/radoi-teodor/CVE-2023-21768-DSE-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/radoi-teodor/CVE-2023-21768-DSE-Bypass">
 - [Feede33/Windows-11-Exploit](https://github.com/Feede33/Windows-11-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Feede33/Windows-11-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Feede33/Windows-11-Exploit">
 - [r4uzn/CVE-2023-21768](https://github.com/r4uzn/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/r4uzn/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/r4uzn/CVE-2023-21768">
+- [ivanovick1/Windows_AFD_LPE_CVE-2023-21768](https://github.com/ivanovick1/Windows_AFD_LPE_CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/ivanovick1/Windows_AFD_LPE_CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/ivanovick1/Windows_AFD_LPE_CVE-2023-21768">
 
 ---
 ## CVE-2023-21767 (2023-01-10T22:15:00)

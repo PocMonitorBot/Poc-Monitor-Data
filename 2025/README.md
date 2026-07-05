@@ -884,6 +884,7 @@
 - [alaeddine03/CVE-2025-69212-PoC](https://github.com/alaeddine03/CVE-2025-69212-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/alaeddine03/CVE-2025-69212-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/alaeddine03/CVE-2025-69212-PoC">
 - [m2sousa/CVE-2025-69212](https://github.com/m2sousa/CVE-2025-69212)	<img alt="forks" src="https://img.shields.io/github/forks/m2sousa/CVE-2025-69212">	<img alt="stars" src="https://img.shields.io/github/stars/m2sousa/CVE-2025-69212">
 - [c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212">
+- [0Zetrium0/CVE-2025-69212_PoC](https://github.com/0Zetrium0/CVE-2025-69212_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0Zetrium0/CVE-2025-69212_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0Zetrium0/CVE-2025-69212_PoC">
 
 ---
 ## CVE-2025-69194 ()
@@ -1086,6 +1087,11 @@
 ## CVE-2025-68147 ()
 > 
 - [Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS](https://github.com/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/Nixon-H/CVE-2025-68147-OSPOS-Stored-XSS">
+
+---
+## CVE-2025-68143 ()
+> 
+- [mcp-guard76/mcp-guard](https://github.com/mcp-guard76/mcp-guard)	<img alt="forks" src="https://img.shields.io/github/forks/mcp-guard76/mcp-guard">	<img alt="stars" src="https://img.shields.io/github/stars/mcp-guard76/mcp-guard">
 
 ---
 ## CVE-2025-68120 ()
