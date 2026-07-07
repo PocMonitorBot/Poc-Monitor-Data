@@ -8075,6 +8075,7 @@
 - [honeyb33z/cve-2020-11023-scanner](https://github.com/honeyb33z/cve-2020-11023-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/honeyb33z/cve-2020-11023-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/honeyb33z/cve-2020-11023-scanner">
 - [towaos/towaos-lab-cve-2020-11023](https://github.com/towaos/towaos-lab-cve-2020-11023)	<img alt="forks" src="https://img.shields.io/github/forks/towaos/towaos-lab-cve-2020-11023">	<img alt="stars" src="https://img.shields.io/github/stars/towaos/towaos-lab-cve-2020-11023">
 - [paktiko1986/pocpoc_bypass_cve_2020-11023](https://github.com/paktiko1986/pocpoc_bypass_cve_2020-11023)	<img alt="forks" src="https://img.shields.io/github/forks/paktiko1986/pocpoc_bypass_cve_2020-11023">	<img alt="stars" src="https://img.shields.io/github/stars/paktiko1986/pocpoc_bypass_cve_2020-11023">
+- [GarlicB/jquery35-local-agent](https://github.com/GarlicB/jquery35-local-agent)	<img alt="forks" src="https://img.shields.io/github/forks/GarlicB/jquery35-local-agent">	<img alt="stars" src="https://img.shields.io/github/stars/GarlicB/jquery35-local-agent">
 
 ---
 ## CVE-2020-11022 (2020-04-29T22:15:00)

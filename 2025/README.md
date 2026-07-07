@@ -2706,6 +2706,7 @@
 > 
 - [pollotherunner/CVE-2025-61155](https://github.com/pollotherunner/CVE-2025-61155)	<img alt="forks" src="https://img.shields.io/github/forks/pollotherunner/CVE-2025-61155">	<img alt="stars" src="https://img.shields.io/github/stars/pollotherunner/CVE-2025-61155">
 - [sys0xFF/CVE-2025-61155](https://github.com/sys0xFF/CVE-2025-61155)	<img alt="forks" src="https://img.shields.io/github/forks/sys0xFF/CVE-2025-61155">	<img alt="stars" src="https://img.shields.io/github/stars/sys0xFF/CVE-2025-61155">
+- [I3r1h0n/Sigurd](https://github.com/I3r1h0n/Sigurd)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/Sigurd">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/Sigurd">
 
 ---
 ## CVE-2025-61148 ()
@@ -3107,6 +3108,11 @@
 ## CVE-2025-59390 ()
 > 
 - [Daeda1usUK/CVE-2025-59390-](https://github.com/Daeda1usUK/CVE-2025-59390-)	<img alt="forks" src="https://img.shields.io/github/forks/Daeda1usUK/CVE-2025-59390-">	<img alt="stars" src="https://img.shields.io/github/stars/Daeda1usUK/CVE-2025-59390-">
+
+---
+## CVE-2025-59382 ()
+> 
+- [Rat5ak/CVE-2025-59382-QNAP-Password-Reset-Account-Takeover](https://github.com/Rat5ak/CVE-2025-59382-QNAP-Password-Reset-Account-Takeover)	<img alt="forks" src="https://img.shields.io/github/forks/Rat5ak/CVE-2025-59382-QNAP-Password-Reset-Account-Takeover">	<img alt="stars" src="https://img.shields.io/github/stars/Rat5ak/CVE-2025-59382-QNAP-Password-Reset-Account-Takeover">
 
 ---
 ## CVE-2025-59376 ()
@@ -4706,6 +4712,7 @@
 - [solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182](https://github.com/solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/solidevil14/Suricata-Rule-for-Detecting-CVE-2025-55182">
 - [Yyax13/CVE-2025-55182](https://github.com/Yyax13/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Yyax13/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Yyax13/CVE-2025-55182">
 - [aseemyash/krle](https://github.com/aseemyash/krle)	<img alt="forks" src="https://img.shields.io/github/forks/aseemyash/krle">	<img alt="stars" src="https://img.shields.io/github/stars/aseemyash/krle">
+- [diamorphine666/React2shell-CVE-2025-55182-Exploit](https://github.com/diamorphine666/React2shell-CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/React2shell-CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/React2shell-CVE-2025-55182-Exploit">
 
 ---
 ## CVE-2025-55177 ()
@@ -4926,6 +4933,7 @@
 - [brito101/session_reaper_lab](https://github.com/brito101/session_reaper_lab)	<img alt="forks" src="https://img.shields.io/github/forks/brito101/session_reaper_lab">	<img alt="stars" src="https://img.shields.io/github/stars/brito101/session_reaper_lab">
 - [nocerainfosec/polyshellv2.0](https://github.com/nocerainfosec/polyshellv2.0)	<img alt="forks" src="https://img.shields.io/github/forks/nocerainfosec/polyshellv2.0">	<img alt="stars" src="https://img.shields.io/github/stars/nocerainfosec/polyshellv2.0">
 - [qoliber/magento-open-source-security](https://github.com/qoliber/magento-open-source-security)	<img alt="forks" src="https://img.shields.io/github/forks/qoliber/magento-open-source-security">	<img alt="stars" src="https://img.shields.io/github/stars/qoliber/magento-open-source-security">
+- [Dx3iZ/CVE-2025-54236](https://github.com/Dx3iZ/CVE-2025-54236)	<img alt="forks" src="https://img.shields.io/github/forks/Dx3iZ/CVE-2025-54236">	<img alt="stars" src="https://img.shields.io/github/stars/Dx3iZ/CVE-2025-54236">
 
 ---
 ## CVE-2025-5419 ()
@@ -8221,6 +8229,7 @@
 - [gmh5225/Blackash-CVE-2025-32463](https://github.com/gmh5225/Blackash-CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/Blackash-CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/Blackash-CVE-2025-32463">
 - [khoazero123/CVE-2025-32463](https://github.com/khoazero123/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/khoazero123/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/khoazero123/CVE-2025-32463">
 - [12bijaya/CVE-2025-32463](https://github.com/12bijaya/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/12bijaya/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/12bijaya/CVE-2025-32463">
+- [secvulnhub/CVE-2025-32463-EXPLOIT](https://github.com/secvulnhub/CVE-2025-32463-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/secvulnhub/CVE-2025-32463-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/secvulnhub/CVE-2025-32463-EXPLOIT">
 
 ---
 ## CVE-2025-32462 ()
@@ -10850,6 +10859,11 @@
 > 
 - [Burak1320demiroz/cve-2025-2082](https://github.com/Burak1320demiroz/cve-2025-2082)	<img alt="forks" src="https://img.shields.io/github/forks/Burak1320demiroz/cve-2025-2082">	<img alt="stars" src="https://img.shields.io/github/stars/Burak1320demiroz/cve-2025-2082">
 - [shirabo/cve-2025-2082-POV](https://github.com/shirabo/cve-2025-2082-POV)	<img alt="forks" src="https://img.shields.io/github/forks/shirabo/cve-2025-2082-POV">	<img alt="stars" src="https://img.shields.io/github/stars/shirabo/cve-2025-2082-POV">
+
+---
+## CVE-2025-20700 ()
+> 
+- [SpiritualMachines/buds-audit](https://github.com/SpiritualMachines/buds-audit)	<img alt="forks" src="https://img.shields.io/github/forks/SpiritualMachines/buds-audit">	<img alt="stars" src="https://img.shields.io/github/stars/SpiritualMachines/buds-audit">
 
 ---
 ## CVE-2025-20393 ()

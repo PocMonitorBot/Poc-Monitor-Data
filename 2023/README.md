@@ -697,6 +697,7 @@ We recommend users to:
 - [saarcastified/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC](https://github.com/saarcastified/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/saarcastified/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/saarcastified/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC">
 - [runooovb/CVE-2023-51385test](https://github.com/runooovb/CVE-2023-51385test)	<img alt="forks" src="https://img.shields.io/github/forks/runooovb/CVE-2023-51385test">	<img alt="stars" src="https://img.shields.io/github/stars/runooovb/CVE-2023-51385test">
 - [selecthch/CVE-2023-51385](https://github.com/selecthch/CVE-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/selecthch/CVE-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/selecthch/CVE-2023-51385">
+- [LSP1025923/cve-2023-51385](https://github.com/LSP1025923/cve-2023-51385)	<img alt="forks" src="https://img.shields.io/github/forks/LSP1025923/cve-2023-51385">	<img alt="stars" src="https://img.shields.io/github/stars/LSP1025923/cve-2023-51385">
 
 ---
 ## CVE-2023-51281 (2024-03-07T01:15:00)
@@ -6054,7 +6055,7 @@ Fixed in version 6.4.1.
 - [tangxiaofeng7/CVE-2023-32315-Openfire-Bypass](https://github.com/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass)	<img alt="forks" src="https://img.shields.io/github/forks/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass">	<img alt="stars" src="https://img.shields.io/github/stars/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass">
 - [5rGJ5aCh5oCq5YW9/CVE-2023-32315exp](https://github.com/5rGJ5aCh5oCq5YW9/CVE-2023-32315exp)	<img alt="forks" src="https://img.shields.io/github/forks/5rGJ5aCh5oCq5YW9/CVE-2023-32315exp">	<img alt="stars" src="https://img.shields.io/github/stars/5rGJ5aCh5oCq5YW9/CVE-2023-32315exp">
 - [miko550/CVE-2023-32315](https://github.com/miko550/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/miko550/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/miko550/CVE-2023-32315">
-- [ThatNotEasy/CVE-2023-32315](https://github.com/ThatNotEasy/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/ThatNotEasy/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/ThatNotEasy/CVE-2023-32315">
+- [Ap0dexMe0/CVE-2023-32315](https://github.com/Ap0dexMe0/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/Ap0dexMe0/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/Ap0dexMe0/CVE-2023-32315">
 - [izzz0/CVE-2023-32315-POC](https://github.com/izzz0/CVE-2023-32315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/izzz0/CVE-2023-32315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/izzz0/CVE-2023-32315-POC">
 - [gibran-abdillah/CVE-2023-32315](https://github.com/gibran-abdillah/CVE-2023-32315)	<img alt="forks" src="https://img.shields.io/github/forks/gibran-abdillah/CVE-2023-32315">	<img alt="stars" src="https://img.shields.io/github/stars/gibran-abdillah/CVE-2023-32315">
 - [bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools)	<img alt="forks" src="https://img.shields.io/github/forks/bingtangbanli/VulnerabilityTools">	<img alt="stars" src="https://img.shields.io/github/stars/bingtangbanli/VulnerabilityTools">
@@ -10518,6 +10519,11 @@ For more details, please review the linked advisory on this CVE.
 ## CVE-2023-22499 (2023-01-17T21:15:00)
 > Deno is a runtime for JavaScript and TypeScript that uses V8 and is built in Rust. Multi-threaded programs were able to spoof interactive permission prompt by rewriting the prompt to suggest that program is waiting on user confirmation to unrelated action. A malicious program could clear the terminal screen after permission prompt was shown and write a generic message. This situation impacts users who use Web Worker API and relied on interactive permission prompt. The reproduction is very timing sensitive and can’t be reliably reproduced on every try. This problem can not be exploited on systems that do not attach an interactive prompt (for example headless servers). The problem has been fixed in Deno v1.29.3; it is recommended all users update to this version. Users are advised to upgrade. Users unable to upgrade may run with --no-prompt flag to disable interactive permission prompts.
 - [Live-Hack-CVE/CVE-2023-22499](https://github.com/Live-Hack-CVE/CVE-2023-22499)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-22499">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-22499">
+
+---
+## CVE-2023-22496 ()
+> 
+- [jstjep00/CVE-2023-22496-PoC](https://github.com/jstjep00/CVE-2023-22496-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jstjep00/CVE-2023-22496-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jstjep00/CVE-2023-22496-PoC">
 
 ---
 ## CVE-2023-22494 (2023-01-13T16:15:00)
