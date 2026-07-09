@@ -98,6 +98,8 @@
 - [limkokholefork/CVE-2011-3192](https://github.com/limkokholefork/CVE-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/limkokholefork/CVE-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/limkokholefork/CVE-2011-3192">
 - [tkisason/KillApachePy](https://github.com/tkisason/KillApachePy)	<img alt="forks" src="https://img.shields.io/github/forks/tkisason/KillApachePy">	<img alt="stars" src="https://img.shields.io/github/stars/tkisason/KillApachePy">
 - [futurezayka/CVE-2011-3192](https://github.com/futurezayka/CVE-2011-3192)	<img alt="forks" src="https://img.shields.io/github/forks/futurezayka/CVE-2011-3192">	<img alt="stars" src="https://img.shields.io/github/stars/futurezayka/CVE-2011-3192">
+- [bluedragonsecurity/CVE-2011-3192-apache-exploit](https://github.com/bluedragonsecurity/CVE-2011-3192-apache-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2011-3192-apache-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2011-3192-apache-exploit">
+- [Xinjis/Apache_ByteRange_DoS_cve_2011_3192](https://github.com/Xinjis/Apache_ByteRange_DoS_cve_2011_3192)	<img alt="forks" src="https://img.shields.io/github/forks/Xinjis/Apache_ByteRange_DoS_cve_2011_3192">	<img alt="stars" src="https://img.shields.io/github/stars/Xinjis/Apache_ByteRange_DoS_cve_2011_3192">
 
 ---
 ## CVE-2011-3026 ()
@@ -238,6 +240,7 @@
 ## CVE-2011-1485 ()
 > 
 - [Pashkela/CVE-2011-1485](https://github.com/Pashkela/CVE-2011-1485)	<img alt="forks" src="https://img.shields.io/github/forks/Pashkela/CVE-2011-1485">	<img alt="stars" src="https://img.shields.io/github/stars/Pashkela/CVE-2011-1485">
+- [bluedragonsecurity/CVE-2011-1485-pkexec-exploit](https://github.com/bluedragonsecurity/CVE-2011-1485-pkexec-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bluedragonsecurity/CVE-2011-1485-pkexec-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bluedragonsecurity/CVE-2011-1485-pkexec-exploit">
 
 ---
 ## CVE-2011-1475 ()

@@ -2982,9 +2982,10 @@ Here we only need to move the of_node_put() before the check.
 - [Live-Hack-CVE/CVE-2022-46364](https://github.com/Live-Hack-CVE/CVE-2022-46364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-46364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-46364">
 - [kasem545/CVE-2022-46364-Poc](https://github.com/kasem545/CVE-2022-46364-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/kasem545/CVE-2022-46364-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/kasem545/CVE-2022-46364-Poc">
 - [Shashivanth009/CVE-2022-46364---Apache-CXF-XOP-Include-LFI-PoC](https://github.com/Shashivanth009/CVE-2022-46364---Apache-CXF-XOP-Include-LFI-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Shashivanth009/CVE-2022-46364---Apache-CXF-XOP-Include-LFI-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Shashivanth009/CVE-2022-46364---Apache-CXF-XOP-Include-LFI-PoC">
-- [cybermaksxx/CVE-2022-46364-Proof-of-the-concept](https://github.com/cybermaksxx/CVE-2022-46364-Proof-of-the-concept)	<img alt="forks" src="https://img.shields.io/github/forks/cybermaksxx/CVE-2022-46364-Proof-of-the-concept">	<img alt="stars" src="https://img.shields.io/github/stars/cybermaksxx/CVE-2022-46364-Proof-of-the-concept">
+- [cybermaksx/CVE-2022-46364-Proof-of-the-concept](https://github.com/cybermaksx/CVE-2022-46364-Proof-of-the-concept)	<img alt="forks" src="https://img.shields.io/github/forks/cybermaksx/CVE-2022-46364-Proof-of-the-concept">	<img alt="stars" src="https://img.shields.io/github/stars/cybermaksx/CVE-2022-46364-Proof-of-the-concept">
 - [0xmid00/CVE-2022-46364-poc](https://github.com/0xmid00/CVE-2022-46364-poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xmid00/CVE-2022-46364-poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xmid00/CVE-2022-46364-poc">
 - [jwsly12/CVE-2022-46364-htb-ctf](https://github.com/jwsly12/CVE-2022-46364-htb-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/jwsly12/CVE-2022-46364-htb-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/jwsly12/CVE-2022-46364-htb-ctf">
+- [c0gnit00/CVE-2022-46364](https://github.com/c0gnit00/CVE-2022-46364)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2022-46364">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2022-46364">
 
 ---
 ## CVE-2022-46363 (2022-12-13T15:15:00)
@@ -35409,6 +35410,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [trhacknon/CVE-2022-24706-CouchDB-Exploit](https://github.com/trhacknon/CVE-2022-24706-CouchDB-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-24706-CouchDB-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-24706-CouchDB-Exploit">
 - [LightningGod7/CVE-2022-24706-POC](https://github.com/LightningGod7/CVE-2022-24706-POC)	<img alt="forks" src="https://img.shields.io/github/forks/LightningGod7/CVE-2022-24706-POC">	<img alt="stars" src="https://img.shields.io/github/stars/LightningGod7/CVE-2022-24706-POC">
 - [becrevex/CVE-2022-24706](https://github.com/becrevex/CVE-2022-24706)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/CVE-2022-24706">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/CVE-2022-24706">
+- [junghyeonkum/CVE-2022-24706](https://github.com/junghyeonkum/CVE-2022-24706)	<img alt="forks" src="https://img.shields.io/github/forks/junghyeonkum/CVE-2022-24706">	<img alt="stars" src="https://img.shields.io/github/stars/junghyeonkum/CVE-2022-24706">
 
 ---
 ## CVE-2022-24702 ()
@@ -36918,6 +36920,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [Kuri119/CVE-2022-22965-Spring4Shell](https://github.com/Kuri119/CVE-2022-22965-Spring4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Kuri119/CVE-2022-22965-Spring4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Kuri119/CVE-2022-22965-Spring4Shell">
 - [sinjap/spring4shell](https://github.com/sinjap/spring4shell)	<img alt="forks" src="https://img.shields.io/github/forks/sinjap/spring4shell">	<img alt="stars" src="https://img.shields.io/github/stars/sinjap/spring4shell">
 - [anair-it/springshell-vuln-POC](https://github.com/anair-it/springshell-vuln-POC)	<img alt="forks" src="https://img.shields.io/github/forks/anair-it/springshell-vuln-POC">	<img alt="stars" src="https://img.shields.io/github/stars/anair-it/springshell-vuln-POC">
+- [RootEvil333/CVE-2022-22965](https://github.com/RootEvil333/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/RootEvil333/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/RootEvil333/CVE-2022-22965">
 
 ---
 ## CVE-2022-22963 (2022-04-01T23:15:00)
@@ -37015,6 +37018,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [secfb/CVE-2022-22954](https://github.com/secfb/CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/secfb/CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/secfb/CVE-2022-22954">
 - [amit-pathak009/CVE-2022-22954-PoC](https://github.com/amit-pathak009/CVE-2022-22954-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/amit-pathak009/CVE-2022-22954-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/amit-pathak009/CVE-2022-22954-PoC">
 - [nguyenv1nK/CVE-2022-22954](https://github.com/nguyenv1nK/CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/nguyenv1nK/CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/nguyenv1nK/CVE-2022-22954">
+- [nieldk/VMware-CVE-2022-22954](https://github.com/nieldk/VMware-CVE-2022-22954)	<img alt="forks" src="https://img.shields.io/github/forks/nieldk/VMware-CVE-2022-22954">	<img alt="stars" src="https://img.shields.io/github/stars/nieldk/VMware-CVE-2022-22954">
 
 ---
 ## CVE-2022-22948 (2022-03-29T18:15:00)

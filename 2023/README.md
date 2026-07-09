@@ -1474,6 +1474,11 @@ Users are recommended to upgrade to version 18.12.10
 - [Shcesama/cve-2023-4863-analysis](https://github.com/Shcesama/cve-2023-4863-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Shcesama/cve-2023-4863-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Shcesama/cve-2023-4863-analysis">
 
 ---
+## CVE-2023-4861 ()
+> 
+- [nomaisthere/CVE-2023-4861-PoC](https://github.com/nomaisthere/CVE-2023-4861-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nomaisthere/CVE-2023-4861-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nomaisthere/CVE-2023-4861-PoC">
+
+---
 ## CVE-2023-4842 ()
 > 
 - [B4ntGrim/Vuln_Exploitation_MegaQuagga_Pentest](https://github.com/B4ntGrim/Vuln_Exploitation_MegaQuagga_Pentest)	<img alt="forks" src="https://img.shields.io/github/forks/B4ntGrim/Vuln_Exploitation_MegaQuagga_Pentest">	<img alt="stars" src="https://img.shields.io/github/stars/B4ntGrim/Vuln_Exploitation_MegaQuagga_Pentest">
@@ -5437,6 +5442,11 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [miguelc49/CVE-2023-34458-1](https://github.com/miguelc49/CVE-2023-34458-1)	<img alt="forks" src="https://img.shields.io/github/forks/miguelc49/CVE-2023-34458-1">	<img alt="stars" src="https://img.shields.io/github/stars/miguelc49/CVE-2023-34458-1">
 
 ---
+## CVE-2023-34446 ()
+> 
+- [minsmiths/cve-2023-34446](https://github.com/minsmiths/cve-2023-34446)	<img alt="forks" src="https://img.shields.io/github/forks/minsmiths/cve-2023-34446">	<img alt="stars" src="https://img.shields.io/github/stars/minsmiths/cve-2023-34446">
+
+---
 ## CVE-2023-34362 (2023-06-02T14:15:00)
 > In Progress MOVEit Transfer before 2021.0.6 (13.0.6), 2021.1.4 (13.1.4), 2022.0.4 (14.0.4), 2022.1.5 (14.1.5), and 2023.0.1 (15.0.1), a SQL injection vulnerability has been found in the MOVEit Transfer web application that could allow an unauthenticated attacker to gain access to MOVEit Transfer's database. Depending on the database engine being used (MySQL, Microsoft SQL Server, or Azure SQL), an attacker may be able to infer information about the structure and contents of the database, and execute SQL statements that alter or delete database elements. NOTE: this is exploited in the wild in May and June 2023; exploitation of unpatched systems can occur via HTTP or HTTPS. All versions (e.g., 2020.0 and 2019x) before the five explicitly mentioned versions are affected, including older unsupported versions.
 - [deepinstinct/MOVEit_CVE-2023-34362_IOCs](https://github.com/deepinstinct/MOVEit_CVE-2023-34362_IOCs)	<img alt="forks" src="https://img.shields.io/github/forks/deepinstinct/MOVEit_CVE-2023-34362_IOCs">	<img alt="stars" src="https://img.shields.io/github/stars/deepinstinct/MOVEit_CVE-2023-34362_IOCs">
@@ -6296,6 +6306,11 @@ Fixed in version 6.4.1.
 ## CVE-2023-31497 ()
 > 
 - [0xInfection/EPScalate](https://github.com/0xInfection/EPScalate)	<img alt="forks" src="https://img.shields.io/github/forks/0xInfection/EPScalate">	<img alt="stars" src="https://img.shields.io/github/stars/0xInfection/EPScalate">
+
+---
+## CVE-2023-31488 ()
+> 
+- [ly1g3/cisco-CVE-2023-31488](https://github.com/ly1g3/cisco-CVE-2023-31488)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/cisco-CVE-2023-31488">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/cisco-CVE-2023-31488">
 
 ---
 ## CVE-2023-31446 (2024-01-10T03:15:00)
@@ -12939,6 +12954,7 @@ kernel memory, lateral privilege escalation, and container escape.
 ## CVE-2023-20696 ()
 > 
 - [kasnria001/pwnage24mtk](https://github.com/kasnria001/pwnage24mtk)	<img alt="forks" src="https://img.shields.io/github/forks/kasnria001/pwnage24mtk">	<img alt="stars" src="https://img.shields.io/github/stars/kasnria001/pwnage24mtk">
+- [wzy114514sb/pwnage24mtk](https://github.com/wzy114514sb/pwnage24mtk)	<img alt="forks" src="https://img.shields.io/github/forks/wzy114514sb/pwnage24mtk">	<img alt="stars" src="https://img.shields.io/github/stars/wzy114514sb/pwnage24mtk">
 
 ---
 ## CVE-2023-20598 (2023-10-17T14:15:00)
@@ -13189,6 +13205,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [Gill-Singh-A/CVE-2023-20198-Exploit](https://github.com/Gill-Singh-A/CVE-2023-20198-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Gill-Singh-A/CVE-2023-20198-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Gill-Singh-A/CVE-2023-20198-Exploit">
 - [telly251/forwardnetworksdemo](https://github.com/telly251/forwardnetworksdemo)	<img alt="forks" src="https://img.shields.io/github/forks/telly251/forwardnetworksdemo">	<img alt="stars" src="https://img.shields.io/github/stars/telly251/forwardnetworksdemo">
 - [charlesjson/CVE-2023-20198](https://github.com/charlesjson/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/charlesjson/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/charlesjson/CVE-2023-20198">
+- [abrahamsurf/CVE-2023-20198-Scanner](https://github.com/abrahamsurf/CVE-2023-20198-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/abrahamsurf/CVE-2023-20198-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/abrahamsurf/CVE-2023-20198-Scanner">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)
@@ -13209,6 +13226,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-2008 (2023-04-14T21:15:00)
 > A flaw was found in the Linux kernel's udmabuf device driver. The specific flaw exists within a fault handler. The issue results from the lack of proper validation of user-supplied data, which can result in a memory access past the end of an array. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of the kernel.
 - [bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008)	<img alt="forks" src="https://img.shields.io/github/forks/bluefrostsecurity/CVE-2023-2008">	<img alt="stars" src="https://img.shields.io/github/stars/bluefrostsecurity/CVE-2023-2008">
+
+---
+## CVE-2023-20075 ()
+> 
+- [ly1g3/cisco-CVE-2023-20075](https://github.com/ly1g3/cisco-CVE-2023-20075)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/cisco-CVE-2023-20075">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/cisco-CVE-2023-20075">
 
 ---
 ## CVE-2023-20073 (2023-04-05T16:15:00)
@@ -13260,6 +13282,11 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 ## CVE-2023-20019 (2023-01-20T07:15:00)
 > A vulnerability in the web-based management interface of Cisco BroadWorks Application Delivery Platform, Cisco BroadWorks Application Server, and Cisco BroadWorks Xtended Services Platform could allow an unauthenticated, remote attacker to conduct a cross-site scripting (XSS) attack against a user of the interface of an affected device. This vulnerability exists because the web-based management interface does not properly validate user-supplied input. An attacker could exploit this vulnerability by persuading a user of the interface to click a crafted link. A successful exploit could allow the attacker to execute arbitrary script code in the context of the affected interface or access sensitive, browser-based information.
 - [Live-Hack-CVE/CVE-2023-20019](https://github.com/Live-Hack-CVE/CVE-2023-20019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20019">
+
+---
+## CVE-2023-20009 ()
+> 
+- [ly1g3/cisco-CVE-2023-20009](https://github.com/ly1g3/cisco-CVE-2023-20009)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/cisco-CVE-2023-20009">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/cisco-CVE-2023-20009">
 
 ---
 ## CVE-2023-20007 (2023-01-20T07:15:00)
@@ -14575,6 +14602,7 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [karimelsheikh1/HTB-TwoMillion-Writeup](https://github.com/karimelsheikh1/HTB-TwoMillion-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-TwoMillion-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-TwoMillion-Writeup">
 - [pwncone/CVE-2023-0386-OverlayFS](https://github.com/pwncone/CVE-2023-0386-OverlayFS)	<img alt="forks" src="https://img.shields.io/github/forks/pwncone/CVE-2023-0386-OverlayFS">	<img alt="stars" src="https://img.shields.io/github/stars/pwncone/CVE-2023-0386-OverlayFS">
 - [anxs3c/TwoMillion-Machine](https://github.com/anxs3c/TwoMillion-Machine)	<img alt="forks" src="https://img.shields.io/github/forks/anxs3c/TwoMillion-Machine">	<img alt="stars" src="https://img.shields.io/github/stars/anxs3c/TwoMillion-Machine">
+- [Cosm3No1de/TwoMillion-HTB-Write-up](https://github.com/Cosm3No1de/TwoMillion-HTB-Write-up)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/TwoMillion-HTB-Write-up">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/TwoMillion-HTB-Write-up">
 
 ---
 ## CVE-2023-0385 (2023-01-18T15:15:00)
@@ -15216,6 +15244,16 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 ## CVE-2023-0097 (2023-01-30T21:15:00)
 > The Post Grid, Post Carousel, & List Category Posts WordPress plugin before 2.4.19 does not validate and escape some of its block options before outputting them back in a page/post where the block is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks.
 - [Live-Hack-CVE/CVE-2023-0097](https://github.com/Live-Hack-CVE/CVE-2023-0097)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0097">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0097">
+
+---
+## CVE-2023-0090 ()
+> 
+- [ly1g3/proofpoint-CVE-2023-0090](https://github.com/ly1g3/proofpoint-CVE-2023-0090)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/proofpoint-CVE-2023-0090">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/proofpoint-CVE-2023-0090">
+
+---
+## CVE-2023-0089 ()
+> 
+- [ly1g3/proofpoint-CVE-2023-0089](https://github.com/ly1g3/proofpoint-CVE-2023-0089)	<img alt="forks" src="https://img.shields.io/github/forks/ly1g3/proofpoint-CVE-2023-0089">	<img alt="stars" src="https://img.shields.io/github/stars/ly1g3/proofpoint-CVE-2023-0089">
 
 ---
 ## CVE-2023-0088 (2023-01-05T19:15:00)

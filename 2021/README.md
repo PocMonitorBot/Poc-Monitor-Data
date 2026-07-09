@@ -2763,6 +2763,7 @@
 - [waterrr/noPac](https://github.com/waterrr/noPac)	<img alt="forks" src="https://img.shields.io/github/forks/waterrr/noPac">	<img alt="stars" src="https://img.shields.io/github/stars/waterrr/noPac">
 - [ly4k/Pachine](https://github.com/ly4k/Pachine)	<img alt="forks" src="https://img.shields.io/github/forks/ly4k/Pachine">	<img alt="stars" src="https://img.shields.io/github/stars/ly4k/Pachine">
 - [cybersecurityworks553/noPac-detection](https://github.com/cybersecurityworks553/noPac-detection)	<img alt="forks" src="https://img.shields.io/github/forks/cybersecurityworks553/noPac-detection">	<img alt="stars" src="https://img.shields.io/github/stars/cybersecurityworks553/noPac-detection">
+- [xLTJ/noPac](https://github.com/xLTJ/noPac)	<img alt="forks" src="https://img.shields.io/github/forks/xLTJ/noPac">	<img alt="stars" src="https://img.shields.io/github/stars/xLTJ/noPac">
 
 ---
 ## CVE-2021-42261 ()
@@ -2925,7 +2926,7 @@
 - [TheLastVvV/CVE-2021-42013](https://github.com/TheLastVvV/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/TheLastVvV/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/TheLastVvV/CVE-2021-42013">
 - [LayarKacaSiber/CVE-2021-42013](https://github.com/LayarKacaSiber/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/LayarKacaSiber/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/LayarKacaSiber/CVE-2021-42013">
 - [Zeop-CyberSec/apache_normalize_path](https://github.com/Zeop-CyberSec/apache_normalize_path)	<img alt="forks" src="https://img.shields.io/github/forks/Zeop-CyberSec/apache_normalize_path">	<img alt="stars" src="https://img.shields.io/github/stars/Zeop-CyberSec/apache_normalize_path">
-- [vulf/CVE-2021-41773_42013](https://github.com/vulf/CVE-2021-41773_42013)	<img alt="forks" src="https://img.shields.io/github/forks/vulf/CVE-2021-41773_42013">	<img alt="stars" src="https://img.shields.io/github/stars/vulf/CVE-2021-41773_42013">
+- [zerodaywolf/CVE-2021-41773_42013](https://github.com/zerodaywolf/CVE-2021-41773_42013)	<img alt="forks" src="https://img.shields.io/github/forks/zerodaywolf/CVE-2021-41773_42013">	<img alt="stars" src="https://img.shields.io/github/stars/zerodaywolf/CVE-2021-41773_42013">
 - [theLSA/apache-httpd-path-traversal-checker](https://github.com/theLSA/apache-httpd-path-traversal-checker)	<img alt="forks" src="https://img.shields.io/github/forks/theLSA/apache-httpd-path-traversal-checker">	<img alt="stars" src="https://img.shields.io/github/stars/theLSA/apache-httpd-path-traversal-checker">
 - [MrCl0wnLab/SimplesApachePathTraversal](https://github.com/MrCl0wnLab/SimplesApachePathTraversal)	<img alt="forks" src="https://img.shields.io/github/forks/MrCl0wnLab/SimplesApachePathTraversal">	<img alt="stars" src="https://img.shields.io/github/stars/MrCl0wnLab/SimplesApachePathTraversal">
 - [ksanchezcld/httpd-2.4.49](https://github.com/ksanchezcld/httpd-2.4.49)	<img alt="forks" src="https://img.shields.io/github/forks/ksanchezcld/httpd-2.4.49">	<img alt="stars" src="https://img.shields.io/github/stars/ksanchezcld/httpd-2.4.49">
@@ -2966,6 +2967,11 @@
 - [zeynepglygt/apache-cve-2021-42013-rce](https://github.com/zeynepglygt/apache-cve-2021-42013-rce)	<img alt="forks" src="https://img.shields.io/github/forks/zeynepglygt/apache-cve-2021-42013-rce">	<img alt="stars" src="https://img.shields.io/github/stars/zeynepglygt/apache-cve-2021-42013-rce">
 - [andrea-mattioli/apache-exploit-CVE-2021-42013](https://github.com/andrea-mattioli/apache-exploit-CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/andrea-mattioli/apache-exploit-CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/andrea-mattioli/apache-exploit-CVE-2021-42013">
 - [Joapath/CVE-2021-42013](https://github.com/Joapath/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/Joapath/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/Joapath/CVE-2021-42013">
+- [eunho87/CVE-2021-42013](https://github.com/eunho87/CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/eunho87/CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/eunho87/CVE-2021-42013">
+- [im-hanzou/apachrot](https://github.com/im-hanzou/apachrot)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/apachrot">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/apachrot">
+- [5gstudent/cve-2021-41773-and-cve-2021-42013](https://github.com/5gstudent/cve-2021-41773-and-cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/5gstudent/cve-2021-41773-and-cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/5gstudent/cve-2021-41773-and-cve-2021-42013">
+- [inbug-team/CVE-2021-41773_CVE-2021-42013](https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/inbug-team/CVE-2021-41773_CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/inbug-team/CVE-2021-41773_CVE-2021-42013">
+- [pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt](https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt)	<img alt="forks" src="https://img.shields.io/github/forks/pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt">	<img alt="stars" src="https://img.shields.io/github/stars/pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
@@ -3204,7 +3210,7 @@
 - [walnutsecurity/cve-2021-41773](https://github.com/walnutsecurity/cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/walnutsecurity/cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/walnutsecurity/cve-2021-41773">
 - [bernardas/netsec-polygon](https://github.com/bernardas/netsec-polygon)	<img alt="forks" src="https://img.shields.io/github/forks/bernardas/netsec-polygon">	<img alt="stars" src="https://img.shields.io/github/stars/bernardas/netsec-polygon">
 - [HxDDD/CVE-PoC](https://github.com/HxDDD/CVE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/HxDDD/CVE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/HxDDD/CVE-PoC">
-- [WynSon/CVE-2021-41773](https://github.com/WynSon/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/WynSon/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/WynSon/CVE-2021-41773">
+- [zer0qs/CVE-2021-41773](https://github.com/zer0qs/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/zer0qs/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/zer0qs/CVE-2021-41773">
 - [Chocapikk/CVE-2021-41773](https://github.com/Chocapikk/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2021-41773">
 - [CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit](https://github.com/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CalfCrusher/Path-traversal-RCE-Apache-2.4.49-2.4.50-Exploit">
 - [hackingyseguridad/nmap](https://github.com/hackingyseguridad/nmap)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/nmap">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/nmap">
@@ -3314,9 +3320,9 @@
 - [tsiddiquea/cve-reproduction-lab](https://github.com/tsiddiquea/cve-reproduction-lab)	<img alt="forks" src="https://img.shields.io/github/forks/tsiddiquea/cve-reproduction-lab">	<img alt="stars" src="https://img.shields.io/github/stars/tsiddiquea/cve-reproduction-lab">
 - [snapdowgg/CVE-2021-41773](https://github.com/snapdowgg/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/snapdowgg/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/snapdowgg/CVE-2021-41773">
 - [klmntbelgium/cve-2021-41773-exploration](https://github.com/klmntbelgium/cve-2021-41773-exploration)	<img alt="forks" src="https://img.shields.io/github/forks/klmntbelgium/cve-2021-41773-exploration">	<img alt="stars" src="https://img.shields.io/github/stars/klmntbelgium/cve-2021-41773-exploration">
-- [im2nerd/CVE-2021-41773](https://github.com/im2nerd/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/im2nerd/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/im2nerd/CVE-2021-41773">
+- [im2sinister/CVE-2021-41773](https://github.com/im2sinister/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/im2sinister/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/im2sinister/CVE-2021-41773">
 - [JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server](https://github.com/JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server)	<img alt="forks" src="https://img.shields.io/github/forks/JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server">	<img alt="stars" src="https://img.shields.io/github/stars/JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server">
-- [Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper](https://github.com/Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper)	<img alt="forks" src="https://img.shields.io/github/forks/Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper">	<img alt="stars" src="https://img.shields.io/github/stars/Kouf320/attacker-lab-cve-2017-5638-cve-2021-41773-paper">
+- [Kouf320/docker-lab-cve-2017-5638-cve-2021-41773](https://github.com/Kouf320/docker-lab-cve-2017-5638-cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Kouf320/docker-lab-cve-2017-5638-cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Kouf320/docker-lab-cve-2017-5638-cve-2021-41773">
 - [wvverez/CVE-2021-41773-PoC](https://github.com/wvverez/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/wvverez/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/wvverez/CVE-2021-41773-PoC">
 - [numanturle/CVE-2021-41773](https://github.com/numanturle/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/numanturle/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/numanturle/CVE-2021-41773">
 - [knqyf263/CVE-2021-41773](https://github.com/knqyf263/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2021-41773">
@@ -3382,6 +3388,7 @@
 - [a24ac1/CVE-2021-41773-PoC](https://github.com/a24ac1/CVE-2021-41773-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/a24ac1/CVE-2021-41773-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/a24ac1/CVE-2021-41773-PoC">
 - [fxdyx-a/CVE-2021-41773-POC](https://github.com/fxdyx-a/CVE-2021-41773-POC)	<img alt="forks" src="https://img.shields.io/github/forks/fxdyx-a/CVE-2021-41773-POC">	<img alt="stars" src="https://img.shields.io/github/stars/fxdyx-a/CVE-2021-41773-POC">
 - [Joapath/CVE-2021-41773](https://github.com/Joapath/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Joapath/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Joapath/CVE-2021-41773">
+- [Park123r/CVE-2021-41773](https://github.com/Park123r/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Park123r/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Park123r/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -4284,6 +4291,7 @@
 - [knqyf263/CVE-2021-40346](https://github.com/knqyf263/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2021-40346">
 - [BoianEduard/CVE-2021-40346](https://github.com/BoianEduard/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/BoianEduard/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/BoianEduard/CVE-2021-40346">
 - [rizemon/CS5331](https://github.com/rizemon/CS5331)	<img alt="forks" src="https://img.shields.io/github/forks/rizemon/CS5331">	<img alt="stars" src="https://img.shields.io/github/stars/rizemon/CS5331">
+- [jmg0929/CVE-2021-40346](https://github.com/jmg0929/CVE-2021-40346)	<img alt="forks" src="https://img.shields.io/github/forks/jmg0929/CVE-2021-40346">	<img alt="stars" src="https://img.shields.io/github/stars/jmg0929/CVE-2021-40346">
 
 ---
 ## CVE-2021-40345 (2021-10-26T11:15:00)
@@ -11890,6 +11898,7 @@
 - [CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi](https://github.com/CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi)	<img alt="forks" src="https://img.shields.io/github/forks/CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi">	<img alt="stars" src="https://img.shields.io/github/stars/CYBERTHREATANALYSIS/ESXi-Ransomware-Scanner-mi">
 - [mercylessghost/CVE-2021-21974](https://github.com/mercylessghost/CVE-2021-21974)	<img alt="forks" src="https://img.shields.io/github/forks/mercylessghost/CVE-2021-21974">	<img alt="stars" src="https://img.shields.io/github/stars/mercylessghost/CVE-2021-21974">
 - [abirasecurity/CVE-2021-21974_vuln_dectection](https://github.com/abirasecurity/CVE-2021-21974_vuln_dectection)	<img alt="forks" src="https://img.shields.io/github/forks/abirasecurity/CVE-2021-21974_vuln_dectection">	<img alt="stars" src="https://img.shields.io/github/stars/abirasecurity/CVE-2021-21974_vuln_dectection">
+- [Aiyakami/CVE-2021-21974](https://github.com/Aiyakami/CVE-2021-21974)	<img alt="forks" src="https://img.shields.io/github/forks/Aiyakami/CVE-2021-21974">	<img alt="stars" src="https://img.shields.io/github/stars/Aiyakami/CVE-2021-21974">
 
 ---
 ## CVE-2021-21973 ()

@@ -22,6 +22,7 @@
 - [aktia1/MegaQuagga_Pentesting_Report](https://github.com/aktia1/MegaQuagga_Pentesting_Report)	<img alt="forks" src="https://img.shields.io/github/forks/aktia1/MegaQuagga_Pentesting_Report">	<img alt="stars" src="https://img.shields.io/github/stars/aktia1/MegaQuagga_Pentesting_Report">
 - [B4ntGrim/Vuln_Exploitation_MegaQuagga_Pentest](https://github.com/B4ntGrim/Vuln_Exploitation_MegaQuagga_Pentest)	<img alt="forks" src="https://img.shields.io/github/forks/B4ntGrim/Vuln_Exploitation_MegaQuagga_Pentest">	<img alt="stars" src="https://img.shields.io/github/stars/B4ntGrim/Vuln_Exploitation_MegaQuagga_Pentest">
 - [B4ntGrim/Vuln_Remediation_MegaQuagga](https://github.com/B4ntGrim/Vuln_Remediation_MegaQuagga)	<img alt="forks" src="https://img.shields.io/github/forks/B4ntGrim/Vuln_Remediation_MegaQuagga">	<img alt="stars" src="https://img.shields.io/github/stars/B4ntGrim/Vuln_Remediation_MegaQuagga">
+- [TokyoHunter/CVE-2019-9978-Social-Warfare-WordPress-RCE](https://github.com/TokyoHunter/CVE-2019-9978-Social-Warfare-WordPress-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TokyoHunter/CVE-2019-9978-Social-Warfare-WordPress-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TokyoHunter/CVE-2019-9978-Social-Warfare-WordPress-RCE">
 
 ---
 ## CVE-2019-9947 (2019-03-23T18:29:00)
@@ -3615,6 +3616,7 @@ use after free.
 - [ngyinkit/cve-2019-18634](https://github.com/ngyinkit/cve-2019-18634)	<img alt="forks" src="https://img.shields.io/github/forks/ngyinkit/cve-2019-18634">	<img alt="stars" src="https://img.shields.io/github/stars/ngyinkit/cve-2019-18634">
 - [letsr00t/-CVE-2019-18634-sudo-pwfeedback](https://github.com/letsr00t/-CVE-2019-18634-sudo-pwfeedback)	<img alt="forks" src="https://img.shields.io/github/forks/letsr00t/-CVE-2019-18634-sudo-pwfeedback">	<img alt="stars" src="https://img.shields.io/github/stars/letsr00t/-CVE-2019-18634-sudo-pwfeedback">
 - [CyrusRazavi/CVE-2019-18634-](https://github.com/CyrusRazavi/CVE-2019-18634-)	<img alt="forks" src="https://img.shields.io/github/forks/CyrusRazavi/CVE-2019-18634-">	<img alt="stars" src="https://img.shields.io/github/stars/CyrusRazavi/CVE-2019-18634-">
+- [Moscvv/thm-cybersec-portfolio](https://github.com/Moscvv/thm-cybersec-portfolio)	<img alt="forks" src="https://img.shields.io/github/forks/Moscvv/thm-cybersec-portfolio">	<img alt="stars" src="https://img.shields.io/github/stars/Moscvv/thm-cybersec-portfolio">
 
 ---
 ## CVE-2019-18426 ()

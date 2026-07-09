@@ -694,6 +694,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [Wayne-Ker/CVE-2024-7313](https://github.com/Wayne-Ker/CVE-2024-7313)	<img alt="forks" src="https://img.shields.io/github/forks/Wayne-Ker/CVE-2024-7313">	<img alt="stars" src="https://img.shields.io/github/stars/Wayne-Ker/CVE-2024-7313">
 
 ---
+## CVE-2024-7254 ()
+> 
+- [Ayumu3746221/cve-2024-7254-app-lab](https://github.com/Ayumu3746221/cve-2024-7254-app-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Ayumu3746221/cve-2024-7254-app-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Ayumu3746221/cve-2024-7254-app-lab">
+
+---
 ## CVE-2024-7188 (2024-07-29T07:15:00)
 > A vulnerability was found in Bylancer Quicklancer 2.4. It has been rated as critical. This issue affects some unknown processing of the file /listing of the component GET Parameter Handler. The manipulation of the argument range2 leads to sql injection. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-272609 was assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [codeb0ss/CVE-2024-7188-PoC](https://github.com/codeb0ss/CVE-2024-7188-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-7188-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-7188-PoC">
@@ -5790,6 +5795,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [mantanhacker/CVE-2024-36401-MASS](https://github.com/mantanhacker/CVE-2024-36401-MASS)	<img alt="forks" src="https://img.shields.io/github/forks/mantanhacker/CVE-2024-36401-MASS">	<img alt="stars" src="https://img.shields.io/github/stars/mantanhacker/CVE-2024-36401-MASS">
 - [Delt-A/CVE-2024-36401-poc](https://github.com/Delt-A/CVE-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Delt-A/CVE-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Delt-A/CVE-2024-36401-poc">
 - [DanieleGiovanardi2408/cve-2024-36401-geoserver-rce](https://github.com/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce)	<img alt="forks" src="https://img.shields.io/github/forks/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce">	<img alt="stars" src="https://img.shields.io/github/stars/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce">
+- [keelanbrady1011/CVE-2024-36401](https://github.com/keelanbrady1011/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/keelanbrady1011/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/keelanbrady1011/CVE-2024-36401">
 
 ---
 ## CVE-2024-3640 ()
@@ -6521,6 +6527,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 ## CVE-2024-33453 (2024-10-17T22:15:00)
 > Buffer Overflow vulnerability in esp-idf v.5.1 allows a remote attacker to obtain sensitive information via the externalId component.
 - [Ant1sec-ops/CVE-2024-33453](https://github.com/Ant1sec-ops/CVE-2024-33453)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2024-33453">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2024-33453">
+
+---
+## CVE-2024-33452 ()
+> 
+- [namu17/CVE-2024-33452](https://github.com/namu17/CVE-2024-33452)	<img alt="forks" src="https://img.shields.io/github/forks/namu17/CVE-2024-33452">	<img alt="stars" src="https://img.shields.io/github/stars/namu17/CVE-2024-33452">
 
 ---
 ## CVE-2024-33438 (2024-04-29T18:15:00)
@@ -8435,6 +8446,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 > An issue in MYSQL MariaDB v.11.1 allows a remote attacker to execute arbitrary code via the lib_mysqludf_sys.so function.
 - [Ant1sec-ops/CVE-2024-27766](https://github.com/Ant1sec-ops/CVE-2024-27766)	<img alt="forks" src="https://img.shields.io/github/forks/Ant1sec-ops/CVE-2024-27766">	<img alt="stars" src="https://img.shields.io/github/stars/Ant1sec-ops/CVE-2024-27766">
 - [y0un9eee/CVE-2024-27766](https://github.com/y0un9eee/CVE-2024-27766)	<img alt="forks" src="https://img.shields.io/github/forks/y0un9eee/CVE-2024-27766">	<img alt="stars" src="https://img.shields.io/github/stars/y0un9eee/CVE-2024-27766">
+- [Hissec/Mysql_CVE-2024-27766](https://github.com/Hissec/Mysql_CVE-2024-27766)	<img alt="forks" src="https://img.shields.io/github/forks/Hissec/Mysql_CVE-2024-27766">	<img alt="stars" src="https://img.shields.io/github/stars/Hissec/Mysql_CVE-2024-27766">
 
 ---
 ## CVE-2024-2771 ()
