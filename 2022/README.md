@@ -36559,6 +36559,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [LeoMarche/ProjetSecu](https://github.com/LeoMarche/ProjetSecu)	<img alt="forks" src="https://img.shields.io/github/forks/LeoMarche/ProjetSecu">	<img alt="stars" src="https://img.shields.io/github/stars/LeoMarche/ProjetSecu">
 
 ---
+## CVE-2022-23221 ()
+> 
+- [straightSang/H2-database-CVE-2022-23221](https://github.com/straightSang/H2-database-CVE-2022-23221)	<img alt="forks" src="https://img.shields.io/github/forks/straightSang/H2-database-CVE-2022-23221">	<img alt="stars" src="https://img.shields.io/github/stars/straightSang/H2-database-CVE-2022-23221">
+
+---
 ## CVE-2022-2320 (2022-09-01T21:15:00)
 > A flaw was found in the Xorg-x11-server. The specific flaw exists within the handling of ProcXkbSetDeviceInfo requests. The issue results from the lack of proper validation of user-supplied data, which can result in a memory access past the end of an allocated buffer. This flaw allows an attacker to escalate privileges and execute arbitrary code in the context of root.
 - [Live-Hack-CVE/CVE-2022-2320](https://github.com/Live-Hack-CVE/CVE-2022-2320)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2320">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2320">

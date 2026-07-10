@@ -4730,6 +4730,7 @@
 - [aseemyash/krle](https://github.com/aseemyash/krle)	<img alt="forks" src="https://img.shields.io/github/forks/aseemyash/krle">	<img alt="stars" src="https://img.shields.io/github/stars/aseemyash/krle">
 - [diamorphine666/React2shell-CVE-2025-55182-Exploit](https://github.com/diamorphine666/React2shell-CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/React2shell-CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/React2shell-CVE-2025-55182-Exploit">
 - [RootEvil333/CVE-2025-55182](https://github.com/RootEvil333/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RootEvil333/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RootEvil333/CVE-2025-55182">
+- [xp101t/react2shell](https://github.com/xp101t/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/xp101t/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/xp101t/react2shell">
 
 ---
 ## CVE-2025-55177 ()
@@ -8434,6 +8435,7 @@
 ## CVE-2025-32375 ()
 > 
 - [theGEBIRGE/CVE-2025-32375](https://github.com/theGEBIRGE/CVE-2025-32375)	<img alt="forks" src="https://img.shields.io/github/forks/theGEBIRGE/CVE-2025-32375">	<img alt="stars" src="https://img.shields.io/github/stars/theGEBIRGE/CVE-2025-32375">
+- [surajpandeyp/CVE-2025-32375](https://github.com/surajpandeyp/CVE-2025-32375)	<img alt="forks" src="https://img.shields.io/github/forks/surajpandeyp/CVE-2025-32375">	<img alt="stars" src="https://img.shields.io/github/stars/surajpandeyp/CVE-2025-32375">
 
 ---
 ## CVE-2025-32259 ()
@@ -9168,6 +9170,7 @@
 - [ExtremeUday/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-](https://github.com/ExtremeUday/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/ExtremeUday/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/ExtremeUday/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-">
 - [I3r1h0n/pgAdminOpendoor](https://github.com/I3r1h0n/pgAdminOpendoor)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/pgAdminOpendoor">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/pgAdminOpendoor">
 - [plur1bu5/CVE-2025-2945-pgadmin-rce](https://github.com/plur1bu5/CVE-2025-2945-pgadmin-rce)	<img alt="forks" src="https://img.shields.io/github/forks/plur1bu5/CVE-2025-2945-pgadmin-rce">	<img alt="stars" src="https://img.shields.io/github/stars/plur1bu5/CVE-2025-2945-pgadmin-rce">
+- [onxvyn/CVE-2025-2945](https://github.com/onxvyn/CVE-2025-2945)	<img alt="forks" src="https://img.shields.io/github/forks/onxvyn/CVE-2025-2945">	<img alt="stars" src="https://img.shields.io/github/stars/onxvyn/CVE-2025-2945">
 
 ---
 ## CVE-2025-29448 ()
@@ -10083,7 +10086,7 @@
 - [0xBl4nk/CVE-2025-24893](https://github.com/0xBl4nk/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/0xBl4nk/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/0xBl4nk/CVE-2025-24893">
 - [CMassa/CVE-2025-24893](https://github.com/CMassa/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/CMassa/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/CMassa/CVE-2025-24893">
 - [x0da6h/POC-for-CVE-2025-24893](https://github.com/x0da6h/POC-for-CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/x0da6h/POC-for-CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/x0da6h/POC-for-CVE-2025-24893">
-- [ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup](https://github.com/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup">
+- [ibadovulfat/CVE-2025-24893](https://github.com/ibadovulfat/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/ibadovulfat/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/ibadovulfat/CVE-2025-24893">
 - [torjan0/xwiki_solrsearch-rce-exploit](https://github.com/torjan0/xwiki_solrsearch-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/torjan0/xwiki_solrsearch-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/torjan0/xwiki_solrsearch-rce-exploit">
 - [AzureADTrent/CVE-2025-24893-Reverse-Shell](https://github.com/AzureADTrent/CVE-2025-24893-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/AzureADTrent/CVE-2025-24893-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/AzureADTrent/CVE-2025-24893-Reverse-Shell">
 - [b0ySie7e/CVE-2025-24893](https://github.com/b0ySie7e/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/b0ySie7e/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/b0ySie7e/CVE-2025-24893">
@@ -10093,8 +10096,8 @@
 - [AliAmouz/CVE2025-24893](https://github.com/AliAmouz/CVE2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/AliAmouz/CVE2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/AliAmouz/CVE2025-24893">
 - [ibrahmsql/CVE-2025-24893](https://github.com/ibrahmsql/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2025-24893">
 - [Yukik4z3/CVE-2025-24893](https://github.com/Yukik4z3/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Yukik4z3/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Yukik4z3/CVE-2025-24893">
-- [rvizx/CVE-2025-24893](https://github.com/rvizx/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2025-24893">
-- [achnouri/Editor-CTF-writre-up](https://github.com/achnouri/Editor-CTF-writre-up)	<img alt="forks" src="https://img.shields.io/github/forks/achnouri/Editor-CTF-writre-up">	<img alt="stars" src="https://img.shields.io/github/stars/achnouri/Editor-CTF-writre-up">
+- [rvzsec/CVE-2025-24893](https://github.com/rvzsec/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/CVE-2025-24893">
+- [anxs3c/editor_machine_writeup](https://github.com/anxs3c/editor_machine_writeup)	<img alt="forks" src="https://img.shields.io/github/forks/anxs3c/editor_machine_writeup">	<img alt="stars" src="https://img.shields.io/github/stars/anxs3c/editor_machine_writeup">
 - [Y2F05p2w/CVE-2025-24893](https://github.com/Y2F05p2w/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Y2F05p2w/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Y2F05p2w/CVE-2025-24893">
 - [80Ottanta80/CVE-2025-24893-PoC](https://github.com/80Ottanta80/CVE-2025-24893-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/80Ottanta80/CVE-2025-24893-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/80Ottanta80/CVE-2025-24893-PoC">
 - [kimtangker/CVE-2025-24893](https://github.com/kimtangker/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/kimtangker/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/kimtangker/CVE-2025-24893">
@@ -10113,6 +10116,7 @@
 - [hasecto/CVE-2025-24893](https://github.com/hasecto/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/hasecto/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/hasecto/CVE-2025-24893">
 - [vasilysaint/CVE-2025-24893](https://github.com/vasilysaint/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/vasilysaint/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/vasilysaint/CVE-2025-24893">
 - [Fomovet/cve-2025-24893](https://github.com/Fomovet/cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24893">
+- [endusdksla/xwiki-cve-2025-24893](https://github.com/endusdksla/xwiki-cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/endusdksla/xwiki-cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/endusdksla/xwiki-cve-2025-24893">
 
 ---
 ## CVE-2025-24813 ()
@@ -10691,6 +10695,7 @@
 - [llussiess/CVE-2025-22457](https://github.com/llussiess/CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/llussiess/CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/llussiess/CVE-2025-22457">
 - [TRone-ux/CVE-2025-22457](https://github.com/TRone-ux/CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/TRone-ux/CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/TRone-ux/CVE-2025-22457">
 - [B1ack4sh/Blackash-CVE-2025-22457](https://github.com/B1ack4sh/Blackash-CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-22457">
+- [benmevic/cve-2025-22457](https://github.com/benmevic/cve-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/benmevic/cve-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/benmevic/cve-2025-22457">
 
 ---
 ## CVE-2025-22442 ()
