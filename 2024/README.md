@@ -2296,6 +2296,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [0xDaeras/CVE-2024-51482-POC](https://github.com/0xDaeras/CVE-2024-51482-POC)	<img alt="forks" src="https://img.shields.io/github/forks/0xDaeras/CVE-2024-51482-POC">	<img alt="stars" src="https://img.shields.io/github/stars/0xDaeras/CVE-2024-51482-POC">
 - [mattiapertusati/htb-cctv](https://github.com/mattiapertusati/htb-cctv)	<img alt="forks" src="https://img.shields.io/github/forks/mattiapertusati/htb-cctv">	<img alt="stars" src="https://img.shields.io/github/stars/mattiapertusati/htb-cctv">
 - [Revnin/CCTV-MACHINE](https://github.com/Revnin/CCTV-MACHINE)	<img alt="forks" src="https://img.shields.io/github/forks/Revnin/CCTV-MACHINE">	<img alt="stars" src="https://img.shields.io/github/stars/Revnin/CCTV-MACHINE">
+- [c0gnit00/CVE-2024-51482](https://github.com/c0gnit00/CVE-2024-51482)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2024-51482">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2024-51482">
 
 ---
 ## CVE-2024-51442 ()
@@ -3315,6 +3316,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [deancooreman/CVE-2024-47176](https://github.com/deancooreman/CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/deancooreman/CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/deancooreman/CVE-2024-47176">
 - [jimi2x/dirtycups](https://github.com/jimi2x/dirtycups)	<img alt="forks" src="https://img.shields.io/github/forks/jimi2x/dirtycups">	<img alt="stars" src="https://img.shields.io/github/stars/jimi2x/dirtycups">
 - [Rhyru9/CUPS-CVE-2024-47176](https://github.com/Rhyru9/CUPS-CVE-2024-47176)	<img alt="forks" src="https://img.shields.io/github/forks/Rhyru9/CUPS-CVE-2024-47176">	<img alt="stars" src="https://img.shields.io/github/stars/Rhyru9/CUPS-CVE-2024-47176">
+- [Stickxx00/Cups-RCE-Exploit](https://github.com/Stickxx00/Cups-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Stickxx00/Cups-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Stickxx00/Cups-RCE-Exploit">
 
 ---
 ## CVE-2024-47167 ()
@@ -12235,7 +12237,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 ---
 ## CVE-2024-0258 ()
 > 
-- [aliyabuz25/CVE-2024-0258-Research](https://github.com/aliyabuz25/CVE-2024-0258-Research)	<img alt="forks" src="https://img.shields.io/github/forks/aliyabuz25/CVE-2024-0258-Research">	<img alt="stars" src="https://img.shields.io/github/stars/aliyabuz25/CVE-2024-0258-Research">
+- [aliyabuz25/CVE-2024-0258](https://github.com/aliyabuz25/CVE-2024-0258)	<img alt="forks" src="https://img.shields.io/github/forks/aliyabuz25/CVE-2024-0258">	<img alt="stars" src="https://img.shields.io/github/stars/aliyabuz25/CVE-2024-0258">
 
 ---
 ## CVE-2024-0252 (2024-01-11T08:15:00)

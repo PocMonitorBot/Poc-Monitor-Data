@@ -1578,6 +1578,7 @@
 - [hmxh123/Log4Shell-Vulnerability-Replication](https://github.com/hmxh123/Log4Shell-Vulnerability-Replication)	<img alt="forks" src="https://img.shields.io/github/forks/hmxh123/Log4Shell-Vulnerability-Replication">	<img alt="stars" src="https://img.shields.io/github/stars/hmxh123/Log4Shell-Vulnerability-Replication">
 - [limxuan/ehir-vuln-enterprise-login](https://github.com/limxuan/ehir-vuln-enterprise-login)	<img alt="forks" src="https://img.shields.io/github/forks/limxuan/ehir-vuln-enterprise-login">	<img alt="stars" src="https://img.shields.io/github/stars/limxuan/ehir-vuln-enterprise-login">
 - [DAADAISMYLIFE/log4shell-lab](https://github.com/DAADAISMYLIFE/log4shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/DAADAISMYLIFE/log4shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/DAADAISMYLIFE/log4shell-lab">
+- [briml3y/loguccino](https://github.com/briml3y/loguccino)	<img alt="forks" src="https://img.shields.io/github/forks/briml3y/loguccino">	<img alt="stars" src="https://img.shields.io/github/stars/briml3y/loguccino">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -4450,6 +4451,7 @@
 - [Jesrat/make_me_root](https://github.com/Jesrat/make_me_root)	<img alt="forks" src="https://img.shields.io/github/forks/Jesrat/make_me_root">	<img alt="stars" src="https://img.shields.io/github/stars/Jesrat/make_me_root">
 - [ArianeBlow/NagiosXI-RCE-all-version-CVE-2021-40345](https://github.com/ArianeBlow/NagiosXI-RCE-all-version-CVE-2021-40345)	<img alt="forks" src="https://img.shields.io/github/forks/ArianeBlow/NagiosXI-RCE-all-version-CVE-2021-40345">	<img alt="stars" src="https://img.shields.io/github/stars/ArianeBlow/NagiosXI-RCE-all-version-CVE-2021-40345">
 - [Squirre17/CVE-2021-4034](https://github.com/Squirre17/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Squirre17/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Squirre17/CVE-2021-4034">
+- [mac3d0/CVE-2021-4034-pwnkit](https://github.com/mac3d0/CVE-2021-4034-pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/mac3d0/CVE-2021-4034-pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/mac3d0/CVE-2021-4034-pwnkit">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -9484,6 +9486,11 @@
 ## CVE-2021-28310 ()
 > 
 - [Rafael-Svechinskaya/IOC_for_CVE-2021-28310](https://github.com/Rafael-Svechinskaya/IOC_for_CVE-2021-28310)	<img alt="forks" src="https://img.shields.io/github/forks/Rafael-Svechinskaya/IOC_for_CVE-2021-28310">	<img alt="stars" src="https://img.shields.io/github/stars/Rafael-Svechinskaya/IOC_for_CVE-2021-28310">
+
+---
+## CVE-2021-28235 ()
+> 
+- [h3ck13r/CVE-2021-28235](https://github.com/h3ck13r/CVE-2021-28235)	<img alt="forks" src="https://img.shields.io/github/forks/h3ck13r/CVE-2021-28235">	<img alt="stars" src="https://img.shields.io/github/stars/h3ck13r/CVE-2021-28235">
 
 ---
 ## CVE-2021-28169 (2021-06-09T02:15:00)
