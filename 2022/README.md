@@ -31778,6 +31778,7 @@ the client's API server credentials to third parties.
 - [dangducloc/CVE_2022_29078](https://github.com/dangducloc/CVE_2022_29078)	<img alt="forks" src="https://img.shields.io/github/forks/dangducloc/CVE_2022_29078">	<img alt="stars" src="https://img.shields.io/github/stars/dangducloc/CVE_2022_29078">
 - [test-avm-714877d2df585126/vuln-ejs-critical](https://github.com/test-avm-714877d2df585126/vuln-ejs-critical)	<img alt="forks" src="https://img.shields.io/github/forks/test-avm-714877d2df585126/vuln-ejs-critical">	<img alt="stars" src="https://img.shields.io/github/stars/test-avm-714877d2df585126/vuln-ejs-critical">
 - [test-avm-714877d2df585126/C-test-2](https://github.com/test-avm-714877d2df585126/C-test-2)	<img alt="forks" src="https://img.shields.io/github/forks/test-avm-714877d2df585126/C-test-2">	<img alt="stars" src="https://img.shields.io/github/stars/test-avm-714877d2df585126/C-test-2">
+- [taka3636/CVE-2022-29078](https://github.com/taka3636/CVE-2022-29078)	<img alt="forks" src="https://img.shields.io/github/forks/taka3636/CVE-2022-29078">	<img alt="stars" src="https://img.shields.io/github/stars/taka3636/CVE-2022-29078">
 
 ---
 ## CVE-2022-29072 (2022-04-15T20:15:00)

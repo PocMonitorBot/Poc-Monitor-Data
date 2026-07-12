@@ -4039,6 +4039,11 @@
 - [synacktiv/CVE-2025-55320](https://github.com/synacktiv/CVE-2025-55320)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2025-55320">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2025-55320">
 
 ---
+## CVE-2025-55319 ()
+> 
+- [nephila016/CVE-2025-55319-PoC](https://github.com/nephila016/CVE-2025-55319-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/nephila016/CVE-2025-55319-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/nephila016/CVE-2025-55319-PoC">
+
+---
 ## CVE-2025-55315 ()
 > 
 - [HelixProxy/CVE-2025-55315](https://github.com/HelixProxy/CVE-2025-55315)	<img alt="forks" src="https://img.shields.io/github/forks/HelixProxy/CVE-2025-55315">	<img alt="stars" src="https://img.shields.io/github/stars/HelixProxy/CVE-2025-55315">
@@ -4448,7 +4453,7 @@
 - [JahazielLem/NSE_CVE-2025-55182](https://github.com/JahazielLem/NSE_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/JahazielLem/NSE_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/JahazielLem/NSE_CVE-2025-55182">
 - [VeilVulp/RscScan](https://github.com/VeilVulp/RscScan)	<img alt="forks" src="https://img.shields.io/github/forks/VeilVulp/RscScan">	<img alt="stars" src="https://img.shields.io/github/stars/VeilVulp/RscScan">
 - [Saad-Ayady/react2shellNSE](https://github.com/Saad-Ayady/react2shellNSE)	<img alt="forks" src="https://img.shields.io/github/forks/Saad-Ayady/react2shellNSE">	<img alt="stars" src="https://img.shields.io/github/stars/Saad-Ayady/react2shellNSE">
-- [CerberusMrX/Cerberus-React2Shell-Scanner-Exploit](https://github.com/CerberusMrX/Cerberus-React2Shell-Scanner-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrX/Cerberus-React2Shell-Scanner-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrX/Cerberus-React2Shell-Scanner-Exploit">
+- [CerberusMrXi/Cerberus-React2Shell-Scanner-Exploit](https://github.com/CerberusMrXi/Cerberus-React2Shell-Scanner-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/Cerberus-React2Shell-Scanner-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/Cerberus-React2Shell-Scanner-Exploit">
 - [Gymnott1/CVE-2025-55182](https://github.com/Gymnott1/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Gymnott1/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Gymnott1/CVE-2025-55182">
 - [J4ck3LSyN-Gen2/CVE-2025-55182](https://github.com/J4ck3LSyN-Gen2/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/CVE-2025-55182">
 - [yz9yt/React2Shell-CTF](https://github.com/yz9yt/React2Shell-CTF)	<img alt="forks" src="https://img.shields.io/github/forks/yz9yt/React2Shell-CTF">	<img alt="stars" src="https://img.shields.io/github/stars/yz9yt/React2Shell-CTF">
@@ -6765,6 +6770,11 @@
 ## CVE-2025-46295 ()
 > 
 - [soliantconsulting/CVE-2025-46295-fix-fms](https://github.com/soliantconsulting/CVE-2025-46295-fix-fms)	<img alt="forks" src="https://img.shields.io/github/forks/soliantconsulting/CVE-2025-46295-fix-fms">	<img alt="stars" src="https://img.shields.io/github/stars/soliantconsulting/CVE-2025-46295-fix-fms">
+
+---
+## CVE-2025-46285 ()
+> 
+- [Yankeelucas/OpenSovix](https://github.com/Yankeelucas/OpenSovix)	<img alt="forks" src="https://img.shields.io/github/forks/Yankeelucas/OpenSovix">	<img alt="stars" src="https://img.shields.io/github/stars/Yankeelucas/OpenSovix">
 
 ---
 ## CVE-2025-46271 ()
@@ -10701,6 +10711,7 @@
 - [TRone-ux/CVE-2025-22457](https://github.com/TRone-ux/CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/TRone-ux/CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/TRone-ux/CVE-2025-22457">
 - [B1ack4sh/Blackash-CVE-2025-22457](https://github.com/B1ack4sh/Blackash-CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-22457">
 - [benmevic/cve-2025-22457](https://github.com/benmevic/cve-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/benmevic/cve-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/benmevic/cve-2025-22457">
+- [melisakumral/CVE-2025-22457](https://github.com/melisakumral/CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/melisakumral/CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/melisakumral/CVE-2025-22457">
 
 ---
 ## CVE-2025-22442 ()

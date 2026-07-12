@@ -1826,7 +1826,7 @@
 - [0xf3d0rq/CVE-2021-43798](https://github.com/0xf3d0rq/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/0xf3d0rq/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/0xf3d0rq/CVE-2021-43798">
 - [strikoder/Grafana-CVE-2021-43798-Python](https://github.com/strikoder/Grafana-CVE-2021-43798-Python)	<img alt="forks" src="https://img.shields.io/github/forks/strikoder/Grafana-CVE-2021-43798-Python">	<img alt="stars" src="https://img.shields.io/github/stars/strikoder/Grafana-CVE-2021-43798-Python">
 - [baktistr/cve-2021-43798-enum](https://github.com/baktistr/cve-2021-43798-enum)	<img alt="forks" src="https://img.shields.io/github/forks/baktistr/cve-2021-43798-enum">	<img alt="stars" src="https://img.shields.io/github/stars/baktistr/cve-2021-43798-enum">
-- [STK-Security/Grafana-Password-Decryptor](https://github.com/STK-Security/Grafana-Password-Decryptor)	<img alt="forks" src="https://img.shields.io/github/forks/STK-Security/Grafana-Password-Decryptor">	<img alt="stars" src="https://img.shields.io/github/stars/STK-Security/Grafana-Password-Decryptor">
+- [Strikoder-Premium/Grafana-Password-Decryptor](https://github.com/Strikoder-Premium/Grafana-Password-Decryptor)	<img alt="forks" src="https://img.shields.io/github/forks/Strikoder-Premium/Grafana-Password-Decryptor">	<img alt="stars" src="https://img.shields.io/github/stars/Strikoder-Premium/Grafana-Password-Decryptor">
 - [notbside/CVE-2021-43798-PoC](https://github.com/notbside/CVE-2021-43798-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/notbside/CVE-2021-43798-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/notbside/CVE-2021-43798-PoC">
 - [Shoxake17/CVE-2021-43798](https://github.com/Shoxake17/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Shoxake17/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Shoxake17/CVE-2021-43798">
 - [kikechans/-Grafana-LFI-CVE-2021-43798](https://github.com/kikechans/-Grafana-LFI-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/kikechans/-Grafana-LFI-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/kikechans/-Grafana-LFI-CVE-2021-43798">
@@ -1836,6 +1836,7 @@
 - [zer0yu/CVE-2021-43798](https://github.com/zer0yu/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/zer0yu/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/zer0yu/CVE-2021-43798">
 - [Mr-xn/CVE-2021-43798](https://github.com/Mr-xn/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2021-43798">
 - [kenuosec/grafanaExp](https://github.com/kenuosec/grafanaExp)	<img alt="forks" src="https://img.shields.io/github/forks/kenuosec/grafanaExp">	<img alt="stars" src="https://img.shields.io/github/stars/kenuosec/grafanaExp">
+- [Lim-ahmin/CVE-2021-43798](https://github.com/Lim-ahmin/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Lim-ahmin/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Lim-ahmin/CVE-2021-43798">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
@@ -3391,6 +3392,7 @@
 - [Joapath/CVE-2021-41773](https://github.com/Joapath/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Joapath/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Joapath/CVE-2021-41773">
 - [Park123r/CVE-2021-41773](https://github.com/Park123r/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Park123r/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Park123r/CVE-2021-41773">
 - [johnwickakash12/CVE-2021-41773](https://github.com/johnwickakash12/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/johnwickakash12/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/johnwickakash12/CVE-2021-41773">
+- [lheeeesoo/Apache-CVE-2021-41773](https://github.com/lheeeesoo/Apache-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/lheeeesoo/Apache-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/lheeeesoo/Apache-CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -4846,6 +4848,11 @@
 ## CVE-2021-3933 (2022-03-25T19:15:00)
 > An integer overflow could occur when OpenEXR processes a crafted file on systems where size_t < 64 bits. This could cause an invalid bytesPerLine and maxBytesPerLine value, which could lead to problems with application stability or lead to other attack paths.
 - [Live-Hack-CVE/CVE-2021-3933](https://github.com/Live-Hack-CVE/CVE-2021-3933)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3933">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3933">
+
+---
+## CVE-2021-39312 ()
+> 
+- [root-wav/wordpress-true-ranker-cve-2021-39312](https://github.com/root-wav/wordpress-true-ranker-cve-2021-39312)	<img alt="forks" src="https://img.shields.io/github/forks/root-wav/wordpress-true-ranker-cve-2021-39312">	<img alt="stars" src="https://img.shields.io/github/stars/root-wav/wordpress-true-ranker-cve-2021-39312">
 
 ---
 ## CVE-2021-3929 (2022-08-25T20:15:00)
@@ -9955,6 +9962,7 @@
 - [evilashz/ExchangeSSRFtoRCEExploit](https://github.com/evilashz/ExchangeSSRFtoRCEExploit)	<img alt="forks" src="https://img.shields.io/github/forks/evilashz/ExchangeSSRFtoRCEExploit">	<img alt="stars" src="https://img.shields.io/github/stars/evilashz/ExchangeSSRFtoRCEExploit">
 - [Mr-xn/CVE-2021-26855-d](https://github.com/Mr-xn/CVE-2021-26855-d)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2021-26855-d">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2021-26855-d">
 - [antichown/Scan-Vuln-CVE-2021-26855](https://github.com/antichown/Scan-Vuln-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/antichown/Scan-Vuln-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/antichown/Scan-Vuln-CVE-2021-26855">
+- [wysssadda/ExchangeSmash](https://github.com/wysssadda/ExchangeSmash)	<img alt="forks" src="https://img.shields.io/github/forks/wysssadda/ExchangeSmash">	<img alt="stars" src="https://img.shields.io/github/stars/wysssadda/ExchangeSmash">
 
 ---
 ## CVE-2021-26832 ()
@@ -10349,6 +10357,7 @@
 - [gps1949/CVE-2021-25646](https://github.com/gps1949/CVE-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/gps1949/CVE-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/gps1949/CVE-2021-25646">
 - [tiemio/RCE-PoC-CVE-2021-25646](https://github.com/tiemio/RCE-PoC-CVE-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/tiemio/RCE-PoC-CVE-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/tiemio/RCE-PoC-CVE-2021-25646">
 - [ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit](https://github.com/ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit">
+- [shahdawadfallah-sys/Cybersecurity-Capstone-Project](https://github.com/shahdawadfallah-sys/Cybersecurity-Capstone-Project)	<img alt="forks" src="https://img.shields.io/github/forks/shahdawadfallah-sys/Cybersecurity-Capstone-Project">	<img alt="stars" src="https://img.shields.io/github/stars/shahdawadfallah-sys/Cybersecurity-Capstone-Project">
 
 ---
 ## CVE-2021-25642 (2022-08-25T14:15:00)

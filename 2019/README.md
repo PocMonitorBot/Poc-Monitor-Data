@@ -4607,6 +4607,7 @@ use after free.
 - [adampawelczyk/cve-2019-15107](https://github.com/adampawelczyk/cve-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/adampawelczyk/cve-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/adampawelczyk/cve-2019-15107">
 - [adampawelczyk/cve-2019-15107](https://github.com/adampawelczyk/cve-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/adampawelczyk/cve-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/adampawelczyk/cve-2019-15107">
 - [viglia/cve-2019-15107](https://github.com/viglia/cve-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/viglia/cve-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/viglia/cve-2019-15107">
+- [jini135wii/CVE-2019-15107](https://github.com/jini135wii/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/jini135wii/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/jini135wii/CVE-2019-15107">
 
 ---
 ## CVE-2019-15053 ()
@@ -6585,6 +6586,8 @@ use after free.
 ## CVE-2019-1003030 ()
 > 
 - [overgrowncarrot1/CVE-2019-1003030](https://github.com/overgrowncarrot1/CVE-2019-1003030)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2019-1003030">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2019-1003030">
+- [cyberbelly/PoC-CVE-2019-1003030](https://github.com/cyberbelly/PoC-CVE-2019-1003030)	<img alt="forks" src="https://img.shields.io/github/forks/cyberbelly/PoC-CVE-2019-1003030">	<img alt="stars" src="https://img.shields.io/github/stars/cyberbelly/PoC-CVE-2019-1003030">
+- [WHrez1ns/exploits](https://github.com/WHrez1ns/exploits)	<img alt="forks" src="https://img.shields.io/github/forks/WHrez1ns/exploits">	<img alt="stars" src="https://img.shields.io/github/stars/WHrez1ns/exploits">
 
 ---
 ## CVE-2019-1003010 ()

@@ -924,6 +924,7 @@
 - [martinmullins/amazon_remove_ads_apk](https://github.com/martinmullins/amazon_remove_ads_apk)	<img alt="forks" src="https://img.shields.io/github/forks/martinmullins/amazon_remove_ads_apk">	<img alt="stars" src="https://img.shields.io/github/stars/martinmullins/amazon_remove_ads_apk">
 - [nndhanasekaran/redhat_cve2016](https://github.com/nndhanasekaran/redhat_cve2016)	<img alt="forks" src="https://img.shields.io/github/forks/nndhanasekaran/redhat_cve2016">	<img alt="stars" src="https://img.shields.io/github/stars/nndhanasekaran/redhat_cve2016">
 - [rauljvc8/Exploit-Dirty-Cow](https://github.com/rauljvc8/Exploit-Dirty-Cow)	<img alt="forks" src="https://img.shields.io/github/forks/rauljvc8/Exploit-Dirty-Cow">	<img alt="stars" src="https://img.shields.io/github/stars/rauljvc8/Exploit-Dirty-Cow">
+- [endgtryna/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195](https://github.com/endgtryna/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/endgtryna/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/endgtryna/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195">
 
 ---
 ## CVE-2016-5180 (2016-10-03T15:59:00)
