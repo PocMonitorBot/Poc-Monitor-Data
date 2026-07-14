@@ -891,6 +891,7 @@
 - [m2sousa/CVE-2025-69212](https://github.com/m2sousa/CVE-2025-69212)	<img alt="forks" src="https://img.shields.io/github/forks/m2sousa/CVE-2025-69212">	<img alt="stars" src="https://img.shields.io/github/stars/m2sousa/CVE-2025-69212">
 - [c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212">
 - [0Zetrium0/CVE-2025-69212_PoC](https://github.com/0Zetrium0/CVE-2025-69212_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0Zetrium0/CVE-2025-69212_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0Zetrium0/CVE-2025-69212_PoC">
+- [mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report](https://github.com/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report)	<img alt="forks" src="https://img.shields.io/github/forks/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report">	<img alt="stars" src="https://img.shields.io/github/stars/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report">
 
 ---
 ## CVE-2025-69194 ()
@@ -4224,7 +4225,7 @@
 - [younesZdDz/CVE-2025-55182](https://github.com/younesZdDz/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/younesZdDz/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/younesZdDz/CVE-2025-55182">
 - [l8BL/CVE-2025-55182](https://github.com/l8BL/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/l8BL/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/l8BL/CVE-2025-55182">
 - [hualy13/CVE-2025-55182](https://github.com/hualy13/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hualy13/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hualy13/CVE-2025-55182">
-- [Saturate/CVE-2025-55182-Scanner](https://github.com/Saturate/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-Scanner">
+- [Saturate/CVE-2025-55182-react2shell](https://github.com/Saturate/CVE-2025-55182-react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-react2shell">
 - [hoosin/CVE-2025-55182](https://github.com/hoosin/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/hoosin/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/hoosin/CVE-2025-55182">
 - [RuoJi6/CVE-2025-55182-RCE-shell](https://github.com/RuoJi6/CVE-2025-55182-RCE-shell)	<img alt="forks" src="https://img.shields.io/github/forks/RuoJi6/CVE-2025-55182-RCE-shell">	<img alt="stars" src="https://img.shields.io/github/stars/RuoJi6/CVE-2025-55182-RCE-shell">
 - [sherlocksecurity/CVE-2025-55182-Exploit-scanner](https://github.com/sherlocksecurity/CVE-2025-55182-Exploit-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/sherlocksecurity/CVE-2025-55182-Exploit-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/sherlocksecurity/CVE-2025-55182-Exploit-scanner">
@@ -8011,6 +8012,7 @@
 - [pol4ir/CVE-2025-33073](https://github.com/pol4ir/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/pol4ir/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/pol4ir/CVE-2025-33073">
 - [IyarGross/SMB-CVE-2025-33073](https://github.com/IyarGross/SMB-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/IyarGross/SMB-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/IyarGross/SMB-CVE-2025-33073">
 - [EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-](https://github.com/EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-)	<img alt="forks" src="https://img.shields.io/github/forks/EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-">	<img alt="stars" src="https://img.shields.io/github/stars/EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-">
+- [sentinel-aidefense/CVE-2025-33073](https://github.com/sentinel-aidefense/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
@@ -10140,7 +10142,7 @@
 - [N0c1or/CVE-2025-24813_POC](https://github.com/N0c1or/CVE-2025-24813_POC)	<img alt="forks" src="https://img.shields.io/github/forks/N0c1or/CVE-2025-24813_POC">	<img alt="stars" src="https://img.shields.io/github/stars/N0c1or/CVE-2025-24813_POC">
 - [gregk4sec/CVE-2025-24813](https://github.com/gregk4sec/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/gregk4sec/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/gregk4sec/CVE-2025-24813">
 - [absholi7ly/POC-CVE-2025-24813](https://github.com/absholi7ly/POC-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/absholi7ly/POC-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/absholi7ly/POC-CVE-2025-24813">
-- [FY036/cve-2025-24813_poc](https://github.com/FY036/cve-2025-24813_poc)	<img alt="forks" src="https://img.shields.io/github/forks/FY036/cve-2025-24813_poc">	<img alt="stars" src="https://img.shields.io/github/stars/FY036/cve-2025-24813_poc">
+- [qzy0x/cve-2025-24813_poc](https://github.com/qzy0x/cve-2025-24813_poc)	<img alt="forks" src="https://img.shields.io/github/forks/qzy0x/cve-2025-24813_poc">	<img alt="stars" src="https://img.shields.io/github/stars/qzy0x/cve-2025-24813_poc">
 - [charis3306/CVE-2025-24813](https://github.com/charis3306/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/charis3306/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/charis3306/CVE-2025-24813">
 - [issamjr/CVE-2025-24813-Scanner](https://github.com/issamjr/CVE-2025-24813-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2025-24813-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2025-24813-Scanner">
 - [imbas007/CVE-2025-24813-apache-tomcat](https://github.com/imbas007/CVE-2025-24813-apache-tomcat)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-24813-apache-tomcat">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-24813-apache-tomcat">
@@ -10196,8 +10198,10 @@
 - [EQSTLab/CVE-2025-24813](https://github.com/EQSTLab/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/EQSTLab/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/EQSTLab/CVE-2025-24813">
 - [cchopin/CVE-Arsenal-Lab](https://github.com/cchopin/CVE-Arsenal-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/cchopin/CVE-Arsenal-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/cchopin/CVE-Arsenal-Lab">
 - [suil12/CVE-2025-24813_presentation](https://github.com/suil12/CVE-2025-24813_presentation)	<img alt="forks" src="https://img.shields.io/github/forks/suil12/CVE-2025-24813_presentation">	<img alt="stars" src="https://img.shields.io/github/stars/suil12/CVE-2025-24813_presentation">
-- [JTMH37/ICT279-CVE-2025-24813](https://github.com/JTMH37/ICT279-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/JTMH37/ICT279-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/JTMH37/ICT279-CVE-2025-24813">
+- [JTMH37/Apache-Tomcat-CVE-2025-24813-Lab](https://github.com/JTMH37/Apache-Tomcat-CVE-2025-24813-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/JTMH37/Apache-Tomcat-CVE-2025-24813-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/JTMH37/Apache-Tomcat-CVE-2025-24813-Lab">
 - [Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-](https://github.com/Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-">
+- [yuzuki-ayanami/CVE-2025-24813](https://github.com/yuzuki-ayanami/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yuzuki-ayanami/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yuzuki-ayanami/CVE-2025-24813">
+- [Enzo-Tssn/PCS3844-CVE_2025_24813](https://github.com/Enzo-Tssn/PCS3844-CVE_2025_24813)	<img alt="forks" src="https://img.shields.io/github/forks/Enzo-Tssn/PCS3844-CVE_2025_24813">	<img alt="stars" src="https://img.shields.io/github/stars/Enzo-Tssn/PCS3844-CVE_2025_24813">
 
 ---
 ## CVE-2025-24801 ()

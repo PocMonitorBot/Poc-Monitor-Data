@@ -1300,6 +1300,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [Aryan20057/CVE-2023-4911](https://github.com/Aryan20057/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/Aryan20057/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/Aryan20057/CVE-2023-4911">
 - [0xMOGA/CVE-2023-4911-Lab](https://github.com/0xMOGA/CVE-2023-4911-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/0xMOGA/CVE-2023-4911-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/0xMOGA/CVE-2023-4911-Lab">
 - [jarpex/cve-2023-4911-exploit-optimized](https://github.com/jarpex/cve-2023-4911-exploit-optimized)	<img alt="forks" src="https://img.shields.io/github/forks/jarpex/cve-2023-4911-exploit-optimized">	<img alt="stars" src="https://img.shields.io/github/stars/jarpex/cve-2023-4911-exploit-optimized">
+- [baeseungwon1010/CVE-2023-4911](https://github.com/baeseungwon1010/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/baeseungwon1010/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/baeseungwon1010/CVE-2023-4911">
 
 ---
 ## CVE-2023-49109 ()
@@ -4287,8 +4288,9 @@ URL that curl has been told to operate with.
 ## CVE-2023-38146 (2023-09-12T17:15:00)
 > Windows Themes Remote Code Execution Vulnerability
 - [Jnnshschl/CVE-2023-38146](https://github.com/Jnnshschl/CVE-2023-38146)	<img alt="forks" src="https://img.shields.io/github/forks/Jnnshschl/CVE-2023-38146">	<img alt="stars" src="https://img.shields.io/github/stars/Jnnshschl/CVE-2023-38146">
-- [gabe-k/themebleed](https://github.com/gabe-k/themebleed)	<img alt="forks" src="https://img.shields.io/github/forks/gabe-k/themebleed">	<img alt="stars" src="https://img.shields.io/github/stars/gabe-k/themebleed">
+- [exploits-forsale/themebleed](https://github.com/exploits-forsale/themebleed)	<img alt="forks" src="https://img.shields.io/github/forks/exploits-forsale/themebleed">	<img alt="stars" src="https://img.shields.io/github/stars/exploits-forsale/themebleed">
 - [Durge5/ThemeBleedPy](https://github.com/Durge5/ThemeBleedPy)	<img alt="forks" src="https://img.shields.io/github/forks/Durge5/ThemeBleedPy">	<img alt="stars" src="https://img.shields.io/github/stars/Durge5/ThemeBleedPy">
+- [CH0ico/CVE-2023-38146-Poc](https://github.com/CH0ico/CVE-2023-38146-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/CH0ico/CVE-2023-38146-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/CH0ico/CVE-2023-38146-Poc">
 
 ---
 ## CVE-2023-38120 (2024-05-03T02:15:00)
@@ -5430,10 +5432,11 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037)	<img alt="forks" src="https://img.shields.io/github/forks/mbadanoiu/CVE-2023-40037">	<img alt="stars" src="https://img.shields.io/github/stars/mbadanoiu/CVE-2023-40037">
 - [shoucheng3/asf__nifi_CVE-2023-34468_1-21-0](https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">
 - [shoucheng3/asf__nifi_CVE-2023-34468_1-21-0](https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">
-- [shoucheng3/asf__nifi_CVE-2023-34468_1-21-0](https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0">
-- [Al3xx-sec/CVE-2023-34468-POC](https://github.com/Al3xx-sec/CVE-2023-34468-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Al3xx-sec/CVE-2023-34468-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Al3xx-sec/CVE-2023-34468-POC">
+- [shoucheng3/asf__nifi_CVE-2023-34468_1-21-00](https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00">
+- [sbouabid-sec/CVE-2023-34468-POC](https://github.com/sbouabid-sec/CVE-2023-34468-POC)	<img alt="forks" src="https://img.shields.io/github/forks/sbouabid-sec/CVE-2023-34468-POC">	<img alt="stars" src="https://img.shields.io/github/stars/sbouabid-sec/CVE-2023-34468-POC">
 - [Jeanpt/CVE-2023-34468](https://github.com/Jeanpt/CVE-2023-34468)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanpt/CVE-2023-34468">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanpt/CVE-2023-34468">
 - [spikeyjr/CVE-2023-34468-PoC](https://github.com/spikeyjr/CVE-2023-34468-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/spikeyjr/CVE-2023-34468-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/spikeyjr/CVE-2023-34468-PoC">
+- [ozcanpng/CVE-2023-34468](https://github.com/ozcanpng/CVE-2023-34468)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2023-34468">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2023-34468">
 
 ---
 ## CVE-2023-34458 (2023-07-13T19:15:00)
@@ -6886,6 +6889,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [timb-machine-mirrors/seongil-wi-CVE-2023-29017](https://github.com/timb-machine-mirrors/seongil-wi-CVE-2023-29017)	<img alt="forks" src="https://img.shields.io/github/forks/timb-machine-mirrors/seongil-wi-CVE-2023-29017">	<img alt="stars" src="https://img.shields.io/github/stars/timb-machine-mirrors/seongil-wi-CVE-2023-29017">
 - [Kaneki-hash/CVE-2023-29017-reverse-shell](https://github.com/Kaneki-hash/CVE-2023-29017-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/Kaneki-hash/CVE-2023-29017-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/Kaneki-hash/CVE-2023-29017-reverse-shell">
 - [passwa11/CVE-2023-29017-reverse-shell](https://github.com/passwa11/CVE-2023-29017-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/passwa11/CVE-2023-29017-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/passwa11/CVE-2023-29017-reverse-shell">
+- [gunwoo105/Node_CVE-2023-29017](https://github.com/gunwoo105/Node_CVE-2023-29017)	<img alt="forks" src="https://img.shields.io/github/forks/gunwoo105/Node_CVE-2023-29017">	<img alt="stars" src="https://img.shields.io/github/stars/gunwoo105/Node_CVE-2023-29017">
 
 ---
 ## CVE-2023-29007 (2023-04-25T21:15:00)
@@ -8078,6 +8082,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [dr-cable-tv/Geoserver-CVE-2023-25157](https://github.com/dr-cable-tv/Geoserver-CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/dr-cable-tv/Geoserver-CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/dr-cable-tv/Geoserver-CVE-2023-25157">
 - [custiya/geoserver-CVE-2023-25157](https://github.com/custiya/geoserver-CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/custiya/geoserver-CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/custiya/geoserver-CVE-2023-25157">
 - [charis3306/CVE-2023-25157](https://github.com/charis3306/CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/charis3306/CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/charis3306/CVE-2023-25157">
+- [Giangdurian/CVE-2023-25157-GeoServer-SQLi-Lab](https://github.com/Giangdurian/CVE-2023-25157-GeoServer-SQLi-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2023-25157-GeoServer-SQLi-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2023-25157-GeoServer-SQLi-Lab">
 
 ---
 ## CVE-2023-25155 ()

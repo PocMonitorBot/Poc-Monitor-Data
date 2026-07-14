@@ -2208,6 +2208,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [nanwinata/CVE-2024-52301](https://github.com/nanwinata/CVE-2024-52301)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/CVE-2024-52301">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/CVE-2024-52301">
 
 ---
+## CVE-2024-52046 ()
+> 
+- [amnsecurity/CVE-2024-52046-Apache-MINA-RCE](https://github.com/amnsecurity/CVE-2024-52046-Apache-MINA-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/amnsecurity/CVE-2024-52046-Apache-MINA-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/amnsecurity/CVE-2024-52046-Apache-MINA-RCE">
+
+---
 ## CVE-2024-52011 ()
 > 
 - [HORKimhab/CVE-2024-52011](https://github.com/HORKimhab/CVE-2024-52011)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2024-52011">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2024-52011">
@@ -4714,6 +4719,11 @@ Affected users are recommended to disable the SAML authentication plugin by sett
 - [xen0bit/fwbt](https://github.com/xen0bit/fwbt)	<img alt="forks" src="https://img.shields.io/github/forks/xen0bit/fwbt">	<img alt="stars" src="https://img.shields.io/github/stars/xen0bit/fwbt">
 
 ---
+## CVE-2024-40842 ()
+> 
+- [dunihiz/Ph-n-t-ch-CVE-2024-40842-XProtectRemediatorDubRobber-Information-Leak-tr-n-macOS](https://github.com/dunihiz/Ph-n-t-ch-CVE-2024-40842-XProtectRemediatorDubRobber-Information-Leak-tr-n-macOS)	<img alt="forks" src="https://img.shields.io/github/forks/dunihiz/Ph-n-t-ch-CVE-2024-40842-XProtectRemediatorDubRobber-Information-Leak-tr-n-macOS">	<img alt="stars" src="https://img.shields.io/github/stars/dunihiz/Ph-n-t-ch-CVE-2024-40842-XProtectRemediatorDubRobber-Information-Leak-tr-n-macOS">
+
+---
 ## CVE-2024-40815 ()
 > 
 - [w0wbox/CVE-2024-40815](https://github.com/w0wbox/CVE-2024-40815)	<img alt="forks" src="https://img.shields.io/github/forks/w0wbox/CVE-2024-40815">	<img alt="stars" src="https://img.shields.io/github/stars/w0wbox/CVE-2024-40815">
@@ -4837,6 +4847,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-40453 ()
 > 
 - [BwithE/CVE-2024-40453](https://github.com/BwithE/CVE-2024-40453)	<img alt="forks" src="https://img.shields.io/github/forks/BwithE/CVE-2024-40453">	<img alt="stars" src="https://img.shields.io/github/stars/BwithE/CVE-2024-40453">
+- [surajpandeyp/CVE-2024-40453](https://github.com/surajpandeyp/CVE-2024-40453)	<img alt="forks" src="https://img.shields.io/github/forks/surajpandeyp/CVE-2024-40453">	<img alt="stars" src="https://img.shields.io/github/stars/surajpandeyp/CVE-2024-40453">
 
 ---
 ## CVE-2024-40445 ()

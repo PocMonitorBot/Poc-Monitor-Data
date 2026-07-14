@@ -3019,6 +3019,11 @@
 - [RHYru9/CVE-2018-16431](https://github.com/RHYru9/CVE-2018-16431)	<img alt="forks" src="https://img.shields.io/github/forks/RHYru9/CVE-2018-16431">	<img alt="stars" src="https://img.shields.io/github/stars/RHYru9/CVE-2018-16431">
 
 ---
+## CVE-2018-16385 ()
+> 
+- [buzhimingdeaikun/SQL-ThinkPHP-5.0.24-RCE-](https://github.com/buzhimingdeaikun/SQL-ThinkPHP-5.0.24-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/buzhimingdeaikun/SQL-ThinkPHP-5.0.24-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/buzhimingdeaikun/SQL-ThinkPHP-5.0.24-RCE-">
+
+---
 ## CVE-2018-16373 ()
 > 
 - [snappyJack/CVE-2018-16373](https://github.com/snappyJack/CVE-2018-16373)	<img alt="forks" src="https://img.shields.io/github/forks/snappyJack/CVE-2018-16373">	<img alt="stars" src="https://img.shields.io/github/stars/snappyJack/CVE-2018-16373">
@@ -4333,6 +4338,11 @@
 ## CVE-2018-1000542 ()
 > 
 - [forse01/CVE-2018-1000542-NetBeans](https://github.com/forse01/CVE-2018-1000542-NetBeans)	<img alt="forks" src="https://img.shields.io/github/forks/forse01/CVE-2018-1000542-NetBeans">	<img alt="stars" src="https://img.shields.io/github/stars/forse01/CVE-2018-1000542-NetBeans">
+
+---
+## CVE-2018-1000533 ()
+> 
+- [dddo0/CVE-2018-1000533](https://github.com/dddo0/CVE-2018-1000533)	<img alt="forks" src="https://img.shields.io/github/forks/dddo0/CVE-2018-1000533">	<img alt="stars" src="https://img.shields.io/github/stars/dddo0/CVE-2018-1000533">
 
 ---
 ## CVE-2018-1000531 ()

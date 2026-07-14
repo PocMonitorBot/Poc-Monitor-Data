@@ -31779,6 +31779,7 @@ the client's API server credentials to third parties.
 - [test-avm-714877d2df585126/vuln-ejs-critical](https://github.com/test-avm-714877d2df585126/vuln-ejs-critical)	<img alt="forks" src="https://img.shields.io/github/forks/test-avm-714877d2df585126/vuln-ejs-critical">	<img alt="stars" src="https://img.shields.io/github/stars/test-avm-714877d2df585126/vuln-ejs-critical">
 - [test-avm-714877d2df585126/C-test-2](https://github.com/test-avm-714877d2df585126/C-test-2)	<img alt="forks" src="https://img.shields.io/github/forks/test-avm-714877d2df585126/C-test-2">	<img alt="stars" src="https://img.shields.io/github/stars/test-avm-714877d2df585126/C-test-2">
 - [taka3636/CVE-2022-29078](https://github.com/taka3636/CVE-2022-29078)	<img alt="forks" src="https://img.shields.io/github/forks/taka3636/CVE-2022-29078">	<img alt="stars" src="https://img.shields.io/github/stars/taka3636/CVE-2022-29078">
+- [seal-sec-demo-2/JavaScript-Example](https://github.com/seal-sec-demo-2/JavaScript-Example)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sec-demo-2/JavaScript-Example">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sec-demo-2/JavaScript-Example">
 
 ---
 ## CVE-2022-29072 (2022-04-15T20:15:00)
@@ -40908,6 +40909,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [seal-sec-demo-2/yaml-payload](https://github.com/seal-sec-demo-2/yaml-payload)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sec-demo-2/yaml-payload">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sec-demo-2/yaml-payload">
 - [falconkei/snakeyaml_cve_poc](https://github.com/falconkei/snakeyaml_cve_poc)	<img alt="forks" src="https://img.shields.io/github/forks/falconkei/snakeyaml_cve_poc">	<img alt="stars" src="https://img.shields.io/github/stars/falconkei/snakeyaml_cve_poc">
 - [anupamojha-eng/sentinel-transitive-cve-demo](https://github.com/anupamojha-eng/sentinel-transitive-cve-demo)	<img alt="forks" src="https://img.shields.io/github/forks/anupamojha-eng/sentinel-transitive-cve-demo">	<img alt="stars" src="https://img.shields.io/github/stars/anupamojha-eng/sentinel-transitive-cve-demo">
+- [seal-sec-demo-2/Java-Example](https://github.com/seal-sec-demo-2/Java-Example)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sec-demo-2/Java-Example">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sec-demo-2/Java-Example">
 
 ---
 ## CVE-2022-1444 (2022-04-23T22:15:00)

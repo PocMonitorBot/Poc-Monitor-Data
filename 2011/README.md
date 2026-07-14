@@ -203,6 +203,8 @@
 - [H4R335HR/vsftpd-234-backdoor](https://github.com/H4R335HR/vsftpd-234-backdoor)	<img alt="forks" src="https://img.shields.io/github/forks/H4R335HR/vsftpd-234-backdoor">	<img alt="stars" src="https://img.shields.io/github/stars/H4R335HR/vsftpd-234-backdoor">
 - [kn9annihilator/CVE-2011-2523-vsFTPd-2.3.4-Writeup](https://github.com/kn9annihilator/CVE-2011-2523-vsFTPd-2.3.4-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/kn9annihilator/CVE-2011-2523-vsFTPd-2.3.4-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/kn9annihilator/CVE-2011-2523-vsFTPd-2.3.4-Writeup">
 - [victorborrero01/pentesting-lab-metasploitable2](https://github.com/victorborrero01/pentesting-lab-metasploitable2)	<img alt="forks" src="https://img.shields.io/github/forks/victorborrero01/pentesting-lab-metasploitable2">	<img alt="stars" src="https://img.shields.io/github/stars/victorborrero01/pentesting-lab-metasploitable2">
+- [solomonhenry-afk/vsftpd-cve-2011-2523-detection-signature](https://github.com/solomonhenry-afk/vsftpd-cve-2011-2523-detection-signature)	<img alt="forks" src="https://img.shields.io/github/forks/solomonhenry-afk/vsftpd-cve-2011-2523-detection-signature">	<img alt="stars" src="https://img.shields.io/github/stars/solomonhenry-afk/vsftpd-cve-2011-2523-detection-signature">
+- [Orevic21/wazuh-home-soc](https://github.com/Orevic21/wazuh-home-soc)	<img alt="forks" src="https://img.shields.io/github/forks/Orevic21/wazuh-home-soc">	<img alt="stars" src="https://img.shields.io/github/stars/Orevic21/wazuh-home-soc">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
