@@ -131,6 +131,11 @@
 - [Live-Hack-CVE/CVE-2019-9718](https://github.com/Live-Hack-CVE/CVE-2019-9718)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-9718">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-9718">
 
 ---
+## CVE-2019-9702 ()
+> 
+- [DavidCarliez/CVE-2019-9702_Symantec_Encryption_Desktop_LPE_PoC](https://github.com/DavidCarliez/CVE-2019-9702_Symantec_Encryption_Desktop_LPE_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/CVE-2019-9702_Symantec_Encryption_Desktop_LPE_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/CVE-2019-9702_Symantec_Encryption_Desktop_LPE_PoC">
+
+---
 ## CVE-2019-9673 ()
 > 
 - [mgrube/CVE-2019-9673](https://github.com/mgrube/CVE-2019-9673)	<img alt="forks" src="https://img.shields.io/github/forks/mgrube/CVE-2019-9673">	<img alt="stars" src="https://img.shields.io/github/stars/mgrube/CVE-2019-9673">

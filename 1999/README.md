@@ -23,6 +23,7 @@
 - [threatlabindonesia/CVE-1999-0524-ICMP-Timestamp-and-Address-Mask-Request-Exploit](https://github.com/threatlabindonesia/CVE-1999-0524-ICMP-Timestamp-and-Address-Mask-Request-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/threatlabindonesia/CVE-1999-0524-ICMP-Timestamp-and-Address-Mask-Request-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/threatlabindonesia/CVE-1999-0524-ICMP-Timestamp-and-Address-Mask-Request-Exploit">
 - [Ransc0rp1on/ICMP-Timestamp-POC](https://github.com/Ransc0rp1on/ICMP-Timestamp-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ransc0rp1on/ICMP-Timestamp-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ransc0rp1on/ICMP-Timestamp-POC">
 - [b1tsec/CVE-1999-0524](https://github.com/b1tsec/CVE-1999-0524)	<img alt="forks" src="https://img.shields.io/github/forks/b1tsec/CVE-1999-0524">	<img alt="stars" src="https://img.shields.io/github/stars/b1tsec/CVE-1999-0524">
+- [biontdv/CVE-1999-0524-POC](https://github.com/biontdv/CVE-1999-0524-POC)	<img alt="forks" src="https://img.shields.io/github/forks/biontdv/CVE-1999-0524-POC">	<img alt="stars" src="https://img.shields.io/github/stars/biontdv/CVE-1999-0524-POC">
 
 ---
 ## CVE-1999-0517 ()

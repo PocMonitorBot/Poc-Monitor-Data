@@ -2918,6 +2918,11 @@
 - [ajansha/CVE-2025-60374](https://github.com/ajansha/CVE-2025-60374)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/CVE-2025-60374">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/CVE-2025-60374">
 
 ---
+## CVE-2025-60357 ()
+> 
+- [NyaMeeEain/CVE-2025-60357](https://github.com/NyaMeeEain/CVE-2025-60357)	<img alt="forks" src="https://img.shields.io/github/forks/NyaMeeEain/CVE-2025-60357">	<img alt="stars" src="https://img.shields.io/github/stars/NyaMeeEain/CVE-2025-60357">
+
+---
 ## CVE-2025-60349 ()
 > 
 - [djackreuter/CVE-2025-60349](https://github.com/djackreuter/CVE-2025-60349)	<img alt="forks" src="https://img.shields.io/github/forks/djackreuter/CVE-2025-60349">	<img alt="stars" src="https://img.shields.io/github/stars/djackreuter/CVE-2025-60349">
@@ -3437,6 +3442,7 @@
 - [JazzTheRabbit/FreePBX-SQLi-RCE](https://github.com/JazzTheRabbit/FreePBX-SQLi-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/JazzTheRabbit/FreePBX-SQLi-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/JazzTheRabbit/FreePBX-SQLi-RCE">
 - [Its1Zero/cve-2025-57819-exploit](https://github.com/Its1Zero/cve-2025-57819-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Its1Zero/cve-2025-57819-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Its1Zero/cve-2025-57819-exploit">
 - [K3ysTr0K3R/CVE-2025-57819](https://github.com/K3ysTr0K3R/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2025-57819">
+- [Samik-Parajuli/htb-connected-writeup](https://github.com/Samik-Parajuli/htb-connected-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Samik-Parajuli/htb-connected-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Samik-Parajuli/htb-connected-writeup">
 
 ---
 ## CVE-2025-57773 ()
@@ -8158,6 +8164,7 @@
 - [b0ySie7e/CVE-2025-3248-POC](https://github.com/b0ySie7e/CVE-2025-3248-POC)	<img alt="forks" src="https://img.shields.io/github/forks/b0ySie7e/CVE-2025-3248-POC">	<img alt="stars" src="https://img.shields.io/github/stars/b0ySie7e/CVE-2025-3248-POC">
 - [nebari-playground/langflow-cve-2025-3248](https://github.com/nebari-playground/langflow-cve-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/nebari-playground/langflow-cve-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/nebari-playground/langflow-cve-2025-3248">
 - [12-test-12/CVE-2025-3248](https://github.com/12-test-12/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/12-test-12/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/12-test-12/CVE-2025-3248">
+- [Atomics-hub/exposecheck](https://github.com/Atomics-hub/exposecheck)	<img alt="forks" src="https://img.shields.io/github/forks/Atomics-hub/exposecheck">	<img alt="stars" src="https://img.shields.io/github/stars/Atomics-hub/exposecheck">
 
 ---
 ## CVE-2025-32463 ()
@@ -10879,6 +10886,7 @@
 ## CVE-2025-21293 ()
 > 
 - [ahmedumarehman/CVE-2025-21293](https://github.com/ahmedumarehman/CVE-2025-21293)	<img alt="forks" src="https://img.shields.io/github/forks/ahmedumarehman/CVE-2025-21293">	<img alt="stars" src="https://img.shields.io/github/stars/ahmedumarehman/CVE-2025-21293">
+- [Dashlane04/threat-simlab](https://github.com/Dashlane04/threat-simlab)	<img alt="forks" src="https://img.shields.io/github/forks/Dashlane04/threat-simlab">	<img alt="stars" src="https://img.shields.io/github/stars/Dashlane04/threat-simlab">
 
 ---
 ## CVE-2025-21204 ()

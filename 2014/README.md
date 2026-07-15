@@ -57,6 +57,11 @@
 - [MohmadHafiz/CVE-2014-9219](https://github.com/MohmadHafiz/CVE-2014-9219)	<img alt="forks" src="https://img.shields.io/github/forks/MohmadHafiz/CVE-2014-9219">	<img alt="stars" src="https://img.shields.io/github/stars/MohmadHafiz/CVE-2014-9219">
 
 ---
+## CVE-2014-9173 ()
+> 
+- [ratiros01/CVE-2014-9173](https://github.com/ratiros01/CVE-2014-9173)	<img alt="forks" src="https://img.shields.io/github/forks/ratiros01/CVE-2014-9173">	<img alt="stars" src="https://img.shields.io/github/stars/ratiros01/CVE-2014-9173">
+
+---
 ## CVE-2014-91371 ()
 > 
 - [jamaal001/CVE-2014-91371-Wordpress-](https://github.com/jamaal001/CVE-2014-91371-Wordpress-)	<img alt="forks" src="https://img.shields.io/github/forks/jamaal001/CVE-2014-91371-Wordpress-">	<img alt="stars" src="https://img.shields.io/github/stars/jamaal001/CVE-2014-91371-Wordpress-">
@@ -169,6 +174,9 @@
 - [chef-boneyard/bash-shellshock](https://github.com/chef-boneyard/bash-shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/chef-boneyard/bash-shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/chef-boneyard/bash-shellshock">
 - [gina-alaska/bash-cve-2014-7169-cookbook](https://github.com/gina-alaska/bash-cve-2014-7169-cookbook)	<img alt="forks" src="https://img.shields.io/github/forks/gina-alaska/bash-cve-2014-7169-cookbook">	<img alt="stars" src="https://img.shields.io/github/stars/gina-alaska/bash-cve-2014-7169-cookbook">
 - [Gobinath-B/SHELL-SCHOCK](https://github.com/Gobinath-B/SHELL-SCHOCK)	<img alt="forks" src="https://img.shields.io/github/forks/Gobinath-B/SHELL-SCHOCK">	<img alt="stars" src="https://img.shields.io/github/stars/Gobinath-B/SHELL-SCHOCK">
+- [Kushiro45/shellshock-poc-cve-2014-7169](https://github.com/Kushiro45/shellshock-poc-cve-2014-7169)	<img alt="forks" src="https://img.shields.io/github/forks/Kushiro45/shellshock-poc-cve-2014-7169">	<img alt="stars" src="https://img.shields.io/github/stars/Kushiro45/shellshock-poc-cve-2014-7169">
+- [ajansha/shellshock](https://github.com/ajansha/shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/ajansha/shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/ajansha/shellshock">
+- [renanvicente/puppet-shellshock](https://github.com/renanvicente/puppet-shellshock)	<img alt="forks" src="https://img.shields.io/github/forks/renanvicente/puppet-shellshock">	<img alt="stars" src="https://img.shields.io/github/stars/renanvicente/puppet-shellshock">
 
 ---
 ## CVE-2014-7145 (2014-09-28T10:55:00)

@@ -1579,6 +1579,8 @@
 - [limxuan/ehir-vuln-enterprise-login](https://github.com/limxuan/ehir-vuln-enterprise-login)	<img alt="forks" src="https://img.shields.io/github/forks/limxuan/ehir-vuln-enterprise-login">	<img alt="stars" src="https://img.shields.io/github/stars/limxuan/ehir-vuln-enterprise-login">
 - [DAADAISMYLIFE/log4shell-lab](https://github.com/DAADAISMYLIFE/log4shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/DAADAISMYLIFE/log4shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/DAADAISMYLIFE/log4shell-lab">
 - [briml3y/loguccino](https://github.com/briml3y/loguccino)	<img alt="forks" src="https://img.shields.io/github/forks/briml3y/loguccino">	<img alt="stars" src="https://img.shields.io/github/stars/briml3y/loguccino">
+- [Ricardo354/homelab-CVE-2021-44228](https://github.com/Ricardo354/homelab-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Ricardo354/homelab-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Ricardo354/homelab-CVE-2021-44228">
+- [AstralJays/TraditionalJay](https://github.com/AstralJays/TraditionalJay)	<img alt="forks" src="https://img.shields.io/github/forks/AstralJays/TraditionalJay">	<img alt="stars" src="https://img.shields.io/github/stars/AstralJays/TraditionalJay">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -8722,6 +8724,8 @@
 - [lukwagoasuman/CVE-2021-3129---Laravel-RCE](https://github.com/lukwagoasuman/CVE-2021-3129---Laravel-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/lukwagoasuman/CVE-2021-3129---Laravel-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/lukwagoasuman/CVE-2021-3129---Laravel-RCE">
 - [Prabesh01/hoh4](https://github.com/Prabesh01/hoh4)	<img alt="forks" src="https://img.shields.io/github/forks/Prabesh01/hoh4">	<img alt="stars" src="https://img.shields.io/github/stars/Prabesh01/hoh4">
 - [Nullsecur1ty/CVE-2021-3129](https://github.com/Nullsecur1ty/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Nullsecur1ty/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Nullsecur1ty/CVE-2021-3129">
+- [M4rrow/CVE-2021-3129](https://github.com/M4rrow/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/M4rrow/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/M4rrow/CVE-2021-3129">
+- [M4rrow/CVE-2021-3129-EXP](https://github.com/M4rrow/CVE-2021-3129-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/M4rrow/CVE-2021-3129-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/M4rrow/CVE-2021-3129-EXP">
 
 ---
 ## CVE-2021-31233 (2023-05-31T01:15:00)

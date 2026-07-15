@@ -9618,6 +9618,7 @@ If this ACL bypass issue were to be successfully exploited, it potentially could
 - [KosmicOwl045/ICT287-CVE-2022-42889](https://github.com/KosmicOwl045/ICT287-CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/KosmicOwl045/ICT287-CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/KosmicOwl045/ICT287-CVE-2022-42889">
 - [rockmelodies/CVE-2022-42889](https://github.com/rockmelodies/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/rockmelodies/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/rockmelodies/CVE-2022-42889">
 - [kiralab/text4shell-scan](https://github.com/kiralab/text4shell-scan)	<img alt="forks" src="https://img.shields.io/github/forks/kiralab/text4shell-scan">	<img alt="stars" src="https://img.shields.io/github/stars/kiralab/text4shell-scan">
+- [Hkaeeeer/CVE-2022-42889](https://github.com/Hkaeeeer/CVE-2022-42889)	<img alt="forks" src="https://img.shields.io/github/forks/Hkaeeeer/CVE-2022-42889">	<img alt="stars" src="https://img.shields.io/github/stars/Hkaeeeer/CVE-2022-42889">
 
 ---
 ## CVE-2022-4287 (2022-12-21T17:15:00)
