@@ -1013,6 +1013,7 @@
 - [reswitched/rcm-modchips](https://github.com/reswitched/rcm-modchips)	<img alt="forks" src="https://img.shields.io/github/forks/reswitched/rcm-modchips">	<img alt="stars" src="https://img.shields.io/github/stars/reswitched/rcm-modchips">
 - [nikameru/nxboot](https://github.com/nikameru/nxboot)	<img alt="forks" src="https://img.shields.io/github/forks/nikameru/nxboot">	<img alt="stars" src="https://img.shields.io/github/stars/nikameru/nxboot">
 - [Resi-le/NXLoader](https://github.com/Resi-le/NXLoader)	<img alt="forks" src="https://img.shields.io/github/forks/Resi-le/NXLoader">	<img alt="stars" src="https://img.shields.io/github/stars/Resi-le/NXLoader">
+- [oliviaholly/fusee-gelee](https://github.com/oliviaholly/fusee-gelee)	<img alt="forks" src="https://img.shields.io/github/forks/oliviaholly/fusee-gelee">	<img alt="stars" src="https://img.shields.io/github/stars/oliviaholly/fusee-gelee">
 
 ---
 ## CVE-2018-6066 ()

@@ -3396,6 +3396,7 @@
 - [johnwickakash12/CVE-2021-41773](https://github.com/johnwickakash12/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/johnwickakash12/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/johnwickakash12/CVE-2021-41773">
 - [lheeeesoo/Apache-CVE-2021-41773](https://github.com/lheeeesoo/Apache-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/lheeeesoo/Apache-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/lheeeesoo/Apache-CVE-2021-41773">
 - [ninthsgrsj-source/vulhub-apache](https://github.com/ninthsgrsj-source/vulhub-apache)	<img alt="forks" src="https://img.shields.io/github/forks/ninthsgrsj-source/vulhub-apache">	<img alt="stars" src="https://img.shields.io/github/stars/ninthsgrsj-source/vulhub-apache">
+- [0xrogg/CVE-2021-41773](https://github.com/0xrogg/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/0xrogg/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/0xrogg/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -8602,6 +8603,8 @@
 - [sbladiamond/CVE-2021-3156](https://github.com/sbladiamond/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/sbladiamond/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/sbladiamond/CVE-2021-3156">
 - [DakerQirszh/cve-2021-3156](https://github.com/DakerQirszh/cve-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/DakerQirszh/cve-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/DakerQirszh/cve-2021-3156">
 - [Kranti08/CVE-2021-3156-Baron-Samedit](https://github.com/Kranti08/CVE-2021-3156-Baron-Samedit)	<img alt="forks" src="https://img.shields.io/github/forks/Kranti08/CVE-2021-3156-Baron-Samedit">	<img alt="stars" src="https://img.shields.io/github/stars/Kranti08/CVE-2021-3156-Baron-Samedit">
+- [IJBaig/CVE-2021-3156](https://github.com/IJBaig/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/IJBaig/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/IJBaig/CVE-2021-3156">
+- [AbdullahRizwan101/Baron-Samedit](https://github.com/AbdullahRizwan101/Baron-Samedit)	<img alt="forks" src="https://img.shields.io/github/forks/AbdullahRizwan101/Baron-Samedit">	<img alt="stars" src="https://img.shields.io/github/stars/AbdullahRizwan101/Baron-Samedit">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)

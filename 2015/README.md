@@ -98,6 +98,11 @@
 - [drolley919/joomla-cve-2015-8562-exploit-and-linux-forensic-analysis](https://github.com/drolley919/joomla-cve-2015-8562-exploit-and-linux-forensic-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/drolley919/joomla-cve-2015-8562-exploit-and-linux-forensic-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/drolley919/joomla-cve-2015-8562-exploit-and-linux-forensic-analysis">
 
 ---
+## CVE-2015-8550 ()
+> 
+- [WhatsWrongAndWhy/CVE-2015-8550](https://github.com/WhatsWrongAndWhy/CVE-2015-8550)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2015-8550">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2015-8550">
+
+---
 ## CVE-2015-8543 ()
 > 
 - [bittorrent3389/CVE-2015-8543_for_SLE12SP1](https://github.com/bittorrent3389/CVE-2015-8543_for_SLE12SP1)	<img alt="forks" src="https://img.shields.io/github/forks/bittorrent3389/CVE-2015-8543_for_SLE12SP1">	<img alt="stars" src="https://img.shields.io/github/stars/bittorrent3389/CVE-2015-8543_for_SLE12SP1">
@@ -1125,6 +1130,7 @@
 - [0xf1d0/CVE-2015-1328](https://github.com/0xf1d0/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/0xf1d0/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/0xf1d0/CVE-2015-1328">
 - [thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM](https://github.com/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM)	<img alt="forks" src="https://img.shields.io/github/forks/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM">	<img alt="stars" src="https://img.shields.io/github/stars/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM">
 - [saqib-butt2/blackbox-pentesting-infsecos](https://github.com/saqib-butt2/blackbox-pentesting-infsecos)	<img alt="forks" src="https://img.shields.io/github/forks/saqib-butt2/blackbox-pentesting-infsecos">	<img alt="stars" src="https://img.shields.io/github/stars/saqib-butt2/blackbox-pentesting-infsecos">
+- [WhatsWrongAndWhy/CVE-2015-1328](https://github.com/WhatsWrongAndWhy/CVE-2015-1328)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2015-1328">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2015-1328">
 
 ---
 ## CVE-2015-1318 ()

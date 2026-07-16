@@ -1013,6 +1013,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [particle99/CVE-2024-6387-POC](https://github.com/particle99/CVE-2024-6387-POC)	<img alt="forks" src="https://img.shields.io/github/forks/particle99/CVE-2024-6387-POC">	<img alt="stars" src="https://img.shields.io/github/stars/particle99/CVE-2024-6387-POC">
 - [oseasfr/Scanner_CVE_OpenSSH](https://github.com/oseasfr/Scanner_CVE_OpenSSH)	<img alt="forks" src="https://img.shields.io/github/forks/oseasfr/Scanner_CVE_OpenSSH">	<img alt="stars" src="https://img.shields.io/github/stars/oseasfr/Scanner_CVE_OpenSSH">
 - [vuducmanhno100-cloud/CVE-2024-6387](https://github.com/vuducmanhno100-cloud/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/vuducmanhno100-cloud/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/vuducmanhno100-cloud/CVE-2024-6387">
+- [m0n3ef/regreSSHion-Checker](https://github.com/m0n3ef/regreSSHion-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/m0n3ef/regreSSHion-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/m0n3ef/regreSSHion-Checker">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
@@ -2518,6 +2519,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [Roronoawjd/CVE-2024-5083](https://github.com/Roronoawjd/CVE-2024-5083)	<img alt="forks" src="https://img.shields.io/github/forks/Roronoawjd/CVE-2024-5083">	<img alt="stars" src="https://img.shields.io/github/stars/Roronoawjd/CVE-2024-5083">
 
 ---
+## CVE-2024-5082 ()
+> 
+- [h4mr3r/CVE-2024-5082](https://github.com/h4mr3r/CVE-2024-5082)	<img alt="forks" src="https://img.shields.io/github/forks/h4mr3r/CVE-2024-5082">	<img alt="stars" src="https://img.shields.io/github/stars/h4mr3r/CVE-2024-5082">
+
+---
 ## CVE-2024-50804 ()
 > 
 - [g3tsyst3m/CVE-2024-50804](https://github.com/g3tsyst3m/CVE-2024-50804)	<img alt="forks" src="https://img.shields.io/github/forks/g3tsyst3m/CVE-2024-50804">	<img alt="stars" src="https://img.shields.io/github/stars/g3tsyst3m/CVE-2024-50804">
@@ -3617,6 +3623,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [mananjain61/PHP-CGI-INTERNAL-RCE](https://github.com/mananjain61/PHP-CGI-INTERNAL-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mananjain61/PHP-CGI-INTERNAL-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mananjain61/PHP-CGI-INTERNAL-RCE">
 - [rayngnpc/CVE-2024-4577-rayng](https://github.com/rayngnpc/CVE-2024-4577-rayng)	<img alt="forks" src="https://img.shields.io/github/forks/rayngnpc/CVE-2024-4577-rayng">	<img alt="stars" src="https://img.shields.io/github/stars/rayngnpc/CVE-2024-4577-rayng">
 - [gl1tch0x1/PHP_8.1.x_Exploit](https://github.com/gl1tch0x1/PHP_8.1.x_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gl1tch0x1/PHP_8.1.x_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gl1tch0x1/PHP_8.1.x_Exploit">
+- [Kanak-CypherX/cve-2024-4577-lab](https://github.com/Kanak-CypherX/cve-2024-4577-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Kanak-CypherX/cve-2024-4577-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Kanak-CypherX/cve-2024-4577-lab">
 
 ---
 ## CVE-2024-4573 ()

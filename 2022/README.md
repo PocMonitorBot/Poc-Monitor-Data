@@ -36930,6 +36930,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [sinjap/spring4shell](https://github.com/sinjap/spring4shell)	<img alt="forks" src="https://img.shields.io/github/forks/sinjap/spring4shell">	<img alt="stars" src="https://img.shields.io/github/stars/sinjap/spring4shell">
 - [anair-it/springshell-vuln-POC](https://github.com/anair-it/springshell-vuln-POC)	<img alt="forks" src="https://img.shields.io/github/forks/anair-it/springshell-vuln-POC">	<img alt="stars" src="https://img.shields.io/github/stars/anair-it/springshell-vuln-POC">
 - [RootEvil333/CVE-2022-22965](https://github.com/RootEvil333/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/RootEvil333/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/RootEvil333/CVE-2022-22965">
+- [meng-security/spring4shell-local-verification-lab](https://github.com/meng-security/spring4shell-local-verification-lab)	<img alt="forks" src="https://img.shields.io/github/forks/meng-security/spring4shell-local-verification-lab">	<img alt="stars" src="https://img.shields.io/github/stars/meng-security/spring4shell-local-verification-lab">
 
 ---
 ## CVE-2022-22963 (2022-04-01T23:15:00)

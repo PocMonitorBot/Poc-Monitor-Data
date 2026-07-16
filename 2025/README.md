@@ -2921,6 +2921,7 @@
 ## CVE-2025-60357 ()
 > 
 - [NyaMeeEain/CVE-2025-60357](https://github.com/NyaMeeEain/CVE-2025-60357)	<img alt="forks" src="https://img.shields.io/github/forks/NyaMeeEain/CVE-2025-60357">	<img alt="stars" src="https://img.shields.io/github/stars/NyaMeeEain/CVE-2025-60357">
+- [Nullbyte3117/CVE-2025-60357](https://github.com/Nullbyte3117/CVE-2025-60357)	<img alt="forks" src="https://img.shields.io/github/forks/Nullbyte3117/CVE-2025-60357">	<img alt="stars" src="https://img.shields.io/github/stars/Nullbyte3117/CVE-2025-60357">
 
 ---
 ## CVE-2025-60349 ()
@@ -8492,6 +8493,11 @@
 - [perplext/echteeteepee](https://github.com/perplext/echteeteepee)	<img alt="forks" src="https://img.shields.io/github/forks/perplext/echteeteepee">	<img alt="stars" src="https://img.shields.io/github/stars/perplext/echteeteepee">
 
 ---
+## CVE-2025-32044 ()
+> 
+- [shinthink/CVE-2025-32044](https://github.com/shinthink/CVE-2025-32044)	<img alt="forks" src="https://img.shields.io/github/forks/shinthink/CVE-2025-32044">	<img alt="stars" src="https://img.shields.io/github/stars/shinthink/CVE-2025-32044">
+
+---
 ## CVE-2025-32023 ()
 > 
 - [leesh3288/CVE-2025-32023](https://github.com/leesh3288/CVE-2025-32023)	<img alt="forks" src="https://img.shields.io/github/forks/leesh3288/CVE-2025-32023">	<img alt="stars" src="https://img.shields.io/github/stars/leesh3288/CVE-2025-32023">
@@ -9418,7 +9424,7 @@
 ## CVE-2025-27591 ()
 > 
 - [obamalaolu/CVE-2025-27591](https://github.com/obamalaolu/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/obamalaolu/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/obamalaolu/CVE-2025-27591">
-- [rvizx/CVE-2025-27591](https://github.com/rvizx/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2025-27591">
+- [rvzsec/CVE-2025-27591](https://github.com/rvzsec/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/CVE-2025-27591">
 - [BridgerAlderson/CVE-2025-27591-PoC](https://github.com/BridgerAlderson/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BridgerAlderson/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BridgerAlderson/CVE-2025-27591-PoC">
 - [DarksBlackSk/CVE-2025-27591](https://github.com/DarksBlackSk/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/DarksBlackSk/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/DarksBlackSk/CVE-2025-27591">
 - [dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591](https://github.com/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/dollarboysushil/Linux-Privilege-Escalation-CVE-2025-27591">
@@ -9436,6 +9442,7 @@
 - [0x00Jeff/CVE-2025-27591](https://github.com/0x00Jeff/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/0x00Jeff/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/0x00Jeff/CVE-2025-27591">
 - [Stp1t/CVE-2025-27591](https://github.com/Stp1t/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/Stp1t/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/Stp1t/CVE-2025-27591">
 - [rippsec/CVE-2025-27591-Meta-below-LPE](https://github.com/rippsec/CVE-2025-27591-Meta-below-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-27591-Meta-below-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-27591-Meta-below-LPE">
+- [MoTechStore/CVE-2025-27591-PoC](https://github.com/MoTechStore/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MoTechStore/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MoTechStore/CVE-2025-27591-PoC">
 
 ---
 ## CVE-2025-27590 ()

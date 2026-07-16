@@ -41,6 +41,11 @@
 - [blogresponder/CA-Common-Services-privilege-escalation-cve-2016-9795-revisited](https://github.com/blogresponder/CA-Common-Services-privilege-escalation-cve-2016-9795-revisited)	<img alt="forks" src="https://img.shields.io/github/forks/blogresponder/CA-Common-Services-privilege-escalation-cve-2016-9795-revisited">	<img alt="stars" src="https://img.shields.io/github/stars/blogresponder/CA-Common-Services-privilege-escalation-cve-2016-9795-revisited">
 
 ---
+## CVE-2016-9793 ()
+> 
+- [WhatsWrongAndWhy/CVE-2016-9793](https://github.com/WhatsWrongAndWhy/CVE-2016-9793)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2016-9793">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2016-9793">
+
+---
 ## CVE-2016-9675 (2016-12-22T21:59:00)
 > openjpeg: A heap-based buffer overflow flaw was found in the patch for CVE-2013-6045. A crafted j2k image could cause the application to crash, or potentially execute arbitrary code.
 - [Live-Hack-CVE/CVE-2016-9675](https://github.com/Live-Hack-CVE/CVE-2016-9675)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2016-9675">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2016-9675">
@@ -324,6 +329,7 @@
 - [KosukeShimofuji/CVE-2016-8655](https://github.com/KosukeShimofuji/CVE-2016-8655)	<img alt="forks" src="https://img.shields.io/github/forks/KosukeShimofuji/CVE-2016-8655">	<img alt="stars" src="https://img.shields.io/github/stars/KosukeShimofuji/CVE-2016-8655">
 - [agkunkle/chocobo](https://github.com/agkunkle/chocobo)	<img alt="forks" src="https://img.shields.io/github/forks/agkunkle/chocobo">	<img alt="stars" src="https://img.shields.io/github/stars/agkunkle/chocobo">
 - [martinmullins/CVE-2016-8655_Android](https://github.com/martinmullins/CVE-2016-8655_Android)	<img alt="forks" src="https://img.shields.io/github/forks/martinmullins/CVE-2016-8655_Android">	<img alt="stars" src="https://img.shields.io/github/stars/martinmullins/CVE-2016-8655_Android">
+- [WhatsWrongAndWhy/CVE-2016-8655](https://github.com/WhatsWrongAndWhy/CVE-2016-8655)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2016-8655">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2016-8655">
 
 ---
 ## CVE-2016-8636 ()
