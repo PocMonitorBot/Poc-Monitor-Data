@@ -24306,6 +24306,16 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [Live-Hack-CVE/CVE-2022-35500](https://github.com/Live-Hack-CVE/CVE-2022-35500)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35500">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35500">
 
 ---
+## CVE-2022-35499 ()
+> 
+- [PN-Tester/CVE-2022-35499](https://github.com/PN-Tester/CVE-2022-35499)	<img alt="forks" src="https://img.shields.io/github/forks/PN-Tester/CVE-2022-35499">	<img alt="stars" src="https://img.shields.io/github/stars/PN-Tester/CVE-2022-35499">
+
+---
+## CVE-2022-35497 ()
+> 
+- [PN-Tester/CVE-2022-35497](https://github.com/PN-Tester/CVE-2022-35497)	<img alt="forks" src="https://img.shields.io/github/forks/PN-Tester/CVE-2022-35497">	<img alt="stars" src="https://img.shields.io/github/stars/PN-Tester/CVE-2022-35497">
+
+---
 ## CVE-2022-3549 (2022-10-17T12:15:00)
 > A vulnerability was found in SourceCodester Simple Cold Storage Management System 1.0. It has been rated as problematic. This issue affects some unknown processing of the file /csms/admin/?page=user/manage_user of the component Avatar Handler. The manipulation leads to unrestricted upload. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. The identifier VDB-211049 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2022-3549](https://github.com/Live-Hack-CVE/CVE-2022-3549)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3549">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3549">
@@ -34797,6 +34807,16 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN](https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN">
 
 ---
+## CVE-2022-25477 ()
+> 
+- [HORKimhab/CVE-2022-25477](https://github.com/HORKimhab/CVE-2022-25477)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2022-25477">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2022-25477">
+
+---
+## CVE-2022-25476 ()
+> 
+- [HORKimhab/CVE-2022-25476](https://github.com/HORKimhab/CVE-2022-25476)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2022-25476">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2022-25476">
+
+---
 ## CVE-2022-2546 (2023-02-02T09:15:00)
 > The All-in-One WP Migration WordPress plugin before 7.63 uses the wrong content type, and does not properly escape the response from the ai1wm_export AJAX action, allowing an attacker to craft a request that when submitted by any visitor will inject arbitrary html or javascript into the response that will be executed in the victims session. Note: This requires knowledge of a static secret key
 - [vnxdtzip/CVE-2022-2546](https://github.com/vnxdtzip/CVE-2022-2546)	<img alt="forks" src="https://img.shields.io/github/forks/vnxdtzip/CVE-2022-2546">	<img alt="stars" src="https://img.shields.io/github/stars/vnxdtzip/CVE-2022-2546">
@@ -40912,6 +40932,8 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [falconkei/snakeyaml_cve_poc](https://github.com/falconkei/snakeyaml_cve_poc)	<img alt="forks" src="https://img.shields.io/github/forks/falconkei/snakeyaml_cve_poc">	<img alt="stars" src="https://img.shields.io/github/stars/falconkei/snakeyaml_cve_poc">
 - [anupamojha-eng/sentinel-transitive-cve-demo](https://github.com/anupamojha-eng/sentinel-transitive-cve-demo)	<img alt="forks" src="https://img.shields.io/github/forks/anupamojha-eng/sentinel-transitive-cve-demo">	<img alt="stars" src="https://img.shields.io/github/stars/anupamojha-eng/sentinel-transitive-cve-demo">
 - [seal-sec-demo-2/Java-Example](https://github.com/seal-sec-demo-2/Java-Example)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sec-demo-2/Java-Example">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sec-demo-2/Java-Example">
+- [seal-sean-org/yaml-payload](https://github.com/seal-sean-org/yaml-payload)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sean-org/yaml-payload">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sean-org/yaml-payload">
+- [seal-sean-org/seans-surf-and-skate](https://github.com/seal-sean-org/seans-surf-and-skate)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sean-org/seans-surf-and-skate">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sean-org/seans-surf-and-skate">
 
 ---
 ## CVE-2022-1444 (2022-04-23T22:15:00)

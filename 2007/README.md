@@ -142,6 +142,7 @@
 - [harshiys/cybersecurity-home-lab-btp](https://github.com/harshiys/cybersecurity-home-lab-btp)	<img alt="forks" src="https://img.shields.io/github/forks/harshiys/cybersecurity-home-lab-btp">	<img alt="stars" src="https://img.shields.io/github/stars/harshiys/cybersecurity-home-lab-btp">
 - [DesmondHinds94/S22_The_Verification_Protocol](https://github.com/DesmondHinds94/S22_The_Verification_Protocol)	<img alt="forks" src="https://img.shields.io/github/forks/DesmondHinds94/S22_The_Verification_Protocol">	<img alt="stars" src="https://img.shields.io/github/stars/DesmondHinds94/S22_The_Verification_Protocol">
 - [EthicalHackingLabs/metasploitable2-exploitation-metasploit](https://github.com/EthicalHackingLabs/metasploitable2-exploitation-metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/EthicalHackingLabs/metasploitable2-exploitation-metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/EthicalHackingLabs/metasploitable2-exploitation-metasploit">
+- [Mboatella25/metasploitable-pentest-lab](https://github.com/Mboatella25/metasploitable-pentest-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Mboatella25/metasploitable-pentest-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Mboatella25/metasploitable-pentest-lab">
 
 ---
 ## CVE-2007-2444 (2007-05-14T21:19:00)

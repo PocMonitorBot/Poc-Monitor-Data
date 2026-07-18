@@ -4807,6 +4807,7 @@ prior to
 - [ISH2YU/CVE-2023-36802](https://github.com/ISH2YU/CVE-2023-36802)	<img alt="forks" src="https://img.shields.io/github/forks/ISH2YU/CVE-2023-36802">	<img alt="stars" src="https://img.shields.io/github/stars/ISH2YU/CVE-2023-36802">
 - [sahil-mpatki/CVE-2023-36802-MSKSSRV](https://github.com/sahil-mpatki/CVE-2023-36802-MSKSSRV)	<img alt="forks" src="https://img.shields.io/github/forks/sahil-mpatki/CVE-2023-36802-MSKSSRV">	<img alt="stars" src="https://img.shields.io/github/stars/sahil-mpatki/CVE-2023-36802-MSKSSRV">
 - [rahul0xkr/Reproducing-CVE-2023-36802](https://github.com/rahul0xkr/Reproducing-CVE-2023-36802)	<img alt="forks" src="https://img.shields.io/github/forks/rahul0xkr/Reproducing-CVE-2023-36802">	<img alt="stars" src="https://img.shields.io/github/stars/rahul0xkr/Reproducing-CVE-2023-36802">
+- [nhh9905/CVE-2023-36802](https://github.com/nhh9905/CVE-2023-36802)	<img alt="forks" src="https://img.shields.io/github/forks/nhh9905/CVE-2023-36802">	<img alt="stars" src="https://img.shields.io/github/stars/nhh9905/CVE-2023-36802">
 
 ---
 ## CVE-2023-36761 (2023-09-12T17:15:00)
@@ -7734,6 +7735,11 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 - [hshivhare67/Jetty-v9.4.31_CVE-2023-26048](https://github.com/hshivhare67/Jetty-v9.4.31_CVE-2023-26048)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/Jetty-v9.4.31_CVE-2023-26048">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/Jetty-v9.4.31_CVE-2023-26048">
 
 ---
+## CVE-2023-26039 ()
+> 
+- [ungabunga-ctf/CVE-2023-26039](https://github.com/ungabunga-ctf/CVE-2023-26039)	<img alt="forks" src="https://img.shields.io/github/forks/ungabunga-ctf/CVE-2023-26039">	<img alt="stars" src="https://img.shields.io/github/stars/ungabunga-ctf/CVE-2023-26039">
+
+---
 ## CVE-2023-26035 (2023-02-25T02:15:00)
 > ZoneMinder is a free, open source Closed-circuit television software application for Linux which supports IP, USB and Analog cameras. Versions prior to 1.36.33 and 1.37.33 are vulnerable to Unauthenticated Remote Code Execution via Missing Authorization. There are no permissions check on the snapshot action, which expects an id to fetch an existing monitor but can be passed an object to create a new one instead. TriggerOn ends up calling shell_exec using the supplied Id. This issue is fixed in This issue is fixed in versions 1.36.33 and 1.37.33.
 - [rvizx/CVE-2023-26035](https://github.com/rvizx/CVE-2023-26035)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-26035">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-26035">
@@ -7909,6 +7915,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [g4nkd/CVE-2023-25690-PoC](https://github.com/g4nkd/CVE-2023-25690-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/g4nkd/CVE-2023-25690-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/g4nkd/CVE-2023-25690-PoC">
 - [oOCyginXOo/CVE-2023-25690-POC](https://github.com/oOCyginXOo/CVE-2023-25690-POC)	<img alt="forks" src="https://img.shields.io/github/forks/oOCyginXOo/CVE-2023-25690-POC">	<img alt="stars" src="https://img.shields.io/github/stars/oOCyginXOo/CVE-2023-25690-POC">
 - [arnavps/CTF-Web-Exploitation](https://github.com/arnavps/CTF-Web-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/arnavps/CTF-Web-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/arnavps/CTF-Web-Exploitation">
+- [giordy0424/CVE-2023-25690_lab](https://github.com/giordy0424/CVE-2023-25690_lab)	<img alt="forks" src="https://img.shields.io/github/forks/giordy0424/CVE-2023-25690_lab">	<img alt="stars" src="https://img.shields.io/github/stars/giordy0424/CVE-2023-25690_lab">
 
 ---
 ## CVE-2023-25614 (2023-02-14T04:15:00)
@@ -9281,7 +9288,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 ## CVE-2023-23752 (2023-02-16T17:15:00)
 > An issue was discovered in Joomla! 4.0.0 through 4.2.7. An improper access check allows unauthorized access to webservice endpoints.
 - [DanielRuf/CVE-2023-23752](https://github.com/DanielRuf/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/DanielRuf/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/DanielRuf/CVE-2023-23752">
-- [YusinoMy/CVE-2023-23752](https://github.com/YusinoMy/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/YusinoMy/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/YusinoMy/CVE-2023-23752">
+- [yusinomy/CVE-2023-23752](https://github.com/yusinomy/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/yusinomy/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/yusinomy/CVE-2023-23752">
 - [Saboor-Hakimi/CVE-2023-23752](https://github.com/Saboor-Hakimi/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Saboor-Hakimi/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Saboor-Hakimi/CVE-2023-23752">
 - [WhiteOwl-Pub/Joomla-PoC-CVE-2023-23752](https://github.com/WhiteOwl-Pub/Joomla-PoC-CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteOwl-Pub/Joomla-PoC-CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteOwl-Pub/Joomla-PoC-CVE-2023-23752">
 - [Vulnmachines/joomla_CVE-2023-23752](https://github.com/Vulnmachines/joomla_CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/Vulnmachines/joomla_CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/Vulnmachines/joomla_CVE-2023-23752">
@@ -9346,6 +9353,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [Marwan651/Joomla-CMS-Full-Lifecycle-Pentest](https://github.com/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest)	<img alt="forks" src="https://img.shields.io/github/forks/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest">	<img alt="stars" src="https://img.shields.io/github/stars/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest">
 - [sw0rd1ight/CVE-2023-23752](https://github.com/sw0rd1ight/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/sw0rd1ight/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/sw0rd1ight/CVE-2023-23752">
 - [Sharma01672/traveller-htb](https://github.com/Sharma01672/traveller-htb)	<img alt="forks" src="https://img.shields.io/github/forks/Sharma01672/traveller-htb">	<img alt="stars" src="https://img.shields.io/github/stars/Sharma01672/traveller-htb">
+- [BardLaudian/CVE-2023-23752](https://github.com/BardLaudian/CVE-2023-23752)	<img alt="forks" src="https://img.shields.io/github/forks/BardLaudian/CVE-2023-23752">	<img alt="stars" src="https://img.shields.io/github/stars/BardLaudian/CVE-2023-23752">
 
 ---
 ## CVE-2023-23751 (2023-02-01T22:15:00)

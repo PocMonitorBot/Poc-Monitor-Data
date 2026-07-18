@@ -2042,6 +2042,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [RandomRobbieBF/CVE-2024-5324](https://github.com/RandomRobbieBF/CVE-2024-5324)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-5324">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-5324">
 
 ---
+## CVE-2024-53104 ()
+> 
+- [runtimeverification/kernel-c-to-rust-spike](https://github.com/runtimeverification/kernel-c-to-rust-spike)	<img alt="forks" src="https://img.shields.io/github/forks/runtimeverification/kernel-c-to-rust-spike">	<img alt="stars" src="https://img.shields.io/github/stars/runtimeverification/kernel-c-to-rust-spike">
+
+---
 ## CVE-2024-53027 ()
 > 
 - [ladyg00se/CVE-2024-53027-WIP](https://github.com/ladyg00se/CVE-2024-53027-WIP)	<img alt="forks" src="https://img.shields.io/github/forks/ladyg00se/CVE-2024-53027-WIP">	<img alt="stars" src="https://img.shields.io/github/stars/ladyg00se/CVE-2024-53027-WIP">
@@ -3531,7 +3536,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 > In PHP versions 8.1.* before 8.1.29, 8.2.* before 8.2.20, 8.3.* before 8.3.8, when using Apache and PHP-CGI on Windows, if the system is set up to use certain code pages, Windows may use "Best-Fit" behavior to replace characters in command line given to Win32 API functions. PHP CGI module may misinterpret those characters as PHP options, which may allow a malicious user to pass options to PHP binary being run, and thus reveal the source code of scripts, run arbitrary PHP code on the server, etc.
 - [TAM-K592/CVE-2024-4577](https://github.com/TAM-K592/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/TAM-K592/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/TAM-K592/CVE-2024-4577">
 - [taida957789/CVE-2024-4577](https://github.com/taida957789/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/taida957789/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/taida957789/CVE-2024-4577">
-- [ohhhh693/CVE-2024-4577](https://github.com/ohhhh693/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/ohhhh693/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/ohhhh693/CVE-2024-4577">
+- [Ra1n-60W/CVE-2024-4577](https://github.com/Ra1n-60W/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Ra1n-60W/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Ra1n-60W/CVE-2024-4577">
 - [11whoami99/CVE-2024-4577](https://github.com/11whoami99/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/11whoami99/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/11whoami99/CVE-2024-4577">
 - [zjhzjhhh/CVE-2024-4577](https://github.com/zjhzjhhh/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/zjhzjhhh/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/zjhzjhhh/CVE-2024-4577">
 - [watchtowrlabs/CVE-2024-4577](https://github.com/watchtowrlabs/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2024-4577">
@@ -3543,7 +3548,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP](https://github.com/WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-4577-RCE-EXP">
 - [Sysc4ll3r/CVE-2024-4577](https://github.com/Sysc4ll3r/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Sysc4ll3r/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Sysc4ll3r/CVE-2024-4577">
 - [nexblade12/CVE-2024-4577](https://github.com/nexblade12/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/nexblade12/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/nexblade12/CVE-2024-4577">
-- [Yukiioz/CVE-2024-4577](https://github.com/Yukiioz/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Yukiioz/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Yukiioz/CVE-2024-4577">
+- [graphite-org/CVE-2024-4577](https://github.com/graphite-org/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/graphite-org/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/graphite-org/CVE-2024-4577">
 - [0x20c/CVE-2024-4577-nuclei](https://github.com/0x20c/CVE-2024-4577-nuclei)	<img alt="forks" src="https://img.shields.io/github/forks/0x20c/CVE-2024-4577-nuclei">	<img alt="stars" src="https://img.shields.io/github/stars/0x20c/CVE-2024-4577-nuclei">
 - [manuelinfosec/CVE-2024-4577](https://github.com/manuelinfosec/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/manuelinfosec/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/manuelinfosec/CVE-2024-4577">
 - [zomasec/CVE-2024-4577](https://github.com/zomasec/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/zomasec/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/zomasec/CVE-2024-4577">
@@ -3558,7 +3563,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [d3ck4/Shodan-CVE-2024-4577](https://github.com/d3ck4/Shodan-CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/d3ck4/Shodan-CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/d3ck4/Shodan-CVE-2024-4577">
 - [aavamin/cve-2024-4577](https://github.com/aavamin/cve-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/aavamin/cve-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/aavamin/cve-2024-4577">
 - [nemu1k5ma/CVE-2024-4577](https://github.com/nemu1k5ma/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/nemu1k5ma/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/nemu1k5ma/CVE-2024-4577">
-- [XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE](https://github.com/XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/XiangDongCJC/CVE-2024-4577-PHP-CGI-RCE">
+- [0XFFFF-XD/CVE-2024-4577-PHP-CGI-RCE](https://github.com/0XFFFF-XD/CVE-2024-4577-PHP-CGI-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/0XFFFF-XD/CVE-2024-4577-PHP-CGI-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/0XFFFF-XD/CVE-2024-4577-PHP-CGI-RCE">
 - [Entropt/CVE-2024-4577_Analysis](https://github.com/Entropt/CVE-2024-4577_Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Entropt/CVE-2024-4577_Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Entropt/CVE-2024-4577_Analysis">
 - [hexedbyte/cve-2024-4577](https://github.com/hexedbyte/cve-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/hexedbyte/cve-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/hexedbyte/cve-2024-4577">
 - [Sh0ckFR/CVE-2024-4577](https://github.com/Sh0ckFR/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/Sh0ckFR/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/Sh0ckFR/CVE-2024-4577">
@@ -3624,6 +3629,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [rayngnpc/CVE-2024-4577-rayng](https://github.com/rayngnpc/CVE-2024-4577-rayng)	<img alt="forks" src="https://img.shields.io/github/forks/rayngnpc/CVE-2024-4577-rayng">	<img alt="stars" src="https://img.shields.io/github/stars/rayngnpc/CVE-2024-4577-rayng">
 - [gl1tch0x1/PHP_8.1.x_Exploit](https://github.com/gl1tch0x1/PHP_8.1.x_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gl1tch0x1/PHP_8.1.x_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gl1tch0x1/PHP_8.1.x_Exploit">
 - [Kanak-CypherX/cve-2024-4577-lab](https://github.com/Kanak-CypherX/cve-2024-4577-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Kanak-CypherX/cve-2024-4577-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Kanak-CypherX/cve-2024-4577-lab">
+- [BLACK-ARCHIVERS/CVE-2024-4577](https://github.com/BLACK-ARCHIVERS/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/BLACK-ARCHIVERS/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/BLACK-ARCHIVERS/CVE-2024-4577">
 
 ---
 ## CVE-2024-4573 ()
@@ -4865,6 +4871,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 ## CVE-2024-40443 ()
 > 
 - [Yuma-Tsushima07/CVE-2024-40443](https://github.com/Yuma-Tsushima07/CVE-2024-40443)	<img alt="forks" src="https://img.shields.io/github/forks/Yuma-Tsushima07/CVE-2024-40443">	<img alt="stars" src="https://img.shields.io/github/stars/Yuma-Tsushima07/CVE-2024-40443">
+
+---
+## CVE-2024-40432 ()
+> 
+- [HORKimhab/CVE-2022-25477](https://github.com/HORKimhab/CVE-2022-25477)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2022-25477">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2022-25477">
 
 ---
 ## CVE-2024-40431 (2024-10-23T22:15:00)
@@ -8926,7 +8937,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [NanoWraith/CVE-2024-25600](https://github.com/NanoWraith/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/NanoWraith/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/NanoWraith/CVE-2024-25600">
 - [WanLiChangChengWanLiChang/CVE-2024-25600](https://github.com/WanLiChangChengWanLiChang/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-25600">
 - [KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress](https://github.com/KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress)	<img alt="forks" src="https://img.shields.io/github/forks/KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress">	<img alt="stars" src="https://img.shields.io/github/stars/KaSooMi0228/CVE-2024-25600-Bricks-Builder-WordPress">
-- [wh6amiGit/CVE-2024-25600](https://github.com/wh6amiGit/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/wh6amiGit/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/wh6amiGit/CVE-2024-25600">
+- [diamorphine666/CVE-2024-25600](https://github.com/diamorphine666/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2024-25600">
 - [svchostmm/CVE-2024-25600-mass](https://github.com/svchostmm/CVE-2024-25600-mass)	<img alt="forks" src="https://img.shields.io/github/forks/svchostmm/CVE-2024-25600-mass">	<img alt="stars" src="https://img.shields.io/github/stars/svchostmm/CVE-2024-25600-mass">
 - [Sibul-Dan-Glokta/test-task-CVE-2024-25600](https://github.com/Sibul-Dan-Glokta/test-task-CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/Sibul-Dan-Glokta/test-task-CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/Sibul-Dan-Glokta/test-task-CVE-2024-25600">
 - [so1icitx/CVE-2024-25600](https://github.com/so1icitx/CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/so1icitx/CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/so1icitx/CVE-2024-25600">
@@ -8940,6 +8951,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC](https://github.com/estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2024-25600-WordPress-Bricks-Builder-RCE-PoC">
 - [h0w1tzxr/TryHack3M-Bricks-Heist](https://github.com/h0w1tzxr/TryHack3M-Bricks-Heist)	<img alt="forks" src="https://img.shields.io/github/forks/h0w1tzxr/TryHack3M-Bricks-Heist">	<img alt="stars" src="https://img.shields.io/github/stars/h0w1tzxr/TryHack3M-Bricks-Heist">
 - [Anjai7/TryHack3M-Bricks-Heist](https://github.com/Anjai7/TryHack3M-Bricks-Heist)	<img alt="forks" src="https://img.shields.io/github/forks/Anjai7/TryHack3M-Bricks-Heist">	<img alt="stars" src="https://img.shields.io/github/stars/Anjai7/TryHack3M-Bricks-Heist">
+- [CerberusMrXi/WP-Bricks-Exploit-CVE-2024-25600](https://github.com/CerberusMrXi/WP-Bricks-Exploit-CVE-2024-25600)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/WP-Bricks-Exploit-CVE-2024-25600">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/WP-Bricks-Exploit-CVE-2024-25600">
 
 ---
 ## CVE-2024-25503 (2024-04-04T08:15:00)

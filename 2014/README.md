@@ -1313,7 +1313,7 @@
 - [Shayhha/HeartbleedAttack](https://github.com/Shayhha/HeartbleedAttack)	<img alt="forks" src="https://img.shields.io/github/forks/Shayhha/HeartbleedAttack">	<img alt="stars" src="https://img.shields.io/github/stars/Shayhha/HeartbleedAttack">
 - [ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration](https://github.com/ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration)	<img alt="forks" src="https://img.shields.io/github/forks/ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration">	<img alt="stars" src="https://img.shields.io/github/stars/ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration">
 - [22imer/CVE-2014-0160](https://github.com/22imer/CVE-2014-0160)	<img alt="forks" src="https://img.shields.io/github/forks/22imer/CVE-2014-0160">	<img alt="stars" src="https://img.shields.io/github/stars/22imer/CVE-2014-0160">
-- [0xAshwesker/CVE-2014-0160](https://github.com/0xAshwesker/CVE-2014-0160)	<img alt="forks" src="https://img.shields.io/github/forks/0xAshwesker/CVE-2014-0160">	<img alt="stars" src="https://img.shields.io/github/stars/0xAshwesker/CVE-2014-0160">
+- [0xBlackash/CVE-2014-0160](https://github.com/0xBlackash/CVE-2014-0160)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2014-0160">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2014-0160">
 - [titanous/heartbleeder](https://github.com/titanous/heartbleeder)	<img alt="forks" src="https://img.shields.io/github/forks/titanous/heartbleeder">	<img alt="stars" src="https://img.shields.io/github/stars/titanous/heartbleeder">
 - [DominikTo/bleed](https://github.com/DominikTo/bleed)	<img alt="forks" src="https://img.shields.io/github/forks/DominikTo/bleed">	<img alt="stars" src="https://img.shields.io/github/stars/DominikTo/bleed">
 - [cyphar/heartthreader](https://github.com/cyphar/heartthreader)	<img alt="forks" src="https://img.shields.io/github/forks/cyphar/heartthreader">	<img alt="stars" src="https://img.shields.io/github/stars/cyphar/heartthreader">
@@ -1349,6 +1349,9 @@
 - [marstornado/cve-2014-0160-Yunfeng-Jiang](https://github.com/marstornado/cve-2014-0160-Yunfeng-Jiang)	<img alt="forks" src="https://img.shields.io/github/forks/marstornado/cve-2014-0160-Yunfeng-Jiang">	<img alt="stars" src="https://img.shields.io/github/stars/marstornado/cve-2014-0160-Yunfeng-Jiang">
 - [Ryo-Soikutsu/Heartbleed](https://github.com/Ryo-Soikutsu/Heartbleed)	<img alt="forks" src="https://img.shields.io/github/forks/Ryo-Soikutsu/Heartbleed">	<img alt="stars" src="https://img.shields.io/github/stars/Ryo-Soikutsu/Heartbleed">
 - [victoriacfigueiredo/heartbleed-lab](https://github.com/victoriacfigueiredo/heartbleed-lab)	<img alt="forks" src="https://img.shields.io/github/forks/victoriacfigueiredo/heartbleed-lab">	<img alt="stars" src="https://img.shields.io/github/stars/victoriacfigueiredo/heartbleed-lab">
+- [tungduongNT/CVE-2014-0160.](https://github.com/tungduongNT/CVE-2014-0160.)	<img alt="forks" src="https://img.shields.io/github/forks/tungduongNT/CVE-2014-0160.">	<img alt="stars" src="https://img.shields.io/github/stars/tungduongNT/CVE-2014-0160.">
+- [tungduongNT332/CVE-2014-0160](https://github.com/tungduongNT332/CVE-2014-0160)	<img alt="forks" src="https://img.shields.io/github/forks/tungduongNT332/CVE-2014-0160">	<img alt="stars" src="https://img.shields.io/github/stars/tungduongNT332/CVE-2014-0160">
+- [iwaffles/heartbleed-test.crx](https://github.com/iwaffles/heartbleed-test.crx)	<img alt="forks" src="https://img.shields.io/github/forks/iwaffles/heartbleed-test.crx">	<img alt="stars" src="https://img.shields.io/github/stars/iwaffles/heartbleed-test.crx">
 
 ---
 ## CVE-2014-016 ()

@@ -1581,6 +1581,7 @@
 - [briml3y/loguccino](https://github.com/briml3y/loguccino)	<img alt="forks" src="https://img.shields.io/github/forks/briml3y/loguccino">	<img alt="stars" src="https://img.shields.io/github/stars/briml3y/loguccino">
 - [Ricardo354/homelab-CVE-2021-44228](https://github.com/Ricardo354/homelab-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Ricardo354/homelab-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Ricardo354/homelab-CVE-2021-44228">
 - [AstralJays/TraditionalJay](https://github.com/AstralJays/TraditionalJay)	<img alt="forks" src="https://img.shields.io/github/forks/AstralJays/TraditionalJay">	<img alt="stars" src="https://img.shields.io/github/stars/AstralJays/TraditionalJay">
+- [arpitgupta369/log4shell-scanner](https://github.com/arpitgupta369/log4shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/arpitgupta369/log4shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/arpitgupta369/log4shell-scanner">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -3397,6 +3398,7 @@
 - [lheeeesoo/Apache-CVE-2021-41773](https://github.com/lheeeesoo/Apache-CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/lheeeesoo/Apache-CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/lheeeesoo/Apache-CVE-2021-41773">
 - [ninthsgrsj-source/vulhub-apache](https://github.com/ninthsgrsj-source/vulhub-apache)	<img alt="forks" src="https://img.shields.io/github/forks/ninthsgrsj-source/vulhub-apache">	<img alt="stars" src="https://img.shields.io/github/stars/ninthsgrsj-source/vulhub-apache">
 - [0xrogg/CVE-2021-41773](https://github.com/0xrogg/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/0xrogg/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/0xrogg/CVE-2021-41773">
+- [1412Kkkkid/cve_2021_41773_reproduction](https://github.com/1412Kkkkid/cve_2021_41773_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/1412Kkkkid/cve_2021_41773_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/1412Kkkkid/cve_2021_41773_reproduction">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -6310,6 +6312,7 @@
 - [yanxinwu946/hikvision-unauthenticated-rce-cve-2021-36260](https://github.com/yanxinwu946/hikvision-unauthenticated-rce-cve-2021-36260)	<img alt="forks" src="https://img.shields.io/github/forks/yanxinwu946/hikvision-unauthenticated-rce-cve-2021-36260">	<img alt="stars" src="https://img.shields.io/github/stars/yanxinwu946/hikvision-unauthenticated-rce-cve-2021-36260">
 - [saaydmr/hikvision-exploiter](https://github.com/saaydmr/hikvision-exploiter)	<img alt="forks" src="https://img.shields.io/github/forks/saaydmr/hikvision-exploiter">	<img alt="stars" src="https://img.shields.io/github/stars/saaydmr/hikvision-exploiter">
 - [code-msga/HikvisionExploiter_fixed](https://github.com/code-msga/HikvisionExploiter_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/code-msga/HikvisionExploiter_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/code-msga/HikvisionExploiter_fixed">
+- [sylhetyhackvenger/HIKRAVEN](https://github.com/sylhetyhackvenger/HIKRAVEN)	<img alt="forks" src="https://img.shields.io/github/forks/sylhetyhackvenger/HIKRAVEN">	<img alt="stars" src="https://img.shields.io/github/stars/sylhetyhackvenger/HIKRAVEN">
 
 ---
 ## CVE-2021-3625 ()
