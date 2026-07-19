@@ -1325,6 +1325,11 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [ibrahmsql/CVE-2023-49103](https://github.com/ibrahmsql/CVE-2023-49103)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2023-49103">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2023-49103">
 
 ---
+## CVE-2023-49092 ()
+> 
+- [omonuj/fanout-cve-rollout](https://github.com/omonuj/fanout-cve-rollout)	<img alt="forks" src="https://img.shields.io/github/forks/omonuj/fanout-cve-rollout">	<img alt="stars" src="https://img.shields.io/github/stars/omonuj/fanout-cve-rollout">
+
+---
 ## CVE-2023-49070 (2023-12-05T08:15:00)
 > 
 Pre-auth RCE in Apache Ofbiz 18.12.09.
@@ -2531,6 +2536,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-](https://github.com/sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-)	<img alt="forks" src="https://img.shields.io/github/forks/sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-">	<img alt="stars" src="https://img.shields.io/github/stars/sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-">
 - [Hirokiii/CVE-2023-44487](https://github.com/Hirokiii/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/Hirokiii/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/Hirokiii/CVE-2023-44487">
 - [madhantr0/http2-security-lab](https://github.com/madhantr0/http2-security-lab)	<img alt="forks" src="https://img.shields.io/github/forks/madhantr0/http2-security-lab">	<img alt="stars" src="https://img.shields.io/github/stars/madhantr0/http2-security-lab">
+- [tahaXafous/CVE-2023-44487-dos](https://github.com/tahaXafous/CVE-2023-44487-dos)	<img alt="forks" src="https://img.shields.io/github/forks/tahaXafous/CVE-2023-44487-dos">	<img alt="stars" src="https://img.shields.io/github/stars/tahaXafous/CVE-2023-44487-dos">
 
 ---
 ## CVE-2023-44353 (2023-11-17T14:15:00)
@@ -5907,6 +5913,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 ## CVE-2023-33107 ()
 > 
 - [keto0422/CVE-2023-33107](https://github.com/keto0422/CVE-2023-33107)	<img alt="forks" src="https://img.shields.io/github/forks/keto0422/CVE-2023-33107">	<img alt="stars" src="https://img.shields.io/github/stars/keto0422/CVE-2023-33107">
+- [264312431/picohaxx](https://github.com/264312431/picohaxx)	<img alt="forks" src="https://img.shields.io/github/forks/264312431/picohaxx">	<img alt="stars" src="https://img.shields.io/github/stars/264312431/picohaxx">
 
 ---
 ## CVE-2023-33105 (2024-03-04T11:15:00)

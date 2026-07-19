@@ -37135,6 +37135,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [Arrnitage/CVE-2022-22947_exp](https://github.com/Arrnitage/CVE-2022-22947_exp)	<img alt="forks" src="https://img.shields.io/github/forks/Arrnitage/CVE-2022-22947_exp">	<img alt="stars" src="https://img.shields.io/github/stars/Arrnitage/CVE-2022-22947_exp">
 - [PaoPaoLong-lab/Spring-CVE-2022-22947-](https://github.com/PaoPaoLong-lab/Spring-CVE-2022-22947-)	<img alt="forks" src="https://img.shields.io/github/forks/PaoPaoLong-lab/Spring-CVE-2022-22947-">	<img alt="stars" src="https://img.shields.io/github/stars/PaoPaoLong-lab/Spring-CVE-2022-22947-">
 - [fbion/CVE-2022-22947](https://github.com/fbion/CVE-2022-22947)	<img alt="forks" src="https://img.shields.io/github/forks/fbion/CVE-2022-22947">	<img alt="stars" src="https://img.shields.io/github/stars/fbion/CVE-2022-22947">
+- [wjl110/Spring_CVE_2022_22947](https://github.com/wjl110/Spring_CVE_2022_22947)	<img alt="forks" src="https://img.shields.io/github/forks/wjl110/Spring_CVE_2022_22947">	<img alt="stars" src="https://img.shields.io/github/stars/wjl110/Spring_CVE_2022_22947">
 
 ---
 ## CVE-2022-22932 ()
