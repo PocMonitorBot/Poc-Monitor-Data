@@ -29,6 +29,11 @@
 - [yt2w/CVE-2025-9961](https://github.com/yt2w/CVE-2025-9961)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-9961">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-9961">
 
 ---
+## CVE-2025-9951 ()
+> 
+- [fm0ss/cve-2025-9951-ffmpeg-jp2-poc](https://github.com/fm0ss/cve-2025-9951-ffmpeg-jp2-poc)	<img alt="forks" src="https://img.shields.io/github/forks/fm0ss/cve-2025-9951-ffmpeg-jp2-poc">	<img alt="stars" src="https://img.shields.io/github/stars/fm0ss/cve-2025-9951-ffmpeg-jp2-poc">
+
+---
 ## CVE-2025-9933 ()
 > 
 - [titanmaster96/cve-2025-9933](https://github.com/titanmaster96/cve-2025-9933)	<img alt="forks" src="https://img.shields.io/github/forks/titanmaster96/cve-2025-9933">	<img alt="stars" src="https://img.shields.io/github/stars/titanmaster96/cve-2025-9933">
@@ -132,6 +137,7 @@
 - [pulsecipher/CVE-2025-9242](https://github.com/pulsecipher/CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/pulsecipher/CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/pulsecipher/CVE-2025-9242">
 - [watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242](https://github.com/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-WatchGuard-CVE-2025-9242">
 - [B1ack4sh/Blackash-CVE-2025-9242](https://github.com/B1ack4sh/Blackash-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-9242">
+- [UnusualGiraffe/PoC-Unauthenticated-RCE-in-WatchGuard-Fireware-12.7-Build-640389-CVE-2025-9242](https://github.com/UnusualGiraffe/PoC-Unauthenticated-RCE-in-WatchGuard-Fireware-12.7-Build-640389-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/UnusualGiraffe/PoC-Unauthenticated-RCE-in-WatchGuard-Fireware-12.7-Build-640389-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/UnusualGiraffe/PoC-Unauthenticated-RCE-in-WatchGuard-Fireware-12.7-Build-640389-CVE-2025-9242">
 
 ---
 ## CVE-2025-9223 ()
@@ -2016,6 +2022,7 @@
 ## CVE-2025-64512 ()
 > 
 - [luigigubello/CVE-2025-64512-Polyglot-PoC](https://github.com/luigigubello/CVE-2025-64512-Polyglot-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/luigigubello/CVE-2025-64512-Polyglot-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/luigigubello/CVE-2025-64512-Polyglot-PoC">
+- [matesz44/CVE-2025-64512](https://github.com/matesz44/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-64512">
 
 ---
 ## CVE-2025-64500 ()
@@ -2955,13 +2962,15 @@
 - [0rionCollector/Exploit-Chain-CVE-2025-6018-6019](https://github.com/0rionCollector/Exploit-Chain-CVE-2025-6018-6019)	<img alt="forks" src="https://img.shields.io/github/forks/0rionCollector/Exploit-Chain-CVE-2025-6018-6019">	<img alt="stars" src="https://img.shields.io/github/stars/0rionCollector/Exploit-Chain-CVE-2025-6018-6019">
 - [boboaung1337/CVE-2025-6019](https://github.com/boboaung1337/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/boboaung1337/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/boboaung1337/CVE-2025-6019">
 - [matesz44/CVE-2025-6018-19](https://github.com/matesz44/CVE-2025-6018-19)	<img alt="forks" src="https://img.shields.io/github/forks/matesz44/CVE-2025-6018-19">	<img alt="stars" src="https://img.shields.io/github/stars/matesz44/CVE-2025-6018-19">
-- [HexRazor/CVE-2025-6019](https://github.com/HexRazor/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/HexRazor/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/HexRazor/CVE-2025-6019">
+- [tr3m0x/CVE-2025-6019](https://github.com/tr3m0x/CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/tr3m0x/CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/tr3m0x/CVE-2025-6019">
 - [localh0ste/CVE-2025-6018-and-CVE-2025-6019](https://github.com/localh0ste/CVE-2025-6018-and-CVE-2025-6019)	<img alt="forks" src="https://img.shields.io/github/forks/localh0ste/CVE-2025-6018-and-CVE-2025-6019">	<img alt="stars" src="https://img.shields.io/github/stars/localh0ste/CVE-2025-6018-and-CVE-2025-6019">
 - [DesertDemons/CVE-2025-6018-6019](https://github.com/DesertDemons/CVE-2025-6018-6019)	<img alt="forks" src="https://img.shields.io/github/forks/DesertDemons/CVE-2025-6018-6019">	<img alt="stars" src="https://img.shields.io/github/stars/DesertDemons/CVE-2025-6018-6019">
 - [JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation](https://github.com/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/JM00NJ/CVE-2025-6019-udisks2-XFS-Resize-TOCTOU-Privilege-Escalation">
 - [MaxKappa/opensuse-leap-privesc-exploit](https://github.com/MaxKappa/opensuse-leap-privesc-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MaxKappa/opensuse-leap-privesc-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MaxKappa/opensuse-leap-privesc-exploit">
 - [Goultarde/CVE-2025-6018_CVE-2025-6019_autopwn](https://github.com/Goultarde/CVE-2025-6018_CVE-2025-6019_autopwn)	<img alt="forks" src="https://img.shields.io/github/forks/Goultarde/CVE-2025-6018_CVE-2025-6019_autopwn">	<img alt="stars" src="https://img.shields.io/github/stars/Goultarde/CVE-2025-6018_CVE-2025-6019_autopwn">
 - [iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit](https://github.com/iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit">
+- [karimelsheikh1/HTB-Pterodactyl-Writeup](https://github.com/karimelsheikh1/HTB-Pterodactyl-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Pterodactyl-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Pterodactyl-Writeup">
+- [V0idW1re/HTB-Pterodactyl-Writeup](https://github.com/V0idW1re/HTB-Pterodactyl-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/V0idW1re/HTB-Pterodactyl-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/V0idW1re/HTB-Pterodactyl-Writeup">
 
 ---
 ## CVE-2025-60188 ()
@@ -3451,6 +3460,7 @@
 - [Its1Zero/cve-2025-57819-exploit](https://github.com/Its1Zero/cve-2025-57819-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Its1Zero/cve-2025-57819-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Its1Zero/cve-2025-57819-exploit">
 - [K3ysTr0K3R/CVE-2025-57819](https://github.com/K3ysTr0K3R/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2025-57819">
 - [Samik-Parajuli/htb-connected-writeup](https://github.com/Samik-Parajuli/htb-connected-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Samik-Parajuli/htb-connected-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Samik-Parajuli/htb-connected-writeup">
+- [Neobee714/CVE-2025-57819-POC](https://github.com/Neobee714/CVE-2025-57819-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Neobee714/CVE-2025-57819-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Neobee714/CVE-2025-57819-POC">
 
 ---
 ## CVE-2025-57773 ()
@@ -10012,6 +10022,11 @@
 - [ashkan-pu/CVE-CVE-2025-25231](https://github.com/ashkan-pu/CVE-CVE-2025-25231)	<img alt="forks" src="https://img.shields.io/github/forks/ashkan-pu/CVE-CVE-2025-25231">	<img alt="stars" src="https://img.shields.io/github/stars/ashkan-pu/CVE-CVE-2025-25231">
 
 ---
+## CVE-2025-25227 ()
+> 
+- [rvzsec/joombrute](https://github.com/rvzsec/joombrute)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/joombrute">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/joombrute">
+
+---
 ## CVE-2025-25200 ()
 > 
 - [dwictor0/PoC-CVE-2025-25200](https://github.com/dwictor0/PoC-CVE-2025-25200)	<img alt="forks" src="https://img.shields.io/github/forks/dwictor0/PoC-CVE-2025-25200">	<img alt="stars" src="https://img.shields.io/github/stars/dwictor0/PoC-CVE-2025-25200">
@@ -10226,6 +10241,7 @@
 - [Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-](https://github.com/Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/Dhananjayasj/CVE-2025-24813-Apache-Tomcat-Partial-PUT-Deserialization-RCE-">
 - [yuzuki-ayanami/CVE-2025-24813](https://github.com/yuzuki-ayanami/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yuzuki-ayanami/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yuzuki-ayanami/CVE-2025-24813">
 - [Enzo-Tssn/PCS3844-CVE_2025_24813](https://github.com/Enzo-Tssn/PCS3844-CVE_2025_24813)	<img alt="forks" src="https://img.shields.io/github/forks/Enzo-Tssn/PCS3844-CVE_2025_24813">	<img alt="stars" src="https://img.shields.io/github/stars/Enzo-Tssn/PCS3844-CVE_2025_24813">
+- [Loufa0/CVE-2025-24813](https://github.com/Loufa0/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/Loufa0/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/Loufa0/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()

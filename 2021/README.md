@@ -2977,6 +2977,7 @@
 - [5gstudent/cve-2021-41773-and-cve-2021-42013](https://github.com/5gstudent/cve-2021-41773-and-cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/5gstudent/cve-2021-41773-and-cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/5gstudent/cve-2021-41773-and-cve-2021-42013">
 - [inbug-team/CVE-2021-41773_CVE-2021-42013](https://github.com/inbug-team/CVE-2021-41773_CVE-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/inbug-team/CVE-2021-41773_CVE-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/inbug-team/CVE-2021-41773_CVE-2021-42013">
 - [pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt](https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt)	<img alt="forks" src="https://img.shields.io/github/forks/pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt">	<img alt="stars" src="https://img.shields.io/github/stars/pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt">
+- [berraesen/apache-cve-2021-42013-lab](https://github.com/berraesen/apache-cve-2021-42013-lab)	<img alt="forks" src="https://img.shields.io/github/forks/berraesen/apache-cve-2021-42013-lab">	<img alt="stars" src="https://img.shields.io/github/stars/berraesen/apache-cve-2021-42013-lab">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
@@ -12889,6 +12890,9 @@
 - [initconf/cve-2021-1675-printnightmare](https://github.com/initconf/cve-2021-1675-printnightmare)	<img alt="forks" src="https://img.shields.io/github/forks/initconf/cve-2021-1675-printnightmare">	<img alt="stars" src="https://img.shields.io/github/stars/initconf/cve-2021-1675-printnightmare">
 - [ozergoker/PrintNightmare](https://github.com/ozergoker/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/ozergoker/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/ozergoker/PrintNightmare">
 - [exploitblizzard/PrintNightmare-CVE-2021-1675](https://github.com/exploitblizzard/PrintNightmare-CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/exploitblizzard/PrintNightmare-CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/exploitblizzard/PrintNightmare-CVE-2021-1675">
+- [kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis](https://github.com/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/kaiw-icspark25/PrintNightmare-CVE-2021-1675-Analysis">
+- [fengjixuchui/CVE-2021-34527-1675](https://github.com/fengjixuchui/CVE-2021-34527-1675)	<img alt="forks" src="https://img.shields.io/github/forks/fengjixuchui/CVE-2021-34527-1675">	<img alt="stars" src="https://img.shields.io/github/stars/fengjixuchui/CVE-2021-34527-1675">
+- [DenizSe/CVE-2021-34527](https://github.com/DenizSe/CVE-2021-34527)	<img alt="forks" src="https://img.shields.io/github/forks/DenizSe/CVE-2021-34527">	<img alt="stars" src="https://img.shields.io/github/stars/DenizSe/CVE-2021-34527">
 
 ---
 ## CVE-2021-1656 ()

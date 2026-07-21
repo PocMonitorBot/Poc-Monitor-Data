@@ -2799,7 +2799,7 @@ use after free.
 - [elbiazo/CVE-2019-2215](https://github.com/elbiazo/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/elbiazo/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/elbiazo/CVE-2019-2215">
 - [Karma2424/cve2019-2215-3.18](https://github.com/Karma2424/cve2019-2215-3.18)	<img alt="forks" src="https://img.shields.io/github/forks/Karma2424/cve2019-2215-3.18">	<img alt="stars" src="https://img.shields.io/github/stars/Karma2424/cve2019-2215-3.18">
 - [sharif-dev/AndroidKernelVulnerability](https://github.com/sharif-dev/AndroidKernelVulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/sharif-dev/AndroidKernelVulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/sharif-dev/AndroidKernelVulnerability">
-- [enceka/cve-2019-2215-3.18](https://github.com/enceka/cve-2019-2215-3.18)	<img alt="forks" src="https://img.shields.io/github/forks/enceka/cve-2019-2215-3.18">	<img alt="stars" src="https://img.shields.io/github/stars/enceka/cve-2019-2215-3.18">
+- [Enceka/cve-2019-2215-3.18](https://github.com/Enceka/cve-2019-2215-3.18)	<img alt="forks" src="https://img.shields.io/github/forks/Enceka/cve-2019-2215-3.18">	<img alt="stars" src="https://img.shields.io/github/stars/Enceka/cve-2019-2215-3.18">
 - [nicchongwb/Rootsmart-v2.0](https://github.com/nicchongwb/Rootsmart-v2.0)	<img alt="forks" src="https://img.shields.io/github/forks/nicchongwb/Rootsmart-v2.0">	<img alt="stars" src="https://img.shields.io/github/stars/nicchongwb/Rootsmart-v2.0">
 - [mufidmb38/CVE-2019-2215](https://github.com/mufidmb38/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/mufidmb38/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/mufidmb38/CVE-2019-2215">
 - [Byte-Master-101/CVE-2019-2215](https://github.com/Byte-Master-101/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/Byte-Master-101/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/Byte-Master-101/CVE-2019-2215">
@@ -2831,6 +2831,7 @@ use after free.
 - [i-redbyte/android-badbinder-demo](https://github.com/i-redbyte/android-badbinder-demo)	<img alt="forks" src="https://img.shields.io/github/forks/i-redbyte/android-badbinder-demo">	<img alt="stars" src="https://img.shields.io/github/stars/i-redbyte/android-badbinder-demo">
 - [mythicaltree/CVE-2019-2215](https://github.com/mythicaltree/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/mythicaltree/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/mythicaltree/CVE-2019-2215">
 - [flipphoneguy/root-sonim-xp3800](https://github.com/flipphoneguy/root-sonim-xp3800)	<img alt="forks" src="https://img.shields.io/github/forks/flipphoneguy/root-sonim-xp3800">	<img alt="stars" src="https://img.shields.io/github/stars/flipphoneguy/root-sonim-xp3800">
+- [NESTle19/CVE-2019-2215](https://github.com/NESTle19/CVE-2019-2215)	<img alt="forks" src="https://img.shields.io/github/forks/NESTle19/CVE-2019-2215">	<img alt="stars" src="https://img.shields.io/github/stars/NESTle19/CVE-2019-2215">
 
 ---
 ## CVE-2019-2205 ()

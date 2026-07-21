@@ -3563,6 +3563,7 @@
 - [ichhyak22/EternalBlue-Exploit-Demonstration-MS17-010](https://github.com/ichhyak22/EternalBlue-Exploit-Demonstration-MS17-010)	<img alt="forks" src="https://img.shields.io/github/forks/ichhyak22/EternalBlue-Exploit-Demonstration-MS17-010">	<img alt="stars" src="https://img.shields.io/github/stars/ichhyak22/EternalBlue-Exploit-Demonstration-MS17-010">
 - [trinadh-dasari-cyber/eternalblue-ms17-010-research](https://github.com/trinadh-dasari-cyber/eternalblue-ms17-010-research)	<img alt="forks" src="https://img.shields.io/github/forks/trinadh-dasari-cyber/eternalblue-ms17-010-research">	<img alt="stars" src="https://img.shields.io/github/stars/trinadh-dasari-cyber/eternalblue-ms17-010-research">
 - [0xBlackash/CVE-2017-0144](https://github.com/0xBlackash/CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2017-0144">
+- [KitSkater/legacyshield-CVE-2017-0144](https://github.com/KitSkater/legacyshield-CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/KitSkater/legacyshield-CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/KitSkater/legacyshield-CVE-2017-0144">
 
 ---
 ## CVE-2017-0143 (2017-03-17T00:59:00)
