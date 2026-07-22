@@ -23815,10 +23815,11 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [Johnermac/CVE-2022-35914](https://github.com/Johnermac/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/Johnermac/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/Johnermac/CVE-2022-35914">
 - [senderend/CVE-2022-35914](https://github.com/senderend/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/senderend/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/senderend/CVE-2022-35914">
 - [0romos/CVE-2022-35914](https://github.com/0romos/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/0romos/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/0romos/CVE-2022-35914">
-- [joelindra/htmlawedchekcer](https://github.com/joelindra/htmlawedchekcer)	<img alt="forks" src="https://img.shields.io/github/forks/joelindra/htmlawedchekcer">	<img alt="stars" src="https://img.shields.io/github/stars/joelindra/htmlawedchekcer">
+- [joelindra/HTMLawedChecker](https://github.com/joelindra/HTMLawedChecker)	<img alt="forks" src="https://img.shields.io/github/forks/joelindra/HTMLawedChecker">	<img alt="stars" src="https://img.shields.io/github/stars/joelindra/HTMLawedChecker">
 - [noxlumens/CVE-2022-35914](https://github.com/noxlumens/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/noxlumens/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/noxlumens/CVE-2022-35914">
 - [noxlumens/CVE-2022-35914_poc](https://github.com/noxlumens/CVE-2022-35914_poc)	<img alt="forks" src="https://img.shields.io/github/forks/noxlumens/CVE-2022-35914_poc">	<img alt="stars" src="https://img.shields.io/github/stars/noxlumens/CVE-2022-35914_poc">
 - [btar1gan/exploit_CVE-2022-35914](https://github.com/btar1gan/exploit_CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/btar1gan/exploit_CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/btar1gan/exploit_CVE-2022-35914">
+- [YumeSecurity/CVE-2022-35914](https://github.com/YumeSecurity/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/YumeSecurity/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/YumeSecurity/CVE-2022-35914">
 
 ---
 ## CVE-2022-35913 (2022-09-06T23:15:00)
@@ -30917,6 +30918,8 @@ the client's API server credentials to third parties.
 - [nanaao/PicusSecurity4.Week.Repo](https://github.com/nanaao/PicusSecurity4.Week.Repo)	<img alt="forks" src="https://img.shields.io/github/forks/nanaao/PicusSecurity4.Week.Repo">	<img alt="stars" src="https://img.shields.io/github/stars/nanaao/PicusSecurity4.Week.Repo">
 - [kaleth4/CVE-2022-30190](https://github.com/kaleth4/CVE-2022-30190)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2022-30190">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2022-30190">
 - [czabatta/THM-Tempest](https://github.com/czabatta/THM-Tempest)	<img alt="forks" src="https://img.shields.io/github/forks/czabatta/THM-Tempest">	<img alt="stars" src="https://img.shields.io/github/stars/czabatta/THM-Tempest">
+- [zavikhttak/Follina-CVE-2022-30190-Analysis](https://github.com/zavikhttak/Follina-CVE-2022-30190-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/zavikhttak/Follina-CVE-2022-30190-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/zavikhttak/Follina-CVE-2022-30190-Analysis">
+- [zavikhttak/follina-msdt-threat-investigation](https://github.com/zavikhttak/follina-msdt-threat-investigation)	<img alt="forks" src="https://img.shields.io/github/forks/zavikhttak/follina-msdt-threat-investigation">	<img alt="stars" src="https://img.shields.io/github/stars/zavikhttak/follina-msdt-threat-investigation">
 
 ---
 ## CVE-2022-30166 (2022-06-15T22:15:00)
@@ -42194,6 +42197,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [SDragon1205/cve-2022-0441](https://github.com/SDragon1205/cve-2022-0441)	<img alt="forks" src="https://img.shields.io/github/forks/SDragon1205/cve-2022-0441">	<img alt="stars" src="https://img.shields.io/github/stars/SDragon1205/cve-2022-0441">
 - [tegal1337/CVE-2022-0441](https://github.com/tegal1337/CVE-2022-0441)	<img alt="forks" src="https://img.shields.io/github/forks/tegal1337/CVE-2022-0441">	<img alt="stars" src="https://img.shields.io/github/stars/tegal1337/CVE-2022-0441">
 - [kyukazamiqq/CVE-2022-0441](https://github.com/kyukazamiqq/CVE-2022-0441)	<img alt="forks" src="https://img.shields.io/github/forks/kyukazamiqq/CVE-2022-0441">	<img alt="stars" src="https://img.shields.io/github/stars/kyukazamiqq/CVE-2022-0441">
+- [DappaNISM/CVE-2022-0441](https://github.com/DappaNISM/CVE-2022-0441)	<img alt="forks" src="https://img.shields.io/github/forks/DappaNISM/CVE-2022-0441">	<img alt="stars" src="https://img.shields.io/github/stars/DappaNISM/CVE-2022-0441">
 
 ---
 ## CVE-2022-0439 (2022-03-07T09:15:00)

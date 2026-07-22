@@ -695,6 +695,7 @@
 - [anldori/CVE-2017-7308](https://github.com/anldori/CVE-2017-7308)	<img alt="forks" src="https://img.shields.io/github/forks/anldori/CVE-2017-7308">	<img alt="stars" src="https://img.shields.io/github/stars/anldori/CVE-2017-7308">
 - [Live-Hack-CVE/CVE-2017-7308](https://github.com/Live-Hack-CVE/CVE-2017-7308)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-7308">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-7308">
 - [Nigmaz/CVE-2017-7308](https://github.com/Nigmaz/CVE-2017-7308)	<img alt="forks" src="https://img.shields.io/github/forks/Nigmaz/CVE-2017-7308">	<img alt="stars" src="https://img.shields.io/github/stars/Nigmaz/CVE-2017-7308">
+- [WhatsWrongAndWhy/CVE-2017-7308](https://github.com/WhatsWrongAndWhy/CVE-2017-7308)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2017-7308">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2017-7308">
 
 ---
 ## CVE-2017-7269 (2017-03-27T02:59:00)
@@ -1825,6 +1826,7 @@
 - [mareks1007/cve-2017-16995](https://github.com/mareks1007/cve-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/mareks1007/cve-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/mareks1007/cve-2017-16995">
 - [ZhiQiAnSecFork/cve-2017-16995](https://github.com/ZhiQiAnSecFork/cve-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/ZhiQiAnSecFork/cve-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/ZhiQiAnSecFork/cve-2017-16995">
 - [xxxTectationxxx/CVE-2017-16995](https://github.com/xxxTectationxxx/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/xxxTectationxxx/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/xxxTectationxxx/CVE-2017-16995">
+- [WhatsWrongAndWhy/CVE-2017-16995](https://github.com/WhatsWrongAndWhy/CVE-2017-16995)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2017-16995">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2017-16995">
 
 ---
 ## CVE-2017-16994 (2017-11-27T19:29:00)
@@ -3321,6 +3323,8 @@
 - [ol0273st-s/CVE-2017-1000112-Adpated](https://github.com/ol0273st-s/CVE-2017-1000112-Adpated)	<img alt="forks" src="https://img.shields.io/github/forks/ol0273st-s/CVE-2017-1000112-Adpated">	<img alt="stars" src="https://img.shields.io/github/stars/ol0273st-s/CVE-2017-1000112-Adpated">
 - [IT19083124/SNP-Assignment](https://github.com/IT19083124/SNP-Assignment)	<img alt="forks" src="https://img.shields.io/github/forks/IT19083124/SNP-Assignment">	<img alt="stars" src="https://img.shields.io/github/stars/IT19083124/SNP-Assignment">
 - [Spydomain/CVE-2017-1000112-PoC](https://github.com/Spydomain/CVE-2017-1000112-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2017-1000112-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2017-1000112-PoC">
+- [WhatsWrongAndWhy/CVE-2017-1000112](https://github.com/WhatsWrongAndWhy/CVE-2017-1000112)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2017-1000112">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2017-1000112">
+- [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/LinuxEelvation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/LinuxEelvation">
 
 ---
 ## CVE-2017-1000098 (2017-10-05T01:29:00)

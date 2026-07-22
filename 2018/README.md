@@ -1100,6 +1100,7 @@
 ## CVE-2018-5333 (2018-01-11T07:29:00)
 > In the Linux kernel through 4.14.13, the rds_cmsg_atomic function in net/rds/rdma.c mishandles cases where page pinning fails or an invalid address is supplied, leading to an rds_atomic_free_op NULL pointer dereference.
 - [hoanganh2k/cve-2018-5333](https://github.com/hoanganh2k/cve-2018-5333)	<img alt="forks" src="https://img.shields.io/github/forks/hoanganh2k/cve-2018-5333">	<img alt="stars" src="https://img.shields.io/github/stars/hoanganh2k/cve-2018-5333">
+- [WhatsWrongAndWhy/CVE-2018-5333](https://github.com/WhatsWrongAndWhy/CVE-2018-5333)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2018-5333">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2018-5333">
 
 ---
 ## CVE-2018-5332 (2018-01-11T07:29:00)
@@ -1747,6 +1748,11 @@
 - [pyn3rd/CVE-2018-3245](https://github.com/pyn3rd/CVE-2018-3245)	<img alt="forks" src="https://img.shields.io/github/forks/pyn3rd/CVE-2018-3245">	<img alt="stars" src="https://img.shields.io/github/stars/pyn3rd/CVE-2018-3245">
 - [jas502n/CVE-2018-3245](https://github.com/jas502n/CVE-2018-3245)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/CVE-2018-3245">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/CVE-2018-3245">
 - [ianxtianxt/CVE-2018-3245](https://github.com/ianxtianxt/CVE-2018-3245)	<img alt="forks" src="https://img.shields.io/github/forks/ianxtianxt/CVE-2018-3245">	<img alt="stars" src="https://img.shields.io/github/stars/ianxtianxt/CVE-2018-3245">
+
+---
+## CVE-2018-3214 ()
+> 
+- [YumeSecurity/CVE-2018-3214](https://github.com/YumeSecurity/CVE-2018-3214)	<img alt="forks" src="https://img.shields.io/github/forks/YumeSecurity/CVE-2018-3214">	<img alt="stars" src="https://img.shields.io/github/stars/YumeSecurity/CVE-2018-3214">
 
 ---
 ## CVE-2018-3200 (2018-10-17T01:31:00)
@@ -2529,6 +2535,8 @@
 ## CVE-2018-18955 ()
 > 
 - [scheatkode/CVE-2018-18955](https://github.com/scheatkode/CVE-2018-18955)	<img alt="forks" src="https://img.shields.io/github/forks/scheatkode/CVE-2018-18955">	<img alt="stars" src="https://img.shields.io/github/stars/scheatkode/CVE-2018-18955">
+- [WhatsWrongAndWhy/CVE-2018-18955](https://github.com/WhatsWrongAndWhy/CVE-2018-18955)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2018-18955">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2018-18955">
+- [Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/LinuxEelvation">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/LinuxEelvation">
 
 ---
 ## CVE-2018-1893 (2019-06-27T14:15:00)

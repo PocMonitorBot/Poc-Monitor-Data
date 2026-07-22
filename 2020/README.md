@@ -360,6 +360,7 @@
 - [snappyJack/Rick_write_exp_CVE-2020-8835](https://github.com/snappyJack/Rick_write_exp_CVE-2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/snappyJack/Rick_write_exp_CVE-2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/snappyJack/Rick_write_exp_CVE-2020-8835">
 - [KashaMalaga/cve2020-8835](https://github.com/KashaMalaga/cve2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/KashaMalaga/cve2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/KashaMalaga/cve2020-8835">
 - [Prabhashaka/Exploitation-CVE-2020-8835](https://github.com/Prabhashaka/Exploitation-CVE-2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/Prabhashaka/Exploitation-CVE-2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/Prabhashaka/Exploitation-CVE-2020-8835">
+- [WhatsWrongAndWhy/CVE-2020-8835](https://github.com/WhatsWrongAndWhy/CVE-2020-8835)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2020-8835">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2020-8835">
 
 ---
 ## CVE-2020-8832 (2020-04-10T00:15:00)
@@ -3649,6 +3650,7 @@
 > 
 - [willinin/CVE-2020-27194-exp](https://github.com/willinin/CVE-2020-27194-exp)	<img alt="forks" src="https://img.shields.io/github/forks/willinin/CVE-2020-27194-exp">	<img alt="stars" src="https://img.shields.io/github/stars/willinin/CVE-2020-27194-exp">
 - [xmzyshypnc/CVE-2020-27194](https://github.com/xmzyshypnc/CVE-2020-27194)	<img alt="forks" src="https://img.shields.io/github/forks/xmzyshypnc/CVE-2020-27194">	<img alt="stars" src="https://img.shields.io/github/stars/xmzyshypnc/CVE-2020-27194">
+- [WhatsWrongAndWhy/CVE-2020-27194](https://github.com/WhatsWrongAndWhy/CVE-2020-27194)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2020-27194">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2020-27194">
 
 ---
 ## CVE-2020-27190 ()

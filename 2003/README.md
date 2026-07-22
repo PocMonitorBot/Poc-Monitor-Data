@@ -56,6 +56,7 @@
 - [KernelPan1k/trans2open-CVE-2003-0201](https://github.com/KernelPan1k/trans2open-CVE-2003-0201)	<img alt="forks" src="https://img.shields.io/github/forks/KernelPan1k/trans2open-CVE-2003-0201">	<img alt="stars" src="https://img.shields.io/github/stars/KernelPan1k/trans2open-CVE-2003-0201">
 - [Bakr-Ht/samba-trans2open-exploit-report](https://github.com/Bakr-Ht/samba-trans2open-exploit-report)	<img alt="forks" src="https://img.shields.io/github/forks/Bakr-Ht/samba-trans2open-exploit-report">	<img alt="stars" src="https://img.shields.io/github/stars/Bakr-Ht/samba-trans2open-exploit-report">
 - [deepakkcybersec-eng/Kioptrix-Level1-Vulnerability-Analysis](https://github.com/deepakkcybersec-eng/Kioptrix-Level1-Vulnerability-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/deepakkcybersec-eng/Kioptrix-Level1-Vulnerability-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/deepakkcybersec-eng/Kioptrix-Level1-Vulnerability-Analysis">
+- [americooo/pentest-writeups](https://github.com/americooo/pentest-writeups)	<img alt="forks" src="https://img.shields.io/github/forks/americooo/pentest-writeups">	<img alt="stars" src="https://img.shields.io/github/stars/americooo/pentest-writeups">
 
 ---
 ## CVE-2003-0172 (2003-04-02T05:00:00)

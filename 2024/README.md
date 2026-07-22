@@ -4761,6 +4761,11 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [XiaomingX/cve-2024-40711-poc](https://github.com/XiaomingX/cve-2024-40711-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-40711-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-40711-poc">
 
 ---
+## CVE-2024-4068 ()
+> 
+- [cyeezy08/DoS-Braces-3.03](https://github.com/cyeezy08/DoS-Braces-3.03)	<img alt="forks" src="https://img.shields.io/github/forks/cyeezy08/DoS-Braces-3.03">	<img alt="stars" src="https://img.shields.io/github/stars/cyeezy08/DoS-Braces-3.03">
+
+---
 ## CVE-2024-40676 ()
 > 
 - [Aakashmom/frameworks_base_accounts_CVE-2024-40676](https://github.com/Aakashmom/frameworks_base_accounts_CVE-2024-40676)	<img alt="forks" src="https://img.shields.io/github/forks/Aakashmom/frameworks_base_accounts_CVE-2024-40676">	<img alt="stars" src="https://img.shields.io/github/stars/Aakashmom/frameworks_base_accounts_CVE-2024-40676">
@@ -7375,6 +7380,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [stevehenderson/lab_xz_backdoor](https://github.com/stevehenderson/lab_xz_backdoor)	<img alt="forks" src="https://img.shields.io/github/forks/stevehenderson/lab_xz_backdoor">	<img alt="stars" src="https://img.shields.io/github/stars/stevehenderson/lab_xz_backdoor">
 - [nnatsopoulos/xz-backdoor-research](https://github.com/nnatsopoulos/xz-backdoor-research)	<img alt="forks" src="https://img.shields.io/github/forks/nnatsopoulos/xz-backdoor-research">	<img alt="stars" src="https://img.shields.io/github/stars/nnatsopoulos/xz-backdoor-research">
 - [Bryn018/Semantic-Backdoor-Detector](https://github.com/Bryn018/Semantic-Backdoor-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/Bryn018/Semantic-Backdoor-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/Bryn018/Semantic-Backdoor-Detector">
+- [x-cmd-build/xz](https://github.com/x-cmd-build/xz)	<img alt="forks" src="https://img.shields.io/github/forks/x-cmd-build/xz">	<img alt="stars" src="https://img.shields.io/github/stars/x-cmd-build/xz">
 
 ---
 ## CVE-2024-30937 ()
@@ -8438,6 +8444,11 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-27876 ()
 > 
 - [0xilis/CVE-2024-27876](https://github.com/0xilis/CVE-2024-27876)	<img alt="forks" src="https://img.shields.io/github/forks/0xilis/CVE-2024-27876">	<img alt="stars" src="https://img.shields.io/github/stars/0xilis/CVE-2024-27876">
+
+---
+## CVE-2024-27867 ()
+> 
+- [Hirador/pspgo-airpods-802F0130](https://github.com/Hirador/pspgo-airpods-802F0130)	<img alt="forks" src="https://img.shields.io/github/forks/Hirador/pspgo-airpods-802F0130">	<img alt="stars" src="https://img.shields.io/github/stars/Hirador/pspgo-airpods-802F0130">
 
 ---
 ## CVE-2024-27840 ()
