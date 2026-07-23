@@ -1582,6 +1582,7 @@
 - [Ricardo354/homelab-CVE-2021-44228](https://github.com/Ricardo354/homelab-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/Ricardo354/homelab-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/Ricardo354/homelab-CVE-2021-44228">
 - [AstralJays/TraditionalJay](https://github.com/AstralJays/TraditionalJay)	<img alt="forks" src="https://img.shields.io/github/forks/AstralJays/TraditionalJay">	<img alt="stars" src="https://img.shields.io/github/stars/AstralJays/TraditionalJay">
 - [arpitgupta369/log4shell-scanner](https://github.com/arpitgupta369/log4shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/arpitgupta369/log4shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/arpitgupta369/log4shell-scanner">
+- [prmawyer/log4shell-vulnerable-app](https://github.com/prmawyer/log4shell-vulnerable-app)	<img alt="forks" src="https://img.shields.io/github/forks/prmawyer/log4shell-vulnerable-app">	<img alt="stars" src="https://img.shields.io/github/stars/prmawyer/log4shell-vulnerable-app">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -1879,6 +1880,11 @@
 ## CVE-2021-43767 (2022-08-25T18:15:00)
 > Odyssey passes to client unencrypted bytes from man-in-the-middle When Odyssey storage is configured to use the PostgreSQL server using 'trust' authentication with a 'clientcert' requirement or to use 'cert' authentication, a man-in-the-middle attacker can inject false responses to the client's first few queries. Despite the use of SSL certificate verification and encryption, Odyssey will pass these results to client as if they originated from valid server. This is similar to CVE-2021-23222 for PostgreSQL.
 - [Live-Hack-CVE/CVE-2021-43767](https://github.com/Live-Hack-CVE/CVE-2021-43767)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-43767">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-43767">
+
+---
+## CVE-2021-4376 ()
+> 
+- [DanielKevinn/CVE-2021-4376](https://github.com/DanielKevinn/CVE-2021-4376)	<img alt="forks" src="https://img.shields.io/github/forks/DanielKevinn/CVE-2021-4376">	<img alt="stars" src="https://img.shields.io/github/stars/DanielKevinn/CVE-2021-4376">
 
 ---
 ## CVE-2021-4374 ()

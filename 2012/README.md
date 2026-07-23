@@ -393,6 +393,7 @@
 - [hackherMind-Pixel/Vulnerable-Lab-Exploitation](https://github.com/hackherMind-Pixel/Vulnerable-Lab-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/hackherMind-Pixel/Vulnerable-Lab-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/hackherMind-Pixel/Vulnerable-Lab-Exploitation">
 - [K3ysTr0K3R/CVE-2012-1823](https://github.com/K3ysTr0K3R/CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2012-1823">
 - [mehedi-hasan-sami98/DVWA-ZAP-PENTEST](https://github.com/mehedi-hasan-sami98/DVWA-ZAP-PENTEST)	<img alt="forks" src="https://img.shields.io/github/forks/mehedi-hasan-sami98/DVWA-ZAP-PENTEST">	<img alt="stars" src="https://img.shields.io/github/stars/mehedi-hasan-sami98/DVWA-ZAP-PENTEST">
+- [tanasescualexandrugabriel/Vulnerability-Assessment-and-OSINT-CVE-2012-1823](https://github.com/tanasescualexandrugabriel/Vulnerability-Assessment-and-OSINT-CVE-2012-1823)	<img alt="forks" src="https://img.shields.io/github/forks/tanasescualexandrugabriel/Vulnerability-Assessment-and-OSINT-CVE-2012-1823">	<img alt="stars" src="https://img.shields.io/github/stars/tanasescualexandrugabriel/Vulnerability-Assessment-and-OSINT-CVE-2012-1823">
 
 ---
 ## CVE-2012-1803 ()

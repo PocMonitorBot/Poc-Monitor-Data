@@ -5035,6 +5035,7 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 > XAML Diagnostics Elevation of Privilege Vulnerability
 - [m417z/CVE-2023-36003-POC](https://github.com/m417z/CVE-2023-36003-POC)	<img alt="forks" src="https://img.shields.io/github/forks/m417z/CVE-2023-36003-POC">	<img alt="stars" src="https://img.shields.io/github/stars/m417z/CVE-2023-36003-POC">
 - [baph0m3th/CVE-2023-36003](https://github.com/baph0m3th/CVE-2023-36003)	<img alt="forks" src="https://img.shields.io/github/forks/baph0m3th/CVE-2023-36003">	<img alt="stars" src="https://img.shields.io/github/stars/baph0m3th/CVE-2023-36003">
+- [johnnygreeme/CVE-2023-36003](https://github.com/johnnygreeme/CVE-2023-36003)	<img alt="forks" src="https://img.shields.io/github/forks/johnnygreeme/CVE-2023-36003">	<img alt="stars" src="https://img.shields.io/github/stars/johnnygreeme/CVE-2023-36003">
 
 ---
 ## CVE-2023-35985 (2023-11-27T16:15:00)
@@ -7623,6 +7624,7 @@ and the severity is therefore considered low.
 - [K5LK/CVE-2023-2640-32629](https://github.com/K5LK/CVE-2023-2640-32629)	<img alt="forks" src="https://img.shields.io/github/forks/K5LK/CVE-2023-2640-32629">	<img alt="stars" src="https://img.shields.io/github/stars/K5LK/CVE-2023-2640-32629">
 - [z3usx01/CVE-2023-2640-3262-PoC](https://github.com/z3usx01/CVE-2023-2640-3262-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/z3usx01/CVE-2023-2640-3262-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/z3usx01/CVE-2023-2640-3262-PoC">
 - [amar-imamovic/CVE-2023-2640-CVE-2023-32629-Interactive-PoC](https://github.com/amar-imamovic/CVE-2023-2640-CVE-2023-32629-Interactive-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/amar-imamovic/CVE-2023-2640-CVE-2023-32629-Interactive-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/amar-imamovic/CVE-2023-2640-CVE-2023-32629-Interactive-PoC">
+- [WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629](https://github.com/WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2023-2640-CVE-2023-32629">
 
 ---
 ## CVE-2023-26360 (2023-03-23T20:15:00)
@@ -11466,6 +11468,11 @@ For more details, please review the linked advisory on this CVE.
 - [Live-Hack-CVE/CVE-2023-21823](https://github.com/Live-Hack-CVE/CVE-2023-21823)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-21823">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-21823">
 - [b11y/CVE-2023-21823](https://github.com/b11y/CVE-2023-21823)	<img alt="forks" src="https://img.shields.io/github/forks/b11y/CVE-2023-21823">	<img alt="stars" src="https://img.shields.io/github/stars/b11y/CVE-2023-21823">
 - [Elizarfish/CVE-2023-21823](https://github.com/Elizarfish/CVE-2023-21823)	<img alt="forks" src="https://img.shields.io/github/forks/Elizarfish/CVE-2023-21823">	<img alt="stars" src="https://img.shields.io/github/stars/Elizarfish/CVE-2023-21823">
+
+---
+## CVE-2023-21817 ()
+> 
+- [johnnygreeme/CVE-2023-21817](https://github.com/johnnygreeme/CVE-2023-21817)	<img alt="forks" src="https://img.shields.io/github/forks/johnnygreeme/CVE-2023-21817">	<img alt="stars" src="https://img.shields.io/github/stars/johnnygreeme/CVE-2023-21817">
 
 ---
 ## CVE-2023-21815 (2023-02-14T21:15:00)

@@ -440,6 +440,7 @@
 - [cved-sources/cve-2017-8046](https://github.com/cved-sources/cve-2017-8046)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2017-8046">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2017-8046">
 - [jsotiro/VulnerableSpringDataRest](https://github.com/jsotiro/VulnerableSpringDataRest)	<img alt="forks" src="https://img.shields.io/github/forks/jsotiro/VulnerableSpringDataRest">	<img alt="stars" src="https://img.shields.io/github/stars/jsotiro/VulnerableSpringDataRest">
 - [guanjivip/CVE-2017-8046](https://github.com/guanjivip/CVE-2017-8046)	<img alt="forks" src="https://img.shields.io/github/forks/guanjivip/CVE-2017-8046">	<img alt="stars" src="https://img.shields.io/github/stars/guanjivip/CVE-2017-8046">
+- [lgtm-migrator/CVE-2017-8046-DEMO](https://github.com/lgtm-migrator/CVE-2017-8046-DEMO)	<img alt="forks" src="https://img.shields.io/github/forks/lgtm-migrator/CVE-2017-8046-DEMO">	<img alt="stars" src="https://img.shields.io/github/stars/lgtm-migrator/CVE-2017-8046-DEMO">
 
 ---
 ## CVE-2017-7998 ()
