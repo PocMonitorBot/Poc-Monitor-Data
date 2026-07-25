@@ -1583,6 +1583,7 @@
 - [AstralJays/TraditionalJay](https://github.com/AstralJays/TraditionalJay)	<img alt="forks" src="https://img.shields.io/github/forks/AstralJays/TraditionalJay">	<img alt="stars" src="https://img.shields.io/github/stars/AstralJays/TraditionalJay">
 - [arpitgupta369/log4shell-scanner](https://github.com/arpitgupta369/log4shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/arpitgupta369/log4shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/arpitgupta369/log4shell-scanner">
 - [prmawyer/log4shell-vulnerable-app](https://github.com/prmawyer/log4shell-vulnerable-app)	<img alt="forks" src="https://img.shields.io/github/forks/prmawyer/log4shell-vulnerable-app">	<img alt="stars" src="https://img.shields.io/github/stars/prmawyer/log4shell-vulnerable-app">
+- [razureink/cve-2021-44228-log4shell_rce_reproduction](https://github.com/razureink/cve-2021-44228-log4shell_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2021-44228-log4shell_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2021-44228-log4shell_rce_reproduction">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -1841,6 +1842,7 @@
 - [Mr-xn/CVE-2021-43798](https://github.com/Mr-xn/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2021-43798">
 - [kenuosec/grafanaExp](https://github.com/kenuosec/grafanaExp)	<img alt="forks" src="https://img.shields.io/github/forks/kenuosec/grafanaExp">	<img alt="stars" src="https://img.shields.io/github/stars/kenuosec/grafanaExp">
 - [Lim-ahmin/CVE-2021-43798](https://github.com/Lim-ahmin/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Lim-ahmin/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Lim-ahmin/CVE-2021-43798">
+- [sbimoxa/cve-2021-43798-lab](https://github.com/sbimoxa/cve-2021-43798-lab)	<img alt="forks" src="https://img.shields.io/github/forks/sbimoxa/cve-2021-43798-lab">	<img alt="stars" src="https://img.shields.io/github/stars/sbimoxa/cve-2021-43798-lab">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
@@ -3408,6 +3410,7 @@
 - [0xrogg/CVE-2021-41773](https://github.com/0xrogg/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/0xrogg/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/0xrogg/CVE-2021-41773">
 - [1412Kkkkid/cve_2021_41773_reproduction](https://github.com/1412Kkkkid/cve_2021_41773_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/1412Kkkkid/cve_2021_41773_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/1412Kkkkid/cve_2021_41773_reproduction">
 - [DappaNISM/mass_cve-2021-41773](https://github.com/DappaNISM/mass_cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/DappaNISM/mass_cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/DappaNISM/mass_cve-2021-41773">
+- [gagaltotal/CVE-2021-41773-apache](https://github.com/gagaltotal/CVE-2021-41773-apache)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2021-41773-apache">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2021-41773-apache">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -6947,6 +6950,7 @@
 - [iqbalhussainas/OverlayFS-LPE-Exploit](https://github.com/iqbalhussainas/OverlayFS-LPE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iqbalhussainas/OverlayFS-LPE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iqbalhussainas/OverlayFS-LPE-Exploit">
 - [Ayham-Megdadi/Zero-Day-Legacy](https://github.com/Ayham-Megdadi/Zero-Day-Legacy)	<img alt="forks" src="https://img.shields.io/github/forks/Ayham-Megdadi/Zero-Day-Legacy">	<img alt="stars" src="https://img.shields.io/github/stars/Ayham-Megdadi/Zero-Day-Legacy">
 - [WhatsWrongAndWhy/CVE-2021-3493](https://github.com/WhatsWrongAndWhy/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-3493">
+- [0xlane/CVE-2021-3493](https://github.com/0xlane/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/CVE-2021-3493">
 
 ---
 ## CVE-2021-3492 ()

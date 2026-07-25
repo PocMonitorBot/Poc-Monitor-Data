@@ -801,7 +801,7 @@
 - [amil-ptl-test/ptl_cve_2018_6574](https://github.com/amil-ptl-test/ptl_cve_2018_6574)	<img alt="forks" src="https://img.shields.io/github/forks/amil-ptl-test/ptl_cve_2018_6574">	<img alt="stars" src="https://img.shields.io/github/stars/amil-ptl-test/ptl_cve_2018_6574">
 - [noobTest1122/CVE-2018-6574](https://github.com/noobTest1122/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/noobTest1122/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/noobTest1122/CVE-2018-6574">
 - [jaya522/CVE-2018-6574-go-get-RCE](https://github.com/jaya522/CVE-2018-6574-go-get-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jaya522/CVE-2018-6574-go-get-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jaya522/CVE-2018-6574-go-get-RCE">
-- [yashanand/cve-2018-6574](https://github.com/yashanand/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/yashanand/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/yashanand/cve-2018-6574">
+- [sec000/cve-2018-6574](https://github.com/sec000/cve-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/sec000/cve-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/sec000/cve-2018-6574">
 - [repos13579/labCVE-2018-6574](https://github.com/repos13579/labCVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/repos13579/labCVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/repos13579/labCVE-2018-6574">
 - [OLAOLAOLA789/CVE-2018-6574](https://github.com/OLAOLAOLA789/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/OLAOLAOLA789/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/OLAOLAOLA789/CVE-2018-6574">
 - [Yealid/CVE-2018-6574](https://github.com/Yealid/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/Yealid/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/Yealid/CVE-2018-6574">
@@ -918,6 +918,11 @@
 - [purgedemo/CVE-2018-6574_2](https://github.com/purgedemo/CVE-2018-6574_2)	<img alt="forks" src="https://img.shields.io/github/forks/purgedemo/CVE-2018-6574_2">	<img alt="stars" src="https://img.shields.io/github/stars/purgedemo/CVE-2018-6574_2">
 - [killtr0/POC-CVE-2018-6574](https://github.com/killtr0/POC-CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/killtr0/POC-CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/killtr0/POC-CVE-2018-6574">
 - [Saptaktdk/go-get-RCE](https://github.com/Saptaktdk/go-get-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Saptaktdk/go-get-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Saptaktdk/go-get-RCE">
+- [s-p4rk/CVE-2018-6574](https://github.com/s-p4rk/CVE-2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/s-p4rk/CVE-2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/s-p4rk/CVE-2018-6574">
+- [AnKItdo/CVE_2018-6574](https://github.com/AnKItdo/CVE_2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/AnKItdo/CVE_2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/AnKItdo/CVE_2018-6574">
+- [sirius-bl4ck/cve2018-6574](https://github.com/sirius-bl4ck/cve2018-6574)	<img alt="forks" src="https://img.shields.io/github/forks/sirius-bl4ck/cve2018-6574">	<img alt="stars" src="https://img.shields.io/github/stars/sirius-bl4ck/cve2018-6574">
+- [VikasVarshney/CVE_2018_6574](https://github.com/VikasVarshney/CVE_2018_6574)	<img alt="forks" src="https://img.shields.io/github/forks/VikasVarshney/CVE_2018_6574">	<img alt="stars" src="https://img.shields.io/github/stars/VikasVarshney/CVE_2018_6574">
+- [VikasVarshney/cve_test_2018_6574](https://github.com/VikasVarshney/cve_test_2018_6574)	<img alt="forks" src="https://img.shields.io/github/forks/VikasVarshney/cve_test_2018_6574">	<img alt="stars" src="https://img.shields.io/github/stars/VikasVarshney/cve_test_2018_6574">
 
 ---
 ## CVE-2018-6557 (2018-08-21T16:29:00)

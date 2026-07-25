@@ -6623,6 +6623,7 @@
 - [rhymeswithmogul/Set-ZerologonMitigation](https://github.com/rhymeswithmogul/Set-ZerologonMitigation)	<img alt="forks" src="https://img.shields.io/github/forks/rhymeswithmogul/Set-ZerologonMitigation">	<img alt="stars" src="https://img.shields.io/github/stars/rhymeswithmogul/Set-ZerologonMitigation">
 - [shanfenglan/cve-2020-1472](https://github.com/shanfenglan/cve-2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/shanfenglan/cve-2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/shanfenglan/cve-2020-1472">
 - [metehangelgi/CVE-2020-1472-LAB](https://github.com/metehangelgi/CVE-2020-1472-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/metehangelgi/CVE-2020-1472-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/metehangelgi/CVE-2020-1472-LAB">
+- [abdullah50i/internal-penetration-testing-project-using-Metasploit](https://github.com/abdullah50i/internal-penetration-testing-project-using-Metasploit)	<img alt="forks" src="https://img.shields.io/github/forks/abdullah50i/internal-penetration-testing-project-using-Metasploit">	<img alt="stars" src="https://img.shields.io/github/stars/abdullah50i/internal-penetration-testing-project-using-Metasploit">
 
 ---
 ## CVE-2020-14664 (2020-07-15T18:15:00)
