@@ -1584,6 +1584,7 @@
 - [arpitgupta369/log4shell-scanner](https://github.com/arpitgupta369/log4shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/arpitgupta369/log4shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/arpitgupta369/log4shell-scanner">
 - [prmawyer/log4shell-vulnerable-app](https://github.com/prmawyer/log4shell-vulnerable-app)	<img alt="forks" src="https://img.shields.io/github/forks/prmawyer/log4shell-vulnerable-app">	<img alt="stars" src="https://img.shields.io/github/stars/prmawyer/log4shell-vulnerable-app">
 - [razureink/cve-2021-44228-log4shell_rce_reproduction](https://github.com/razureink/cve-2021-44228-log4shell_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2021-44228-log4shell_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2021-44228-log4shell_rce_reproduction">
+- [sfr0435122531-ui/-log4shell-lab](https://github.com/sfr0435122531-ui/-log4shell-lab)	<img alt="forks" src="https://img.shields.io/github/forks/sfr0435122531-ui/-log4shell-lab">	<img alt="stars" src="https://img.shields.io/github/stars/sfr0435122531-ui/-log4shell-lab">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -8181,6 +8182,11 @@
 - [Live-Hack-CVE/CVE-2021-32626](https://github.com/Live-Hack-CVE/CVE-2021-32626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32626">
 
 ---
+## CVE-2021-3262 ()
+> 
+- [l0lsec/CVE-2021-3262](https://github.com/l0lsec/CVE-2021-3262)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsec/CVE-2021-3262">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsec/CVE-2021-3262">
+
+---
 ## CVE-2021-32608 (2021-05-12T15:15:00)
 > An issue was discovered in Smartstore (aka SmartStoreNET) through 4.1.1. Views/Boards/Partials/_ForumPost.cshtml does not call HtmlUtils.SanitizeHtml on certain text for a forum post.
 - [Live-Hack-CVE/CVE-2021-32608](https://github.com/Live-Hack-CVE/CVE-2021-32608)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-32608">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-32608">
@@ -10000,6 +10006,11 @@
 - [Mr-xn/CVE-2021-26855-d](https://github.com/Mr-xn/CVE-2021-26855-d)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2021-26855-d">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2021-26855-d">
 - [antichown/Scan-Vuln-CVE-2021-26855](https://github.com/antichown/Scan-Vuln-CVE-2021-26855)	<img alt="forks" src="https://img.shields.io/github/forks/antichown/Scan-Vuln-CVE-2021-26855">	<img alt="stars" src="https://img.shields.io/github/stars/antichown/Scan-Vuln-CVE-2021-26855">
 - [wysssadda/ExchangeSmash](https://github.com/wysssadda/ExchangeSmash)	<img alt="forks" src="https://img.shields.io/github/forks/wysssadda/ExchangeSmash">	<img alt="stars" src="https://img.shields.io/github/stars/wysssadda/ExchangeSmash">
+
+---
+## CVE-2021-26837 ()
+> 
+- [l0lsec/CVE-2021-26837](https://github.com/l0lsec/CVE-2021-26837)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsec/CVE-2021-26837">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsec/CVE-2021-26837">
 
 ---
 ## CVE-2021-26832 ()

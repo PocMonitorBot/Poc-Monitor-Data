@@ -19208,6 +19208,7 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [R0rt1z2/CVE-2022-38181](https://github.com/R0rt1z2/CVE-2022-38181)	<img alt="forks" src="https://img.shields.io/github/forks/R0rt1z2/CVE-2022-38181">	<img alt="stars" src="https://img.shields.io/github/stars/R0rt1z2/CVE-2022-38181">
 - [soralis0912/CVE-2022-38181-aristotle-apk](https://github.com/soralis0912/CVE-2022-38181-aristotle-apk)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2022-38181-aristotle-apk">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2022-38181-aristotle-apk">
 - [soralis0912/CVE-2022-38181-aristotle](https://github.com/soralis0912/CVE-2022-38181-aristotle)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2022-38181-aristotle">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2022-38181-aristotle">
+- [Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet](https://github.com/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet)	<img alt="forks" src="https://img.shields.io/github/forks/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet">	<img alt="stars" src="https://img.shields.io/github/stars/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet">
 
 ---
 ## CVE-2022-3818 (2022-11-10T00:15:00)

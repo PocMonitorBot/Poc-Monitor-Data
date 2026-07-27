@@ -139,6 +139,7 @@
 - [B1ack4sh/Blackash-CVE-2025-9242](https://github.com/B1ack4sh/Blackash-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-9242">
 - [UnusualGiraffe/PoC-Unauthenticated-RCE-in-WatchGuard-Fireware-12.7-Build-640389-CVE-2025-9242](https://github.com/UnusualGiraffe/PoC-Unauthenticated-RCE-in-WatchGuard-Fireware-12.7-Build-640389-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/UnusualGiraffe/PoC-Unauthenticated-RCE-in-WatchGuard-Fireware-12.7-Build-640389-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/UnusualGiraffe/PoC-Unauthenticated-RCE-in-WatchGuard-Fireware-12.7-Build-640389-CVE-2025-9242">
 - [UnusualGiraffe/Mass-Scanner-CVE-2025-9242](https://github.com/UnusualGiraffe/Mass-Scanner-CVE-2025-9242)	<img alt="forks" src="https://img.shields.io/github/forks/UnusualGiraffe/Mass-Scanner-CVE-2025-9242">	<img alt="stars" src="https://img.shields.io/github/stars/UnusualGiraffe/Mass-Scanner-CVE-2025-9242">
+- [UnusualGiraffe/WatchGuard-CVE-2025-9242-PoC-and-Mass-Scanner](https://github.com/UnusualGiraffe/WatchGuard-CVE-2025-9242-PoC-and-Mass-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/UnusualGiraffe/WatchGuard-CVE-2025-9242-PoC-and-Mass-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/UnusualGiraffe/WatchGuard-CVE-2025-9242-PoC-and-Mass-Scanner">
 
 ---
 ## CVE-2025-9223 ()
@@ -8168,6 +8169,7 @@
 - [daryllundy/cve-2025-32711](https://github.com/daryllundy/cve-2025-32711)	<img alt="forks" src="https://img.shields.io/github/forks/daryllundy/cve-2025-32711">	<img alt="stars" src="https://img.shields.io/github/stars/daryllundy/cve-2025-32711">
 - [TreRB/markdown-exfil-tester](https://github.com/TreRB/markdown-exfil-tester)	<img alt="forks" src="https://img.shields.io/github/forks/TreRB/markdown-exfil-tester">	<img alt="stars" src="https://img.shields.io/github/stars/TreRB/markdown-exfil-tester">
 - [Danielossai12/aisecplus-week01-danielossai](https://github.com/Danielossai12/aisecplus-week01-danielossai)	<img alt="forks" src="https://img.shields.io/github/forks/Danielossai12/aisecplus-week01-danielossai">	<img alt="stars" src="https://img.shields.io/github/stars/Danielossai12/aisecplus-week01-danielossai">
+- [vikasudasi/exfil-scan](https://github.com/vikasudasi/exfil-scan)	<img alt="forks" src="https://img.shields.io/github/forks/vikasudasi/exfil-scan">	<img alt="stars" src="https://img.shields.io/github/stars/vikasudasi/exfil-scan">
 
 ---
 ## CVE-2025-32710 ()

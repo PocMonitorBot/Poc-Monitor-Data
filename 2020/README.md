@@ -1773,6 +1773,11 @@
 - [Live-Hack-CVE/CVE-2020-5232](https://github.com/Live-Hack-CVE/CVE-2020-5232)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5232">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5232">
 
 ---
+## CVE-2020-5148 ()
+> 
+- [l0lsec/CVE-2020-5148](https://github.com/l0lsec/CVE-2020-5148)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsec/CVE-2020-5148">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsec/CVE-2020-5148">
+
+---
 ## CVE-2020-5142 ()
 > 
 - [hackerlawyer/CVE-2020-5142-POC-MB](https://github.com/hackerlawyer/CVE-2020-5142-POC-MB)	<img alt="forks" src="https://img.shields.io/github/forks/hackerlawyer/CVE-2020-5142-POC-MB">	<img alt="stars" src="https://img.shields.io/github/stars/hackerlawyer/CVE-2020-5142-POC-MB">
@@ -4320,6 +4325,7 @@
 ## CVE-2020-25273 ()
 > 
 - [Ko-kn3t/CVE-2020-25273](https://github.com/Ko-kn3t/CVE-2020-25273)	<img alt="forks" src="https://img.shields.io/github/forks/Ko-kn3t/CVE-2020-25273">	<img alt="stars" src="https://img.shields.io/github/stars/Ko-kn3t/CVE-2020-25273">
+- [jonathanrey87/CVE-2020-25273](https://github.com/jonathanrey87/CVE-2020-25273)	<img alt="forks" src="https://img.shields.io/github/forks/jonathanrey87/CVE-2020-25273">	<img alt="stars" src="https://img.shields.io/github/stars/jonathanrey87/CVE-2020-25273">
 
 ---
 ## CVE-2020-25272 ()
@@ -4335,6 +4341,7 @@
 ## CVE-2020-25270 ()
 > 
 - [Ko-kn3t/CVE-2020-25270](https://github.com/Ko-kn3t/CVE-2020-25270)	<img alt="forks" src="https://img.shields.io/github/forks/Ko-kn3t/CVE-2020-25270">	<img alt="stars" src="https://img.shields.io/github/stars/Ko-kn3t/CVE-2020-25270">
+- [pushpam002/CVE-2020-25270](https://github.com/pushpam002/CVE-2020-25270)	<img alt="forks" src="https://img.shields.io/github/forks/pushpam002/CVE-2020-25270">	<img alt="stars" src="https://img.shields.io/github/stars/pushpam002/CVE-2020-25270">
 
 ---
 ## CVE-2020-2527 (2020-01-15T17:15:00)
