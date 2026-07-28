@@ -4194,6 +4194,8 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [J1nKsC/CVE-2024-4367_test](https://github.com/J1nKsC/CVE-2024-4367_test)	<img alt="forks" src="https://img.shields.io/github/forks/J1nKsC/CVE-2024-4367_test">	<img alt="stars" src="https://img.shields.io/github/stars/J1nKsC/CVE-2024-4367_test">
 - [veronimo669/pdf.js-CVE-2024-4367](https://github.com/veronimo669/pdf.js-CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/veronimo669/pdf.js-CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/veronimo669/pdf.js-CVE-2024-4367">
 - [Nishab-Khatiwada/cve_2024_4367_poc.pdf](https://github.com/Nishab-Khatiwada/cve_2024_4367_poc.pdf)	<img alt="forks" src="https://img.shields.io/github/forks/Nishab-Khatiwada/cve_2024_4367_poc.pdf">	<img alt="stars" src="https://img.shields.io/github/stars/Nishab-Khatiwada/cve_2024_4367_poc.pdf">
+- [yuimamur/CVE-2024-4367-hands-on-01](https://github.com/yuimamur/CVE-2024-4367-hands-on-01)	<img alt="forks" src="https://img.shields.io/github/forks/yuimamur/CVE-2024-4367-hands-on-01">	<img alt="stars" src="https://img.shields.io/github/stars/yuimamur/CVE-2024-4367-hands-on-01">
+- [yuimamur/CVE-2024-4367-hands-on](https://github.com/yuimamur/CVE-2024-4367-hands-on)	<img alt="forks" src="https://img.shields.io/github/forks/yuimamur/CVE-2024-4367-hands-on">	<img alt="stars" src="https://img.shields.io/github/stars/yuimamur/CVE-2024-4367-hands-on">
 
 ---
 ## CVE-2024-43639 ()
@@ -8681,7 +8683,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [ptd200110/CVE-2024-27198-SOC-Lab](https://github.com/ptd200110/CVE-2024-27198-SOC-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/ptd200110/CVE-2024-27198-SOC-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/ptd200110/CVE-2024-27198-SOC-Lab">
 - [BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-](https://github.com/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-)	<img alt="forks" src="https://img.shields.io/github/forks/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-">	<img alt="stars" src="https://img.shields.io/github/stars/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-">
 - [swimmmmy/CVE-2024-27198-teamcity-auth-bypass](https://github.com/swimmmmy/CVE-2024-27198-teamcity-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/swimmmmy/CVE-2024-27198-teamcity-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/swimmmmy/CVE-2024-27198-teamcity-auth-bypass">
-- [kxom9ks/CVE-2024-27198](https://github.com/kxom9ks/CVE-2024-27198)	<img alt="forks" src="https://img.shields.io/github/forks/kxom9ks/CVE-2024-27198">	<img alt="stars" src="https://img.shields.io/github/stars/kxom9ks/CVE-2024-27198">
+- [kxom9ks/CVE-2024-27198-TeamCity](https://github.com/kxom9ks/CVE-2024-27198-TeamCity)	<img alt="forks" src="https://img.shields.io/github/forks/kxom9ks/CVE-2024-27198-TeamCity">	<img alt="stars" src="https://img.shields.io/github/stars/kxom9ks/CVE-2024-27198-TeamCity">
 
 ---
 ## CVE-2024-27191 (2024-04-03T12:15:00)
@@ -9817,6 +9819,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 ## CVE-2024-23666 ()
 > 
 - [synacktiv/CVE-2023-42791_CVE-2024-23666](https://github.com/synacktiv/CVE-2023-42791_CVE-2024-23666)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2023-42791_CVE-2024-23666">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2023-42791_CVE-2024-23666">
+
+---
+## CVE-2024-23659 ()
+> 
+- [amis13/SPIP-CVE-2024-23659-](https://github.com/amis13/SPIP-CVE-2024-23659-)	<img alt="forks" src="https://img.shields.io/github/forks/amis13/SPIP-CVE-2024-23659-">	<img alt="stars" src="https://img.shields.io/github/stars/amis13/SPIP-CVE-2024-23659-">
 
 ---
 ## CVE-2024-23653 ()
@@ -11077,6 +11084,11 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
 
 - [ox1111/-CVE-2024-1874-](https://github.com/ox1111/-CVE-2024-1874-)	<img alt="forks" src="https://img.shields.io/github/forks/ox1111/-CVE-2024-1874-">	<img alt="stars" src="https://img.shields.io/github/stars/ox1111/-CVE-2024-1874-">
 - [Tgcohce/CVE-2024-1874](https://github.com/Tgcohce/CVE-2024-1874)	<img alt="forks" src="https://img.shields.io/github/forks/Tgcohce/CVE-2024-1874">	<img alt="stars" src="https://img.shields.io/github/stars/Tgcohce/CVE-2024-1874">
+
+---
+## CVE-2024-1813 ()
+> 
+- [MobetaSec/CVE-2024-1813-POC](https://github.com/MobetaSec/CVE-2024-1813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MobetaSec/CVE-2024-1813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MobetaSec/CVE-2024-1813-POC">
 
 ---
 ## CVE-2024-1781 ()

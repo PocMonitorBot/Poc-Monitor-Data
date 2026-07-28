@@ -2047,6 +2047,7 @@
 - [MehdiChyhab/CVE-2025-64512-exploit](https://github.com/MehdiChyhab/CVE-2025-64512-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MehdiChyhab/CVE-2025-64512-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MehdiChyhab/CVE-2025-64512-exploit">
 - [Cosm3No1de/Bedside.htb_solved](https://github.com/Cosm3No1de/Bedside.htb_solved)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/Bedside.htb_solved">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/Bedside.htb_solved">
 - [stoic-crawler/CVE-2025-64512](https://github.com/stoic-crawler/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/stoic-crawler/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/stoic-crawler/CVE-2025-64512">
+- [saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-](https://github.com/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-">
 
 ---
 ## CVE-2025-64500 ()
@@ -2533,6 +2534,7 @@
 - [theman001/CVE-2025-62215](https://github.com/theman001/CVE-2025-62215)	<img alt="forks" src="https://img.shields.io/github/forks/theman001/CVE-2025-62215">	<img alt="stars" src="https://img.shields.io/github/stars/theman001/CVE-2025-62215">
 - [uky007/CVE-2025-62215_analysis](https://github.com/uky007/CVE-2025-62215_analysis)	<img alt="forks" src="https://img.shields.io/github/forks/uky007/CVE-2025-62215_analysis">	<img alt="stars" src="https://img.shields.io/github/stars/uky007/CVE-2025-62215_analysis">
 - [gowonisgood/CVE-2025-62215-POC](https://github.com/gowonisgood/CVE-2025-62215-POC)	<img alt="forks" src="https://img.shields.io/github/forks/gowonisgood/CVE-2025-62215-POC">	<img alt="stars" src="https://img.shields.io/github/stars/gowonisgood/CVE-2025-62215-POC">
+- [nullxall/cve-2025-62215-exploit-poc](https://github.com/nullxall/cve-2025-62215-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/nullxall/cve-2025-62215-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/nullxall/cve-2025-62215-exploit-poc">
 
 ---
 ## CVE-2025-62207 ()
@@ -4802,6 +4804,7 @@
 - [6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-](https://github.com/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-)	<img alt="forks" src="https://img.shields.io/github/forks/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-">	<img alt="stars" src="https://img.shields.io/github/stars/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-">
 - [razureink/cve-2025-55182-react2shell_reproduction](https://github.com/razureink/cve-2025-55182-react2shell_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-55182-react2shell_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-55182-react2shell_reproduction">
 - [indra-031/React2Shell-Exploit-CVE-2025-55182](https://github.com/indra-031/React2Shell-Exploit-CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/indra-031/React2Shell-Exploit-CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/indra-031/React2Shell-Exploit-CVE-2025-55182">
+- [Phucc29/CVE-2025-55182](https://github.com/Phucc29/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Phucc29/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Phucc29/CVE-2025-55182">
 
 ---
 ## CVE-2025-55177 ()
@@ -10144,6 +10147,7 @@
 ## CVE-2025-24990 ()
 > 
 - [moiz-2x/CVE-2025-24990_POC](https://github.com/moiz-2x/CVE-2025-24990_POC)	<img alt="forks" src="https://img.shields.io/github/forks/moiz-2x/CVE-2025-24990_POC">	<img alt="stars" src="https://img.shields.io/github/stars/moiz-2x/CVE-2025-24990_POC">
+- [sentinel-aidefense/CVE-2025-24990](https://github.com/sentinel-aidefense/CVE-2025-24990)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-24990">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-24990">
 
 ---
 ## CVE-2025-24985 ()

@@ -538,6 +538,12 @@ SCM accounting on the io_uring side unnecessary.
 - [Helica-core/eap_pwn](https://github.com/Helica-core/eap_pwn)	<img alt="forks" src="https://img.shields.io/github/forks/Helica-core/eap_pwn">	<img alt="stars" src="https://img.shields.io/github/stars/Helica-core/eap_pwn">
 
 ---
+## CVE-2023-52076 ()
+> 
+- [Groppoxx/CVE-2023-52076-PoC](https://github.com/Groppoxx/CVE-2023-52076-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Groppoxx/CVE-2023-52076-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Groppoxx/CVE-2023-52076-PoC">
+- [febinrev/slippy-book-exploit](https://github.com/febinrev/slippy-book-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/febinrev/slippy-book-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/febinrev/slippy-book-exploit">
+
+---
 ## CVE-2023-5204 (2023-10-19T06:15:00)
 > The ChatBot plugin for WordPress is vulnerable to SQL Injection via the $strid parameter in versions up to, and including, 4.8.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [RandomRobbieBF/CVE-2023-5204](https://github.com/RandomRobbieBF/CVE-2023-5204)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-5204">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-5204">
@@ -8246,6 +8252,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894)	<img alt="forks" src="https://img.shields.io/github/forks/Wack0/CVE-2022-21894">	<img alt="stars" src="https://img.shields.io/github/stars/Wack0/CVE-2022-21894">
 - [ajf8729/BlackLotus](https://github.com/ajf8729/BlackLotus)	<img alt="forks" src="https://img.shields.io/github/forks/ajf8729/BlackLotus">	<img alt="stars" src="https://img.shields.io/github/stars/ajf8729/BlackLotus">
 - [v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en](https://github.com/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en)	<img alt="forks" src="https://img.shields.io/github/forks/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en">	<img alt="stars" src="https://img.shields.io/github/stars/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en">
+- [ETS-MSE/secure-boot-cert-servicing](https://github.com/ETS-MSE/secure-boot-cert-servicing)	<img alt="forks" src="https://img.shields.io/github/forks/ETS-MSE/secure-boot-cert-servicing">	<img alt="stars" src="https://img.shields.io/github/stars/ETS-MSE/secure-boot-cert-servicing">
 
 ---
 ## CVE-2023-24871 (2023-03-14T17:15:00)
