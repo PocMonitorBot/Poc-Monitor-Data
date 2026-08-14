@@ -196,6 +196,7 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [Harshit-Mashru/CVE-2023-6553](https://github.com/Harshit-Mashru/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/Harshit-Mashru/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/Harshit-Mashru/CVE-2023-6553">
 - [Aliyankhan-source/CVE-2023-6553-RCE-Fancy-Exploit](https://github.com/Aliyankhan-source/CVE-2023-6553-RCE-Fancy-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Aliyankhan-source/CVE-2023-6553-RCE-Fancy-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Aliyankhan-source/CVE-2023-6553-RCE-Fancy-Exploit">
 - [joaoaugustom/WordPress_Backup_Migration-RCE_Unauthenticated](https://github.com/joaoaugustom/WordPress_Backup_Migration-RCE_Unauthenticated)	<img alt="forks" src="https://img.shields.io/github/forks/joaoaugustom/WordPress_Backup_Migration-RCE_Unauthenticated">	<img alt="stars" src="https://img.shields.io/github/stars/joaoaugustom/WordPress_Backup_Migration-RCE_Unauthenticated">
+- [Dungsocool/CVE-2023-6553](https://github.com/Dungsocool/CVE-2023-6553)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2023-6553">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2023-6553">
 
 ---
 ## CVE-2023-6548 (2024-01-17T20:15:00)
@@ -1552,6 +1553,7 @@ Users are recommended to upgrade to version 18.12.10
 > Nagios XI before version 5.11.3 was discovered to contain a SQL injection vulnerability via the bulk modification tool.
 - [Hamibubu/CVE-2023-48084](https://github.com/Hamibubu/CVE-2023-48084)	<img alt="forks" src="https://img.shields.io/github/forks/Hamibubu/CVE-2023-48084">	<img alt="stars" src="https://img.shields.io/github/stars/Hamibubu/CVE-2023-48084">
 - [bucketcat/CVE-2023-48084](https://github.com/bucketcat/CVE-2023-48084)	<img alt="forks" src="https://img.shields.io/github/forks/bucketcat/CVE-2023-48084">	<img alt="stars" src="https://img.shields.io/github/stars/bucketcat/CVE-2023-48084">
+- [MettHK/CVE-2023-48084-Revised](https://github.com/MettHK/CVE-2023-48084-Revised)	<img alt="forks" src="https://img.shields.io/github/forks/MettHK/CVE-2023-48084-Revised">	<img alt="stars" src="https://img.shields.io/github/stars/MettHK/CVE-2023-48084-Revised">
 
 ---
 ## CVE-2023-48034 (2023-11-27T21:15:00)
@@ -2543,6 +2545,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [Hirokiii/CVE-2023-44487](https://github.com/Hirokiii/CVE-2023-44487)	<img alt="forks" src="https://img.shields.io/github/forks/Hirokiii/CVE-2023-44487">	<img alt="stars" src="https://img.shields.io/github/stars/Hirokiii/CVE-2023-44487">
 - [madhantr0/http2-security-lab](https://github.com/madhantr0/http2-security-lab)	<img alt="forks" src="https://img.shields.io/github/forks/madhantr0/http2-security-lab">	<img alt="stars" src="https://img.shields.io/github/stars/madhantr0/http2-security-lab">
 - [tahaXafous/CVE-2023-44487-dos](https://github.com/tahaXafous/CVE-2023-44487-dos)	<img alt="forks" src="https://img.shields.io/github/forks/tahaXafous/CVE-2023-44487-dos">	<img alt="stars" src="https://img.shields.io/github/stars/tahaXafous/CVE-2023-44487-dos">
+- [CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit](https://github.com/CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit">
 
 ---
 ## CVE-2023-44353 (2023-11-17T14:15:00)
@@ -3258,6 +3261,11 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [alien-keric/CVE-2023-4197](https://github.com/alien-keric/CVE-2023-4197)	<img alt="forks" src="https://img.shields.io/github/forks/alien-keric/CVE-2023-4197">	<img alt="stars" src="https://img.shields.io/github/stars/alien-keric/CVE-2023-4197">
 
 ---
+## CVE-2023-41898 ()
+> 
+- [LazyBear8372/CVE-2023-41898_Lab](https://github.com/LazyBear8372/CVE-2023-41898_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/LazyBear8372/CVE-2023-41898_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/LazyBear8372/CVE-2023-41898_Lab">
+
+---
 ## CVE-2023-41892 (2023-09-13T20:15:00)
 > Craft CMS is a platform for creating digital experiences. This is a high-impact, low-complexity attack vector. Users running Craft installations before 4.4.15 are encouraged to update to at least that version to mitigate the issue. This issue has been fixed in Craft CMS 4.4.15.
 - [zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892)	<img alt="forks" src="https://img.shields.io/github/forks/zaenhaxor/CVE-2023-41892">	<img alt="stars" src="https://img.shields.io/github/stars/zaenhaxor/CVE-2023-41892">
@@ -3796,6 +3804,7 @@ In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker
 > 
 - [z1ph1us/MilkSad-Mnemonic-Generator](https://github.com/z1ph1us/MilkSad-Mnemonic-Generator)	<img alt="forks" src="https://img.shields.io/github/forks/z1ph1us/MilkSad-Mnemonic-Generator">	<img alt="stars" src="https://img.shields.io/github/stars/z1ph1us/MilkSad-Mnemonic-Generator">
 - [demining/RAMnesia-Attack](https://github.com/demining/RAMnesia-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/demining/RAMnesia-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/demining/RAMnesia-Attack">
+- [Xaxis/bitcoin-security](https://github.com/Xaxis/bitcoin-security)	<img alt="forks" src="https://img.shields.io/github/forks/Xaxis/bitcoin-security">	<img alt="stars" src="https://img.shields.io/github/stars/Xaxis/bitcoin-security">
 
 ---
 ## CVE-2023-39725 ()
@@ -4057,6 +4066,7 @@ This issue affects SureMDM On-premise: 6.31 and below version 
 - [lightningspeed221/Winrar-Exploit-CVE-2023-38831](https://github.com/lightningspeed221/Winrar-Exploit-CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/lightningspeed221/Winrar-Exploit-CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/lightningspeed221/Winrar-Exploit-CVE-2023-38831">
 - [olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis](https://github.com/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/olowostandard1/CVE-2023-38831-WinRAR-Vulnerability-Analysis">
 - [sh770/CVE-2023-38831](https://github.com/sh770/CVE-2023-38831)	<img alt="forks" src="https://img.shields.io/github/forks/sh770/CVE-2023-38831">	<img alt="stars" src="https://img.shields.io/github/stars/sh770/CVE-2023-38831">
+- [cristhiansm0/TXDXCristhian_2023-CVE-38831](https://github.com/cristhiansm0/TXDXCristhian_2023-CVE-38831)	<img alt="forks" src="https://img.shields.io/github/forks/cristhiansm0/TXDXCristhian_2023-CVE-38831">	<img alt="stars" src="https://img.shields.io/github/stars/cristhiansm0/TXDXCristhian_2023-CVE-38831">
 
 ---
 ## CVE-2023-38829 (2023-09-11T19:15:00)
@@ -4614,6 +4624,7 @@ This CVE will be updated with new information and links to security updates when
 - [Wh04m1001/CVE-2023-36874](https://github.com/Wh04m1001/CVE-2023-36874)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/CVE-2023-36874">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/CVE-2023-36874">
 - [crisprss/CVE-2023-36874](https://github.com/crisprss/CVE-2023-36874)	<img alt="forks" src="https://img.shields.io/github/forks/crisprss/CVE-2023-36874">	<img alt="stars" src="https://img.shields.io/github/stars/crisprss/CVE-2023-36874">
 - [Octoberfest7/CVE-2023-36874_BOF](https://github.com/Octoberfest7/CVE-2023-36874_BOF)	<img alt="forks" src="https://img.shields.io/github/forks/Octoberfest7/CVE-2023-36874_BOF">	<img alt="stars" src="https://img.shields.io/github/stars/Octoberfest7/CVE-2023-36874_BOF">
+- [johnnygreeme/CVE-2023-36874](https://github.com/johnnygreeme/CVE-2023-36874)	<img alt="forks" src="https://img.shields.io/github/forks/johnnygreeme/CVE-2023-36874">	<img alt="stars" src="https://img.shields.io/github/stars/johnnygreeme/CVE-2023-36874">
 
 ---
 ## CVE-2023-36846 (2023-08-17T20:15:00)
@@ -5777,6 +5788,11 @@ We recommend upgrading past commit 1240eb93f0616b21c675416516ff3d74798fdc97.
 - [wushigudan/CVE-2023-33517](https://github.com/wushigudan/CVE-2023-33517)	<img alt="forks" src="https://img.shields.io/github/forks/wushigudan/CVE-2023-33517">	<img alt="stars" src="https://img.shields.io/github/stars/wushigudan/CVE-2023-33517">
 
 ---
+## CVE-2023-3350 ()
+> 
+- [itres-labs/CVE-2023-3350](https://github.com/itres-labs/CVE-2023-3350)	<img alt="forks" src="https://img.shields.io/github/forks/itres-labs/CVE-2023-3350">	<img alt="stars" src="https://img.shields.io/github/stars/itres-labs/CVE-2023-3350">
+
+---
 ## CVE-2023-33480 (2023-11-07T15:15:00)
 > RemoteClinic 2.0 contains a critical vulnerability chain that can be exploited by a remote attacker with low-privileged user credentials to create admin users, escalate privileges, and execute arbitrary code on the target system via a PHP shell. The vulnerabilities are caused by a lack of input validation and access control in the staff/register.php endpoint and the edit-my-profile.php page. By sending a series of specially crafted requests to the RemoteClinic application, an attacker can create admin users with more privileges than their own, upload a PHP file containing arbitrary code, and execute arbitrary commands via the PHP shell.
 - [amirhosseinbahramizadeh/CVE-2023-33480](https://github.com/amirhosseinbahramizadeh/CVE-2023-33480)	<img alt="forks" src="https://img.shields.io/github/forks/amirhosseinbahramizadeh/CVE-2023-33480">	<img alt="stars" src="https://img.shields.io/github/stars/amirhosseinbahramizadeh/CVE-2023-33480">
@@ -6143,6 +6159,7 @@ Fixed in version 6.4.1.
 - [enlist12/CVE-2023-32233](https://github.com/enlist12/CVE-2023-32233)	<img alt="forks" src="https://img.shields.io/github/forks/enlist12/CVE-2023-32233">	<img alt="stars" src="https://img.shields.io/github/stars/enlist12/CVE-2023-32233">
 - [Destawell/gemini-2.5-pro-nf-tables-red-teaming](https://github.com/Destawell/gemini-2.5-pro-nf-tables-red-teaming)	<img alt="forks" src="https://img.shields.io/github/forks/Destawell/gemini-2.5-pro-nf-tables-red-teaming">	<img alt="stars" src="https://img.shields.io/github/stars/Destawell/gemini-2.5-pro-nf-tables-red-teaming">
 - [Destawell/gemini-2.5-pro-nf-tables-red-teamin](https://github.com/Destawell/gemini-2.5-pro-nf-tables-red-teamin)	<img alt="forks" src="https://img.shields.io/github/forks/Destawell/gemini-2.5-pro-nf-tables-red-teamin">	<img alt="stars" src="https://img.shields.io/github/stars/Destawell/gemini-2.5-pro-nf-tables-red-teamin">
+- [BurnSkyup/CVE-2023-32233-reproduction](https://github.com/BurnSkyup/CVE-2023-32233-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/BurnSkyup/CVE-2023-32233-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/BurnSkyup/CVE-2023-32233-reproduction">
 
 ---
 ## CVE-2023-32163 ()
@@ -6184,6 +6201,7 @@ Fixed in version 6.4.1.
 ## CVE-2023-31902 ()
 > 
 - [xl337x/CVE-2023-31902](https://github.com/xl337x/CVE-2023-31902)	<img alt="forks" src="https://img.shields.io/github/forks/xl337x/CVE-2023-31902">	<img alt="stars" src="https://img.shields.io/github/stars/xl337x/CVE-2023-31902">
+- [lypd0/mouseserver-exploit](https://github.com/lypd0/mouseserver-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/lypd0/mouseserver-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/lypd0/mouseserver-exploit">
 
 ---
 ## CVE-2023-31853 (2023-07-17T15:15:00)
@@ -6440,6 +6458,11 @@ Fixed in version 6.4.1.
 - [mbanyamer/CVE-2023-31059-Repetier-Server-1.4.10-Unauthenticated-Path-Traversal](https://github.com/mbanyamer/CVE-2023-31059-Repetier-Server-1.4.10-Unauthenticated-Path-Traversal)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/CVE-2023-31059-Repetier-Server-1.4.10-Unauthenticated-Path-Traversal">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/CVE-2023-31059-Repetier-Server-1.4.10-Unauthenticated-Path-Traversal">
 
 ---
+## CVE-2023-31014 ()
+> 
+- [LazyBear8372/CVE-2023-31014_Lab](https://github.com/LazyBear8372/CVE-2023-31014_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/LazyBear8372/CVE-2023-31014_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/LazyBear8372/CVE-2023-31014_Lab">
+
+---
 ## CVE-2023-30990 ()
 > 
 - [silentsignal/CVE-2023-30990](https://github.com/silentsignal/CVE-2023-30990)	<img alt="forks" src="https://img.shields.io/github/forks/silentsignal/CVE-2023-30990">	<img alt="stars" src="https://img.shields.io/github/stars/silentsignal/CVE-2023-30990">
@@ -6529,6 +6552,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [user0x1337/CVE-2023-30547](https://github.com/user0x1337/CVE-2023-30547)	<img alt="forks" src="https://img.shields.io/github/forks/user0x1337/CVE-2023-30547">	<img alt="stars" src="https://img.shields.io/github/stars/user0x1337/CVE-2023-30547">
 - [Cur1iosity/CVE-2023-30547](https://github.com/Cur1iosity/CVE-2023-30547)	<img alt="forks" src="https://img.shields.io/github/forks/Cur1iosity/CVE-2023-30547">	<img alt="stars" src="https://img.shields.io/github/stars/Cur1iosity/CVE-2023-30547">
 - [junnythemarksman/CVE-2023-30547](https://github.com/junnythemarksman/CVE-2023-30547)	<img alt="forks" src="https://img.shields.io/github/forks/junnythemarksman/CVE-2023-30547">	<img alt="stars" src="https://img.shields.io/github/stars/junnythemarksman/CVE-2023-30547">
+- [R3fr4kt/Codify-TJNULL-OSCP-](https://github.com/R3fr4kt/Codify-TJNULL-OSCP-)	<img alt="forks" src="https://img.shields.io/github/forks/R3fr4kt/Codify-TJNULL-OSCP-">	<img alt="stars" src="https://img.shields.io/github/stars/R3fr4kt/Codify-TJNULL-OSCP-">
 
 ---
 ## CVE-2023-30533 (2023-04-24T08:15:00)
@@ -6835,6 +6859,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 
 
 - [nastar-id/CVE-2023-29384](https://github.com/nastar-id/CVE-2023-29384)	<img alt="forks" src="https://img.shields.io/github/forks/nastar-id/CVE-2023-29384">	<img alt="stars" src="https://img.shields.io/github/stars/nastar-id/CVE-2023-29384">
+
+---
+## CVE-2023-29375 ()
+> 
+- [Zedocun/Sharepoint-cve-2023-29375-incident-response](https://github.com/Zedocun/Sharepoint-cve-2023-29375-incident-response)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/Sharepoint-cve-2023-29375-incident-response">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/Sharepoint-cve-2023-29375-incident-response">
 
 ---
 ## CVE-2023-29360 (2023-06-14T00:15:00)
@@ -7225,6 +7254,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [node011/CVE-2023-27997-POC](https://github.com/node011/CVE-2023-27997-POC)	<img alt="forks" src="https://img.shields.io/github/forks/node011/CVE-2023-27997-POC">	<img alt="stars" src="https://img.shields.io/github/stars/node011/CVE-2023-27997-POC">
 - [onurkerembozkurt/fgt-cve-2023-27997-exploit](https://github.com/onurkerembozkurt/fgt-cve-2023-27997-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/onurkerembozkurt/fgt-cve-2023-27997-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/onurkerembozkurt/fgt-cve-2023-27997-exploit">
 - [george1-adel/CVE-2023-27997](https://github.com/george1-adel/CVE-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/george1-adel/CVE-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/george1-adel/CVE-2023-27997">
+- [Vampsecure-Labs/vamp-forticheck](https://github.com/Vampsecure-Labs/vamp-forticheck)	<img alt="forks" src="https://img.shields.io/github/forks/Vampsecure-Labs/vamp-forticheck">	<img alt="stars" src="https://img.shields.io/github/stars/Vampsecure-Labs/vamp-forticheck">
 
 ---
 ## CVE-2023-27842 (2023-03-21T15:15:00)
@@ -8329,6 +8359,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 ## CVE-2023-24709 (2023-03-21T23:15:00)
 > An issue found in Paradox Security Systems IPR512 allows attackers to cause a denial of service via the login.html and login.xml parameters.
 - [DRAGOWN/CVE-2023-24709-PoC](https://github.com/DRAGOWN/CVE-2023-24709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/DRAGOWN/CVE-2023-24709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/DRAGOWN/CVE-2023-24709-PoC">
+- [darknesschieftain/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC](https://github.com/darknesschieftain/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/darknesschieftain/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/darknesschieftain/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC">
 
 ---
 ## CVE-2023-24706 ()
@@ -11824,6 +11855,7 @@ For more details, please review the linked advisory on this CVE.
 - [Feede33/Windows-11-Exploit](https://github.com/Feede33/Windows-11-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Feede33/Windows-11-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Feede33/Windows-11-Exploit">
 - [r4uzn/CVE-2023-21768](https://github.com/r4uzn/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/r4uzn/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/r4uzn/CVE-2023-21768">
 - [ivanovick1/Windows_AFD_LPE_CVE-2023-21768](https://github.com/ivanovick1/Windows_AFD_LPE_CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/ivanovick1/Windows_AFD_LPE_CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/ivanovick1/Windows_AFD_LPE_CVE-2023-21768">
+- [leandrofleury/CVE-2023-21768](https://github.com/leandrofleury/CVE-2023-21768)	<img alt="forks" src="https://img.shields.io/github/forks/leandrofleury/CVE-2023-21768">	<img alt="stars" src="https://img.shields.io/github/stars/leandrofleury/CVE-2023-21768">
 
 ---
 ## CVE-2023-21767 (2023-01-10T22:15:00)
@@ -12988,6 +13020,11 @@ kernel memory, lateral privilege escalation, and container escape.
 ## CVE-2023-20856 (2023-02-01T03:15:00)
 > VMware vRealize Operations (vROps) contains a CSRF bypass vulnerability. A malicious user could execute actions on the vROps platform on behalf of the authenticated victim user.
 - [Live-Hack-CVE/CVE-2023-20856](https://github.com/Live-Hack-CVE/CVE-2023-20856)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-20856">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-20856">
+
+---
+## CVE-2023-20768 ()
+> 
+- [murf-xd/cve-2023-20768](https://github.com/murf-xd/cve-2023-20768)	<img alt="forks" src="https://img.shields.io/github/forks/murf-xd/cve-2023-20768">	<img alt="stars" src="https://img.shields.io/github/stars/murf-xd/cve-2023-20768">
 
 ---
 ## CVE-2023-20696 ()
@@ -14642,6 +14679,7 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [pwncone/CVE-2023-0386-OverlayFS](https://github.com/pwncone/CVE-2023-0386-OverlayFS)	<img alt="forks" src="https://img.shields.io/github/forks/pwncone/CVE-2023-0386-OverlayFS">	<img alt="stars" src="https://img.shields.io/github/stars/pwncone/CVE-2023-0386-OverlayFS">
 - [anxs3c/TwoMillion-Machine](https://github.com/anxs3c/TwoMillion-Machine)	<img alt="forks" src="https://img.shields.io/github/forks/anxs3c/TwoMillion-Machine">	<img alt="stars" src="https://img.shields.io/github/stars/anxs3c/TwoMillion-Machine">
 - [Cosm3No1de/TwoMillion-HTB-Write-up](https://github.com/Cosm3No1de/TwoMillion-HTB-Write-up)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/TwoMillion-HTB-Write-up">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/TwoMillion-HTB-Write-up">
+- [abedallarawashdeh/HTB-TwoMillion-machine](https://github.com/abedallarawashdeh/HTB-TwoMillion-machine)	<img alt="forks" src="https://img.shields.io/github/forks/abedallarawashdeh/HTB-TwoMillion-machine">	<img alt="stars" src="https://img.shields.io/github/stars/abedallarawashdeh/HTB-TwoMillion-machine">
 
 ---
 ## CVE-2023-0385 (2023-01-18T15:15:00)
@@ -14898,6 +14936,7 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 ## CVE-2023-0264 (2023-08-04T18:15:00)
 > A flaw was found in Keycloaks OpenID Connect user authentication, which may incorrectly authenticate requests. An authenticated attacker who could obtain information from a user request within the same realm could use that data to impersonate the victim and generate new session tokens. This issue could impact confidentiality, integrity, and availability.
 - [twwd/CVE-2023-0264](https://github.com/twwd/CVE-2023-0264)	<img alt="forks" src="https://img.shields.io/github/forks/twwd/CVE-2023-0264">	<img alt="stars" src="https://img.shields.io/github/stars/twwd/CVE-2023-0264">
+- [ElianGonzi00/pocKeycloakCVE-2023-0264](https://github.com/ElianGonzi00/pocKeycloakCVE-2023-0264)	<img alt="forks" src="https://img.shields.io/github/forks/ElianGonzi00/pocKeycloakCVE-2023-0264">	<img alt="stars" src="https://img.shields.io/github/stars/ElianGonzi00/pocKeycloakCVE-2023-0264">
 
 ---
 ## CVE-2023-0263 (2023-02-13T15:15:00)

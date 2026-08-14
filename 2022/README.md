@@ -14453,6 +14453,7 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [ccordeiro/CVE-2022-40684](https://github.com/ccordeiro/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2022-40684">
 - [dkstar11q/CVE-2022-40684](https://github.com/dkstar11q/CVE-2022-40684)	<img alt="forks" src="https://img.shields.io/github/forks/dkstar11q/CVE-2022-40684">	<img alt="stars" src="https://img.shields.io/github/stars/dkstar11q/CVE-2022-40684">
 - [pintukumar-sutradhar/fortigate-cve-2022-40684-tool](https://github.com/pintukumar-sutradhar/fortigate-cve-2022-40684-tool)	<img alt="forks" src="https://img.shields.io/github/forks/pintukumar-sutradhar/fortigate-cve-2022-40684-tool">	<img alt="stars" src="https://img.shields.io/github/stars/pintukumar-sutradhar/fortigate-cve-2022-40684-tool">
+- [Vampsecure-Labs/vamp-forticheck](https://github.com/Vampsecure-Labs/vamp-forticheck)	<img alt="forks" src="https://img.shields.io/github/forks/Vampsecure-Labs/vamp-forticheck">	<img alt="stars" src="https://img.shields.io/github/stars/Vampsecure-Labs/vamp-forticheck">
 
 ---
 ## CVE-2022-40680 (2022-12-06T17:15:00)
@@ -18175,6 +18176,8 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [Gopartner/realme-c53-unlock-root](https://github.com/Gopartner/realme-c53-unlock-root)	<img alt="forks" src="https://img.shields.io/github/forks/Gopartner/realme-c53-unlock-root">	<img alt="stars" src="https://img.shields.io/github/stars/Gopartner/realme-c53-unlock-root">
 - [JoshAtticus/ztewaste](https://github.com/JoshAtticus/ztewaste)	<img alt="forks" src="https://img.shields.io/github/forks/JoshAtticus/ztewaste">	<img alt="stars" src="https://img.shields.io/github/stars/JoshAtticus/ztewaste">
 - [sloden1977-lang/ROOT-ZTE-X1001](https://github.com/sloden1977-lang/ROOT-ZTE-X1001)	<img alt="forks" src="https://img.shields.io/github/forks/sloden1977-lang/ROOT-ZTE-X1001">	<img alt="stars" src="https://img.shields.io/github/stars/sloden1977-lang/ROOT-ZTE-X1001">
+- [LeoChen-CoreMind/spd_flasher](https://github.com/LeoChen-CoreMind/spd_flasher)	<img alt="forks" src="https://img.shields.io/github/forks/LeoChen-CoreMind/spd_flasher">	<img alt="stars" src="https://img.shields.io/github/stars/LeoChen-CoreMind/spd_flasher">
+- [mutur4/UnisocBootROMs](https://github.com/mutur4/UnisocBootROMs)	<img alt="forks" src="https://img.shields.io/github/forks/mutur4/UnisocBootROMs">	<img alt="stars" src="https://img.shields.io/github/stars/mutur4/UnisocBootROMs">
 
 ---
 ## CVE-2022-38691 ()
@@ -18406,6 +18409,7 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 ## CVE-2022-38599 (2022-12-08T17:15:00)
 > Teleport v3.2.2, Teleport v3.5.6-rc6, and Teleport v3.6.3-b2 was discovered to contain an information leak via the /user/get-role-list web interface.
 - [Live-Hack-CVE/CVE-2022-38599](https://github.com/Live-Hack-CVE/CVE-2022-38599)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-38599">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-38599">
+- [arleyna/CVE-2022-38599](https://github.com/arleyna/CVE-2022-38599)	<img alt="forks" src="https://img.shields.io/github/forks/arleyna/CVE-2022-38599">	<img alt="stars" src="https://img.shields.io/github/stars/arleyna/CVE-2022-38599">
 
 ---
 ## CVE-2022-3859 (2022-11-30T09:15:00)
@@ -23823,6 +23827,7 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [noxlumens/CVE-2022-35914_poc](https://github.com/noxlumens/CVE-2022-35914_poc)	<img alt="forks" src="https://img.shields.io/github/forks/noxlumens/CVE-2022-35914_poc">	<img alt="stars" src="https://img.shields.io/github/stars/noxlumens/CVE-2022-35914_poc">
 - [btar1gan/exploit_CVE-2022-35914](https://github.com/btar1gan/exploit_CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/btar1gan/exploit_CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/btar1gan/exploit_CVE-2022-35914">
 - [YumeSecurity/CVE-2022-35914](https://github.com/YumeSecurity/CVE-2022-35914)	<img alt="forks" src="https://img.shields.io/github/forks/YumeSecurity/CVE-2022-35914">	<img alt="stars" src="https://img.shields.io/github/stars/YumeSecurity/CVE-2022-35914">
+- [cyb3rk0ala/CVE-2022-35914-RCE](https://github.com/cyb3rk0ala/CVE-2022-35914-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cyb3rk0ala/CVE-2022-35914-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cyb3rk0ala/CVE-2022-35914-RCE">
 
 ---
 ## CVE-2022-35913 (2022-09-06T23:15:00)
@@ -23839,9 +23844,10 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 > WordPress is affected by an unauthenticated blind SSRF in the pingback feature. Because of a TOCTOU race condition between the validation checks and the HTTP request, attackers can reach internal hosts that are explicitly forbidden.
 - [Live-Hack-CVE/CVE-2022-3590](https://github.com/Live-Hack-CVE/CVE-2022-3590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3590">
 - [Live-Hack-CVE/CVE-2022-3590](https://github.com/Live-Hack-CVE/CVE-2022-3590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3590">
-- [hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner](https://github.com/hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner">
+- [hxlxmj/CVE-2022-3590-WordPress-Vulnerability-Scanner](https://github.com/hxlxmj/CVE-2022-3590-WordPress-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/hxlxmj/CVE-2022-3590-WordPress-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/hxlxmj/CVE-2022-3590-WordPress-Vulnerability-Scanner">
 - [huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner](https://github.com/huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner">
 - [TJouleL/WordPress-6.9.1-Blind-SSRF](https://github.com/TJouleL/WordPress-6.9.1-Blind-SSRF)	<img alt="forks" src="https://img.shields.io/github/forks/TJouleL/WordPress-6.9.1-Blind-SSRF">	<img alt="stars" src="https://img.shields.io/github/stars/TJouleL/WordPress-6.9.1-Blind-SSRF">
+- [4chech/CVE-2022-3590](https://github.com/4chech/CVE-2022-3590)	<img alt="forks" src="https://img.shields.io/github/forks/4chech/CVE-2022-3590">	<img alt="stars" src="https://img.shields.io/github/stars/4chech/CVE-2022-3590">
 
 ---
 ## CVE-2022-35899 (2022-07-21T17:15:00)
@@ -29290,6 +29296,7 @@ the client's API server credentials to third parties.
 > In PHP versions 7.4.x below 7.4.30, 8.0.x below 8.0.20, and 8.1.x below 8.1.7, when pdo_mysql extension with mysqlnd driver, if the third party is allowed to supply host to connect to and the password for the connection, password of excessive length can trigger a buffer overflow in PHP, which can lead to a remote code execution vulnerability.
 - [amitlttwo/CVE-2022-31626](https://github.com/amitlttwo/CVE-2022-31626)	<img alt="forks" src="https://img.shields.io/github/forks/amitlttwo/CVE-2022-31626">	<img alt="stars" src="https://img.shields.io/github/stars/amitlttwo/CVE-2022-31626">
 - [Live-Hack-CVE/CVE-2022-31626](https://github.com/Live-Hack-CVE/CVE-2022-31626)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-31626">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-31626">
+- [HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977](https://github.com/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">
 
 ---
 ## CVE-2022-31625 (2022-06-16T06:15:00)
@@ -31027,6 +31034,11 @@ the client's API server credentials to third parties.
 - [Live-Hack-CVE/CVE-2022-3004](https://github.com/Live-Hack-CVE/CVE-2022-3004)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3004">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3004">
 - [Live-Hack-CVE/CVE-2022-30049](https://github.com/Live-Hack-CVE/CVE-2022-30049)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-30049">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-30049">
 - [Le1a/CVE-2022-30040](https://github.com/Le1a/CVE-2022-30040)	<img alt="forks" src="https://img.shields.io/github/forks/Le1a/CVE-2022-30040">	<img alt="stars" src="https://img.shields.io/github/stars/Le1a/CVE-2022-30040">
+
+---
+## CVE-2022-30024 ()
+> 
+- [ilizavr/CVE-2022-30024](https://github.com/ilizavr/CVE-2022-30024)	<img alt="forks" src="https://img.shields.io/github/forks/ilizavr/CVE-2022-30024">	<img alt="stars" src="https://img.shields.io/github/stars/ilizavr/CVE-2022-30024">
 
 ---
 ## CVE-2022-30023 (2022-06-16T15:15:00)
@@ -35118,6 +35130,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [deathflash1411/cve-2022-25012](https://github.com/deathflash1411/cve-2022-25012)	<img alt="forks" src="https://img.shields.io/github/forks/deathflash1411/cve-2022-25012">	<img alt="stars" src="https://img.shields.io/github/stars/deathflash1411/cve-2022-25012">
 - [G4sp4rCS/CVE-2022-25012-POC](https://github.com/G4sp4rCS/CVE-2022-25012-POC)	<img alt="forks" src="https://img.shields.io/github/forks/G4sp4rCS/CVE-2022-25012-POC">	<img alt="stars" src="https://img.shields.io/github/stars/G4sp4rCS/CVE-2022-25012-POC">
 - [XK3NF4/CVE-2022-25012](https://github.com/XK3NF4/CVE-2022-25012)	<img alt="forks" src="https://img.shields.io/github/forks/XK3NF4/CVE-2022-25012">	<img alt="stars" src="https://img.shields.io/github/stars/XK3NF4/CVE-2022-25012">
+- [m1kb0k/CVE-2022-25012-dvr4-weak-password-encryption](https://github.com/m1kb0k/CVE-2022-25012-dvr4-weak-password-encryption)	<img alt="forks" src="https://img.shields.io/github/forks/m1kb0k/CVE-2022-25012-dvr4-weak-password-encryption">	<img alt="stars" src="https://img.shields.io/github/stars/m1kb0k/CVE-2022-25012-dvr4-weak-password-encryption">
 
 ---
 ## CVE-2022-24999 (2022-11-26T22:15:00)
@@ -35208,6 +35221,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24913 (2023-01-12T05:15:00)
 > Versions of the package com.fasterxml.util:java-merge-sort before 1.1.0 are vulnerable to Insecure Temporary File in the StdTempFileProvider() function in StdTempFileProvider.java, which uses the permissive File.createTempFile() function, exposing temporary file contents.
 - [Live-Hack-CVE/CVE-2022-24913](https://github.com/Live-Hack-CVE/CVE-2022-24913)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24913">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24913">
+
+---
+## CVE-2022-24903 ()
+> 
+- [andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab](https://github.com/andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/andree554/CVE-2022-24903-Heap-based-buffer-overflow-Hand-On-Lab">
 
 ---
 ## CVE-2022-24897 ()
@@ -35681,6 +35699,11 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 ## CVE-2022-24375 (2022-08-24T05:15:00)
 > The package node-opcua before 2.74.0 are vulnerable to Denial of Service (DoS) when bypassing the limitations for excessive memory consumption by sending multiple CloseSession requests with the deleteSubscription parameter equal to False.
 - [Live-Hack-CVE/CVE-2022-24375](https://github.com/Live-Hack-CVE/CVE-2022-24375)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-24375">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-24375">
+
+---
+## CVE-2022-24355 ()
+> 
+- [ilizavr/CVE-2022-24355](https://github.com/ilizavr/CVE-2022-24355)	<img alt="forks" src="https://img.shields.io/github/forks/ilizavr/CVE-2022-24355">	<img alt="stars" src="https://img.shields.io/github/stars/ilizavr/CVE-2022-24355">
 
 ---
 ## CVE-2022-24348 (2022-02-04T21:15:00)
@@ -36957,6 +36980,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [anair-it/springshell-vuln-POC](https://github.com/anair-it/springshell-vuln-POC)	<img alt="forks" src="https://img.shields.io/github/forks/anair-it/springshell-vuln-POC">	<img alt="stars" src="https://img.shields.io/github/stars/anair-it/springshell-vuln-POC">
 - [RootEvil333/CVE-2022-22965](https://github.com/RootEvil333/CVE-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/RootEvil333/CVE-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/RootEvil333/CVE-2022-22965">
 - [meng-security/spring4shell-local-verification-lab](https://github.com/meng-security/spring4shell-local-verification-lab)	<img alt="forks" src="https://img.shields.io/github/forks/meng-security/spring4shell-local-verification-lab">	<img alt="stars" src="https://img.shields.io/github/stars/meng-security/spring4shell-local-verification-lab">
+- [PrinceH4k/Spring4Shell-POC](https://github.com/PrinceH4k/Spring4Shell-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PrinceH4k/Spring4Shell-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PrinceH4k/Spring4Shell-POC">
 
 ---
 ## CVE-2022-22963 (2022-04-01T23:15:00)
@@ -37424,6 +37448,11 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [Live-Hack-CVE/CVE-2022-22711](https://github.com/Live-Hack-CVE/CVE-2022-22711)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22711">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22711">
 - [Live-Hack-CVE/CVE-2022-22719](https://github.com/Live-Hack-CVE/CVE-2022-22719)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-22719">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-22719">
 - [ahmetfurkans/CVE-2022-22718](https://github.com/ahmetfurkans/CVE-2022-22718)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetfurkans/CVE-2022-22718">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetfurkans/CVE-2022-22718">
+
+---
+## CVE-2022-22706 ()
+> 
+- [byt3quester/CVE-2022-22706-poc](https://github.com/byt3quester/CVE-2022-22706-poc)	<img alt="forks" src="https://img.shields.io/github/forks/byt3quester/CVE-2022-22706-poc">	<img alt="stars" src="https://img.shields.io/github/stars/byt3quester/CVE-2022-22706-poc">
 
 ---
 ## CVE-2022-2268 (2022-07-04T13:15:00)
@@ -38105,6 +38134,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [cassie0206/CVE-2022-21907](https://github.com/cassie0206/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/cassie0206/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/cassie0206/CVE-2022-21907">
 - [asepsaepdin/CVE-2022-21907](https://github.com/asepsaepdin/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/asepsaepdin/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/asepsaepdin/CVE-2022-21907">
 - [kamal-marouane/CVE-2022-21907](https://github.com/kamal-marouane/CVE-2022-21907)	<img alt="forks" src="https://img.shields.io/github/forks/kamal-marouane/CVE-2022-21907">	<img alt="stars" src="https://img.shields.io/github/stars/kamal-marouane/CVE-2022-21907">
+- [siboy17/CVE-2022-21907-http.sys](https://github.com/siboy17/CVE-2022-21907-http.sys)	<img alt="forks" src="https://img.shields.io/github/forks/siboy17/CVE-2022-21907-http.sys">	<img alt="stars" src="https://img.shields.io/github/stars/siboy17/CVE-2022-21907-http.sys">
 
 ---
 ## CVE-2022-21906 (2022-01-11T21:15:00)

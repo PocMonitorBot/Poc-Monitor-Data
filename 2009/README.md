@@ -19,6 +19,11 @@
 - [MonsempesSamuel/CVE-2009-4623](https://github.com/MonsempesSamuel/CVE-2009-4623)	<img alt="forks" src="https://img.shields.io/github/forks/MonsempesSamuel/CVE-2009-4623">	<img alt="stars" src="https://img.shields.io/github/stars/MonsempesSamuel/CVE-2009-4623">
 
 ---
+## CVE-2009-4496 ()
+> 
+- [enriquenegri-cyberlaw/boa-cve-2009-4496-analysis](https://github.com/enriquenegri-cyberlaw/boa-cve-2009-4496-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/enriquenegri-cyberlaw/boa-cve-2009-4496-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/enriquenegri-cyberlaw/boa-cve-2009-4496-analysis">
+
+---
 ## CVE-2009-4137 ()
 > 
 - [Alexeyan/CVE-2009-4137](https://github.com/Alexeyan/CVE-2009-4137)	<img alt="forks" src="https://img.shields.io/github/forks/Alexeyan/CVE-2009-4137">	<img alt="stars" src="https://img.shields.io/github/stars/Alexeyan/CVE-2009-4137">

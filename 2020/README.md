@@ -445,6 +445,7 @@
 - [winmin/CVE-2020-8597](https://github.com/winmin/CVE-2020-8597)	<img alt="forks" src="https://img.shields.io/github/forks/winmin/CVE-2020-8597">	<img alt="stars" src="https://img.shields.io/github/stars/winmin/CVE-2020-8597">
 - [Dilan-Diaz/Point-to-Point-Protocol-Daemon-RCE-Vulnerability-CVE-2020-8597-](https://github.com/Dilan-Diaz/Point-to-Point-Protocol-Daemon-RCE-Vulnerability-CVE-2020-8597-)	<img alt="forks" src="https://img.shields.io/github/forks/Dilan-Diaz/Point-to-Point-Protocol-Daemon-RCE-Vulnerability-CVE-2020-8597-">	<img alt="stars" src="https://img.shields.io/github/stars/Dilan-Diaz/Point-to-Point-Protocol-Daemon-RCE-Vulnerability-CVE-2020-8597-">
 - [lakwsh/CVE-2020-8597](https://github.com/lakwsh/CVE-2020-8597)	<img alt="forks" src="https://img.shields.io/github/forks/lakwsh/CVE-2020-8597">	<img alt="stars" src="https://img.shields.io/github/stars/lakwsh/CVE-2020-8597">
+- [anna-kravets/codeql-buffer-overflow-variant](https://github.com/anna-kravets/codeql-buffer-overflow-variant)	<img alt="forks" src="https://img.shields.io/github/forks/anna-kravets/codeql-buffer-overflow-variant">	<img alt="stars" src="https://img.shields.io/github/stars/anna-kravets/codeql-buffer-overflow-variant">
 
 ---
 ## CVE-2020-8570 (2021-01-21T17:15:00)
@@ -751,6 +752,7 @@
 - [Alaa-abdulridha/POC-CVE-2020-7961-Token-iterate](https://github.com/Alaa-abdulridha/POC-CVE-2020-7961-Token-iterate)	<img alt="forks" src="https://img.shields.io/github/forks/Alaa-abdulridha/POC-CVE-2020-7961-Token-iterate">	<img alt="stars" src="https://img.shields.io/github/stars/Alaa-abdulridha/POC-CVE-2020-7961-Token-iterate">
 - [Alaa-abdulridha/GLiferay-CVE-2020-7961-golang](https://github.com/Alaa-abdulridha/GLiferay-CVE-2020-7961-golang)	<img alt="forks" src="https://img.shields.io/github/forks/Alaa-abdulridha/GLiferay-CVE-2020-7961-golang">	<img alt="stars" src="https://img.shields.io/github/stars/Alaa-abdulridha/GLiferay-CVE-2020-7961-golang">
 - [d4ngkh04w/CVE-2020-7961](https://github.com/d4ngkh04w/CVE-2020-7961)	<img alt="forks" src="https://img.shields.io/github/forks/d4ngkh04w/CVE-2020-7961">	<img alt="stars" src="https://img.shields.io/github/stars/d4ngkh04w/CVE-2020-7961">
+- [dinosn/liferay-ga4-rce-research](https://github.com/dinosn/liferay-ga4-rce-research)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/liferay-ga4-rce-research">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/liferay-ga4-rce-research">
 
 ---
 ## CVE-2020-7934 ()
@@ -772,6 +774,11 @@
 ## CVE-2020-7897 ()
 > 
 - [mooneee/cve-2020-7897](https://github.com/mooneee/cve-2020-7897)	<img alt="forks" src="https://img.shields.io/github/forks/mooneee/cve-2020-7897">	<img alt="stars" src="https://img.shields.io/github/stars/mooneee/cve-2020-7897">
+
+---
+## CVE-2020-7882 ()
+> 
+- [HORKimhab/CVE-2020-7882](https://github.com/HORKimhab/CVE-2020-7882)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2020-7882">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2020-7882">
 
 ---
 ## CVE-2020-7862 (2021-06-24T11:15:00)
@@ -1890,6 +1897,7 @@
 - [guardicore/vmware_vcenter_cve_2020_3952](https://github.com/guardicore/vmware_vcenter_cve_2020_3952)	<img alt="forks" src="https://img.shields.io/github/forks/guardicore/vmware_vcenter_cve_2020_3952">	<img alt="stars" src="https://img.shields.io/github/stars/guardicore/vmware_vcenter_cve_2020_3952">
 - [gelim/CVE-2020-3952](https://github.com/gelim/CVE-2020-3952)	<img alt="forks" src="https://img.shields.io/github/forks/gelim/CVE-2020-3952">	<img alt="stars" src="https://img.shields.io/github/stars/gelim/CVE-2020-3952">
 - [Fa1c0n35/vmware_vcenter_cve_2020_3952](https://github.com/Fa1c0n35/vmware_vcenter_cve_2020_3952)	<img alt="forks" src="https://img.shields.io/github/forks/Fa1c0n35/vmware_vcenter_cve_2020_3952">	<img alt="stars" src="https://img.shields.io/github/stars/Fa1c0n35/vmware_vcenter_cve_2020_3952">
+- [virtualcvcell/Exploit](https://github.com/virtualcvcell/Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/virtualcvcell/Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/virtualcvcell/Exploit">
 
 ---
 ## CVE-2020-3766 ()
@@ -4322,6 +4330,11 @@
 - [Live-Hack-CVE/CVE-2020-25359](https://github.com/Live-Hack-CVE/CVE-2020-25359)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-25359">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-25359">
 
 ---
+## CVE-2020-25279 ()
+> 
+- [Gimminse/Firmware-analysis](https://github.com/Gimminse/Firmware-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Gimminse/Firmware-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Gimminse/Firmware-analysis">
+
+---
 ## CVE-2020-25273 ()
 > 
 - [Ko-kn3t/CVE-2020-25273](https://github.com/Ko-kn3t/CVE-2020-25273)	<img alt="forks" src="https://img.shields.io/github/forks/Ko-kn3t/CVE-2020-25273">	<img alt="stars" src="https://img.shields.io/github/stars/Ko-kn3t/CVE-2020-25273">
@@ -4710,16 +4723,19 @@
 ## CVE-2020-24030 ()
 > 
 - [underprotection/CVE-2020-24030](https://github.com/underprotection/CVE-2020-24030)	<img alt="forks" src="https://img.shields.io/github/forks/underprotection/CVE-2020-24030">	<img alt="stars" src="https://img.shields.io/github/stars/underprotection/CVE-2020-24030">
+- [RedTeamBrasil/CVE-2020-24030](https://github.com/RedTeamBrasil/CVE-2020-24030)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamBrasil/CVE-2020-24030">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamBrasil/CVE-2020-24030">
 
 ---
 ## CVE-2020-24029 ()
 > 
 - [underprotection/CVE-2020-24029](https://github.com/underprotection/CVE-2020-24029)	<img alt="forks" src="https://img.shields.io/github/forks/underprotection/CVE-2020-24029">	<img alt="stars" src="https://img.shields.io/github/stars/underprotection/CVE-2020-24029">
+- [RedTeamBrasil/CVE-2020-24029](https://github.com/RedTeamBrasil/CVE-2020-24029)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamBrasil/CVE-2020-24029">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamBrasil/CVE-2020-24029">
 
 ---
 ## CVE-2020-24028 ()
 > 
 - [underprotection/CVE-2020-24028](https://github.com/underprotection/CVE-2020-24028)	<img alt="forks" src="https://img.shields.io/github/forks/underprotection/CVE-2020-24028">	<img alt="stars" src="https://img.shields.io/github/stars/underprotection/CVE-2020-24028">
+- [RedTeamBrasil/CVE-2020-24028](https://github.com/RedTeamBrasil/CVE-2020-24028)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamBrasil/CVE-2020-24028">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamBrasil/CVE-2020-24028">
 
 ---
 ## CVE-2020-23968 (2020-11-10T20:15:00)
@@ -4821,6 +4837,11 @@
 ## CVE-2020-23466 (2022-08-19T02:15:00)
 > Cross Site Scripting (XSS) vulnerability exists in the phpgurukul Online Marriage Registration System 1.0 allows attackers to run arbitrary code via the wzipcode field.
 - [Live-Hack-CVE/CVE-2020-23466](https://github.com/Live-Hack-CVE/CVE-2020-23466)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23466">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23466">
+
+---
+## CVE-2020-23349 ()
+> 
+- [LazyBear8372/CVE-2020-23349_Lab](https://github.com/LazyBear8372/CVE-2020-23349_Lab)	<img alt="forks" src="https://img.shields.io/github/forks/LazyBear8372/CVE-2020-23349_Lab">	<img alt="stars" src="https://img.shields.io/github/stars/LazyBear8372/CVE-2020-23349_Lab">
 
 ---
 ## CVE-2020-23342 ()

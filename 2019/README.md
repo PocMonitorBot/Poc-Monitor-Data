@@ -873,6 +873,11 @@
 - [Live-Hack-CVE/CVE-2019-7003](https://github.com/Live-Hack-CVE/CVE-2019-7003)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-7003">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-7003">
 
 ---
+## CVE-2019-6977 ()
+> 
+- [HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977](https://github.com/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">
+
+---
 ## CVE-2019-6957 (2019-05-29T19:29:00)
 > A recently discovered security vulnerability affects all Bosch Video Management System (BVMS) versions 9.0 and below, DIVAR IP 2000, 3000, 5000 and 7000, Video Recording Manager (VRM), Video Streaming Gateway (VSG), Configuration Manager, Building Integration System (BIS) with Video Engine, Access Professional Edition (APE), Access Easy Controller (AEC), Bosch Video Client (BVC) and Video SDK (VSDK). The vulnerability potentially allows the unauthorized execution of code in the system via the network interface.
 - [Live-Hack-CVE/CVE-2019-6957](https://github.com/Live-Hack-CVE/CVE-2019-6957)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-6957">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-6957">
@@ -3337,6 +3342,7 @@ use after free.
 ## CVE-2019-19550 ()
 > 
 - [underprotection/CVE-2019-19550](https://github.com/underprotection/CVE-2019-19550)	<img alt="forks" src="https://img.shields.io/github/forks/underprotection/CVE-2019-19550">	<img alt="stars" src="https://img.shields.io/github/stars/underprotection/CVE-2019-19550">
+- [RedTeamBrasil/CVE-2019-19550](https://github.com/RedTeamBrasil/CVE-2019-19550)	<img alt="forks" src="https://img.shields.io/github/forks/RedTeamBrasil/CVE-2019-19550">	<img alt="stars" src="https://img.shields.io/github/stars/RedTeamBrasil/CVE-2019-19550">
 
 ---
 ## CVE-2019-19547 (2020-01-13T16:15:00)
@@ -3928,6 +3934,11 @@ use after free.
 > A Cascading Style Sheets (CSS) injection vulnerability in Swagger UI before 3.23.11 allows attackers to use the Relative Path Overwrite (RPO) technique to perform CSS-based input field value exfiltration, such as exfiltration of a CSRF token value. In other words, this product intentionally allows the embedding of untrusted JSON data from remote servers, but it was not previously known that <style>@import within the JSON data was a functional attack method.
 - [Yh4r3DvR0/CVE-2019-17495](https://github.com/Yh4r3DvR0/CVE-2019-17495)	<img alt="forks" src="https://img.shields.io/github/forks/Yh4r3DvR0/CVE-2019-17495">	<img alt="stars" src="https://img.shields.io/github/stars/Yh4r3DvR0/CVE-2019-17495">
 - [SecT0uch/CVE-2019-17495-test](https://github.com/SecT0uch/CVE-2019-17495-test)	<img alt="forks" src="https://img.shields.io/github/forks/SecT0uch/CVE-2019-17495-test">	<img alt="stars" src="https://img.shields.io/github/stars/SecT0uch/CVE-2019-17495-test">
+
+---
+## CVE-2019-1749 ()
+> 
+- [delbertgiovanni/test-xss-swagger-CVE-2019-1749](https://github.com/delbertgiovanni/test-xss-swagger-CVE-2019-1749)	<img alt="forks" src="https://img.shields.io/github/forks/delbertgiovanni/test-xss-swagger-CVE-2019-1749">	<img alt="stars" src="https://img.shields.io/github/stars/delbertgiovanni/test-xss-swagger-CVE-2019-1749">
 
 ---
 ## CVE-2019-17427 ()
@@ -4977,6 +4988,7 @@ use after free.
 - [lemonadern/poc-cve-2019-14287](https://github.com/lemonadern/poc-cve-2019-14287)	<img alt="forks" src="https://img.shields.io/github/forks/lemonadern/poc-cve-2019-14287">	<img alt="stars" src="https://img.shields.io/github/stars/lemonadern/poc-cve-2019-14287">
 - [HivinManjuSri/ubuntu-cve-2019-14287-patch-manager](https://github.com/HivinManjuSri/ubuntu-cve-2019-14287-patch-manager)	<img alt="forks" src="https://img.shields.io/github/forks/HivinManjuSri/ubuntu-cve-2019-14287-patch-manager">	<img alt="stars" src="https://img.shields.io/github/stars/HivinManjuSri/ubuntu-cve-2019-14287-patch-manager">
 - [hackingyseguridad/root](https://github.com/hackingyseguridad/root)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/root">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/root">
+- [NyxRecon/Sudo-Agent-CTF-](https://github.com/NyxRecon/Sudo-Agent-CTF-)	<img alt="forks" src="https://img.shields.io/github/forks/NyxRecon/Sudo-Agent-CTF-">	<img alt="stars" src="https://img.shields.io/github/stars/NyxRecon/Sudo-Agent-CTF-">
 
 ---
 ## CVE-2019-14271 (2019-07-29T18:15:00)
@@ -6571,6 +6583,11 @@ use after free.
 > 
 - [shoucheng3/apache__jspwiki_CVE-2019-10076_2-11-0-M3](https://github.com/shoucheng3/apache__jspwiki_CVE-2019-10076_2-11-0-M3)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__jspwiki_CVE-2019-10076_2-11-0-M3">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__jspwiki_CVE-2019-10076_2-11-0-M3">
 - [shoucheng3/apache__jspwiki_CVE-2019-10076_2_11_0_M4_fixed](https://github.com/shoucheng3/apache__jspwiki_CVE-2019-10076_2_11_0_M4_fixed)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__jspwiki_CVE-2019-10076_2_11_0_M4_fixed">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__jspwiki_CVE-2019-10076_2_11_0_M4_fixed">
+
+---
+## CVE-2019-10070 ()
+> 
+- [PerfectPoH/cve-2019-10070-apache-atlas-xss](https://github.com/PerfectPoH/cve-2019-10070-apache-atlas-xss)	<img alt="forks" src="https://img.shields.io/github/forks/PerfectPoH/cve-2019-10070-apache-atlas-xss">	<img alt="stars" src="https://img.shields.io/github/stars/PerfectPoH/cve-2019-10070-apache-atlas-xss">
 
 ---
 ## CVE-2019-10068 ()

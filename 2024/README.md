@@ -685,6 +685,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [nothe1senberg/CVE-2024-7385](https://github.com/nothe1senberg/CVE-2024-7385)	<img alt="forks" src="https://img.shields.io/github/forks/nothe1senberg/CVE-2024-7385">	<img alt="stars" src="https://img.shields.io/github/stars/nothe1senberg/CVE-2024-7385">
 
 ---
+## CVE-2024-7344 ()
+> 
+- [TheMalwareGuardian/CVE-2024-7344](https://github.com/TheMalwareGuardian/CVE-2024-7344)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2024-7344">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2024-7344">
+
+---
 ## CVE-2024-7339 (2024-08-01T04:15:00)
 > A vulnerability has been found in TVT DVR TD-2104TS-CL, DVR TD-2108TS-HP, Provision-ISR DVR SH-4050A5-5L(MM) and AVISION DVR AV108T and classified as problematic. This vulnerability affects unknown code of the file /queryDevInfo. The manipulation leads to information disclosure. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-273262 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 - [RevoltSecurities/CVE-2024-7339](https://github.com/RevoltSecurities/CVE-2024-7339)	<img alt="forks" src="https://img.shields.io/github/forks/RevoltSecurities/CVE-2024-7339">	<img alt="stars" src="https://img.shields.io/github/stars/RevoltSecurities/CVE-2024-7339">
@@ -1017,6 +1022,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [vuducmanhno100-cloud/CVE-2024-6387](https://github.com/vuducmanhno100-cloud/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/vuducmanhno100-cloud/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/vuducmanhno100-cloud/CVE-2024-6387">
 - [m0n3ef/regreSSHion-Checker](https://github.com/m0n3ef/regreSSHion-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/m0n3ef/regreSSHion-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/m0n3ef/regreSSHion-Checker">
 - [al7araziruby-jpg/CVE-2024-6387-OpenSSH-Analysis](https://github.com/al7araziruby-jpg/CVE-2024-6387-OpenSSH-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/al7araziruby-jpg/CVE-2024-6387-OpenSSH-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/al7araziruby-jpg/CVE-2024-6387-OpenSSH-Analysis">
+- [hasan8babiker/CVE-2024-6387](https://github.com/hasan8babiker/CVE-2024-6387)	<img alt="forks" src="https://img.shields.io/github/forks/hasan8babiker/CVE-2024-6387">	<img alt="stars" src="https://img.shields.io/github/stars/hasan8babiker/CVE-2024-6387">
 
 ---
 ## CVE-2024-6386 (2024-08-21T21:15:00)
@@ -2064,6 +2070,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-5290 ()
 > 
 - [zrax-x/CVE-2024-5290-exp](https://github.com/zrax-x/CVE-2024-5290-exp)	<img alt="forks" src="https://img.shields.io/github/forks/zrax-x/CVE-2024-5290-exp">	<img alt="stars" src="https://img.shields.io/github/stars/zrax-x/CVE-2024-5290-exp">
+
+---
+## CVE-2024-52806 ()
+> 
+- [heartlesseorg-dot/CVE-2024-52806-PoC](https://github.com/heartlesseorg-dot/CVE-2024-52806-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/heartlesseorg-dot/CVE-2024-52806-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/heartlesseorg-dot/CVE-2024-52806-PoC">
 
 ---
 ## CVE-2024-52800 ()
@@ -3641,6 +3652,8 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [Kanak-CypherX/cve-2024-4577-lab](https://github.com/Kanak-CypherX/cve-2024-4577-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Kanak-CypherX/cve-2024-4577-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Kanak-CypherX/cve-2024-4577-lab">
 - [BLACK-ARCHIVERS/CVE-2024-4577](https://github.com/BLACK-ARCHIVERS/CVE-2024-4577)	<img alt="forks" src="https://img.shields.io/github/forks/BLACK-ARCHIVERS/CVE-2024-4577">	<img alt="stars" src="https://img.shields.io/github/stars/BLACK-ARCHIVERS/CVE-2024-4577">
 - [razureink/cve-2024-4577-phpcgi_rce_reproduction](https://github.com/razureink/cve-2024-4577-phpcgi_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-4577-phpcgi_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-4577-phpcgi_rce_reproduction">
+- [NKTriS/HTSOC](https://github.com/NKTriS/HTSOC)	<img alt="forks" src="https://img.shields.io/github/forks/NKTriS/HTSOC">	<img alt="stars" src="https://img.shields.io/github/stars/NKTriS/HTSOC">
+- [DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio](https://github.com/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio)	<img alt="forks" src="https://img.shields.io/github/forks/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio">	<img alt="stars" src="https://img.shields.io/github/stars/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio">
 
 ---
 ## CVE-2024-4573 ()
@@ -4179,7 +4192,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [kabiri-labs/CVE-2024-4367-PoC](https://github.com/kabiri-labs/CVE-2024-4367-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/kabiri-labs/CVE-2024-4367-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/kabiri-labs/CVE-2024-4367-PoC">
 - [elamani-drawing/CVE-2024-4367-POC-PDFJS](https://github.com/elamani-drawing/CVE-2024-4367-POC-PDFJS)	<img alt="forks" src="https://img.shields.io/github/forks/elamani-drawing/CVE-2024-4367-POC-PDFJS">	<img alt="stars" src="https://img.shields.io/github/stars/elamani-drawing/CVE-2024-4367-POC-PDFJS">
 - [VVeakee/CVE-2024-4367](https://github.com/VVeakee/CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/VVeakee/CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/VVeakee/CVE-2024-4367">
-- [pS3ud0RAnD0m/cve-2024-4367-poc](https://github.com/pS3ud0RAnD0m/cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/pS3ud0RAnD0m/cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/pS3ud0RAnD0m/cve-2024-4367-poc">
+- [AnomalousVectors/cve-2024-4367-poc](https://github.com/AnomalousVectors/cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/AnomalousVectors/cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/AnomalousVectors/cve-2024-4367-poc">
 - [Bhavyakcwestern/Hacking-pdf.js-vulnerability](https://github.com/Bhavyakcwestern/Hacking-pdf.js-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Bhavyakcwestern/Hacking-pdf.js-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Bhavyakcwestern/Hacking-pdf.js-vulnerability">
 - [PenguinCabinet/CVE-2024-4367-hands-on](https://github.com/PenguinCabinet/CVE-2024-4367-hands-on)	<img alt="forks" src="https://img.shields.io/github/forks/PenguinCabinet/CVE-2024-4367-hands-on">	<img alt="stars" src="https://img.shields.io/github/stars/PenguinCabinet/CVE-2024-4367-hands-on">
 - [BektiHandoyo/cve-pdf-host](https://github.com/BektiHandoyo/cve-pdf-host)	<img alt="forks" src="https://img.shields.io/github/forks/BektiHandoyo/cve-pdf-host">	<img alt="stars" src="https://img.shields.io/github/stars/BektiHandoyo/cve-pdf-host">
@@ -4196,6 +4209,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [Nishab-Khatiwada/cve_2024_4367_poc.pdf](https://github.com/Nishab-Khatiwada/cve_2024_4367_poc.pdf)	<img alt="forks" src="https://img.shields.io/github/forks/Nishab-Khatiwada/cve_2024_4367_poc.pdf">	<img alt="stars" src="https://img.shields.io/github/stars/Nishab-Khatiwada/cve_2024_4367_poc.pdf">
 - [yuimamur/CVE-2024-4367-hands-on-01](https://github.com/yuimamur/CVE-2024-4367-hands-on-01)	<img alt="forks" src="https://img.shields.io/github/forks/yuimamur/CVE-2024-4367-hands-on-01">	<img alt="stars" src="https://img.shields.io/github/stars/yuimamur/CVE-2024-4367-hands-on-01">
 - [yuimamur/CVE-2024-4367-hands-on](https://github.com/yuimamur/CVE-2024-4367-hands-on)	<img alt="forks" src="https://img.shields.io/github/forks/yuimamur/CVE-2024-4367-hands-on">	<img alt="stars" src="https://img.shields.io/github/stars/yuimamur/CVE-2024-4367-hands-on">
+- [DharmarajPS/pdfjs-cve-2024-4367-poc](https://github.com/DharmarajPS/pdfjs-cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DharmarajPS/pdfjs-cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DharmarajPS/pdfjs-cve-2024-4367-poc">
 
 ---
 ## CVE-2024-43639 ()
@@ -4746,6 +4760,11 @@ Affected users are recommended to disable the SAML authentication plugin by sett
 - [xen0bit/fwbt](https://github.com/xen0bit/fwbt)	<img alt="forks" src="https://img.shields.io/github/forks/xen0bit/fwbt">	<img alt="stars" src="https://img.shields.io/github/stars/xen0bit/fwbt">
 
 ---
+## CVE-2024-40891 ()
+> 
+- [Danyw24/zyxel-p870hn-hardware-hacking](https://github.com/Danyw24/zyxel-p870hn-hardware-hacking)	<img alt="forks" src="https://img.shields.io/github/forks/Danyw24/zyxel-p870hn-hardware-hacking">	<img alt="stars" src="https://img.shields.io/github/stars/Danyw24/zyxel-p870hn-hardware-hacking">
+
+---
 ## CVE-2024-40842 ()
 > 
 - [dunihiz/Ph-n-t-ch-CVE-2024-40842-XProtectRemediatorDubRobber-Information-Leak-tr-n-macOS](https://github.com/dunihiz/Ph-n-t-ch-CVE-2024-40842-XProtectRemediatorDubRobber-Information-Leak-tr-n-macOS)	<img alt="forks" src="https://img.shields.io/github/forks/dunihiz/Ph-n-t-ch-CVE-2024-40842-XProtectRemediatorDubRobber-Information-Leak-tr-n-macOS">	<img alt="stars" src="https://img.shields.io/github/stars/dunihiz/Ph-n-t-ch-CVE-2024-40842-XProtectRemediatorDubRobber-Information-Leak-tr-n-macOS">
@@ -4907,6 +4926,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 - [alpernae/CVE-2024-40422](https://github.com/alpernae/CVE-2024-40422)	<img alt="forks" src="https://img.shields.io/github/forks/alpernae/CVE-2024-40422">	<img alt="stars" src="https://img.shields.io/github/stars/alpernae/CVE-2024-40422">
 - [codeb0ss/CVE-2024-40422-PoC](https://github.com/codeb0ss/CVE-2024-40422-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-40422-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-40422-PoC">
 - [j3r1ch0123/CVE-2024-40422](https://github.com/j3r1ch0123/CVE-2024-40422)	<img alt="forks" src="https://img.shields.io/github/forks/j3r1ch0123/CVE-2024-40422">	<img alt="stars" src="https://img.shields.io/github/stars/j3r1ch0123/CVE-2024-40422">
+- [alpernae/CVE-2024-40422](https://github.com/alpernae/CVE-2024-40422)	<img alt="forks" src="https://img.shields.io/github/forks/alpernae/CVE-2024-40422">	<img alt="stars" src="https://img.shields.io/github/stars/alpernae/CVE-2024-40422">
 
 ---
 ## CVE-2024-4041 ()
@@ -5883,6 +5903,7 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 
 - [ggfzx/CVE-2024-36104](https://github.com/ggfzx/CVE-2024-36104)	<img alt="forks" src="https://img.shields.io/github/forks/ggfzx/CVE-2024-36104">	<img alt="stars" src="https://img.shields.io/github/stars/ggfzx/CVE-2024-36104">
 - [Mr-xn/CVE-2024-32113](https://github.com/Mr-xn/CVE-2024-32113)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-xn/CVE-2024-32113">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-xn/CVE-2024-32113">
+- [Groppoxx/CVE-2024-36104-PoC](https://github.com/Groppoxx/CVE-2024-36104-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Groppoxx/CVE-2024-36104-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Groppoxx/CVE-2024-36104-PoC">
 
 ---
 ## CVE-2024-36079 (2024-05-24T22:15:00)
@@ -7399,6 +7420,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [Bryn018/Semantic-Backdoor-Detector](https://github.com/Bryn018/Semantic-Backdoor-Detector)	<img alt="forks" src="https://img.shields.io/github/forks/Bryn018/Semantic-Backdoor-Detector">	<img alt="stars" src="https://img.shields.io/github/stars/Bryn018/Semantic-Backdoor-Detector">
 - [x-cmd-build/xz](https://github.com/x-cmd-build/xz)	<img alt="forks" src="https://img.shields.io/github/forks/x-cmd-build/xz">	<img alt="stars" src="https://img.shields.io/github/stars/x-cmd-build/xz">
 - [Preacher98/Report-XZ-Utils-CVE-2024-3094](https://github.com/Preacher98/Report-XZ-Utils-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Preacher98/Report-XZ-Utils-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Preacher98/Report-XZ-Utils-CVE-2024-3094">
+- [namegabevictoire01-sys/cs50-cybersecurity-final-project](https://github.com/namegabevictoire01-sys/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/namegabevictoire01-sys/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/namegabevictoire01-sys/cs50-cybersecurity-final-project">
 
 ---
 ## CVE-2024-30937 ()
@@ -7787,6 +7809,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit](https://github.com/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit">
 - [oioio-space/maldev](https://github.com/oioio-space/maldev)	<img alt="forks" src="https://img.shields.io/github/forks/oioio-space/maldev">	<img alt="stars" src="https://img.shields.io/github/stars/oioio-space/maldev">
 - [FangFang-Yi/CVE-2024-30088](https://github.com/FangFang-Yi/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/FangFang-Yi/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/FangFang-Yi/CVE-2024-30088">
+- [th3g3ntl3m4n84/CVE-2024-30088__Windows-TOCTOU-exploit](https://github.com/th3g3ntl3m4n84/CVE-2024-30088__Windows-TOCTOU-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/th3g3ntl3m4n84/CVE-2024-30088__Windows-TOCTOU-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/th3g3ntl3m4n84/CVE-2024-30088__Windows-TOCTOU-exploit">
 
 ---
 ## CVE-2024-30085 ()
@@ -7886,6 +7909,7 @@ The command injection vulnerability in the CGI program "remote_help-cgi" in Zyxe
 > An attacker was able to perform an out-of-bounds read or write on a JavaScript object by fooling range-based bounds check elimination. This vulnerability affects Firefox < 124.0.1.
 - [bjrjk/CVE-2024-29943](https://github.com/bjrjk/CVE-2024-29943)	<img alt="forks" src="https://img.shields.io/github/forks/bjrjk/CVE-2024-29943">	<img alt="stars" src="https://img.shields.io/github/stars/bjrjk/CVE-2024-29943">
 - [seadragnol/CVE-2024-29943](https://github.com/seadragnol/CVE-2024-29943)	<img alt="forks" src="https://img.shields.io/github/forks/seadragnol/CVE-2024-29943">	<img alt="stars" src="https://img.shields.io/github/stars/seadragnol/CVE-2024-29943">
+- [SneakyNachos/CVE-2024-29943-but-with-wasm](https://github.com/SneakyNachos/CVE-2024-29943-but-with-wasm)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2024-29943-but-with-wasm">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2024-29943-but-with-wasm">
 
 ---
 ## CVE-2024-29895 (2024-05-14T15:17:00)
@@ -7960,6 +7984,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [rcribelar-nucleus/demo-php-cve-2024-2961](https://github.com/rcribelar-nucleus/demo-php-cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/rcribelar-nucleus/demo-php-cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/rcribelar-nucleus/demo-php-cve-2024-2961">
 - [Clarissss/osTicketFileReadIntoRCE](https://github.com/Clarissss/osTicketFileReadIntoRCE)	<img alt="forks" src="https://img.shields.io/github/forks/Clarissss/osTicketFileReadIntoRCE">	<img alt="stars" src="https://img.shields.io/github/stars/Clarissss/osTicketFileReadIntoRCE">
 - [whyuhurtz/wongpress](https://github.com/whyuhurtz/wongpress)	<img alt="forks" src="https://img.shields.io/github/forks/whyuhurtz/wongpress">	<img alt="stars" src="https://img.shields.io/github/stars/whyuhurtz/wongpress">
+- [HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977](https://github.com/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">
 
 ---
 ## CVE-2024-29510 (2024-07-03T19:15:00)
@@ -8203,6 +8228,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [hatvix1/CVE-2024-28987](https://github.com/hatvix1/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/hatvix1/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/hatvix1/CVE-2024-28987">
 - [expl0itsecurity/CVE-2024-28987](https://github.com/expl0itsecurity/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/expl0itsecurity/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/expl0itsecurity/CVE-2024-28987">
 - [alecclyde/CVE-2024-28987](https://github.com/alecclyde/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/alecclyde/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/alecclyde/CVE-2024-28987">
+- [Darabium/CVE-2024-28987](https://github.com/Darabium/CVE-2024-28987)	<img alt="forks" src="https://img.shields.io/github/forks/Darabium/CVE-2024-28987">	<img alt="stars" src="https://img.shields.io/github/stars/Darabium/CVE-2024-28987">
 
 ---
 ## CVE-2024-28890 (2024-04-23T05:15:00)
@@ -8403,6 +8429,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [arch1m3d/CVE-2024-28000](https://github.com/arch1m3d/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/arch1m3d/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/arch1m3d/CVE-2024-28000">
 - [SSSSuperX/CVE-2024-28000](https://github.com/SSSSuperX/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/SSSSuperX/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/SSSSuperX/CVE-2024-28000">
 - [JohnDoeAnonITA/CVE-2024-28000](https://github.com/JohnDoeAnonITA/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/JohnDoeAnonITA/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/JohnDoeAnonITA/CVE-2024-28000">
+- [AliHzSec/CVE-2024-28000](https://github.com/AliHzSec/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/AliHzSec/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/AliHzSec/CVE-2024-28000">
 
 ---
 ## CVE-2024-27983 (2024-04-09T01:15:00)
@@ -8684,6 +8711,7 @@ Users are recommended to upgrade to version 1.3.0 with Java11 & enable the Auth 
 - [BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-](https://github.com/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-)	<img alt="forks" src="https://img.shields.io/github/forks/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-">	<img alt="stars" src="https://img.shields.io/github/stars/BilalAlshiekh912/Incident-Response-Report-TeamCity-Compromise-CVE-2024-27198-">
 - [swimmmmy/CVE-2024-27198-teamcity-auth-bypass](https://github.com/swimmmmy/CVE-2024-27198-teamcity-auth-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/swimmmmy/CVE-2024-27198-teamcity-auth-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/swimmmmy/CVE-2024-27198-teamcity-auth-bypass">
 - [kxom9ks/CVE-2024-27198-TeamCity](https://github.com/kxom9ks/CVE-2024-27198-TeamCity)	<img alt="forks" src="https://img.shields.io/github/forks/kxom9ks/CVE-2024-27198-TeamCity">	<img alt="stars" src="https://img.shields.io/github/stars/kxom9ks/CVE-2024-27198-TeamCity">
+- [abiral-timalsina/Cyber-Defenders-lab-](https://github.com/abiral-timalsina/Cyber-Defenders-lab-)	<img alt="forks" src="https://img.shields.io/github/forks/abiral-timalsina/Cyber-Defenders-lab-">	<img alt="stars" src="https://img.shields.io/github/stars/abiral-timalsina/Cyber-Defenders-lab-">
 
 ---
 ## CVE-2024-27191 (2024-04-03T12:15:00)
@@ -9226,6 +9254,7 @@ An SQL injection vulnerability exists in the BIG-IP Next Central Manager API (UR
 - [CyprianAtsyor/CVE-2024-24919-Incident-Report.md](https://github.com/CyprianAtsyor/CVE-2024-24919-Incident-Report.md)	<img alt="forks" src="https://img.shields.io/github/forks/CyprianAtsyor/CVE-2024-24919-Incident-Report.md">	<img alt="stars" src="https://img.shields.io/github/stars/CyprianAtsyor/CVE-2024-24919-Incident-Report.md">
 - [CyberBibs/Event-ID-263-Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-](https://github.com/CyberBibs/Event-ID-263-Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-)	<img alt="forks" src="https://img.shields.io/github/forks/CyberBibs/Event-ID-263-Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-">	<img alt="stars" src="https://img.shields.io/github/stars/CyberBibs/Event-ID-263-Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-">
 - [MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation](https://github.com/MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation">
+- [Zedocun/Incident-Analysis-Response-Check-Point-Security-Gateway-CVE-2024-24919-LFI-Exploitation](https://github.com/Zedocun/Incident-Analysis-Response-Check-Point-Security-Gateway-CVE-2024-24919-LFI-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/Incident-Analysis-Response-Check-Point-Security-Gateway-CVE-2024-24919-LFI-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/Incident-Analysis-Response-Check-Point-Security-Gateway-CVE-2024-24919-LFI-Exploitation">
 
 ---
 ## CVE-2024-24824 ()
@@ -9409,6 +9438,11 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 ## CVE-2024-2432 (2024-03-13T18:15:00)
 > A privilege escalation (PE) vulnerability in the Palo Alto Networks GlobalProtect app on Windows devices enables a local user to execute programs with elevated privileges. However, execution requires that the local user is able to successfully exploit a race condition.
 - [Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP)	<img alt="forks" src="https://img.shields.io/github/forks/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP">	<img alt="stars" src="https://img.shields.io/github/stars/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP">
+
+---
+## CVE-2024-24210 ()
+> 
+- [ha6ker-hu/CVE-2024-24210](https://github.com/ha6ker-hu/CVE-2024-24210)	<img alt="forks" src="https://img.shields.io/github/forks/ha6ker-hu/CVE-2024-24210">	<img alt="stars" src="https://img.shields.io/github/stars/ha6ker-hu/CVE-2024-24210">
 
 ---
 ## CVE-2024-24206 ()
@@ -9646,6 +9680,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [Dungsocool/CVE-2024-23897](https://github.com/Dungsocool/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2024-23897">
 - [classic130/CVE-2024-23897-Jenkins-4.441](https://github.com/classic130/CVE-2024-23897-Jenkins-4.441)	<img alt="forks" src="https://img.shields.io/github/forks/classic130/CVE-2024-23897-Jenkins-4.441">	<img alt="stars" src="https://img.shields.io/github/stars/classic130/CVE-2024-23897-Jenkins-4.441">
 - [razureink/cve-2024-23897-jenkins_lfi_reproduction](https://github.com/razureink/cve-2024-23897-jenkins_lfi_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-23897-jenkins_lfi_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-23897-jenkins_lfi_reproduction">
+- [dheeraj-jayaswal/CICD-Goat-Vapt-Writeup](https://github.com/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)
@@ -9809,6 +9844,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [NingXin2002/HFS2.3_poc](https://github.com/NingXin2002/HFS2.3_poc)	<img alt="forks" src="https://img.shields.io/github/forks/NingXin2002/HFS2.3_poc">	<img alt="stars" src="https://img.shields.io/github/stars/NingXin2002/HFS2.3_poc">
 - [999gawkboyy/CVE-2024-23692_Exploit](https://github.com/999gawkboyy/CVE-2024-23692_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/999gawkboyy/CVE-2024-23692_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/999gawkboyy/CVE-2024-23692_Exploit">
 - [wgetnz/hfs2](https://github.com/wgetnz/hfs2)	<img alt="forks" src="https://img.shields.io/github/forks/wgetnz/hfs2">	<img alt="stars" src="https://img.shields.io/github/stars/wgetnz/hfs2">
+- [sandimfz/CVE-2024-23692](https://github.com/sandimfz/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/sandimfz/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/sandimfz/CVE-2024-23692">
 
 ---
 ## CVE-2024-23673 ()
@@ -10429,6 +10465,7 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [0x0asif/CVE-2024-21762](https://github.com/0x0asif/CVE-2024-21762)	<img alt="forks" src="https://img.shields.io/github/forks/0x0asif/CVE-2024-21762">	<img alt="stars" src="https://img.shields.io/github/stars/0x0asif/CVE-2024-21762">
 - [CrackerCat/cve-2024-21762-poc](https://github.com/CrackerCat/cve-2024-21762-poc)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/cve-2024-21762-poc">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/cve-2024-21762-poc">
 - [Sxmpl3/CVE-2024-21762-Safe-Check](https://github.com/Sxmpl3/CVE-2024-21762-Safe-Check)	<img alt="forks" src="https://img.shields.io/github/forks/Sxmpl3/CVE-2024-21762-Safe-Check">	<img alt="stars" src="https://img.shields.io/github/stars/Sxmpl3/CVE-2024-21762-Safe-Check">
+- [Vampsecure-Labs/vamp-forticheck](https://github.com/Vampsecure-Labs/vamp-forticheck)	<img alt="forks" src="https://img.shields.io/github/forks/Vampsecure-Labs/vamp-forticheck">	<img alt="stars" src="https://img.shields.io/github/stars/Vampsecure-Labs/vamp-forticheck">
 
 ---
 ## CVE-2024-21754 (2024-06-11T15:16:00)
@@ -10685,6 +10722,9 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [KaiHaoChen04/monikerlinktest](https://github.com/KaiHaoChen04/monikerlinktest)	<img alt="forks" src="https://img.shields.io/github/forks/KaiHaoChen04/monikerlinktest">	<img alt="stars" src="https://img.shields.io/github/stars/KaiHaoChen04/monikerlinktest">
 - [H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research](https://github.com/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research)	<img alt="forks" src="https://img.shields.io/github/forks/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research">	<img alt="stars" src="https://img.shields.io/github/stars/H1ssBl1tz/Blind-Trust-CVE-2024-21413-Research">
 - [YoguiCR/CVE-2024-21413-Outlook-Assessment](https://github.com/YoguiCR/CVE-2024-21413-Outlook-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/YoguiCR/CVE-2024-21413-Outlook-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/YoguiCR/CVE-2024-21413-Outlook-Assessment">
+- [h4cknain/CVE-2024-21413-Microsoft-Outlook-Moniker-Link-Vulnerability](https://github.com/h4cknain/CVE-2024-21413-Microsoft-Outlook-Moniker-Link-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/h4cknain/CVE-2024-21413-Microsoft-Outlook-Moniker-Link-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/h4cknain/CVE-2024-21413-Microsoft-Outlook-Moniker-Link-Vulnerability">
+- [OmarMahmoud1024/tryhackme-monikerlink-writeup](https://github.com/OmarMahmoud1024/tryhackme-monikerlink-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/OmarMahmoud1024/tryhackme-monikerlink-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/OmarMahmoud1024/tryhackme-monikerlink-writeup">
+- [yfelipecruvinel/tryhackme-moniker-link](https://github.com/yfelipecruvinel/tryhackme-moniker-link)	<img alt="forks" src="https://img.shields.io/github/forks/yfelipecruvinel/tryhackme-moniker-link">	<img alt="stars" src="https://img.shields.io/github/stars/yfelipecruvinel/tryhackme-moniker-link">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
@@ -11089,6 +11129,7 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
 ## CVE-2024-1813 ()
 > 
 - [MobetaSec/CVE-2024-1813-POC](https://github.com/MobetaSec/CVE-2024-1813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/MobetaSec/CVE-2024-1813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/MobetaSec/CVE-2024-1813-POC">
+- [webshellseo8/CVE-2024-1813-Proof-of-Concept](https://github.com/webshellseo8/CVE-2024-1813-Proof-of-Concept)	<img alt="forks" src="https://img.shields.io/github/forks/webshellseo8/CVE-2024-1813-Proof-of-Concept">	<img alt="stars" src="https://img.shields.io/github/stars/webshellseo8/CVE-2024-1813-Proof-of-Concept">
 
 ---
 ## CVE-2024-1781 ()
@@ -11833,6 +11874,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [garatc/bitpixie](https://github.com/garatc/bitpixie)	<img alt="forks" src="https://img.shields.io/github/forks/garatc/bitpixie">	<img alt="stars" src="https://img.shields.io/github/stars/garatc/bitpixie">
 - [Luisbuilds-data/cve-2024-1086-writeup](https://github.com/Luisbuilds-data/cve-2024-1086-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Luisbuilds-data/cve-2024-1086-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Luisbuilds-data/cve-2024-1086-writeup">
 - [JHarv613/CVE_2024_1086_vulnerability_check](https://github.com/JHarv613/CVE_2024_1086_vulnerability_check)	<img alt="forks" src="https://img.shields.io/github/forks/JHarv613/CVE_2024_1086_vulnerability_check">	<img alt="stars" src="https://img.shields.io/github/stars/JHarv613/CVE_2024_1086_vulnerability_check">
+- [dopaminauta/onetwoseven-writeup](https://github.com/dopaminauta/onetwoseven-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/dopaminauta/onetwoseven-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/dopaminauta/onetwoseven-writeup">
 
 ---
 ## CVE-2024-10858 ()

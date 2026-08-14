@@ -38,6 +38,7 @@
 - [tausifzaman/cctv-hack](https://github.com/tausifzaman/cctv-hack)	<img alt="forks" src="https://img.shields.io/github/forks/tausifzaman/cctv-hack">	<img alt="stars" src="https://img.shields.io/github/stars/tausifzaman/cctv-hack">
 - [its-anya/DVR_Credential_Scanner](https://github.com/its-anya/DVR_Credential_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/its-anya/DVR_Credential_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/its-anya/DVR_Credential_Scanner">
 - [mesutozsoycom/cve-2018-9995](https://github.com/mesutozsoycom/cve-2018-9995)	<img alt="forks" src="https://img.shields.io/github/forks/mesutozsoycom/cve-2018-9995">	<img alt="stars" src="https://img.shields.io/github/stars/mesutozsoycom/cve-2018-9995">
+- [F7P-H4NN1B4L/CVE-2018-9995-DVR-Credentials-Extractor](https://github.com/F7P-H4NN1B4L/CVE-2018-9995-DVR-Credentials-Extractor)	<img alt="forks" src="https://img.shields.io/github/forks/F7P-H4NN1B4L/CVE-2018-9995-DVR-Credentials-Extractor">	<img alt="stars" src="https://img.shields.io/github/stars/F7P-H4NN1B4L/CVE-2018-9995-DVR-Credentials-Extractor">
 
 ---
 ## CVE-2018-9958 ()
@@ -563,6 +564,7 @@
 - [sl4cky/CVE-2018-7600](https://github.com/sl4cky/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/sl4cky/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/sl4cky/CVE-2018-7600">
 - [sl4cky/CVE-2018-7600-Masschecker](https://github.com/sl4cky/CVE-2018-7600-Masschecker)	<img alt="forks" src="https://img.shields.io/github/forks/sl4cky/CVE-2018-7600-Masschecker">	<img alt="stars" src="https://img.shields.io/github/stars/sl4cky/CVE-2018-7600-Masschecker">
 - [nayem-m/drupalgeddon2-cli](https://github.com/nayem-m/drupalgeddon2-cli)	<img alt="forks" src="https://img.shields.io/github/forks/nayem-m/drupalgeddon2-cli">	<img alt="stars" src="https://img.shields.io/github/stars/nayem-m/drupalgeddon2-cli">
+- [Shams-Ul-Mehmood/CVE-2018-7600-Drupalgeddon2-RCE](https://github.com/Shams-Ul-Mehmood/CVE-2018-7600-Drupalgeddon2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Shams-Ul-Mehmood/CVE-2018-7600-Drupalgeddon2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Shams-Ul-Mehmood/CVE-2018-7600-Drupalgeddon2-RCE">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)
@@ -2973,6 +2975,7 @@
 - [estebanzarate/CVE-2018-16763-Fuel-CMS-1.4.1-Remote-Code-Execution-PoC](https://github.com/estebanzarate/CVE-2018-16763-Fuel-CMS-1.4.1-Remote-Code-Execution-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/estebanzarate/CVE-2018-16763-Fuel-CMS-1.4.1-Remote-Code-Execution-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/estebanzarate/CVE-2018-16763-Fuel-CMS-1.4.1-Remote-Code-Execution-PoC">
 - [kaxm23/exploit_cms_fuel](https://github.com/kaxm23/exploit_cms_fuel)	<img alt="forks" src="https://img.shields.io/github/forks/kaxm23/exploit_cms_fuel">	<img alt="stars" src="https://img.shields.io/github/stars/kaxm23/exploit_cms_fuel">
 - [SOME-1HING/CVE-2018-16763](https://github.com/SOME-1HING/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/SOME-1HING/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/SOME-1HING/CVE-2018-16763">
+- [ShadowR-Root/fuel-cms-cve-2018-16763-python3-port](https://github.com/ShadowR-Root/fuel-cms-cve-2018-16763-python3-port)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowR-Root/fuel-cms-cve-2018-16763-python3-port">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowR-Root/fuel-cms-cve-2018-16763-python3-port">
 
 ---
 ## CVE-2018-16713 ()
@@ -3239,6 +3242,7 @@
 - [wtbacon/cve-2018-15473](https://github.com/wtbacon/cve-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/wtbacon/cve-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/wtbacon/cve-2018-15473">
 - [kikechans/SSH-Enum-CVE-2018-15473](https://github.com/kikechans/SSH-Enum-CVE-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/kikechans/SSH-Enum-CVE-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/kikechans/SSH-Enum-CVE-2018-15473">
 - [kaktus5454/CVE-2018-15473](https://github.com/kaktus5454/CVE-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/kaktus5454/CVE-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/kaktus5454/CVE-2018-15473">
+- [bdalrhmnhamdalalm-jpg/CVE-2018-15473-User-Enumeration-](https://github.com/bdalrhmnhamdalalm-jpg/CVE-2018-15473-User-Enumeration-)	<img alt="forks" src="https://img.shields.io/github/forks/bdalrhmnhamdalalm-jpg/CVE-2018-15473-User-Enumeration-">	<img alt="stars" src="https://img.shields.io/github/stars/bdalrhmnhamdalalm-jpg/CVE-2018-15473-User-Enumeration-">
 
 ---
 ## CVE-2018-15365 ()
@@ -3559,6 +3563,7 @@
 - [kh4sh3i/CVE-2018-13379](https://github.com/kh4sh3i/CVE-2018-13379)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/CVE-2018-13379">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/CVE-2018-13379">
 - [Zierax/CVE-2018-13379](https://github.com/Zierax/CVE-2018-13379)	<img alt="forks" src="https://img.shields.io/github/forks/Zierax/CVE-2018-13379">	<img alt="stars" src="https://img.shields.io/github/stars/Zierax/CVE-2018-13379">
 - [Instructor-Admin/Multi-threaded-mass-exploiter-CVE-2018-13379-POC](https://github.com/Instructor-Admin/Multi-threaded-mass-exploiter-CVE-2018-13379-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Instructor-Admin/Multi-threaded-mass-exploiter-CVE-2018-13379-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Instructor-Admin/Multi-threaded-mass-exploiter-CVE-2018-13379-POC">
+- [Vampsecure-Labs/vamp-forticheck](https://github.com/Vampsecure-Labs/vamp-forticheck)	<img alt="forks" src="https://img.shields.io/github/forks/Vampsecure-Labs/vamp-forticheck">	<img alt="stars" src="https://img.shields.io/github/stars/Vampsecure-Labs/vamp-forticheck">
 
 ---
 ## CVE-2018-13374 ()
