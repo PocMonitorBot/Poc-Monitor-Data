@@ -212,6 +212,11 @@
 - [thewhiteh4t/cve-2020-9375](https://github.com/thewhiteh4t/cve-2020-9375)	<img alt="forks" src="https://img.shields.io/github/forks/thewhiteh4t/cve-2020-9375">	<img alt="stars" src="https://img.shields.io/github/stars/thewhiteh4t/cve-2020-9375">
 
 ---
+## CVE-2020-9373 ()
+> 
+- [Limingxi6/cve-2020-9373-netgear-r6400](https://github.com/Limingxi6/cve-2020-9373-netgear-r6400)	<img alt="forks" src="https://img.shields.io/github/forks/Limingxi6/cve-2020-9373-netgear-r6400">	<img alt="stars" src="https://img.shields.io/github/stars/Limingxi6/cve-2020-9373-netgear-r6400">
+
+---
 ## CVE-2020-9332 ()
 > 
 - [Sentinel-One/CVE-2020-9332](https://github.com/Sentinel-One/CVE-2020-9332)	<img alt="forks" src="https://img.shields.io/github/forks/Sentinel-One/CVE-2020-9332">	<img alt="stars" src="https://img.shields.io/github/stars/Sentinel-One/CVE-2020-9332">

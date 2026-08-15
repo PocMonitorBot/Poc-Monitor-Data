@@ -1039,6 +1039,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [Nxploited/CVE-2024-6366-PoC](https://github.com/Nxploited/CVE-2024-6366-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-6366-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-6366-PoC">
 
 ---
+## CVE-2024-6333 ()
+> 
+- [0xQRx/CVE-2024-6333](https://github.com/0xQRx/CVE-2024-6333)	<img alt="forks" src="https://img.shields.io/github/forks/0xQRx/CVE-2024-6333">	<img alt="stars" src="https://img.shields.io/github/stars/0xQRx/CVE-2024-6333">
+
+---
 ## CVE-2024-6330 ()
 > 
 - [RandomRobbieBF/CVE-2024-6330](https://github.com/RandomRobbieBF/CVE-2024-6330)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-6330">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-6330">
@@ -3654,6 +3659,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [razureink/cve-2024-4577-phpcgi_rce_reproduction](https://github.com/razureink/cve-2024-4577-phpcgi_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-4577-phpcgi_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-4577-phpcgi_rce_reproduction">
 - [NKTriS/HTSOC](https://github.com/NKTriS/HTSOC)	<img alt="forks" src="https://img.shields.io/github/forks/NKTriS/HTSOC">	<img alt="stars" src="https://img.shields.io/github/stars/NKTriS/HTSOC">
 - [DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio](https://github.com/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio)	<img alt="forks" src="https://img.shields.io/github/forks/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio">	<img alt="stars" src="https://img.shields.io/github/stars/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio">
+- [DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation](https://github.com/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation">
 
 ---
 ## CVE-2024-4573 ()
@@ -11159,6 +11165,7 @@ critical systems.
 - [AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-](https://github.com/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-)	<img alt="forks" src="https://img.shields.io/github/forks/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-">	<img alt="stars" src="https://img.shields.io/github/stars/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-">
 - [AMRICHASFUCK/Mass-CVE-2024-1709](https://github.com/AMRICHASFUCK/Mass-CVE-2024-1709)	<img alt="forks" src="https://img.shields.io/github/forks/AMRICHASFUCK/Mass-CVE-2024-1709">	<img alt="stars" src="https://img.shields.io/github/stars/AMRICHASFUCK/Mass-CVE-2024-1709">
 - [Teexo/ScreenConnect-CVE-2024-1709-Exploit](https://github.com/Teexo/ScreenConnect-CVE-2024-1709-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Teexo/ScreenConnect-CVE-2024-1709-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Teexo/ScreenConnect-CVE-2024-1709-Exploit">
+- [mangetoncompost/cve-2024-1709](https://github.com/mangetoncompost/cve-2024-1709)	<img alt="forks" src="https://img.shields.io/github/forks/mangetoncompost/cve-2024-1709">	<img alt="stars" src="https://img.shields.io/github/stars/mangetoncompost/cve-2024-1709">
 
 ---
 ## CVE-2024-1708 (2024-02-21T16:15:00)

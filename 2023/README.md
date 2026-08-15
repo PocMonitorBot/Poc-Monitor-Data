@@ -5978,6 +5978,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [G4sp4rCS/CVE-2023-32784-password-combinator-fixer](https://github.com/G4sp4rCS/CVE-2023-32784-password-combinator-fixer)	<img alt="forks" src="https://img.shields.io/github/forks/G4sp4rCS/CVE-2023-32784-password-combinator-fixer">	<img alt="stars" src="https://img.shields.io/github/stars/G4sp4rCS/CVE-2023-32784-password-combinator-fixer">
 - [super-oof/keepass2-password-finder](https://github.com/super-oof/keepass2-password-finder)	<img alt="forks" src="https://img.shields.io/github/forks/super-oof/keepass2-password-finder">	<img alt="stars" src="https://img.shields.io/github/stars/super-oof/keepass2-password-finder">
 - [areebashoaib42/KeePass-CVE-2023-32784-Exploitation-and-Defense](https://github.com/areebashoaib42/KeePass-CVE-2023-32784-Exploitation-and-Defense)	<img alt="forks" src="https://img.shields.io/github/forks/areebashoaib42/KeePass-CVE-2023-32784-Exploitation-and-Defense">	<img alt="stars" src="https://img.shields.io/github/stars/areebashoaib42/KeePass-CVE-2023-32784-Exploitation-and-Defense">
+- [Pugazhendii22/keepass-exfil-forensics](https://github.com/Pugazhendii22/keepass-exfil-forensics)	<img alt="forks" src="https://img.shields.io/github/forks/Pugazhendii22/keepass-exfil-forensics">	<img alt="stars" src="https://img.shields.io/github/stars/Pugazhendii22/keepass-exfil-forensics">
 
 ---
 ## CVE-2023-32749 (2023-06-08T20:15:00)

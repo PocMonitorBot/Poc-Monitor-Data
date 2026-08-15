@@ -961,6 +961,7 @@
 - [0Zetrium0/CVE-2025-69212_PoC](https://github.com/0Zetrium0/CVE-2025-69212_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0Zetrium0/CVE-2025-69212_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0Zetrium0/CVE-2025-69212_PoC">
 - [mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report](https://github.com/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report)	<img alt="forks" src="https://img.shields.io/github/forks/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report">	<img alt="stars" src="https://img.shields.io/github/stars/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report">
 - [liaomilk/CVE-2025-69212-for-myself](https://github.com/liaomilk/CVE-2025-69212-for-myself)	<img alt="forks" src="https://img.shields.io/github/forks/liaomilk/CVE-2025-69212-for-myself">	<img alt="stars" src="https://img.shields.io/github/stars/liaomilk/CVE-2025-69212-for-myself">
+- [lolw0/OpenSTA-Exploit](https://github.com/lolw0/OpenSTA-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/lolw0/OpenSTA-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/lolw0/OpenSTA-Exploit">
 
 ---
 ## CVE-2025-69194 ()
@@ -4912,6 +4913,7 @@
 - [aisha-jimoh/cve-2025-55182-react2shell-analysis](https://github.com/aisha-jimoh/cve-2025-55182-react2shell-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/aisha-jimoh/cve-2025-55182-react2shell-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/aisha-jimoh/cve-2025-55182-react2shell-analysis">
 - [dotnetguard/CVE-2025-55182-Exploit](https://github.com/dotnetguard/CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dotnetguard/CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dotnetguard/CVE-2025-55182-Exploit">
 - [CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit](https://github.com/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit">
+- [balochkainat160-cyber/cs50-cybersecurity](https://github.com/balochkainat160-cyber/cs50-cybersecurity)	<img alt="forks" src="https://img.shields.io/github/forks/balochkainat160-cyber/cs50-cybersecurity">	<img alt="stars" src="https://img.shields.io/github/stars/balochkainat160-cyber/cs50-cybersecurity">
 
 ---
 ## CVE-2025-55177 ()
@@ -8570,6 +8572,7 @@
 - [chuzouX/CVE-2025-32433-Exploit-edited](https://github.com/chuzouX/CVE-2025-32433-Exploit-edited)	<img alt="forks" src="https://img.shields.io/github/forks/chuzouX/CVE-2025-32433-Exploit-edited">	<img alt="stars" src="https://img.shields.io/github/stars/chuzouX/CVE-2025-32433-Exploit-edited">
 - [dampedcoast/Exploiting-a-vulnerability-using-reverse-shell](https://github.com/dampedcoast/Exploiting-a-vulnerability-using-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/dampedcoast/Exploiting-a-vulnerability-using-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/dampedcoast/Exploiting-a-vulnerability-using-reverse-shell">
 - [razureink/cve-2025-32433-erlang_ssh_rce_reproduction](https://github.com/razureink/cve-2025-32433-erlang_ssh_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-32433-erlang_ssh_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-32433-erlang_ssh_rce_reproduction">
+- [Liam-Worsley/CVE-2025-32433-PoC-Analysis](https://github.com/Liam-Worsley/CVE-2025-32433-PoC-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Liam-Worsley/CVE-2025-32433-PoC-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Liam-Worsley/CVE-2025-32433-PoC-Analysis">
 
 ---
 ## CVE-2025-32432 ()

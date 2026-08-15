@@ -3437,6 +3437,7 @@
 - [Emaar1x/CVE-2021-41773](https://github.com/Emaar1x/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Emaar1x/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Emaar1x/CVE-2021-41773">
 - [s-amnajafri/CVE-2021-41773-Apache-Lab](https://github.com/s-amnajafri/CVE-2021-41773-Apache-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/s-amnajafri/CVE-2021-41773-Apache-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/s-amnajafri/CVE-2021-41773-Apache-Lab">
 - [GlebUsalt/cybersecurity_portfolio](https://github.com/GlebUsalt/cybersecurity_portfolio)	<img alt="forks" src="https://img.shields.io/github/forks/GlebUsalt/cybersecurity_portfolio">	<img alt="stars" src="https://img.shields.io/github/stars/GlebUsalt/cybersecurity_portfolio">
+- [SANR01/CVE-2021-41773-Exploit-Lab](https://github.com/SANR01/CVE-2021-41773-Exploit-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/SANR01/CVE-2021-41773-Exploit-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/SANR01/CVE-2021-41773-Exploit-Lab">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -4502,6 +4503,8 @@
 - [Squirre17/CVE-2021-4034](https://github.com/Squirre17/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/Squirre17/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/Squirre17/CVE-2021-4034">
 - [mac3d0/CVE-2021-4034-pwnkit](https://github.com/mac3d0/CVE-2021-4034-pwnkit)	<img alt="forks" src="https://img.shields.io/github/forks/mac3d0/CVE-2021-4034-pwnkit">	<img alt="stars" src="https://img.shields.io/github/stars/mac3d0/CVE-2021-4034-pwnkit">
 - [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
+- [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
+- [Pinkish-Warrior/local](https://github.com/Pinkish-Warrior/local)	<img alt="forks" src="https://img.shields.io/github/forks/Pinkish-Warrior/local">	<img alt="stars" src="https://img.shields.io/github/stars/Pinkish-Warrior/local">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -5975,6 +5978,7 @@
 - [romarroca/SeriousSam](https://github.com/romarroca/SeriousSam)	<img alt="forks" src="https://img.shields.io/github/forks/romarroca/SeriousSam">	<img alt="stars" src="https://img.shields.io/github/stars/romarroca/SeriousSam">
 - [Wh04m1001/VSSCopy](https://github.com/Wh04m1001/VSSCopy)	<img alt="forks" src="https://img.shields.io/github/forks/Wh04m1001/VSSCopy">	<img alt="stars" src="https://img.shields.io/github/stars/Wh04m1001/VSSCopy">
 - [n3tsurge/CVE-2021-36934](https://github.com/n3tsurge/CVE-2021-36934)	<img alt="forks" src="https://img.shields.io/github/forks/n3tsurge/CVE-2021-36934">	<img alt="stars" src="https://img.shields.io/github/stars/n3tsurge/CVE-2021-36934">
+- [DuyDuongDuyDuong/CVE-2021-36934-DLL-Hijacking-DFIR-Investigation](https://github.com/DuyDuongDuyDuong/CVE-2021-36934-DLL-Hijacking-DFIR-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/DuyDuongDuyDuong/CVE-2021-36934-DLL-Hijacking-DFIR-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/DuyDuongDuyDuong/CVE-2021-36934-DLL-Hijacking-DFIR-Investigation">
 
 ---
 ## CVE-2021-36917 (2021-11-24T17:15:00)

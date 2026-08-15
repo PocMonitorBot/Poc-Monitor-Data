@@ -565,6 +565,7 @@
 - [sl4cky/CVE-2018-7600-Masschecker](https://github.com/sl4cky/CVE-2018-7600-Masschecker)	<img alt="forks" src="https://img.shields.io/github/forks/sl4cky/CVE-2018-7600-Masschecker">	<img alt="stars" src="https://img.shields.io/github/stars/sl4cky/CVE-2018-7600-Masschecker">
 - [nayem-m/drupalgeddon2-cli](https://github.com/nayem-m/drupalgeddon2-cli)	<img alt="forks" src="https://img.shields.io/github/forks/nayem-m/drupalgeddon2-cli">	<img alt="stars" src="https://img.shields.io/github/stars/nayem-m/drupalgeddon2-cli">
 - [Shams-Ul-Mehmood/CVE-2018-7600-Drupalgeddon2-RCE](https://github.com/Shams-Ul-Mehmood/CVE-2018-7600-Drupalgeddon2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Shams-Ul-Mehmood/CVE-2018-7600-Drupalgeddon2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Shams-Ul-Mehmood/CVE-2018-7600-Drupalgeddon2-RCE">
+- [Prapul1/VulnHub-DC1-Writeup](https://github.com/Prapul1/VulnHub-DC1-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Prapul1/VulnHub-DC1-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Prapul1/VulnHub-DC1-Writeup">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)
