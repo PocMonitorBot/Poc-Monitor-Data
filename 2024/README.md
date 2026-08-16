@@ -1488,6 +1488,7 @@ The specific flaw exists within the password reset mechanism. The issue results 
 ## CVE-2024-56426 ()
 > 
 - [Creeeeger/CVE-2024-56426](https://github.com/Creeeeger/CVE-2024-56426)	<img alt="forks" src="https://img.shields.io/github/forks/Creeeeger/CVE-2024-56426">	<img alt="stars" src="https://img.shields.io/github/stars/Creeeeger/CVE-2024-56426">
+- [xcracker000/CVE-2024-56426](https://github.com/xcracker000/CVE-2024-56426)	<img alt="forks" src="https://img.shields.io/github/forks/xcracker000/CVE-2024-56426">	<img alt="stars" src="https://img.shields.io/github/stars/xcracker000/CVE-2024-56426">
 
 ---
 ## CVE-2024-56348 ()
@@ -3698,6 +3699,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [whiterose7777/CVE-2024-45519](https://github.com/whiterose7777/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/whiterose7777/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/whiterose7777/CVE-2024-45519">
 - [XiaomingX/cve-2024-45519-poc](https://github.com/XiaomingX/cve-2024-45519-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-45519-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-45519-poc">
 - [sec13b/CVE-2024-45519](https://github.com/sec13b/CVE-2024-45519)	<img alt="forks" src="https://img.shields.io/github/forks/sec13b/CVE-2024-45519">	<img alt="stars" src="https://img.shields.io/github/stars/sec13b/CVE-2024-45519">
+- [lionels-cyber/CVE-2024-45519-Zimbra-Real-Fix](https://github.com/lionels-cyber/CVE-2024-45519-Zimbra-Real-Fix)	<img alt="forks" src="https://img.shields.io/github/forks/lionels-cyber/CVE-2024-45519-Zimbra-Real-Fix">	<img alt="stars" src="https://img.shields.io/github/stars/lionels-cyber/CVE-2024-45519-Zimbra-Real-Fix">
 
 ---
 ## CVE-2024-45507 (2024-09-04T09:15:00)

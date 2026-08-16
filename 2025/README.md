@@ -699,6 +699,11 @@
 - [gpheheise/CVE-2025-70600---Urve-Smart-Office---Stored-XSS-in-iOS-App](https://github.com/gpheheise/CVE-2025-70600---Urve-Smart-Office---Stored-XSS-in-iOS-App)	<img alt="forks" src="https://img.shields.io/github/forks/gpheheise/CVE-2025-70600---Urve-Smart-Office---Stored-XSS-in-iOS-App">	<img alt="stars" src="https://img.shields.io/github/stars/gpheheise/CVE-2025-70600---Urve-Smart-Office---Stored-XSS-in-iOS-App">
 
 ---
+## CVE-2025-70559 ()
+> 
+- [isukasanuj/CVE-2025-70559](https://github.com/isukasanuj/CVE-2025-70559)	<img alt="forks" src="https://img.shields.io/github/forks/isukasanuj/CVE-2025-70559">	<img alt="stars" src="https://img.shields.io/github/stars/isukasanuj/CVE-2025-70559">
+
+---
 ## CVE-2025-70545 ()
 > 
 - [jeyabalaji711/CVE-2025-70545](https://github.com/jeyabalaji711/CVE-2025-70545)	<img alt="forks" src="https://img.shields.io/github/forks/jeyabalaji711/CVE-2025-70545">	<img alt="stars" src="https://img.shields.io/github/stars/jeyabalaji711/CVE-2025-70545">
@@ -2107,6 +2112,7 @@
 - [stoic-crawler/CVE-2025-64512](https://github.com/stoic-crawler/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/stoic-crawler/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/stoic-crawler/CVE-2025-64512">
 - [saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-](https://github.com/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-">
 - [DodgeNefoli/CVE-2025-64512](https://github.com/DodgeNefoli/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/DodgeNefoli/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/DodgeNefoli/CVE-2025-64512">
+- [oguzylmzx/CVE-2025-64512-pdfminer-PoC](https://github.com/oguzylmzx/CVE-2025-64512-pdfminer-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/oguzylmzx/CVE-2025-64512-pdfminer-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/oguzylmzx/CVE-2025-64512-pdfminer-PoC">
 
 ---
 ## CVE-2025-64500 ()

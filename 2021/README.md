@@ -4505,6 +4505,7 @@
 - [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
 - [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
 - [Pinkish-Warrior/local](https://github.com/Pinkish-Warrior/local)	<img alt="forks" src="https://img.shields.io/github/forks/Pinkish-Warrior/local">	<img alt="stars" src="https://img.shields.io/github/stars/Pinkish-Warrior/local">
+- [nicoibarburu/CVE-2021-4034](https://github.com/nicoibarburu/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/nicoibarburu/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/nicoibarburu/CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -11965,6 +11966,11 @@
 - [kh4sh3i/GitLab-SSRF-CVE-2021-22214](https://github.com/kh4sh3i/GitLab-SSRF-CVE-2021-22214)	<img alt="forks" src="https://img.shields.io/github/forks/kh4sh3i/GitLab-SSRF-CVE-2021-22214">	<img alt="stars" src="https://img.shields.io/github/stars/kh4sh3i/GitLab-SSRF-CVE-2021-22214">
 - [trganda/CVE-2021-22204](https://github.com/trganda/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/trganda/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/trganda/CVE-2021-22204">
 - [shmilylty/cve-2021-22005-exp](https://github.com/shmilylty/cve-2021-22005-exp)	<img alt="forks" src="https://img.shields.io/github/forks/shmilylty/cve-2021-22005-exp">	<img alt="stars" src="https://img.shields.io/github/stars/shmilylty/cve-2021-22005-exp">
+
+---
+## CVE-2021-21994 ()
+> 
+- [mreza-en/cve-2021-21994_POC](https://github.com/mreza-en/cve-2021-21994_POC)	<img alt="forks" src="https://img.shields.io/github/forks/mreza-en/cve-2021-21994_POC">	<img alt="stars" src="https://img.shields.io/github/stars/mreza-en/cve-2021-21994_POC">
 
 ---
 ## CVE-2021-21985 ()

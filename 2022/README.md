@@ -28736,6 +28736,7 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 > Due to a reliance on client-side authentication, the WiFi Mouse (Mouse Server) from Necta LLC's authentication mechanism is trivially bypassed, which can result in remote code execution.
 - [Live-Hack-CVE/CVE-2022-3218](https://github.com/Live-Hack-CVE/CVE-2022-3218)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3218">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3218">
 - [MoisesTapia/cve-2022-3218](https://github.com/MoisesTapia/cve-2022-3218)	<img alt="forks" src="https://img.shields.io/github/forks/MoisesTapia/cve-2022-3218">	<img alt="stars" src="https://img.shields.io/github/stars/MoisesTapia/cve-2022-3218">
+- [mermehr/MouseServer-1.7.8.5-RCE](https://github.com/mermehr/MouseServer-1.7.8.5-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mermehr/MouseServer-1.7.8.5-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mermehr/MouseServer-1.7.8.5-RCE">
 
 ---
 ## CVE-2022-32177 (2022-10-14T07:15:00)
@@ -40971,6 +40972,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [seal-sec-demo-2/Java-Example](https://github.com/seal-sec-demo-2/Java-Example)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sec-demo-2/Java-Example">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sec-demo-2/Java-Example">
 - [seal-sean-org/yaml-payload](https://github.com/seal-sean-org/yaml-payload)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sean-org/yaml-payload">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sean-org/yaml-payload">
 - [seal-sean-org/seans-surf-and-skate](https://github.com/seal-sean-org/seans-surf-and-skate)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sean-org/seans-surf-and-skate">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sean-org/seans-surf-and-skate">
+- [aykhan019/cve-2022-1471-jira-lab](https://github.com/aykhan019/cve-2022-1471-jira-lab)	<img alt="forks" src="https://img.shields.io/github/forks/aykhan019/cve-2022-1471-jira-lab">	<img alt="stars" src="https://img.shields.io/github/stars/aykhan019/cve-2022-1471-jira-lab">
 
 ---
 ## CVE-2022-1444 (2022-04-23T22:15:00)
