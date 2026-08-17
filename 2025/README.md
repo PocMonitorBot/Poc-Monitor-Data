@@ -3594,6 +3594,7 @@
 - [blueisbeautiful/CVE-2025-57819](https://github.com/blueisbeautiful/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/blueisbeautiful/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/blueisbeautiful/CVE-2025-57819">
 - [cybertechajju/cve-2025-57819](https://github.com/cybertechajju/cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/cybertechajju/cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/cybertechajju/cve-2025-57819">
 - [Sucuri-Labs/CVE-2025-57819-ioc-check](https://github.com/Sucuri-Labs/CVE-2025-57819-ioc-check)	<img alt="forks" src="https://img.shields.io/github/forks/Sucuri-Labs/CVE-2025-57819-ioc-check">	<img alt="stars" src="https://img.shields.io/github/stars/Sucuri-Labs/CVE-2025-57819-ioc-check">
+- [iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX)	<img alt="forks" src="https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX">	<img alt="stars" src="https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX">
 
 ---
 ## CVE-2025-57773 ()
@@ -4920,6 +4921,7 @@
 - [dotnetguard/CVE-2025-55182-Exploit](https://github.com/dotnetguard/CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/dotnetguard/CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/dotnetguard/CVE-2025-55182-Exploit">
 - [CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit](https://github.com/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit">
 - [balochkainat160-cyber/cs50-cybersecurity](https://github.com/balochkainat160-cyber/cs50-cybersecurity)	<img alt="forks" src="https://img.shields.io/github/forks/balochkainat160-cyber/cs50-cybersecurity">	<img alt="stars" src="https://img.shields.io/github/stars/balochkainat160-cyber/cs50-cybersecurity">
+- [kevin9480/Security_incident_report](https://github.com/kevin9480/Security_incident_report)	<img alt="forks" src="https://img.shields.io/github/forks/kevin9480/Security_incident_report">	<img alt="stars" src="https://img.shields.io/github/stars/kevin9480/Security_incident_report">
 
 ---
 ## CVE-2025-55177 ()
@@ -9016,6 +9018,8 @@
 ## CVE-2025-3052 ()
 > 
 - [TheMalwareGuardian/CVE-2025-3052](https://github.com/TheMalwareGuardian/CVE-2025-3052)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2025-3052">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2025-3052">
+- [yonatanasd232132/TALKINGEBN](https://github.com/yonatanasd232132/TALKINGEBN)	<img alt="forks" src="https://img.shields.io/github/forks/yonatanasd232132/TALKINGEBN">	<img alt="stars" src="https://img.shields.io/github/stars/yonatanasd232132/TALKINGEBN">
+- [m4rm0k/talkingBen](https://github.com/m4rm0k/talkingBen)	<img alt="forks" src="https://img.shields.io/github/forks/m4rm0k/talkingBen">	<img alt="stars" src="https://img.shields.io/github/stars/m4rm0k/talkingBen">
 
 ---
 ## CVE-2025-3047 ()
@@ -12265,6 +12269,11 @@
 ## CVE-2025-11749 ()
 > 
 - [Nxploited/CVE-2025-11749](https://github.com/Nxploited/CVE-2025-11749)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-11749">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-11749">
+
+---
+## CVE-2025-11740 ()
+> 
+- [Alixploit22/CVE-2025-11740](https://github.com/Alixploit22/CVE-2025-11740)	<img alt="forks" src="https://img.shields.io/github/forks/Alixploit22/CVE-2025-11740">	<img alt="stars" src="https://img.shields.io/github/stars/Alixploit22/CVE-2025-11740">
 
 ---
 ## CVE-2025-11705 ()

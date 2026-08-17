@@ -2550,6 +2550,7 @@
 - [shiomiyan/CVE-2021-42574](https://github.com/shiomiyan/CVE-2021-42574)	<img alt="forks" src="https://img.shields.io/github/forks/shiomiyan/CVE-2021-42574">	<img alt="stars" src="https://img.shields.io/github/stars/shiomiyan/CVE-2021-42574">
 - [Moshe-ship/bidi-guard](https://github.com/Moshe-ship/bidi-guard)	<img alt="forks" src="https://img.shields.io/github/forks/Moshe-ship/bidi-guard">	<img alt="stars" src="https://img.shields.io/github/stars/Moshe-ship/bidi-guard">
 - [LuisCastellanos-dev/cobol-shield](https://github.com/LuisCastellanos-dev/cobol-shield)	<img alt="forks" src="https://img.shields.io/github/forks/LuisCastellanos-dev/cobol-shield">	<img alt="stars" src="https://img.shields.io/github/stars/LuisCastellanos-dev/cobol-shield">
+- [rakib-nyc/nullorigin](https://github.com/rakib-nyc/nullorigin)	<img alt="forks" src="https://img.shields.io/github/forks/rakib-nyc/nullorigin">	<img alt="stars" src="https://img.shields.io/github/stars/rakib-nyc/nullorigin">
 
 ---
 ## CVE-2021-4257 (2022-12-18T22:15:00)
@@ -6257,6 +6258,7 @@
 > In Moodle, an SQL injection risk was identified in the library fetching a user's recent courses.
 - [T0X1Cx/CVE-2021-36393-Exploit](https://github.com/T0X1Cx/CVE-2021-36393-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/T0X1Cx/CVE-2021-36393-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/T0X1Cx/CVE-2021-36393-Exploit">
 - [StackOverflowExcept1on/CVE-2021-36393](https://github.com/StackOverflowExcept1on/CVE-2021-36393)	<img alt="forks" src="https://img.shields.io/github/forks/StackOverflowExcept1on/CVE-2021-36393">	<img alt="stars" src="https://img.shields.io/github/stars/StackOverflowExcept1on/CVE-2021-36393">
+- [vuductruong12/KTLHPM](https://github.com/vuductruong12/KTLHPM)	<img alt="forks" src="https://img.shields.io/github/forks/vuductruong12/KTLHPM">	<img alt="stars" src="https://img.shields.io/github/stars/vuductruong12/KTLHPM">
 
 ---
 ## CVE-2021-36386 (2021-07-30T14:15:00)
