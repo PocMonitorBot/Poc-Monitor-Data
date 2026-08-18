@@ -1596,6 +1596,7 @@
 - [sanasimran1403-jpg/log4shell](https://github.com/sanasimran1403-jpg/log4shell)	<img alt="forks" src="https://img.shields.io/github/forks/sanasimran1403-jpg/log4shell">	<img alt="stars" src="https://img.shields.io/github/stars/sanasimran1403-jpg/log4shell">
 - [AhndreWalters/ProjectSecurity-Homelab](https://github.com/AhndreWalters/ProjectSecurity-Homelab)	<img alt="forks" src="https://img.shields.io/github/forks/AhndreWalters/ProjectSecurity-Homelab">	<img alt="stars" src="https://img.shields.io/github/stars/AhndreWalters/ProjectSecurity-Homelab">
 - [Jiahong-Guan/log4j-shell-poc](https://github.com/Jiahong-Guan/log4j-shell-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Jiahong-Guan/log4j-shell-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Jiahong-Guan/log4j-shell-poc">
+- [C00LN3T/Log4ShellAuditor](https://github.com/C00LN3T/Log4ShellAuditor)	<img alt="forks" src="https://img.shields.io/github/forks/C00LN3T/Log4ShellAuditor">	<img alt="stars" src="https://img.shields.io/github/stars/C00LN3T/Log4ShellAuditor">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -4507,6 +4508,8 @@
 - [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
 - [Pinkish-Warrior/local](https://github.com/Pinkish-Warrior/local)	<img alt="forks" src="https://img.shields.io/github/forks/Pinkish-Warrior/local">	<img alt="stars" src="https://img.shields.io/github/stars/Pinkish-Warrior/local">
 - [nicoibarburu/CVE-2021-4034](https://github.com/nicoibarburu/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/nicoibarburu/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/nicoibarburu/CVE-2021-4034">
+- [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
+- [jeffmarlonmandela/CVE-2021-4034-PwnKit](https://github.com/jeffmarlonmandela/CVE-2021-4034-PwnKit)	<img alt="forks" src="https://img.shields.io/github/forks/jeffmarlonmandela/CVE-2021-4034-PwnKit">	<img alt="stars" src="https://img.shields.io/github/stars/jeffmarlonmandela/CVE-2021-4034-PwnKit">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -7317,6 +7320,7 @@
 - [fengjixuchui/CVE-2021-34527-1675](https://github.com/fengjixuchui/CVE-2021-34527-1675)	<img alt="forks" src="https://img.shields.io/github/forks/fengjixuchui/CVE-2021-34527-1675">	<img alt="stars" src="https://img.shields.io/github/stars/fengjixuchui/CVE-2021-34527-1675">
 - [KaritaMW/printnightmare-detection-mitigation-lab](https://github.com/KaritaMW/printnightmare-detection-mitigation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/KaritaMW/printnightmare-detection-mitigation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/KaritaMW/printnightmare-detection-mitigation-lab">
 - [joertx07/printnightmare-detection-lab](https://github.com/joertx07/printnightmare-detection-lab)	<img alt="forks" src="https://img.shields.io/github/forks/joertx07/printnightmare-detection-lab">	<img alt="stars" src="https://img.shields.io/github/stars/joertx07/printnightmare-detection-lab">
+- [twi1ight00/PrintNightmare](https://github.com/twi1ight00/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/twi1ight00/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/twi1ight00/PrintNightmare">
 
 ---
 ## CVE-2021-34523 (2021-07-14T18:15:00)

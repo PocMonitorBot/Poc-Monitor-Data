@@ -1174,6 +1174,11 @@
 - [Live-Hack-CVE/CVE-2014-125027](https://github.com/Live-Hack-CVE/CVE-2014-125027)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2014-125027">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2014-125027">
 
 ---
+## CVE-2014-1106691 ()
+> 
+- [lucauL2dlek/java-sms-aye](https://github.com/lucauL2dlek/java-sms-aye)	<img alt="forks" src="https://img.shields.io/github/forks/lucauL2dlek/java-sms-aye">	<img alt="stars" src="https://img.shields.io/github/stars/lucauL2dlek/java-sms-aye">
+
+---
 ## CVE-2014-10069 ()
 > 
 - [aimoda/hitron-cfg-decrypter](https://github.com/aimoda/hitron-cfg-decrypter)	<img alt="forks" src="https://img.shields.io/github/forks/aimoda/hitron-cfg-decrypter">	<img alt="stars" src="https://img.shields.io/github/stars/aimoda/hitron-cfg-decrypter">

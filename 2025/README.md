@@ -4922,6 +4922,7 @@
 - [CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit](https://github.com/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2025-55182-Advanced-React-Server-Components-RCE-Exploit">
 - [balochkainat160-cyber/cs50-cybersecurity](https://github.com/balochkainat160-cyber/cs50-cybersecurity)	<img alt="forks" src="https://img.shields.io/github/forks/balochkainat160-cyber/cs50-cybersecurity">	<img alt="stars" src="https://img.shields.io/github/stars/balochkainat160-cyber/cs50-cybersecurity">
 - [kevin9480/Security_incident_report](https://github.com/kevin9480/Security_incident_report)	<img alt="forks" src="https://img.shields.io/github/forks/kevin9480/Security_incident_report">	<img alt="stars" src="https://img.shields.io/github/stars/kevin9480/Security_incident_report">
+- [PhanHoangKhang/React2Shell](https://github.com/PhanHoangKhang/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/PhanHoangKhang/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/PhanHoangKhang/React2Shell">
 
 ---
 ## CVE-2025-55177 ()
@@ -10677,6 +10678,7 @@
 - [zbs54/Blackash-CVE-2025-24071](https://github.com/zbs54/Blackash-CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/zbs54/Blackash-CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/zbs54/Blackash-CVE-2025-24071">
 - [ephunter/CVE-2025-24071-Exploit](https://github.com/ephunter/CVE-2025-24071-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ephunter/CVE-2025-24071-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ephunter/CVE-2025-24071-Exploit">
 - [Fomovet/cve-2025-24071](https://github.com/Fomovet/cve-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24071">
+- [kaIIsyms/CVE-2025-24071](https://github.com/kaIIsyms/CVE-2025-24071)	<img alt="forks" src="https://img.shields.io/github/forks/kaIIsyms/CVE-2025-24071">	<img alt="stars" src="https://img.shields.io/github/stars/kaIIsyms/CVE-2025-24071">
 
 ---
 ## CVE-2025-24054 ()
@@ -11093,6 +11095,7 @@
 - [ma4the/omae-wa-cheese-da](https://github.com/ma4the/omae-wa-cheese-da)	<img alt="forks" src="https://img.shields.io/github/forks/ma4the/omae-wa-cheese-da">	<img alt="stars" src="https://img.shields.io/github/stars/ma4the/omae-wa-cheese-da">
 - [CamsShaft/SELinux-Permissive-Only-CVE-2025-21479](https://github.com/CamsShaft/SELinux-Permissive-Only-CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/CamsShaft/SELinux-Permissive-Only-CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/CamsShaft/SELinux-Permissive-Only-CVE-2025-21479">
 - [Type010/cve-2025-21479-iqoo11pro](https://github.com/Type010/cve-2025-21479-iqoo11pro)	<img alt="forks" src="https://img.shields.io/github/forks/Type010/cve-2025-21479-iqoo11pro">	<img alt="stars" src="https://img.shields.io/github/stars/Type010/cve-2025-21479-iqoo11pro">
+- [linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479](https://github.com/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">
 
 ---
 ## CVE-2025-21420 ()
