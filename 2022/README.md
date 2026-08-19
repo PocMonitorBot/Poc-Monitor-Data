@@ -18178,6 +18178,7 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [sloden1977-lang/ROOT-ZTE-X1001](https://github.com/sloden1977-lang/ROOT-ZTE-X1001)	<img alt="forks" src="https://img.shields.io/github/forks/sloden1977-lang/ROOT-ZTE-X1001">	<img alt="stars" src="https://img.shields.io/github/stars/sloden1977-lang/ROOT-ZTE-X1001">
 - [LeoChen-CoreMind/spd_flasher](https://github.com/LeoChen-CoreMind/spd_flasher)	<img alt="forks" src="https://img.shields.io/github/forks/LeoChen-CoreMind/spd_flasher">	<img alt="stars" src="https://img.shields.io/github/stars/LeoChen-CoreMind/spd_flasher">
 - [mutur4/UnisocBootROMs](https://github.com/mutur4/UnisocBootROMs)	<img alt="forks" src="https://img.shields.io/github/forks/mutur4/UnisocBootROMs">	<img alt="stars" src="https://img.shields.io/github/stars/mutur4/UnisocBootROMs">
+- [xun404/spd_dump-macos](https://github.com/xun404/spd_dump-macos)	<img alt="forks" src="https://img.shields.io/github/forks/xun404/spd_dump-macos">	<img alt="stars" src="https://img.shields.io/github/stars/xun404/spd_dump-macos">
 
 ---
 ## CVE-2022-38691 ()

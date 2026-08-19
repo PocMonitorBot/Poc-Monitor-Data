@@ -2510,6 +2510,7 @@
 ## CVE-2025-62593 ()
 > 
 - [B1ack4sh/Blackash-CVE-2025-62593](https://github.com/B1ack4sh/Blackash-CVE-2025-62593)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-62593">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-62593">
+- [Boreas37/CVE-2025-62593-PoC](https://github.com/Boreas37/CVE-2025-62593-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Boreas37/CVE-2025-62593-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Boreas37/CVE-2025-62593-PoC">
 
 ---
 ## CVE-2025-6254 ()
@@ -3402,6 +3403,7 @@
 ## CVE-2025-5880 ()
 > 
 - [yacine-rm/CVE-2025-5880-PoC](https://github.com/yacine-rm/CVE-2025-5880-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/yacine-rm/CVE-2025-5880-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/yacine-rm/CVE-2025-5880-PoC">
+- [AC8999/CVE-2025-5880](https://github.com/AC8999/CVE-2025-5880)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-5880">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-5880">
 
 ---
 ## CVE-2025-58789 ()
