@@ -4925,6 +4925,7 @@
 - [balochkainat160-cyber/cs50-cybersecurity](https://github.com/balochkainat160-cyber/cs50-cybersecurity)	<img alt="forks" src="https://img.shields.io/github/forks/balochkainat160-cyber/cs50-cybersecurity">	<img alt="stars" src="https://img.shields.io/github/stars/balochkainat160-cyber/cs50-cybersecurity">
 - [kevin9480/Security_incident_report](https://github.com/kevin9480/Security_incident_report)	<img alt="forks" src="https://img.shields.io/github/forks/kevin9480/Security_incident_report">	<img alt="stars" src="https://img.shields.io/github/stars/kevin9480/Security_incident_report">
 - [PhanHoangKhang/React2Shell](https://github.com/PhanHoangKhang/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/PhanHoangKhang/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/PhanHoangKhang/React2Shell">
+- [h3n1s3/React2shell-Research](https://github.com/h3n1s3/React2shell-Research)	<img alt="forks" src="https://img.shields.io/github/forks/h3n1s3/React2shell-Research">	<img alt="stars" src="https://img.shields.io/github/stars/h3n1s3/React2shell-Research">
 
 ---
 ## CVE-2025-55177 ()
@@ -10395,6 +10396,7 @@
 - [vasilysaint/CVE-2025-24893](https://github.com/vasilysaint/CVE-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/vasilysaint/CVE-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/vasilysaint/CVE-2025-24893">
 - [Fomovet/cve-2025-24893](https://github.com/Fomovet/cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/Fomovet/cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/Fomovet/cve-2025-24893">
 - [endusdksla/xwiki-cve-2025-24893](https://github.com/endusdksla/xwiki-cve-2025-24893)	<img alt="forks" src="https://img.shields.io/github/forks/endusdksla/xwiki-cve-2025-24893">	<img alt="stars" src="https://img.shields.io/github/stars/endusdksla/xwiki-cve-2025-24893">
+- [MattiaCervelli/CVE-2025-24893_Analysis](https://github.com/MattiaCervelli/CVE-2025-24893_Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/MattiaCervelli/CVE-2025-24893_Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/MattiaCervelli/CVE-2025-24893_Analysis">
 
 ---
 ## CVE-2025-24813 ()
@@ -11098,6 +11100,9 @@
 - [CamsShaft/SELinux-Permissive-Only-CVE-2025-21479](https://github.com/CamsShaft/SELinux-Permissive-Only-CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/CamsShaft/SELinux-Permissive-Only-CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/CamsShaft/SELinux-Permissive-Only-CVE-2025-21479">
 - [Type010/cve-2025-21479-iqoo11pro](https://github.com/Type010/cve-2025-21479-iqoo11pro)	<img alt="forks" src="https://img.shields.io/github/forks/Type010/cve-2025-21479-iqoo11pro">	<img alt="stars" src="https://img.shields.io/github/stars/Type010/cve-2025-21479-iqoo11pro">
 - [linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479](https://github.com/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">
+- [linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479](https://github.com/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/linux-tools/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">
+- [reaizuguo/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479](https://github.com/reaizuguo/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/reaizuguo/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/reaizuguo/vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">
+- [Qingizi7/cve-2025-21479_iqooneo8](https://github.com/Qingizi7/cve-2025-21479_iqooneo8)	<img alt="forks" src="https://img.shields.io/github/forks/Qingizi7/cve-2025-21479_iqooneo8">	<img alt="stars" src="https://img.shields.io/github/stars/Qingizi7/cve-2025-21479_iqooneo8">
 
 ---
 ## CVE-2025-21420 ()

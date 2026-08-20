@@ -4215,6 +4215,7 @@
 - [ccchme/CVE-2018-1058](https://github.com/ccchme/CVE-2018-1058)	<img alt="forks" src="https://img.shields.io/github/forks/ccchme/CVE-2018-1058">	<img alt="stars" src="https://img.shields.io/github/stars/ccchme/CVE-2018-1058">
 - [octodi/CVE-2018-10583](https://github.com/octodi/CVE-2018-10583)	<img alt="forks" src="https://img.shields.io/github/forks/octodi/CVE-2018-10583">	<img alt="stars" src="https://img.shields.io/github/stars/octodi/CVE-2018-10583">
 - [MrTaherAmine/CVE-2018-10583](https://github.com/MrTaherAmine/CVE-2018-10583)	<img alt="forks" src="https://img.shields.io/github/forks/MrTaherAmine/CVE-2018-10583">	<img alt="stars" src="https://img.shields.io/github/stars/MrTaherAmine/CVE-2018-10583">
+- [mthamil107/DB_Audit_Research](https://github.com/mthamil107/DB_Audit_Research)	<img alt="forks" src="https://img.shields.io/github/forks/mthamil107/DB_Audit_Research">	<img alt="stars" src="https://img.shields.io/github/stars/mthamil107/DB_Audit_Research">
 
 ---
 ## CVE-2018-1057 (2018-03-13T16:29:00)

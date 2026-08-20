@@ -530,6 +530,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [mdiqbalahmad/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN](https://github.com/mdiqbalahmad/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN)	<img alt="forks" src="https://img.shields.io/github/forks/mdiqbalahmad/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN">	<img alt="stars" src="https://img.shields.io/github/stars/mdiqbalahmad/cve-2024-8069-exp-Citrix-Virtual-Apps-XEN">
 
 ---
+## CVE-2024-8068 ()
+> 
+- [HORKimhab/CVE-2024-8068-CVE-2024-8069](https://github.com/HORKimhab/CVE-2024-8068-CVE-2024-8069)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2024-8068-CVE-2024-8069">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2024-8068-CVE-2024-8069">
+
+---
 ## CVE-2024-8030 (2024-08-28T03:15:00)
 > The Ultimate Store Kit Elementor Addons, Woocommerce Builder, EDD Builder, Elementor Store Builder, Product Grid, Product Table, Woocommerce Slider plugin is vulnerable to PHP Object Injection via deserialization of untrusted input via the _ultimate_store_kit_wishlist cookie in versions up to , and including, 2.0.3. This makes it possible for an unauthenticated attacker to inject a PHP Object. No POP chain is present in the vulnerable plugin. If a POP chain is present via an additional plugin or theme installed on the target system, it could allow the attacker or above to delete arbitrary files, retrieve sensitive data, or execute code.
 - [codeb0ss/CVE-2024-8030-PoC](https://github.com/codeb0ss/CVE-2024-8030-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2024-8030-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2024-8030-PoC">
@@ -8416,6 +8421,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [akabe1/Graver](https://github.com/akabe1/Graver)	<img alt="forks" src="https://img.shields.io/github/forks/akabe1/Graver">	<img alt="stars" src="https://img.shields.io/github/stars/akabe1/Graver">
 - [gunzf0x/Grav-CMS-RCE-Authenticated](https://github.com/gunzf0x/Grav-CMS-RCE-Authenticated)	<img alt="forks" src="https://img.shields.io/github/forks/gunzf0x/Grav-CMS-RCE-Authenticated">	<img alt="stars" src="https://img.shields.io/github/stars/gunzf0x/Grav-CMS-RCE-Authenticated">
 - [geniuszly/GenGravSSTIExploit](https://github.com/geniuszly/GenGravSSTIExploit)	<img alt="forks" src="https://img.shields.io/github/forks/geniuszly/GenGravSSTIExploit">	<img alt="stars" src="https://img.shields.io/github/stars/geniuszly/GenGravSSTIExploit">
+- [bebarossi/grav-cve-2024-28116](https://github.com/bebarossi/grav-cve-2024-28116)	<img alt="forks" src="https://img.shields.io/github/forks/bebarossi/grav-cve-2024-28116">	<img alt="stars" src="https://img.shields.io/github/stars/bebarossi/grav-cve-2024-28116">
 
 ---
 ## CVE-2024-28088 (2024-03-04T00:15:00)
@@ -11891,6 +11897,7 @@ We recommend upgrading past commit f342de4e2f33e0e39165d8639387aa6c19dff660.
 - [Luisbuilds-data/cve-2024-1086-writeup](https://github.com/Luisbuilds-data/cve-2024-1086-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Luisbuilds-data/cve-2024-1086-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Luisbuilds-data/cve-2024-1086-writeup">
 - [JHarv613/CVE_2024_1086_vulnerability_check](https://github.com/JHarv613/CVE_2024_1086_vulnerability_check)	<img alt="forks" src="https://img.shields.io/github/forks/JHarv613/CVE_2024_1086_vulnerability_check">	<img alt="stars" src="https://img.shields.io/github/stars/JHarv613/CVE_2024_1086_vulnerability_check">
 - [dopaminauta/onetwoseven-writeup](https://github.com/dopaminauta/onetwoseven-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/dopaminauta/onetwoseven-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/dopaminauta/onetwoseven-writeup">
+- [Vedantk6403/KOOBE-Guard](https://github.com/Vedantk6403/KOOBE-Guard)	<img alt="forks" src="https://img.shields.io/github/forks/Vedantk6403/KOOBE-Guard">	<img alt="stars" src="https://img.shields.io/github/stars/Vedantk6403/KOOBE-Guard">
 
 ---
 ## CVE-2024-10858 ()
