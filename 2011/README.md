@@ -211,6 +211,7 @@
 - [alexojocyber/cve-2011-2523-vsftpd-validation-lab](https://github.com/alexojocyber/cve-2011-2523-vsftpd-validation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/alexojocyber/cve-2011-2523-vsftpd-validation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/alexojocyber/cve-2011-2523-vsftpd-validation-lab">
 - [IrsaAttiqueCyber/SystemVulnerabilityChecklist_Project4_Decodelabs](https://github.com/IrsaAttiqueCyber/SystemVulnerabilityChecklist_Project4_Decodelabs)	<img alt="forks" src="https://img.shields.io/github/forks/IrsaAttiqueCyber/SystemVulnerabilityChecklist_Project4_Decodelabs">	<img alt="stars" src="https://img.shields.io/github/stars/IrsaAttiqueCyber/SystemVulnerabilityChecklist_Project4_Decodelabs">
 - [sonalisarkar-2003/FTP-vsFTPD-CVE-2011-2523-VAPT-Report](https://github.com/sonalisarkar-2003/FTP-vsFTPD-CVE-2011-2523-VAPT-Report)	<img alt="forks" src="https://img.shields.io/github/forks/sonalisarkar-2003/FTP-vsFTPD-CVE-2011-2523-VAPT-Report">	<img alt="stars" src="https://img.shields.io/github/stars/sonalisarkar-2003/FTP-vsFTPD-CVE-2011-2523-VAPT-Report">
+- [Stacyy-Were/CVE-2011-2523](https://github.com/Stacyy-Were/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Stacyy-Were/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Stacyy-Were/CVE-2011-2523">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
