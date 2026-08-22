@@ -11351,6 +11351,11 @@ authentication.   
 - [RandomRobbieBF/CVE-2024-13184](https://github.com/RandomRobbieBF/CVE-2024-13184)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-13184">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-13184">
 
 ---
+## CVE-2024-13176 ()
+> 
+- [Haomin-Yu/cve-2024-13176-timing-analysis](https://github.com/Haomin-Yu/cve-2024-13176-timing-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Haomin-Yu/cve-2024-13176-timing-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Haomin-Yu/cve-2024-13176-timing-analysis">
+
+---
 ## CVE-2024-13159 ()
 > 
 - [horizon3ai/Ivanti-EPM-Coercion-Vulnerabilities](https://github.com/horizon3ai/Ivanti-EPM-Coercion-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/horizon3ai/Ivanti-EPM-Coercion-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/horizon3ai/Ivanti-EPM-Coercion-Vulnerabilities">
