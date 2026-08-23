@@ -318,7 +318,7 @@
 - [e-renna/CVE-2019-9053](https://github.com/e-renna/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/e-renna/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/e-renna/CVE-2019-9053">
 - [maraspiras/46635.py](https://github.com/maraspiras/46635.py)	<img alt="forks" src="https://img.shields.io/github/forks/maraspiras/46635.py">	<img alt="stars" src="https://img.shields.io/github/stars/maraspiras/46635.py">
 - [padsalatushal/CVE-2019-9053](https://github.com/padsalatushal/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/padsalatushal/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/padsalatushal/CVE-2019-9053">
-- [SUNNYSAINI01001/46635.py_CVE-2019-9053](https://github.com/SUNNYSAINI01001/46635.py_CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/SUNNYSAINI01001/46635.py_CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/SUNNYSAINI01001/46635.py_CVE-2019-9053">
+- [d3athcod3/46635.py_CVE-2019-9053](https://github.com/d3athcod3/46635.py_CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/d3athcod3/46635.py_CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/d3athcod3/46635.py_CVE-2019-9053">
 - [pedrojosenavasperez/CVE-2019-9053-Python3](https://github.com/pedrojosenavasperez/CVE-2019-9053-Python3)	<img alt="forks" src="https://img.shields.io/github/forks/pedrojosenavasperez/CVE-2019-9053-Python3">	<img alt="stars" src="https://img.shields.io/github/stars/pedrojosenavasperez/CVE-2019-9053-Python3">
 - [STERN3L/CVE-2019-9053](https://github.com/STERN3L/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/STERN3L/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/STERN3L/CVE-2019-9053">
 - [Mahamedm/CVE-2019-9053-Exploit-Python-3](https://github.com/Mahamedm/CVE-2019-9053-Exploit-Python-3)	<img alt="forks" src="https://img.shields.io/github/forks/Mahamedm/CVE-2019-9053-Exploit-Python-3">	<img alt="stars" src="https://img.shields.io/github/stars/Mahamedm/CVE-2019-9053-Exploit-Python-3">
@@ -370,6 +370,7 @@
 - [rideckszz/poc-CVE-2019-9053](https://github.com/rideckszz/poc-CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/rideckszz/poc-CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/rideckszz/poc-CVE-2019-9053">
 - [rgkue/mysqli](https://github.com/rgkue/mysqli)	<img alt="forks" src="https://img.shields.io/github/forks/rgkue/mysqli">	<img alt="stars" src="https://img.shields.io/github/stars/rgkue/mysqli">
 - [Vedantrana73/cve-2019-9053-py3](https://github.com/Vedantrana73/cve-2019-9053-py3)	<img alt="forks" src="https://img.shields.io/github/forks/Vedantrana73/cve-2019-9053-py3">	<img alt="stars" src="https://img.shields.io/github/stars/Vedantrana73/cve-2019-9053-py3">
+- [quliyevresul7777/CVE-2019-9053](https://github.com/quliyevresul7777/CVE-2019-9053)	<img alt="forks" src="https://img.shields.io/github/forks/quliyevresul7777/CVE-2019-9053">	<img alt="stars" src="https://img.shields.io/github/stars/quliyevresul7777/CVE-2019-9053">
 
 ---
 ## CVE-2019-905 ()
@@ -6036,6 +6037,7 @@ use after free.
 - [mt-code/CVE-2019-11447](https://github.com/mt-code/CVE-2019-11447)	<img alt="forks" src="https://img.shields.io/github/forks/mt-code/CVE-2019-11447">	<img alt="stars" src="https://img.shields.io/github/stars/mt-code/CVE-2019-11447">
 - [CRFSlick/CVE-2019-11447-POC](https://github.com/CRFSlick/CVE-2019-11447-POC)	<img alt="forks" src="https://img.shields.io/github/forks/CRFSlick/CVE-2019-11447-POC">	<img alt="stars" src="https://img.shields.io/github/stars/CRFSlick/CVE-2019-11447-POC">
 - [ojo5/CVE-2019-11447.c](https://github.com/ojo5/CVE-2019-11447.c)	<img alt="forks" src="https://img.shields.io/github/forks/ojo5/CVE-2019-11447.c">	<img alt="stars" src="https://img.shields.io/github/stars/ojo5/CVE-2019-11447.c">
+- [capivara-research/WordPress-Path-Traversal-CVE-2019-11447](https://github.com/capivara-research/WordPress-Path-Traversal-CVE-2019-11447)	<img alt="forks" src="https://img.shields.io/github/forks/capivara-research/WordPress-Path-Traversal-CVE-2019-11447">	<img alt="stars" src="https://img.shields.io/github/stars/capivara-research/WordPress-Path-Traversal-CVE-2019-11447">
 
 ---
 ## CVE-2019-11408 ()

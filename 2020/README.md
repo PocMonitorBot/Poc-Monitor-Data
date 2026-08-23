@@ -7178,6 +7178,12 @@
 - [Dilshan-Eranda/CVE-2020-13699](https://github.com/Dilshan-Eranda/CVE-2020-13699)	<img alt="forks" src="https://img.shields.io/github/forks/Dilshan-Eranda/CVE-2020-13699">	<img alt="stars" src="https://img.shields.io/github/stars/Dilshan-Eranda/CVE-2020-13699">
 
 ---
+## CVE-2020-13671 ()
+> 
+- [Dungsocool/CVE-2020-13671](https://github.com/Dungsocool/CVE-2020-13671)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2020-13671">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2020-13671">
+- [Dungsocool/CVE-2020-13671-old](https://github.com/Dungsocool/CVE-2020-13671-old)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2020-13671-old">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2020-13671-old">
+
+---
 ## CVE-2020-13659 (2020-06-02T13:15:00)
 > address_space_map in exec.c in QEMU 4.2.0 can trigger a NULL pointer dereference related to BounceBuffer.
 - [Live-Hack-CVE/CVE-2020-13659](https://github.com/Live-Hack-CVE/CVE-2020-13659)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-13659">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-13659">

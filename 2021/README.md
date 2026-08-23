@@ -11131,6 +11131,11 @@
 - [FunPhishing/CVE-2021-24096](https://github.com/FunPhishing/CVE-2021-24096)	<img alt="forks" src="https://img.shields.io/github/forks/FunPhishing/CVE-2021-24096">	<img alt="stars" src="https://img.shields.io/github/stars/FunPhishing/CVE-2021-24096">
 
 ---
+## CVE-2021-24092 ()
+> 
+- [HORKimhab/CVE-2021-24092](https://github.com/HORKimhab/CVE-2021-24092)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2021-24092">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2021-24092">
+
+---
 ## CVE-2021-24086 ()
 > 
 - [0vercl0k/CVE-2021-24086](https://github.com/0vercl0k/CVE-2021-24086)	<img alt="forks" src="https://img.shields.io/github/forks/0vercl0k/CVE-2021-24086">	<img alt="stars" src="https://img.shields.io/github/stars/0vercl0k/CVE-2021-24086">

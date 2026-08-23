@@ -2937,6 +2937,7 @@ length to be included in the checksum calculation is fully consumed.
 - [codetronik/CVE-2024-49138](https://github.com/codetronik/CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/codetronik/CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/codetronik/CVE-2024-49138">
 - [vettrivel007/CVE-2024-49138](https://github.com/vettrivel007/CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/vettrivel007/CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/vettrivel007/CVE-2024-49138">
 - [Zedocun/soc-investigation-powershell-edrfreeze](https://github.com/Zedocun/soc-investigation-powershell-edrfreeze)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/soc-investigation-powershell-edrfreeze">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/soc-investigation-powershell-edrfreeze">
+- [basitsajidapply-stack/SOC-Investigation-CVE-2024-49138](https://github.com/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138">
 
 ---
 ## CVE-2024-49117 ()
@@ -8452,6 +8453,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [SSSSuperX/CVE-2024-28000](https://github.com/SSSSuperX/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/SSSSuperX/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/SSSSuperX/CVE-2024-28000">
 - [JohnDoeAnonITA/CVE-2024-28000](https://github.com/JohnDoeAnonITA/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/JohnDoeAnonITA/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/JohnDoeAnonITA/CVE-2024-28000">
 - [AliHzSec/CVE-2024-28000](https://github.com/AliHzSec/CVE-2024-28000)	<img alt="forks" src="https://img.shields.io/github/forks/AliHzSec/CVE-2024-28000">	<img alt="stars" src="https://img.shields.io/github/stars/AliHzSec/CVE-2024-28000">
+- [shawnng078-ops/CVE-2024-28000-Exploit-Lab](https://github.com/shawnng078-ops/CVE-2024-28000-Exploit-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/shawnng078-ops/CVE-2024-28000-Exploit-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/shawnng078-ops/CVE-2024-28000-Exploit-Lab">
 
 ---
 ## CVE-2024-27983 (2024-04-09T01:15:00)
@@ -9852,7 +9854,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 ---
 ## CVE-2024-23692 (2024-05-31T10:15:00)
 > Rejetto HTTP File Server, up to and including version 2.3m, is vulnerable to a template injection vulnerability. This vulnerability allows a remote, unauthenticated attacker to execute arbitrary commands on the affected system by sending a specially crafted HTTP request. As of the CVE assignment date, Rejetto HFS 2.3m is no longer supported.
-- [k3lpi3b4nsh33/CVE-2024-23692](https://github.com/k3lpi3b4nsh33/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/k3lpi3b4nsh33/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/k3lpi3b4nsh33/CVE-2024-23692">
+- [NanoWraith/CVE-2024-23692](https://github.com/NanoWraith/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/NanoWraith/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/NanoWraith/CVE-2024-23692">
 - [jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS](https://github.com/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS)	<img alt="forks" src="https://img.shields.io/github/forks/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS">	<img alt="stars" src="https://img.shields.io/github/stars/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS">
 - [WanLiChangChengWanLiChang/CVE-2024-23692-RCE](https://github.com/WanLiChangChengWanLiChang/CVE-2024-23692-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-23692-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-23692-RCE">
 - [vanboomqi/CVE-2024-23692](https://github.com/vanboomqi/CVE-2024-23692)	<img alt="forks" src="https://img.shields.io/github/forks/vanboomqi/CVE-2024-23692">	<img alt="stars" src="https://img.shields.io/github/stars/vanboomqi/CVE-2024-23692">
