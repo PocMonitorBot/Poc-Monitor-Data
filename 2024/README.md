@@ -64,6 +64,11 @@
 - [M8seven/cve-2026-11837-ansible-posix-authorized-key](https://github.com/M8seven/cve-2026-11837-ansible-posix-authorized-key)	<img alt="forks" src="https://img.shields.io/github/forks/M8seven/cve-2026-11837-ansible-posix-authorized-key">	<img alt="stars" src="https://img.shields.io/github/stars/M8seven/cve-2026-11837-ansible-posix-authorized-key">
 
 ---
+## CVE-2024-99001 ()
+> 
+- [gduma-phData/patch-CVE-2024-99001](https://github.com/gduma-phData/patch-CVE-2024-99001)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2024-99001">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2024-99001">
+
+---
 ## CVE-2024-9890 (2024-10-26T03:15:00)
 > The User Toolkit plugin for WordPress is vulnerable to authentication bypass in versions up to, and including, 1.2.3. This is due to an improper capability check in the 'switchUser' function. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to log in as any existing user on the site, such as an administrator.
 - [RandomRobbieBF/CVE-2024-9890](https://github.com/RandomRobbieBF/CVE-2024-9890)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-9890">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-9890">
@@ -247,6 +252,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [amalpvatayam67/day05-grafana-sqlexpr-lab](https://github.com/amalpvatayam67/day05-grafana-sqlexpr-lab)	<img alt="forks" src="https://img.shields.io/github/forks/amalpvatayam67/day05-grafana-sqlexpr-lab">	<img alt="stars" src="https://img.shields.io/github/stars/amalpvatayam67/day05-grafana-sqlexpr-lab">
 - [yeonchoda/CVE-2024-9264](https://github.com/yeonchoda/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/yeonchoda/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/yeonchoda/CVE-2024-9264">
 - [ozcanpng/CVE-2024-9264](https://github.com/ozcanpng/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2024-9264">
+- [barun121/CVE-2024-9264-in-Grafana-11.x](https://github.com/barun121/CVE-2024-9264-in-Grafana-11.x)	<img alt="forks" src="https://img.shields.io/github/forks/barun121/CVE-2024-9264-in-Grafana-11.x">	<img alt="stars" src="https://img.shields.io/github/stars/barun121/CVE-2024-9264-in-Grafana-11.x">
 
 ---
 ## CVE-2024-9263 (2024-10-17T04:15:00)
@@ -346,6 +352,11 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [ubaydev/CVE-2024-8856](https://github.com/ubaydev/CVE-2024-8856)	<img alt="forks" src="https://img.shields.io/github/forks/ubaydev/CVE-2024-8856">	<img alt="stars" src="https://img.shields.io/github/stars/ubaydev/CVE-2024-8856">
 - [Jenderal92/CVE-2024-8856](https://github.com/Jenderal92/CVE-2024-8856)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2024-8856">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2024-8856">
 - [Evillm/CVE-2024-8856-PoC](https://github.com/Evillm/CVE-2024-8856-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Evillm/CVE-2024-8856-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Evillm/CVE-2024-8856-PoC">
+
+---
+## CVE-2024-88555 ()
+> 
+- [gduma-phData/patch-CVE-2024-88555](https://github.com/gduma-phData/patch-CVE-2024-88555)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2024-88555">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2024-88555">
 
 ---
 ## CVE-2024-8752 (2024-09-16T16:15:00)

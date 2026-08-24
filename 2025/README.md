@@ -6863,6 +6863,11 @@
 - [mbanyamer/mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE](https://github.com/mbanyamer/mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE">
 
 ---
+## CVE-2025-47029 ()
+> 
+- [gduma-phData/patch-CVE-2025-47029](https://github.com/gduma-phData/patch-CVE-2025-47029)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-47029">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-47029">
+
+---
 ## CVE-2025-4688 ()
 > 
 - [sahici/CVE-2025-4688](https://github.com/sahici/CVE-2025-4688)	<img alt="forks" src="https://img.shields.io/github/forks/sahici/CVE-2025-4688">	<img alt="stars" src="https://img.shields.io/github/stars/sahici/CVE-2025-4688">
@@ -7238,6 +7243,11 @@
 - [skraft9/CVE-2025-44823](https://github.com/skraft9/CVE-2025-44823)	<img alt="forks" src="https://img.shields.io/github/forks/skraft9/CVE-2025-44823">	<img alt="stars" src="https://img.shields.io/github/stars/skraft9/CVE-2025-44823">
 
 ---
+## CVE-2025-44810 ()
+> 
+- [gduma-phData/patch-CVE-2025-44810](https://github.com/gduma-phData/patch-CVE-2025-44810)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-44810">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-44810">
+
+---
 ## CVE-2025-4476 ()
 > 
 - [soltanali0/CVE-2025-4476-Exploit](https://github.com/soltanali0/CVE-2025-4476-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/soltanali0/CVE-2025-4476-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/soltanali0/CVE-2025-4476-Exploit">
@@ -7513,6 +7523,11 @@
 - [cyruscostini/CVE-2025-42599](https://github.com/cyruscostini/CVE-2025-42599)	<img alt="forks" src="https://img.shields.io/github/forks/cyruscostini/CVE-2025-42599">	<img alt="stars" src="https://img.shields.io/github/stars/cyruscostini/CVE-2025-42599">
 
 ---
+## CVE-2025-42558 ()
+> 
+- [gduma-phData/patch-CVE-2025-42558](https://github.com/gduma-phData/patch-CVE-2025-42558)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-42558">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-42558">
+
+---
 ## CVE-2025-422031 ()
 > 
 - [NotItsSixtyN3in/CVE-2025-422031](https://github.com/NotItsSixtyN3in/CVE-2025-422031)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-422031">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-422031">
@@ -7781,6 +7796,11 @@
 - [Yuri08loveElaina/CVE-2025-40214](https://github.com/Yuri08loveElaina/CVE-2025-40214)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-40214">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-40214">
 
 ---
+## CVE-2025-40123 ()
+> 
+- [gduma-phData/patch-CVE-2025-40123](https://github.com/gduma-phData/patch-CVE-2025-40123)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-40123">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-40123">
+
+---
 ## CVE-2025-4009 ()
 > 
 - [realcodeb0ss/CVE-2025-4009](https://github.com/realcodeb0ss/CVE-2025-4009)	<img alt="forks" src="https://img.shields.io/github/forks/realcodeb0ss/CVE-2025-4009">	<img alt="stars" src="https://img.shields.io/github/stars/realcodeb0ss/CVE-2025-4009">
@@ -7895,6 +7915,11 @@
 - [LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload](https://github.com/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload)	<img alt="forks" src="https://img.shields.io/github/forks/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload">	<img alt="stars" src="https://img.shields.io/github/stars/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload">
 
 ---
+## CVE-2025-38900 ()
+> 
+- [gduma-phData/patch-CVE-2025-38900](https://github.com/gduma-phData/patch-CVE-2025-38900)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-38900">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-38900">
+
+---
 ## CVE-2025-38678 ()
 > 
 - [guard-wait/CVE-2025-38678_POC](https://github.com/guard-wait/CVE-2025-38678_POC)	<img alt="forks" src="https://img.shields.io/github/forks/guard-wait/CVE-2025-38678_POC">	<img alt="stars" src="https://img.shields.io/github/stars/guard-wait/CVE-2025-38678_POC">
@@ -7972,6 +7997,11 @@
 - [Totunm/CVE-2025-3776](https://github.com/Totunm/CVE-2025-3776)	<img alt="forks" src="https://img.shields.io/github/forks/Totunm/CVE-2025-3776">	<img alt="stars" src="https://img.shields.io/github/stars/Totunm/CVE-2025-3776">
 
 ---
+## CVE-2025-37654 ()
+> 
+- [gduma-phData/patch-CVE-2025-37654](https://github.com/gduma-phData/patch-CVE-2025-37654)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-37654">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-37654">
+
+---
 ## CVE-2025-37164 ()
 > 
 - [rxerium/CVE-2025-37164](https://github.com/rxerium/CVE-2025-37164)	<img alt="forks" src="https://img.shields.io/github/forks/rxerium/CVE-2025-37164">	<img alt="stars" src="https://img.shields.io/github/stars/rxerium/CVE-2025-37164">
@@ -8042,6 +8072,11 @@
 - [Nxploited/CVE-2025-3604](https://github.com/Nxploited/CVE-2025-3604)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-3604">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-3604">
 
 ---
+## CVE-2025-36001 ()
+> 
+- [gduma-phData/patch-CVE-2025-36001](https://github.com/gduma-phData/patch-CVE-2025-36001)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-36001">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-36001">
+
+---
 ## CVE-2025-3568 ()
 > 
 - [shellkraft/CVE-2025-3568](https://github.com/shellkraft/CVE-2025-3568)	<img alt="forks" src="https://img.shields.io/github/forks/shellkraft/CVE-2025-3568">	<img alt="stars" src="https://img.shields.io/github/stars/shellkraft/CVE-2025-3568">
@@ -8064,6 +8099,11 @@
 ## CVE-2025-3464 ()
 > 
 - [jeffaf/CVE-2025-3464-AsIO3-LPE](https://github.com/jeffaf/CVE-2025-3464-AsIO3-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/jeffaf/CVE-2025-3464-AsIO3-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/jeffaf/CVE-2025-3464-AsIO3-LPE">
+
+---
+## CVE-2025-34555 ()
+> 
+- [gduma-phData/patch-CVE-2025-34555](https://github.com/gduma-phData/patch-CVE-2025-34555)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-34555">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-34555">
 
 ---
 ## CVE-2025-34462 ()
@@ -8213,6 +8253,11 @@
 - [tinkerlev/commvault-cve2025-34028-check](https://github.com/tinkerlev/commvault-cve2025-34028-check)	<img alt="forks" src="https://img.shields.io/github/forks/tinkerlev/commvault-cve2025-34028-check">	<img alt="stars" src="https://img.shields.io/github/stars/tinkerlev/commvault-cve2025-34028-check">
 - [becrevex/Commvault-CVE-2025-34028](https://github.com/becrevex/Commvault-CVE-2025-34028)	<img alt="forks" src="https://img.shields.io/github/forks/becrevex/Commvault-CVE-2025-34028">	<img alt="stars" src="https://img.shields.io/github/stars/becrevex/Commvault-CVE-2025-34028">
 - [Mattb709/CVE-2025-34028-PoC-Commvault-RCE](https://github.com/Mattb709/CVE-2025-34028-PoC-Commvault-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Mattb709/CVE-2025-34028-PoC-Commvault-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Mattb709/CVE-2025-34028-PoC-Commvault-RCE">
+
+---
+## CVE-2025-33210 ()
+> 
+- [gduma-phData/patch-CVE-2025-33210](https://github.com/gduma-phData/patch-CVE-2025-33210)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-33210">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-33210">
 
 ---
 ## CVE-2025-33073 ()
@@ -8754,6 +8799,11 @@
 - [DoTTak/CVE-2025-31864](https://github.com/DoTTak/CVE-2025-31864)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2025-31864">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2025-31864">
 
 ---
+## CVE-2025-31800 ()
+> 
+- [gduma-phData/patch-CVE-2025-31800](https://github.com/gduma-phData/patch-CVE-2025-31800)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-31800">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-31800">
+
+---
 ## CVE-2025-31722 ()
 > 
 - [Nick6371/CVE-2025-31722](https://github.com/Nick6371/CVE-2025-31722)	<img alt="forks" src="https://img.shields.io/github/forks/Nick6371/CVE-2025-31722">	<img alt="stars" src="https://img.shields.io/github/stars/Nick6371/CVE-2025-31722">
@@ -9032,6 +9082,11 @@
 ## CVE-2025-3047 ()
 > 
 - [murataydemir/AWS-SAM-CLI-Vulnerabilities](https://github.com/murataydemir/AWS-SAM-CLI-Vulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/murataydemir/AWS-SAM-CLI-Vulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/murataydemir/AWS-SAM-CLI-Vulnerabilities">
+
+---
+## CVE-2025-30456 ()
+> 
+- [gduma-phData/patch-CVE-2025-30456](https://github.com/gduma-phData/patch-CVE-2025-30456)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-30456">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-30456">
 
 ---
 ## CVE-2025-30406 ()
@@ -9497,6 +9552,11 @@
 - [0xBl4nk/CVE-2025-29275](https://github.com/0xBl4nk/CVE-2025-29275)	<img alt="forks" src="https://img.shields.io/github/forks/0xBl4nk/CVE-2025-29275">	<img alt="stars" src="https://img.shields.io/github/stars/0xBl4nk/CVE-2025-29275">
 
 ---
+## CVE-2025-29111 ()
+> 
+- [gduma-phData/patch-CVE-2025-29111](https://github.com/gduma-phData/patch-CVE-2025-29111)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-29111">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-29111">
+
+---
 ## CVE-2025-29094 ()
 > 
 - [FraMarcuccio/CVE-2025-29094-Multiple-Stored-Cross-Site-Scripting-XSS](https://github.com/FraMarcuccio/CVE-2025-29094-Multiple-Stored-Cross-Site-Scripting-XSS)	<img alt="forks" src="https://img.shields.io/github/forks/FraMarcuccio/CVE-2025-29094-Multiple-Stored-Cross-Site-Scripting-XSS">	<img alt="stars" src="https://img.shields.io/github/stars/FraMarcuccio/CVE-2025-29094-Multiple-Stored-Cross-Site-Scripting-XSS">
@@ -9606,6 +9666,11 @@
 ## CVE-2025-27893 ()
 > 
 - [NastyCrow/CVE-2025-27893](https://github.com/NastyCrow/CVE-2025-27893)	<img alt="forks" src="https://img.shields.io/github/forks/NastyCrow/CVE-2025-27893">	<img alt="stars" src="https://img.shields.io/github/stars/NastyCrow/CVE-2025-27893">
+
+---
+## CVE-2025-27890 ()
+> 
+- [gduma-phData/patch-CVE-2025-27890](https://github.com/gduma-phData/patch-CVE-2025-27890)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-27890">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-27890">
 
 ---
 ## CVE-2025-27840 ()
@@ -9848,6 +9913,11 @@
 ## CVE-2025-26624 ()
 > 
 - [havertz2110/CVE-2025-26624](https://github.com/havertz2110/CVE-2025-26624)	<img alt="forks" src="https://img.shields.io/github/forks/havertz2110/CVE-2025-26624">	<img alt="stars" src="https://img.shields.io/github/stars/havertz2110/CVE-2025-26624">
+
+---
+## CVE-2025-26543 ()
+> 
+- [gduma-phData/patch-CVE-2025-26543](https://github.com/gduma-phData/patch-CVE-2025-26543)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-26543">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-26543">
 
 ---
 ## CVE-2025-26529 ()
@@ -10255,6 +10325,7 @@
 ## CVE-2025-25200 ()
 > 
 - [dwictor0/PoC-CVE-2025-25200](https://github.com/dwictor0/PoC-CVE-2025-25200)	<img alt="forks" src="https://img.shields.io/github/forks/dwictor0/PoC-CVE-2025-25200">	<img alt="stars" src="https://img.shields.io/github/stars/dwictor0/PoC-CVE-2025-25200">
+- [gduma-phData/patch-CVE-2025-25200](https://github.com/gduma-phData/patch-CVE-2025-25200)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-25200">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-25200">
 
 ---
 ## CVE-2025-25198 ()
@@ -10739,6 +10810,11 @@
 - [Puben/CVE-2025-24011-PoC](https://github.com/Puben/CVE-2025-24011-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Puben/CVE-2025-24011-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Puben/CVE-2025-24011-PoC">
 
 ---
+## CVE-2025-24001 ()
+> 
+- [gduma-phData/patch-CVE-2025-24001](https://github.com/gduma-phData/patch-CVE-2025-24001)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-24001">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-24001">
+
+---
 ## CVE-2025-24000 ()
 > 
 - [bsdrip/CVE-2025-24000-exploit](https://github.com/bsdrip/CVE-2025-24000-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/bsdrip/CVE-2025-24000-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/bsdrip/CVE-2025-24000-exploit">
@@ -10936,6 +11012,8 @@
 > 
 - [SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-](https://github.com/SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/SevDMG/CVE-2025-22777-GiveWP-Plugin-PHP-Object-Injection-Point-PoC-">
 - [RandomRobbieBF/CVE-2025-22777](https://github.com/RandomRobbieBF/CVE-2025-22777)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-22777">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-22777">
+- [gduma-phData/patch-CVE-2025-22777](https://github.com/gduma-phData/patch-CVE-2025-22777)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-22777">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-22777">
+- [wcnmwcis/CVE-2026-22777](https://github.com/wcnmwcis/CVE-2026-22777)	<img alt="forks" src="https://img.shields.io/github/forks/wcnmwcis/CVE-2026-22777">	<img alt="stars" src="https://img.shields.io/github/stars/wcnmwcis/CVE-2026-22777">
 
 ---
 ## CVE-2025-22710 ()
@@ -11125,6 +11203,11 @@
 > 
 - [Wa1nut4/CVE-2025-2135](https://github.com/Wa1nut4/CVE-2025-2135)	<img alt="forks" src="https://img.shields.io/github/forks/Wa1nut4/CVE-2025-2135">	<img alt="stars" src="https://img.shields.io/github/stars/Wa1nut4/CVE-2025-2135">
 - [sangnguyenthien/CVE-2025-2135](https://github.com/sangnguyenthien/CVE-2025-2135)	<img alt="forks" src="https://img.shields.io/github/forks/sangnguyenthien/CVE-2025-2135">	<img alt="stars" src="https://img.shields.io/github/stars/sangnguyenthien/CVE-2025-2135">
+
+---
+## CVE-2025-21340 ()
+> 
+- [gduma-phData/patch-CVE-2025-21340](https://github.com/gduma-phData/patch-CVE-2025-21340)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-21340">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-21340">
 
 ---
 ## CVE-2025-21333 ()
@@ -11370,6 +11453,11 @@
 - [ftz7/Cisco-ISE-3.0---Remote-Code-Execution-RCE-](https://github.com/ftz7/Cisco-ISE-3.0---Remote-Code-Execution-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/ftz7/Cisco-ISE-3.0---Remote-Code-Execution-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/ftz7/Cisco-ISE-3.0---Remote-Code-Execution-RCE-">
 
 ---
+## CVE-2025-20115 ()
+> 
+- [gduma-phData/patch-CVE-2025-20115](https://github.com/gduma-phData/patch-CVE-2025-20115)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-20115">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-20115">
+
+---
 ## CVE-2025-2011 ()
 > 
 - [datagoboom/CVE-2025-2011](https://github.com/datagoboom/CVE-2025-2011)	<img alt="forks" src="https://img.shields.io/github/forks/datagoboom/CVE-2025-2011">	<img alt="stars" src="https://img.shields.io/github/stars/datagoboom/CVE-2025-2011">
@@ -11438,6 +11526,11 @@
 - [lutrasecurity/CVE-2025-1910-WatchGuard-Privilege-Escalation](https://github.com/lutrasecurity/CVE-2025-1910-WatchGuard-Privilege-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/lutrasecurity/CVE-2025-1910-WatchGuard-Privilege-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/lutrasecurity/CVE-2025-1910-WatchGuard-Privilege-Escalation">
 
 ---
+## CVE-2025-19000 ()
+> 
+- [gduma-phData/patch-CVE-2025-19000](https://github.com/gduma-phData/patch-CVE-2025-19000)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-19000">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-19000">
+
+---
 ## CVE-2025-1868 ()
 > 
 - [itres-labs/CVE-2025-1868](https://github.com/itres-labs/CVE-2025-1868)	<img alt="forks" src="https://img.shields.io/github/forks/itres-labs/CVE-2025-1868">	<img alt="stars" src="https://img.shields.io/github/stars/itres-labs/CVE-2025-1868">
@@ -11446,6 +11539,11 @@
 ## CVE-2025-1793 ()
 > 
 - [Usama-Figueira/-CVE-2025-1793-poc](https://github.com/Usama-Figueira/-CVE-2025-1793-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Usama-Figueira/-CVE-2025-1793-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Usama-Figueira/-CVE-2025-1793-poc">
+
+---
+## CVE-2025-17650 ()
+> 
+- [gduma-phData/patch-CVE-2025-17650](https://github.com/gduma-phData/patch-CVE-2025-17650)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-17650">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-17650">
 
 ---
 ## CVE-2025-1739 ()
@@ -11493,6 +11591,11 @@
 ## CVE-2025-1639 ()
 > 
 - [Nxploited/CVE-2025-1639](https://github.com/Nxploited/CVE-2025-1639)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-1639">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-1639">
+
+---
+## CVE-2025-16333 ()
+> 
+- [gduma-phData/patch-CVE-2025-16333](https://github.com/gduma-phData/patch-CVE-2025-16333)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-16333">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-16333">
 
 ---
 ## CVE-2025-1562 ()
@@ -11580,6 +11683,11 @@
 ## CVE-2025-15177 ()
 > 
 - [yt2w/CVE-2025-15177](https://github.com/yt2w/CVE-2025-15177)	<img alt="forks" src="https://img.shields.io/github/forks/yt2w/CVE-2025-15177">	<img alt="stars" src="https://img.shields.io/github/stars/yt2w/CVE-2025-15177">
+
+---
+## CVE-2025-15100 ()
+> 
+- [gduma-phData/patch-CVE-2025-15100](https://github.com/gduma-phData/patch-CVE-2025-15100)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-15100">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-15100">
 
 ---
 ## CVE-2025-15033 ()
@@ -11818,6 +11926,11 @@
 - [kaleth4/CVE-2025-14018](https://github.com/kaleth4/CVE-2025-14018)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2025-14018">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2025-14018">
 
 ---
+## CVE-2025-14001 ()
+> 
+- [gduma-phData/patch-CVE-2025-14001](https://github.com/gduma-phData/patch-CVE-2025-14001)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-14001">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-14001">
+
+---
 ## CVE-2025-13834 ()
 > 
 - [sastraadiwiguna-purpleeliteteaming/CVE-2025-13834-A-Bluetooth-RFCOMM-Out-of-Bounds-Read-Vulnerability-in-Modern-Wireless-Devices](https://github.com/sastraadiwiguna-purpleeliteteaming/CVE-2025-13834-A-Bluetooth-RFCOMM-Out-of-Bounds-Read-Vulnerability-in-Modern-Wireless-Devices)	<img alt="forks" src="https://img.shields.io/github/forks/sastraadiwiguna-purpleeliteteaming/CVE-2025-13834-A-Bluetooth-RFCOMM-Out-of-Bounds-Read-Vulnerability-in-Modern-Wireless-Devices">	<img alt="stars" src="https://img.shields.io/github/stars/sastraadiwiguna-purpleeliteteaming/CVE-2025-13834-A-Bluetooth-RFCOMM-Out-of-Bounds-Read-Vulnerability-in-Modern-Wireless-Devices">
@@ -12045,6 +12158,11 @@
 ## CVE-2025-12904 ()
 > 
 - [MooseLoveti/SNORDIAN-s-H5PxAPIkatchu-CVE-Report](https://github.com/MooseLoveti/SNORDIAN-s-H5PxAPIkatchu-CVE-Report)	<img alt="forks" src="https://img.shields.io/github/forks/MooseLoveti/SNORDIAN-s-H5PxAPIkatchu-CVE-Report">	<img alt="stars" src="https://img.shields.io/github/stars/MooseLoveti/SNORDIAN-s-H5PxAPIkatchu-CVE-Report">
+
+---
+## CVE-2025-12890 ()
+> 
+- [gduma-phData/patch-CVE-2025-12890](https://github.com/gduma-phData/patch-CVE-2025-12890)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-12890">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-12890">
 
 ---
 ## CVE-2025-12762 ()
@@ -12304,6 +12422,11 @@
 - [shinigami-777/PoC_CVE-2025-11579](https://github.com/shinigami-777/PoC_CVE-2025-11579)	<img alt="forks" src="https://img.shields.io/github/forks/shinigami-777/PoC_CVE-2025-11579">	<img alt="stars" src="https://img.shields.io/github/stars/shinigami-777/PoC_CVE-2025-11579">
 
 ---
+## CVE-2025-11555 ()
+> 
+- [gduma-phData/patch-CVE-2025-11555](https://github.com/gduma-phData/patch-CVE-2025-11555)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-11555">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-11555">
+
+---
 ## CVE-2025-11534 ()
 > 
 - [snareloop/CVE-2025-11534](https://github.com/snareloop/CVE-2025-11534)	<img alt="forks" src="https://img.shields.io/github/forks/snareloop/CVE-2025-11534">	<img alt="stars" src="https://img.shields.io/github/stars/snareloop/CVE-2025-11534">
@@ -12560,6 +12683,11 @@
 - [B1ack4sh/Blackash-CVE-2025-10230](https://github.com/B1ack4sh/Blackash-CVE-2025-10230)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-10230">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-10230">
 - [nehkark/CVE-2025-10230](https://github.com/nehkark/CVE-2025-10230)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-10230">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-10230">
 - [marcostolosa/CVE-2025-10230](https://github.com/marcostolosa/CVE-2025-10230)	<img alt="forks" src="https://img.shields.io/github/forks/marcostolosa/CVE-2025-10230">	<img alt="stars" src="https://img.shields.io/github/stars/marcostolosa/CVE-2025-10230">
+
+---
+## CVE-2025-10200 ()
+> 
+- [gduma-phData/patch-CVE-2025-10200](https://github.com/gduma-phData/patch-CVE-2025-10200)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-10200">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-10200">
 
 ---
 ## CVE-2025-10184 ()

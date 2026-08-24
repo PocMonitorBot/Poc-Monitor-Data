@@ -1639,6 +1639,7 @@
 ## CVE-2020-5504 ()
 > 
 - [xMohamed0/CVE-2020-5504-phpMyAdmin](https://github.com/xMohamed0/CVE-2020-5504-phpMyAdmin)	<img alt="forks" src="https://img.shields.io/github/forks/xMohamed0/CVE-2020-5504-phpMyAdmin">	<img alt="stars" src="https://img.shields.io/github/stars/xMohamed0/CVE-2020-5504-phpMyAdmin">
+- [CerberusMrXi/phpMyAdmin-CVE-2020-5504-Exploit](https://github.com/CerberusMrXi/phpMyAdmin-CVE-2020-5504-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/phpMyAdmin-CVE-2020-5504-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/phpMyAdmin-CVE-2020-5504-Exploit">
 
 ---
 ## CVE-2020-5497 (2020-01-04T03:15:00)
