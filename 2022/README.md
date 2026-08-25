@@ -19214,6 +19214,7 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [soralis0912/CVE-2022-38181-aristotle-apk](https://github.com/soralis0912/CVE-2022-38181-aristotle-apk)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2022-38181-aristotle-apk">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2022-38181-aristotle-apk">
 - [soralis0912/CVE-2022-38181-aristotle](https://github.com/soralis0912/CVE-2022-38181-aristotle)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2022-38181-aristotle">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2022-38181-aristotle">
 - [Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet](https://github.com/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet)	<img alt="forks" src="https://img.shields.io/github/forks/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet">	<img alt="stars" src="https://img.shields.io/github/stars/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet">
+- [ericpardee/fire-hd-ownership](https://github.com/ericpardee/fire-hd-ownership)	<img alt="forks" src="https://img.shields.io/github/forks/ericpardee/fire-hd-ownership">	<img alt="stars" src="https://img.shields.io/github/stars/ericpardee/fire-hd-ownership">
 
 ---
 ## CVE-2022-3818 (2022-11-10T00:15:00)
@@ -34287,6 +34288,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [Live-Hack-CVE/CVE-2022-2590](https://github.com/Live-Hack-CVE/CVE-2022-2590)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2590">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2590">
 - [Live-Hack-CVE/CVE-2022-25904](https://github.com/Live-Hack-CVE/CVE-2022-25904)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-25904">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-25904">
 - [hyeonjun17/CVE-2022-2590-analysis](https://github.com/hyeonjun17/CVE-2022-2590-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/hyeonjun17/CVE-2022-2590-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/hyeonjun17/CVE-2022-2590-analysis">
+- [moonnull/CVE-2022-2590-analysis](https://github.com/moonnull/CVE-2022-2590-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/moonnull/CVE-2022-2590-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/moonnull/CVE-2022-2590-analysis">
 
 ---
 ## CVE-2022-25899 (2022-08-18T20:15:00)
@@ -34344,6 +34346,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [konoha279/2022-LPE-UAF](https://github.com/konoha279/2022-LPE-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/konoha279/2022-LPE-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/konoha279/2022-LPE-UAF">
 - [pirenga/2022-LPE-UAF](https://github.com/pirenga/2022-LPE-UAF)	<img alt="forks" src="https://img.shields.io/github/forks/pirenga/2022-LPE-UAF">	<img alt="stars" src="https://img.shields.io/github/stars/pirenga/2022-LPE-UAF">
 - [sniper404ghostxploit/CVE-2022-2586](https://github.com/sniper404ghostxploit/CVE-2022-2586)	<img alt="forks" src="https://img.shields.io/github/forks/sniper404ghostxploit/CVE-2022-2586">	<img alt="stars" src="https://img.shields.io/github/stars/sniper404ghostxploit/CVE-2022-2586">
+- [lanleft/CVE-2022-2586](https://github.com/lanleft/CVE-2022-2586)	<img alt="forks" src="https://img.shields.io/github/forks/lanleft/CVE-2022-2586">	<img alt="stars" src="https://img.shields.io/github/stars/lanleft/CVE-2022-2586">
 
 ---
 ## CVE-2022-25857 (2022-08-30T05:15:00)

@@ -9087,6 +9087,7 @@
 ## CVE-2021-30327 ()
 > 
 - [Daniel224455/katana](https://github.com/Daniel224455/katana)	<img alt="forks" src="https://img.shields.io/github/forks/Daniel224455/katana">	<img alt="stars" src="https://img.shields.io/github/stars/Daniel224455/katana">
+- [Daniel224455/echidna](https://github.com/Daniel224455/echidna)	<img alt="forks" src="https://img.shields.io/github/forks/Daniel224455/echidna">	<img alt="stars" src="https://img.shields.io/github/stars/Daniel224455/echidna">
 
 ---
 ## CVE-2021-3024 (2021-02-01T16:15:00)

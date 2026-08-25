@@ -1408,6 +1408,7 @@
 - [Goyotan/CVE-2020-6418-PoC](https://github.com/Goyotan/CVE-2020-6418-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Goyotan/CVE-2020-6418-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Goyotan/CVE-2020-6418-PoC">
 - [ulexec/ChromeSHELFLoader](https://github.com/ulexec/ChromeSHELFLoader)	<img alt="forks" src="https://img.shields.io/github/forks/ulexec/ChromeSHELFLoader">	<img alt="stars" src="https://img.shields.io/github/stars/ulexec/ChromeSHELFLoader">
 - [SivaPriyaRanganatha/CVE-2020-6418](https://github.com/SivaPriyaRanganatha/CVE-2020-6418)	<img alt="forks" src="https://img.shields.io/github/forks/SivaPriyaRanganatha/CVE-2020-6418">	<img alt="stars" src="https://img.shields.io/github/stars/SivaPriyaRanganatha/CVE-2020-6418">
+- [a-mansilla/CVE-2020-6418](https://github.com/a-mansilla/CVE-2020-6418)	<img alt="forks" src="https://img.shields.io/github/forks/a-mansilla/CVE-2020-6418">	<img alt="stars" src="https://img.shields.io/github/stars/a-mansilla/CVE-2020-6418">
 
 ---
 ## CVE-2020-6371 (2020-10-15T02:15:00)
@@ -7388,6 +7389,11 @@
 ## CVE-2020-13162 ()
 > 
 - [redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162-](https://github.com/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162-)	<img alt="forks" src="https://img.shields.io/github/forks/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162-">	<img alt="stars" src="https://img.shields.io/github/stars/redtimmy/tu-TOCTOU-kaiu-TOCMEU-CVE-2020-13162-">
+
+---
+## CVE-2020-13160 ()
+> 
+- [LINCOLINO/lab-annie](https://github.com/LINCOLINO/lab-annie)	<img alt="forks" src="https://img.shields.io/github/forks/LINCOLINO/lab-annie">	<img alt="stars" src="https://img.shields.io/github/stars/LINCOLINO/lab-annie">
 
 ---
 ## CVE-2020-13159 ()

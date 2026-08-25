@@ -209,6 +209,7 @@ Any Unreal3.2.8.1.tar.gz downloaded BEFORE November 10 2009 should be safe, but 
 - [JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution](https://github.com/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution)	<img alt="forks" src="https://img.shields.io/github/forks/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution">	<img alt="stars" src="https://img.shields.io/github/stars/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution">
 - [earthbendergara/unrealircd3.2.8.1-local-exploit](https://github.com/earthbendergara/unrealircd3.2.8.1-local-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/earthbendergara/unrealircd3.2.8.1-local-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/earthbendergara/unrealircd3.2.8.1-local-exploit">
 - [mishaqdev/cve-2010-2075-analysis](https://github.com/mishaqdev/cve-2010-2075-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/mishaqdev/cve-2010-2075-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/mishaqdev/cve-2010-2075-analysis">
+- [Elazab2005/unrealircd-backdoor-pentest-report](https://github.com/Elazab2005/unrealircd-backdoor-pentest-report)	<img alt="forks" src="https://img.shields.io/github/forks/Elazab2005/unrealircd-backdoor-pentest-report">	<img alt="stars" src="https://img.shields.io/github/stars/Elazab2005/unrealircd-backdoor-pentest-report">
 
 ---
 ## CVE-2010-2063 (2010-06-17T16:30:00)

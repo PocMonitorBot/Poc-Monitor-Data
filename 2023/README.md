@@ -2547,6 +2547,7 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [madhantr0/http2-security-lab](https://github.com/madhantr0/http2-security-lab)	<img alt="forks" src="https://img.shields.io/github/forks/madhantr0/http2-security-lab">	<img alt="stars" src="https://img.shields.io/github/stars/madhantr0/http2-security-lab">
 - [tahaXafous/CVE-2023-44487-dos](https://github.com/tahaXafous/CVE-2023-44487-dos)	<img alt="forks" src="https://img.shields.io/github/forks/tahaXafous/CVE-2023-44487-dos">	<img alt="stars" src="https://img.shields.io/github/stars/tahaXafous/CVE-2023-44487-dos">
 - [CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit](https://github.com/CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit">
+- [ramonzx6/rapid-reset-check](https://github.com/ramonzx6/rapid-reset-check)	<img alt="forks" src="https://img.shields.io/github/forks/ramonzx6/rapid-reset-check">	<img alt="stars" src="https://img.shields.io/github/stars/ramonzx6/rapid-reset-check">
 
 ---
 ## CVE-2023-44353 (2023-11-17T14:15:00)
@@ -5141,6 +5142,11 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH](https://github.com/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH)	<img alt="forks" src="https://img.shields.io/github/forks/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH">	<img alt="stars" src="https://img.shields.io/github/stars/Dodge-MPTC/CVE-2023-35793-CSRF-On-Web-SSH">
 
 ---
+## CVE-2023-35788 ()
+> 
+- [lanleft/cve-2023-35788](https://github.com/lanleft/cve-2023-35788)	<img alt="forks" src="https://img.shields.io/github/forks/lanleft/cve-2023-35788">	<img alt="stars" src="https://img.shields.io/github/stars/lanleft/cve-2023-35788">
+
+---
 ## CVE-2023-35744 (2024-05-03T02:15:00)
 > D-Link DAP-2622 DDP Configuration Restore Server IPv6 Address Stack-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of D-Link DAP-2622 routers. Authentication is not required to exploit this vulnerability.
 
@@ -6546,6 +6552,11 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 ## CVE-2023-3076 ()
 > 
 - [im-hanzou/MSAPer](https://github.com/im-hanzou/MSAPer)	<img alt="forks" src="https://img.shields.io/github/forks/im-hanzou/MSAPer">	<img alt="stars" src="https://img.shields.io/github/stars/im-hanzou/MSAPer">
+
+---
+## CVE-2023-30628 ()
+> 
+- [pvharmo2/gha-lab-227431b300](https://github.com/pvharmo2/gha-lab-227431b300)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-227431b300">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-227431b300">
 
 ---
 ## CVE-2023-30547 (2023-04-17T22:15:00)

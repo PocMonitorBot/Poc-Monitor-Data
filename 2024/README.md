@@ -624,6 +624,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [TheUnknownSoul/CVE-2024-7808](https://github.com/TheUnknownSoul/CVE-2024-7808)	<img alt="forks" src="https://img.shields.io/github/forks/TheUnknownSoul/CVE-2024-7808">	<img alt="stars" src="https://img.shields.io/github/stars/TheUnknownSoul/CVE-2024-7808">
 
 ---
+## CVE-2024-77200 ()
+> 
+- [gduma-phData/patch-CVE-2024-77200](https://github.com/gduma-phData/patch-CVE-2024-77200)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2024-77200">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2024-77200">
+
+---
 ## CVE-2024-7703 (2024-08-17T12:15:00)
 > The ARMember – Membership Plugin, Content Restriction, Member Levels, User Profile & User signup plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG File uploads in all versions up to, and including, 4.0.37 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Subscriber-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses the SVG file.
 - [lfillaz/CVE-2024-7703](https://github.com/lfillaz/CVE-2024-7703)	<img alt="forks" src="https://img.shields.io/github/forks/lfillaz/CVE-2024-7703">	<img alt="stars" src="https://img.shields.io/github/stars/lfillaz/CVE-2024-7703">
@@ -867,6 +872,11 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 > The JSON API User plugin for WordPress is vulnerable to privilege escalation in all versions up to, and including, 3.9.3. This is due to improper controls on custom user meta fields. This makes it possible for unauthenticated attackers to register as administrators on the site. The plugin requires the JSON API plugin to also be installed.
 - [RandomRobbieBF/CVE-2024-6624](https://github.com/RandomRobbieBF/CVE-2024-6624)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-6624">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-6624">
 - [Jenderal92/CVE-2024-6624](https://github.com/Jenderal92/CVE-2024-6624)	<img alt="forks" src="https://img.shields.io/github/forks/Jenderal92/CVE-2024-6624">	<img alt="stars" src="https://img.shields.io/github/stars/Jenderal92/CVE-2024-6624">
+
+---
+## CVE-2024-66001 ()
+> 
+- [gduma-phData/patch-CVE-2024-66001](https://github.com/gduma-phData/patch-CVE-2024-66001)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2024-66001">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2024-66001">
 
 ---
 ## CVE-2024-6592 ()
@@ -1604,6 +1614,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-55890 ()
 > 
 - [samh4cks/CVE-2024-55890](https://github.com/samh4cks/CVE-2024-55890)	<img alt="forks" src="https://img.shields.io/github/forks/samh4cks/CVE-2024-55890">	<img alt="stars" src="https://img.shields.io/github/stars/samh4cks/CVE-2024-55890">
+- [gduma-phData/patch-CVE-2024-55890](https://github.com/gduma-phData/patch-CVE-2024-55890)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2024-55890">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2024-55890">
 
 ---
 ## CVE-2024-55879 ()
@@ -3577,6 +3588,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-45827 ()
 > 
 - [0xNslabs/CVE-2024-45827-PoC](https://github.com/0xNslabs/CVE-2024-45827-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xNslabs/CVE-2024-45827-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xNslabs/CVE-2024-45827-PoC">
+
+---
+## CVE-2024-45798 ()
+> 
+- [pvharmo2/gha-lab-16bfb18428](https://github.com/pvharmo2/gha-lab-16bfb18428)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-16bfb18428">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-16bfb18428">
 
 ---
 ## CVE-2024-4577 (2024-06-09T20:15:00)

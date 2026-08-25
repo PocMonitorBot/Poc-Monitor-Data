@@ -1210,6 +1210,11 @@
 - [Nxploited/CVE-2025-68001](https://github.com/Nxploited/CVE-2025-68001)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2025-68001">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2025-68001">
 
 ---
+## CVE-2025-67923 ()
+> 
+- [RandomRobbieBF/CVE-2025-67923](https://github.com/RandomRobbieBF/CVE-2025-67923)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-67923">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-67923">
+
+---
 ## CVE-2025-6792 ()
 > 
 - [jFriedli/CVE-2025-6792](https://github.com/jFriedli/CVE-2025-6792)	<img alt="forks" src="https://img.shields.io/github/forks/jFriedli/CVE-2025-6792">	<img alt="stars" src="https://img.shields.io/github/stars/jFriedli/CVE-2025-6792">
@@ -4929,6 +4934,7 @@
 - [kevin9480/Security_incident_report](https://github.com/kevin9480/Security_incident_report)	<img alt="forks" src="https://img.shields.io/github/forks/kevin9480/Security_incident_report">	<img alt="stars" src="https://img.shields.io/github/stars/kevin9480/Security_incident_report">
 - [PhanHoangKhang/React2Shell](https://github.com/PhanHoangKhang/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/PhanHoangKhang/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/PhanHoangKhang/React2Shell">
 - [h3n1s3/React2shell-Research](https://github.com/h3n1s3/React2shell-Research)	<img alt="forks" src="https://img.shields.io/github/forks/h3n1s3/React2shell-Research">	<img alt="stars" src="https://img.shields.io/github/stars/h3n1s3/React2shell-Research">
+- [Mr-Destroyer/CVE-2025-55182](https://github.com/Mr-Destroyer/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Destroyer/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Destroyer/CVE-2025-55182">
 
 ---
 ## CVE-2025-55177 ()
@@ -6501,6 +6507,7 @@
 > 
 - [HORKimhab/CVE-2025-48595](https://github.com/HORKimhab/CVE-2025-48595)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-48595">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-48595">
 - [fevar54/CVE-2025-48595-Android-Framework-Integer-Overflow-](https://github.com/fevar54/CVE-2025-48595-Android-Framework-Integer-Overflow-)	<img alt="forks" src="https://img.shields.io/github/forks/fevar54/CVE-2025-48595-Android-Framework-Integer-Overflow-">	<img alt="stars" src="https://img.shields.io/github/stars/fevar54/CVE-2025-48595-Android-Framework-Integer-Overflow-">
+- [XiaoBaiLovesStirring/CVE-2025-48595-Exploit](https://github.com/XiaoBaiLovesStirring/CVE-2025-48595-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/XiaoBaiLovesStirring/CVE-2025-48595-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/XiaoBaiLovesStirring/CVE-2025-48595-Exploit">
 
 ---
 ## CVE-2025-48593 ()
@@ -6973,6 +6980,11 @@
 ## CVE-2025-46408 ()
 > 
 - [shinyColumn/CVE-2025-46408](https://github.com/shinyColumn/CVE-2025-46408)	<img alt="forks" src="https://img.shields.io/github/forks/shinyColumn/CVE-2025-46408">	<img alt="stars" src="https://img.shields.io/github/stars/shinyColumn/CVE-2025-46408">
+
+---
+## CVE-2025-46359 ()
+> 
+- [samarthop2011/PoC-for-CVE-2025-46359](https://github.com/samarthop2011/PoC-for-CVE-2025-46359)	<img alt="forks" src="https://img.shields.io/github/forks/samarthop2011/PoC-for-CVE-2025-46359">	<img alt="stars" src="https://img.shields.io/github/stars/samarthop2011/PoC-for-CVE-2025-46359">
 
 ---
 ## CVE-2025-4632 ()
@@ -8294,6 +8306,11 @@
 ## CVE-2025-32965 ()
 > 
 - [yusufdalbudak/CVE-2025-32965-xrpl-js-poc](https://github.com/yusufdalbudak/CVE-2025-32965-xrpl-js-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yusufdalbudak/CVE-2025-32965-xrpl-js-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yusufdalbudak/CVE-2025-32965-xrpl-js-poc">
+
+---
+## CVE-2025-32953 ()
+> 
+- [pvharmo2/gha-lab-5ed08d6a80](https://github.com/pvharmo2/gha-lab-5ed08d6a80)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-5ed08d6a80">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-5ed08d6a80">
 
 ---
 ## CVE-2025-3292029 ()
@@ -11348,6 +11365,7 @@
 - [callinston/CVE-2025-20333](https://github.com/callinston/CVE-2025-20333)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-20333">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-20333">
 - [callinston/CVE-2025-20333-exp](https://github.com/callinston/CVE-2025-20333-exp)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-20333-exp">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-20333-exp">
 - [curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner](https://github.com/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/curtishoughton/Cisco-ASA-CVE-2025-20333-Scanner">
+- [cobbbex/Cisco-ASA-vulnerability-research](https://github.com/cobbbex/Cisco-ASA-vulnerability-research)	<img alt="forks" src="https://img.shields.io/github/forks/cobbbex/Cisco-ASA-vulnerability-research">	<img alt="stars" src="https://img.shields.io/github/stars/cobbbex/Cisco-ASA-vulnerability-research">
 
 ---
 ## CVE-2025-20286 ()
@@ -12925,6 +12943,11 @@
 - [adhamelhansye/CVE-2025-0133](https://github.com/adhamelhansye/CVE-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/adhamelhansye/CVE-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/adhamelhansye/CVE-2025-0133">
 - [cruxN3T/CVE-2025-0133](https://github.com/cruxN3T/CVE-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/cruxN3T/CVE-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/cruxN3T/CVE-2025-0133">
 - [radityahack/cve-2025-0133](https://github.com/radityahack/cve-2025-0133)	<img alt="forks" src="https://img.shields.io/github/forks/radityahack/cve-2025-0133">	<img alt="stars" src="https://img.shields.io/github/stars/radityahack/cve-2025-0133">
+
+---
+## CVE-2025-0117 ()
+> 
+- [s3c/globalprotect-ca-cert-ipc](https://github.com/s3c/globalprotect-ca-cert-ipc)	<img alt="forks" src="https://img.shields.io/github/forks/s3c/globalprotect-ca-cert-ipc">	<img alt="stars" src="https://img.shields.io/github/stars/s3c/globalprotect-ca-cert-ipc">
 
 ---
 ## CVE-2025-0108 ()

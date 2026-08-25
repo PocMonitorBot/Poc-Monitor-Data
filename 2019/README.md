@@ -6865,6 +6865,7 @@ use after free.
 - [9b/bluekeep-marketing](https://github.com/9b/bluekeep-marketing)	<img alt="forks" src="https://img.shields.io/github/forks/9b/bluekeep-marketing">	<img alt="stars" src="https://img.shields.io/github/stars/9b/bluekeep-marketing">
 - [lp008/CVE_2019_0708_Blue_screen_poc](https://github.com/lp008/CVE_2019_0708_Blue_screen_poc)	<img alt="forks" src="https://img.shields.io/github/forks/lp008/CVE_2019_0708_Blue_screen_poc">	<img alt="stars" src="https://img.shields.io/github/stars/lp008/CVE_2019_0708_Blue_screen_poc">
 - [YHZX2013/CVE-2019-0709](https://github.com/YHZX2013/CVE-2019-0709)	<img alt="forks" src="https://img.shields.io/github/forks/YHZX2013/CVE-2019-0709">	<img alt="stars" src="https://img.shields.io/github/stars/YHZX2013/CVE-2019-0709">
+- [SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-](https://github.com/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-)	<img alt="forks" src="https://img.shields.io/github/forks/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-">	<img alt="stars" src="https://img.shields.io/github/stars/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-">
 
 ---
 ## CVE-2019-0678 ()
