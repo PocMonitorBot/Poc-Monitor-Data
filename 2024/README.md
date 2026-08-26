@@ -113,6 +113,7 @@
 > An attacker was able to achieve code execution in the content process by exploiting a use-after-free in Animation timelines. We have had reports of this vulnerability being exploited in the wild. This vulnerability affects Firefox < 131.0.2, Firefox ESR < 128.3.1, Firefox ESR < 115.16.1, Thunderbird < 131.0.1, Thunderbird < 128.3.1, and Thunderbird < 115.16.0.
 - [tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680)	<img alt="forks" src="https://img.shields.io/github/forks/tdonaworth/Firefox-CVE-2024-9680">	<img alt="stars" src="https://img.shields.io/github/stars/tdonaworth/Firefox-CVE-2024-9680">
 - [moscovium-mc/Tor-0day-JavaScript-Exploit](https://github.com/moscovium-mc/Tor-0day-JavaScript-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/moscovium-mc/Tor-0day-JavaScript-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/moscovium-mc/Tor-0day-JavaScript-Exploit">
+- [PraiseImafidon/Version_Vulnerability_Scanner](https://github.com/PraiseImafidon/Version_Vulnerability_Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/PraiseImafidon/Version_Vulnerability_Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/PraiseImafidon/Version_Vulnerability_Scanner">
 
 ---
 ## CVE-2024-9659 (2024-11-23T08:15:00)
@@ -577,6 +578,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [bi-zone/CVE-2024-7965](https://github.com/bi-zone/CVE-2024-7965)	<img alt="forks" src="https://img.shields.io/github/forks/bi-zone/CVE-2024-7965">	<img alt="stars" src="https://img.shields.io/github/stars/bi-zone/CVE-2024-7965">
 - [maybeheisenberg/CVE-2024-7965-exploit](https://github.com/maybeheisenberg/CVE-2024-7965-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/maybeheisenberg/CVE-2024-7965-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/maybeheisenberg/CVE-2024-7965-exploit">
 - [XiaomingX/cve-2024-7965-poc](https://github.com/XiaomingX/cve-2024-7965-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-7965-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-7965-poc">
+- [XueDugu/cve-2024-7965-poc](https://github.com/XueDugu/cve-2024-7965-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XueDugu/cve-2024-7965-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XueDugu/cve-2024-7965-poc">
 
 ---
 ## CVE-2024-7954 (2024-08-23T18:15:00)
@@ -1541,6 +1543,16 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633)	<img alt="forks" src="https://img.shields.io/github/forks/Adikso/CVE-2024-5633">	<img alt="stars" src="https://img.shields.io/github/stars/Adikso/CVE-2024-5633">
 
 ---
+## CVE-2024-56289 ()
+> 
+- [DoTTak/CVE-2024-56289](https://github.com/DoTTak/CVE-2024-56289)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2024-56289">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2024-56289">
+
+---
+## CVE-2024-56278 ()
+> 
+- [DoTTak/CVE-2024-56278](https://github.com/DoTTak/CVE-2024-56278)	<img alt="forks" src="https://img.shields.io/github/forks/DoTTak/CVE-2024-56278">	<img alt="stars" src="https://img.shields.io/github/stars/DoTTak/CVE-2024-56278">
+
+---
 ## CVE-2024-56264 ()
 > 
 - [Nxploited/CVE-2024-56264](https://github.com/Nxploited/CVE-2024-56264)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-56264">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-56264">
@@ -1575,6 +1587,16 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [Nxploited/CVE-2024-56071](https://github.com/Nxploited/CVE-2024-56071)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-56071">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-56071">
 
 ---
+## CVE-2024-56067 ()
+> 
+- [RandomRobbieBF/CVE-2024-56067](https://github.com/RandomRobbieBF/CVE-2024-56067)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-56067">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-56067">
+
+---
+## CVE-2024-56064 ()
+> 
+- [RandomRobbieBF/CVE-2024-56064](https://github.com/RandomRobbieBF/CVE-2024-56064)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-56064">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-56064">
+
+---
 ## CVE-2024-56059 ()
 > 
 - [RandomRobbieBF/CVE-2024-56059](https://github.com/RandomRobbieBF/CVE-2024-56059)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-56059">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-56059">
@@ -1588,6 +1610,26 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-55988 ()
 > 
 - [RandomRobbieBF/CVE-2024-55988](https://github.com/RandomRobbieBF/CVE-2024-55988)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55988">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55988">
+
+---
+## CVE-2024-55982 ()
+> 
+- [RandomRobbieBF/CVE-2024-55982](https://github.com/RandomRobbieBF/CVE-2024-55982)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55982">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55982">
+
+---
+## CVE-2024-55981 ()
+> 
+- [RandomRobbieBF/CVE-2024-55981](https://github.com/RandomRobbieBF/CVE-2024-55981)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55981">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55981">
+
+---
+## CVE-2024-55980 ()
+> 
+- [RandomRobbieBF/CVE-2024-55980](https://github.com/RandomRobbieBF/CVE-2024-55980)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55980">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55980">
+
+---
+## CVE-2024-55978 ()
+> 
+- [RandomRobbieBF/CVE-2024-55978](https://github.com/RandomRobbieBF/CVE-2024-55978)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-55978">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-55978">
 
 ---
 ## CVE-2024-55976 ()
@@ -1866,6 +1908,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [wh1te4ever/CVE-2024-54498-PoC](https://github.com/wh1te4ever/CVE-2024-54498-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/wh1te4ever/CVE-2024-54498-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/wh1te4ever/CVE-2024-54498-PoC">
 
 ---
+## CVE-2024-54385 ()
+> 
+- [RandomRobbieBF/CVE-2024-54385](https://github.com/RandomRobbieBF/CVE-2024-54385)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54385">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54385">
+
+---
 ## CVE-2024-54383 ()
 > 
 - [pashayogi/CVE-2024-54383](https://github.com/pashayogi/CVE-2024-54383)	<img alt="forks" src="https://img.shields.io/github/forks/pashayogi/CVE-2024-54383">	<img alt="stars" src="https://img.shields.io/github/stars/pashayogi/CVE-2024-54383">
@@ -1879,6 +1926,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-54378 ()
 > 
 - [RandomRobbieBF/CVE-2024-54378](https://github.com/RandomRobbieBF/CVE-2024-54378)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54378">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54378">
+
+---
+## CVE-2024-54374 ()
+> 
+- [RandomRobbieBF/CVE-2024-54374](https://github.com/RandomRobbieBF/CVE-2024-54374)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54374">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54374">
 
 ---
 ## CVE-2024-54369 ()
@@ -1896,6 +1948,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-54330 ()
 > 
 - [RandomRobbieBF/CVE-2024-54330](https://github.com/RandomRobbieBF/CVE-2024-54330)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54330">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54330">
+
+---
+## CVE-2024-54292 ()
+> 
+- [RandomRobbieBF/CVE-2024-54292](https://github.com/RandomRobbieBF/CVE-2024-54292)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-54292">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-54292">
 
 ---
 ## CVE-2024-54262 ()
@@ -2261,6 +2318,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [Nyamort/CVE-2024-52301](https://github.com/Nyamort/CVE-2024-52301)	<img alt="forks" src="https://img.shields.io/github/forks/Nyamort/CVE-2024-52301">	<img alt="stars" src="https://img.shields.io/github/stars/Nyamort/CVE-2024-52301">
 - [martinhaunschmid/CVE-2024-52301-Research](https://github.com/martinhaunschmid/CVE-2024-52301-Research)	<img alt="forks" src="https://img.shields.io/github/forks/martinhaunschmid/CVE-2024-52301-Research">	<img alt="stars" src="https://img.shields.io/github/stars/martinhaunschmid/CVE-2024-52301-Research">
 - [nanwinata/CVE-2024-52301](https://github.com/nanwinata/CVE-2024-52301)	<img alt="forks" src="https://img.shields.io/github/forks/nanwinata/CVE-2024-52301">	<img alt="stars" src="https://img.shields.io/github/stars/nanwinata/CVE-2024-52301">
+- [fckoo/nanwinata-CVE-2024-52301](https://github.com/fckoo/nanwinata-CVE-2024-52301)	<img alt="forks" src="https://img.shields.io/github/forks/fckoo/nanwinata-CVE-2024-52301">	<img alt="stars" src="https://img.shields.io/github/stars/fckoo/nanwinata-CVE-2024-52301">
 
 ---
 ## CVE-2024-52046 ()
@@ -2296,6 +2354,11 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 ## CVE-2024-51977 ()
 > 
 - [sfewer-r7/BrotherVulnerabilities](https://github.com/sfewer-r7/BrotherVulnerabilities)	<img alt="forks" src="https://img.shields.io/github/forks/sfewer-r7/BrotherVulnerabilities">	<img alt="stars" src="https://img.shields.io/github/stars/sfewer-r7/BrotherVulnerabilities">
+
+---
+## CVE-2024-51818 ()
+> 
+- [RandomRobbieBF/CVE-2024-51818](https://github.com/RandomRobbieBF/CVE-2024-51818)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-51818">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-51818">
 
 ---
 ## CVE-2024-51793 ()
@@ -2337,6 +2400,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [ajayalf/CVE-2024-51567](https://github.com/ajayalf/CVE-2024-51567)	<img alt="forks" src="https://img.shields.io/github/forks/ajayalf/CVE-2024-51567">	<img alt="stars" src="https://img.shields.io/github/stars/ajayalf/CVE-2024-51567">
 - [thehash007/CVE-2024-51567-RCE-EXPLOIT](https://github.com/thehash007/CVE-2024-51567-RCE-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/thehash007/CVE-2024-51567-RCE-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/thehash007/CVE-2024-51567-RCE-EXPLOIT">
 - [XiaomingX/cve-2024-51567-poc](https://github.com/XiaomingX/cve-2024-51567-poc)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-51567-poc">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-51567-poc">
+- [KKDT12138/cve-2024-51567-poc](https://github.com/KKDT12138/cve-2024-51567-poc)	<img alt="forks" src="https://img.shields.io/github/forks/KKDT12138/cve-2024-51567-poc">	<img alt="stars" src="https://img.shields.io/github/stars/KKDT12138/cve-2024-51567-poc">
 
 ---
 ## CVE-2024-5153 ()
@@ -3697,6 +3761,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [NKTriS/HTSOC](https://github.com/NKTriS/HTSOC)	<img alt="forks" src="https://img.shields.io/github/forks/NKTriS/HTSOC">	<img alt="stars" src="https://img.shields.io/github/stars/NKTriS/HTSOC">
 - [DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio](https://github.com/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio)	<img alt="forks" src="https://img.shields.io/github/forks/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio">	<img alt="stars" src="https://img.shields.io/github/stars/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio">
 - [DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation](https://github.com/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation">
+- [khwajasaad267-coder/cve-2024-4577-lab](https://github.com/khwajasaad267-coder/cve-2024-4577-lab)	<img alt="forks" src="https://img.shields.io/github/forks/khwajasaad267-coder/cve-2024-4577-lab">	<img alt="stars" src="https://img.shields.io/github/stars/khwajasaad267-coder/cve-2024-4577-lab">
 
 ---
 ## CVE-2024-4573 ()
@@ -4847,6 +4912,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 > 
 - [Aakashmom/frameworks_base_accounts_CVE-2024-40676](https://github.com/Aakashmom/frameworks_base_accounts_CVE-2024-40676)	<img alt="forks" src="https://img.shields.io/github/forks/Aakashmom/frameworks_base_accounts_CVE-2024-40676">	<img alt="stars" src="https://img.shields.io/github/stars/Aakashmom/frameworks_base_accounts_CVE-2024-40676">
 - [Aakashmom/accounts_CVE-2024-40676-](https://github.com/Aakashmom/accounts_CVE-2024-40676-)	<img alt="forks" src="https://img.shields.io/github/forks/Aakashmom/accounts_CVE-2024-40676-">	<img alt="stars" src="https://img.shields.io/github/stars/Aakashmom/accounts_CVE-2024-40676-">
+- [CrackerCat/accounts_CVE-2024-40676-](https://github.com/CrackerCat/accounts_CVE-2024-40676-)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/accounts_CVE-2024-40676-">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/accounts_CVE-2024-40676-">
 
 ---
 ## CVE-2024-40675 ()
@@ -5324,6 +5390,7 @@ However, malicious requests are blocked and rejected when any of the following i
 - [WULINPIN/CVE-2024-38816-PoC](https://github.com/WULINPIN/CVE-2024-38816-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/WULINPIN/CVE-2024-38816-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/WULINPIN/CVE-2024-38816-PoC">
 - [Anthony1078/App-vulnerable](https://github.com/Anthony1078/App-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/Anthony1078/App-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/Anthony1078/App-vulnerable">
 - [jaloon/spring-webmvc5](https://github.com/jaloon/spring-webmvc5)	<img alt="forks" src="https://img.shields.io/github/forks/jaloon/spring-webmvc5">	<img alt="stars" src="https://img.shields.io/github/stars/jaloon/spring-webmvc5">
+- [wdragondragon/spring-framework](https://github.com/wdragondragon/spring-framework)	<img alt="forks" src="https://img.shields.io/github/forks/wdragondragon/spring-framework">	<img alt="stars" src="https://img.shields.io/github/stars/wdragondragon/spring-framework">
 
 ---
 ## CVE-2024-38812 (2024-09-17T18:15:00)
@@ -10575,6 +10642,7 @@ This vulnerability was found internally.
 - [phucrio/CVE-2024-21683-RCE](https://github.com/phucrio/CVE-2024-21683-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/phucrio/CVE-2024-21683-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/phucrio/CVE-2024-21683-RCE">
 - [xh4vm/CVE-2024-21683](https://github.com/xh4vm/CVE-2024-21683)	<img alt="forks" src="https://img.shields.io/github/forks/xh4vm/CVE-2024-21683">	<img alt="stars" src="https://img.shields.io/github/stars/xh4vm/CVE-2024-21683">
 - [XiaomingX/cve-2024-21683-rce](https://github.com/XiaomingX/cve-2024-21683-rce)	<img alt="forks" src="https://img.shields.io/github/forks/XiaomingX/cve-2024-21683-rce">	<img alt="stars" src="https://img.shields.io/github/stars/XiaomingX/cve-2024-21683-rce">
+- [r3db34rdh4x/cve-2024-21683-rce](https://github.com/r3db34rdh4x/cve-2024-21683-rce)	<img alt="forks" src="https://img.shields.io/github/forks/r3db34rdh4x/cve-2024-21683-rce">	<img alt="stars" src="https://img.shields.io/github/stars/r3db34rdh4x/cve-2024-21683-rce">
 
 ---
 ## CVE-2024-21672 (2024-01-16T05:15:00)
@@ -11473,6 +11541,11 @@ authentication.   
 - [Jimmy01240397/CVE-2024-12641_12642_12645](https://github.com/Jimmy01240397/CVE-2024-12641_12642_12645)	<img alt="forks" src="https://img.shields.io/github/forks/Jimmy01240397/CVE-2024-12641_12642_12645">	<img alt="stars" src="https://img.shields.io/github/stars/Jimmy01240397/CVE-2024-12641_12642_12645">
 
 ---
+## CVE-2024-12594 ()
+> 
+- [RandomRobbieBF/CVE-2024-12594](https://github.com/RandomRobbieBF/CVE-2024-12594)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12594">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12594">
+
+---
 ## CVE-2024-12583 ()
 > 
 - [pouriam23/CVE-2024-12583-](https://github.com/pouriam23/CVE-2024-12583-)	<img alt="forks" src="https://img.shields.io/github/forks/pouriam23/CVE-2024-12583-">	<img alt="stars" src="https://img.shields.io/github/stars/pouriam23/CVE-2024-12583-">
@@ -11496,6 +11569,11 @@ authentication.   
 - [fineman999/POC_CVE-2024-12537](https://github.com/fineman999/POC_CVE-2024-12537)	<img alt="forks" src="https://img.shields.io/github/forks/fineman999/POC_CVE-2024-12537">	<img alt="stars" src="https://img.shields.io/github/stars/fineman999/POC_CVE-2024-12537">
 
 ---
+## CVE-2024-12535 ()
+> 
+- [RandomRobbieBF/CVE-2024-12535](https://github.com/RandomRobbieBF/CVE-2024-12535)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12535">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12535">
+
+---
 ## CVE-2024-12484 ()
 > 
 - [LiChaser/CVE-2024-12484](https://github.com/LiChaser/CVE-2024-12484)	<img alt="forks" src="https://img.shields.io/github/forks/LiChaser/CVE-2024-12484">	<img alt="stars" src="https://img.shields.io/github/stars/LiChaser/CVE-2024-12484">
@@ -11504,12 +11582,18 @@ authentication.   
 ## CVE-2024-12471 ()
 > 
 - [Nxploited/CVE-2024-12471-Exploit-](https://github.com/Nxploited/CVE-2024-12471-Exploit-)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-12471-Exploit-">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-12471-Exploit-">
+- [RandomRobbieBF/CVE-2024-12471](https://github.com/RandomRobbieBF/CVE-2024-12471)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12471">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12471">
 
 ---
 ## CVE-2024-1247 ()
 > 
 - [Nxploited/CVE-2024-1247-PoC](https://github.com/Nxploited/CVE-2024-1247-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-1247-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-1247-PoC">
 - [RandomRobbieBF/CVE-2024-12471](https://github.com/RandomRobbieBF/CVE-2024-12471)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12471">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12471">
+
+---
+## CVE-2024-12404 ()
+> 
+- [RandomRobbieBF/CVE-2024-12404](https://github.com/RandomRobbieBF/CVE-2024-12404)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12404">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12404">
 
 ---
 ## CVE-2024-12381 ()
@@ -11562,6 +11646,11 @@ authentication.   
 ## CVE-2024-12172 ()
 > 
 - [RandomRobbieBF/CVE-2024-12172](https://github.com/RandomRobbieBF/CVE-2024-12172)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12172">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12172">
+
+---
+## CVE-2024-12157 ()
+> 
+- [RandomRobbieBF/CVE-2024-12157](https://github.com/RandomRobbieBF/CVE-2024-12157)	<img alt="forks" src="https://img.shields.io/github/forks/RandomRobbieBF/CVE-2024-12157">	<img alt="stars" src="https://img.shields.io/github/stars/RandomRobbieBF/CVE-2024-12157">
 
 ---
 ## CVE-2024-12155 ()

@@ -10326,6 +10326,7 @@ If this ACL bypass issue were to be successfully exploited, it potentially could
 - [natceil/cve-2022-42475](https://github.com/natceil/cve-2022-42475)	<img alt="forks" src="https://img.shields.io/github/forks/natceil/cve-2022-42475">	<img alt="stars" src="https://img.shields.io/github/stars/natceil/cve-2022-42475">
 - [0xhaggis/CVE-2022-42475](https://github.com/0xhaggis/CVE-2022-42475)	<img alt="forks" src="https://img.shields.io/github/forks/0xhaggis/CVE-2022-42475">	<img alt="stars" src="https://img.shields.io/github/stars/0xhaggis/CVE-2022-42475">
 - [ArthurHendrich/CVE-2022-42475-POC](https://github.com/ArthurHendrich/CVE-2022-42475-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ArthurHendrich/CVE-2022-42475-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ArthurHendrich/CVE-2022-42475-POC">
+- [uLl0a/cve-2022-42475-poc](https://github.com/uLl0a/cve-2022-42475-poc)	<img alt="forks" src="https://img.shields.io/github/forks/uLl0a/cve-2022-42475-poc">	<img alt="stars" src="https://img.shields.io/github/stars/uLl0a/cve-2022-42475-poc">
 
 ---
 ## CVE-2022-42471 (2023-01-03T17:15:00)
@@ -32008,6 +32009,11 @@ the client's API server credentials to third parties.
 ## CVE-2022-2891 (2022-10-10T21:15:00)
 > The WP 2FA WordPress plugin before 2.3.0 uses comparison operators that don't mitigate time-based attacks, which could be abused to leak information about the authentication codes being compared.
 - [Live-Hack-CVE/CVE-2022-2891](https://github.com/Live-Hack-CVE/CVE-2022-2891)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-2891">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-2891">
+
+---
+## CVE-2022-28906 ()
+> 
+- [finnvle/CVE-2022-28906-POC](https://github.com/finnvle/CVE-2022-28906-POC)	<img alt="forks" src="https://img.shields.io/github/forks/finnvle/CVE-2022-28906-POC">	<img alt="stars" src="https://img.shields.io/github/stars/finnvle/CVE-2022-28906-POC">
 
 ---
 ## CVE-2022-28893 (2022-04-11T05:15:00)

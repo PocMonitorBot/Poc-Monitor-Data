@@ -324,6 +324,7 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 ## CVE-2023-5966 (2023-11-30T14:15:00)
 > An authenticated privileged attacker could upload a specially crafted zip to the EspoCRM server in version 7.2.5, via the extension deployment form, which could lead to arbitrary PHP code execution.
 - [pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966)	<img alt="forks" src="https://img.shields.io/github/forks/pedrojosenavasperez/cve-2023-5966">	<img alt="stars" src="https://img.shields.io/github/stars/pedrojosenavasperez/cve-2023-5966">
+- [ll104567/cve-2023-5966](https://github.com/ll104567/cve-2023-5966)	<img alt="forks" src="https://img.shields.io/github/forks/ll104567/cve-2023-5966">	<img alt="stars" src="https://img.shields.io/github/stars/ll104567/cve-2023-5966">
 
 ---
 ## CVE-2023-5965 (2023-11-30T14:15:00)
@@ -2548,6 +2549,16 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [tahaXafous/CVE-2023-44487-dos](https://github.com/tahaXafous/CVE-2023-44487-dos)	<img alt="forks" src="https://img.shields.io/github/forks/tahaXafous/CVE-2023-44487-dos">	<img alt="stars" src="https://img.shields.io/github/stars/tahaXafous/CVE-2023-44487-dos">
 - [CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit](https://github.com/CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/CerberusMrXi/CVE-2023-44487-HTTP2-DoS-Rapid-Reset-Exploit">
 - [ramonzx6/rapid-reset-check](https://github.com/ramonzx6/rapid-reset-check)	<img alt="forks" src="https://img.shields.io/github/forks/ramonzx6/rapid-reset-check">	<img alt="stars" src="https://img.shields.io/github/stars/ramonzx6/rapid-reset-check">
+
+---
+## CVE-2023-44452 ()
+> 
+- [febinrev/atril_cbt-inject-exploit](https://github.com/febinrev/atril_cbt-inject-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/febinrev/atril_cbt-inject-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/febinrev/atril_cbt-inject-exploit">
+
+---
+## CVE-2023-44451 ()
+> 
+- [febinrev/slippy-book-exploit](https://github.com/febinrev/slippy-book-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/febinrev/slippy-book-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/febinrev/slippy-book-exploit">
 
 ---
 ## CVE-2023-44353 (2023-11-17T14:15:00)
@@ -4926,6 +4937,11 @@ prior to
 - [Henkel-CyberVM/CVE-2023-36361](https://github.com/Henkel-CyberVM/CVE-2023-36361)	<img alt="forks" src="https://img.shields.io/github/forks/Henkel-CyberVM/CVE-2023-36361">	<img alt="stars" src="https://img.shields.io/github/stars/Henkel-CyberVM/CVE-2023-36361">
 
 ---
+## CVE-2023-3635 ()
+> 
+- [JoshuaASmith/reproducer-okio-cve-2023-3635](https://github.com/JoshuaASmith/reproducer-okio-cve-2023-3635)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaASmith/reproducer-okio-cve-2023-3635">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaASmith/reproducer-okio-cve-2023-3635">
+
+---
 ## CVE-2023-36319 (2023-09-20T00:15:00)
 > File Upload vulnerability in Openupload Stable v.0.4.3 allows a remote attacker to execute arbitrary code via the action parameter of the compress-inc.php file.
 - [Lowalu/CVE-2023-36319](https://github.com/Lowalu/CVE-2023-36319)	<img alt="forks" src="https://img.shields.io/github/forks/Lowalu/CVE-2023-36319">	<img alt="stars" src="https://img.shields.io/github/stars/Lowalu/CVE-2023-36319">
@@ -6230,6 +6246,11 @@ Fixed in version 6.4.1.
 ## CVE-2023-31779 (2023-05-22T13:15:00)
 > Wekan v6.84 and earlier is vulnerable to Cross Site Scripting (XSS). An attacker with user privilege on kanban board can insert JavaScript code in in "Reaction to comment" feature.
 - [jet-pentest/CVE-2023-31779](https://github.com/jet-pentest/CVE-2023-31779)	<img alt="forks" src="https://img.shields.io/github/forks/jet-pentest/CVE-2023-31779">	<img alt="stars" src="https://img.shields.io/github/stars/jet-pentest/CVE-2023-31779">
+
+---
+## CVE-2023-31756 ()
+> 
+- [StanleyJobsonAU/LongBow](https://github.com/StanleyJobsonAU/LongBow)	<img alt="forks" src="https://img.shields.io/github/forks/StanleyJobsonAU/LongBow">	<img alt="stars" src="https://img.shields.io/github/stars/StanleyJobsonAU/LongBow">
 
 ---
 ## CVE-2023-31753 (2023-07-20T20:15:00)
@@ -13588,6 +13609,7 @@ If the server is run as root (which is the default when installing the  snap pac
 - [charlesgargasson/CVE-2023-1177](https://github.com/charlesgargasson/CVE-2023-1177)	<img alt="forks" src="https://img.shields.io/github/forks/charlesgargasson/CVE-2023-1177">	<img alt="stars" src="https://img.shields.io/github/stars/charlesgargasson/CVE-2023-1177">
 - [saimahmed/MLflow-Vuln](https://github.com/saimahmed/MLflow-Vuln)	<img alt="forks" src="https://img.shields.io/github/forks/saimahmed/MLflow-Vuln">	<img alt="stars" src="https://img.shields.io/github/stars/saimahmed/MLflow-Vuln">
 - [paultheal1en/CVE-2023-1177-PoC-reproduce](https://github.com/paultheal1en/CVE-2023-1177-PoC-reproduce)	<img alt="forks" src="https://img.shields.io/github/forks/paultheal1en/CVE-2023-1177-PoC-reproduce">	<img alt="stars" src="https://img.shields.io/github/stars/paultheal1en/CVE-2023-1177-PoC-reproduce">
+- [alphandbelt1/CVE-2023-1177-MLFlow](https://github.com/alphandbelt1/CVE-2023-1177-MLFlow)	<img alt="forks" src="https://img.shields.io/github/forks/alphandbelt1/CVE-2023-1177-MLFlow">	<img alt="stars" src="https://img.shields.io/github/stars/alphandbelt1/CVE-2023-1177-MLFlow">
 
 ---
 ## CVE-2023-11518 ()
@@ -14179,6 +14201,11 @@ If the server is run as root (which is the default when installing the  snap pac
 ## CVE-2023-0658 (2023-02-03T00:15:00)
 > A vulnerability, which was classified as critical, was found in Multilaser RE057 and RE170 2.1/2.2. This affects an unknown part of the file /param.file.tgz of the component Backup File Handler. The manipulation leads to information disclosure. It is possible to initiate the attack remotely. The identifier VDB-220053 was assigned to this vulnerability.
 - [Live-Hack-CVE/CVE-2023-0658](https://github.com/Live-Hack-CVE/CVE-2023-0658)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0658">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0658">
+
+---
+## CVE-2023-0656 ()
+> 
+- [BishopFox/CVE-2022-22274_CVE-2023-0656](https://github.com/BishopFox/CVE-2022-22274_CVE-2023-0656)	<img alt="forks" src="https://img.shields.io/github/forks/BishopFox/CVE-2022-22274_CVE-2023-0656">	<img alt="stars" src="https://img.shields.io/github/stars/BishopFox/CVE-2022-22274_CVE-2023-0656">
 
 ---
 ## CVE-2023-0655 (2023-02-14T03:15:00)
