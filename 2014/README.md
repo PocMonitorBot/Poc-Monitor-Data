@@ -1189,6 +1189,11 @@
 - [helpsystems/Embarcadero-Workaround](https://github.com/helpsystems/Embarcadero-Workaround)	<img alt="forks" src="https://img.shields.io/github/forks/helpsystems/Embarcadero-Workaround">	<img alt="stars" src="https://img.shields.io/github/stars/helpsystems/Embarcadero-Workaround">
 
 ---
+## CVE-2014-085 ()
+> 
+- [ehaoxiongdiycw/CVE-2014-085](https://github.com/ehaoxiongdiycw/CVE-2014-085)	<img alt="forks" src="https://img.shields.io/github/forks/ehaoxiongdiycw/CVE-2014-085">	<img alt="stars" src="https://img.shields.io/github/stars/ehaoxiongdiycw/CVE-2014-085">
+
+---
 ## CVE-2014-0816 ()
 > 
 - [tandasat/CVE-2014-0816](https://github.com/tandasat/CVE-2014-0816)	<img alt="forks" src="https://img.shields.io/github/forks/tandasat/CVE-2014-0816">	<img alt="stars" src="https://img.shields.io/github/stars/tandasat/CVE-2014-0816">

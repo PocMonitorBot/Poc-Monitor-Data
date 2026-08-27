@@ -31683,6 +31683,7 @@ the client's API server credentials to third parties.
 - [trhacknon/CVE-2022-29303](https://github.com/trhacknon/CVE-2022-29303)	<img alt="forks" src="https://img.shields.io/github/forks/trhacknon/CVE-2022-29303">	<img alt="stars" src="https://img.shields.io/github/stars/trhacknon/CVE-2022-29303">
 - [Chocapikk/CVE-2022-29303](https://github.com/Chocapikk/CVE-2022-29303)	<img alt="forks" src="https://img.shields.io/github/forks/Chocapikk/CVE-2022-29303">	<img alt="stars" src="https://img.shields.io/github/stars/Chocapikk/CVE-2022-29303">
 - [1f3lse/CVE-2022-29303](https://github.com/1f3lse/CVE-2022-29303)	<img alt="forks" src="https://img.shields.io/github/forks/1f3lse/CVE-2022-29303">	<img alt="stars" src="https://img.shields.io/github/stars/1f3lse/CVE-2022-29303">
+- [camgoering/solarview-ics-vulnerability-analysis](https://github.com/camgoering/solarview-ics-vulnerability-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/camgoering/solarview-ics-vulnerability-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/camgoering/solarview-ics-vulnerability-analysis">
 
 ---
 ## CVE-2022-29279 (2022-11-15T22:15:00)

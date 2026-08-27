@@ -445,6 +445,7 @@
 - [lennertdefauw/CVE-2025-8088](https://github.com/lennertdefauw/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/lennertdefauw/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/lennertdefauw/CVE-2025-8088">
 - [shaheeryasirofficial/CVE-2025-8088](https://github.com/shaheeryasirofficial/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/shaheeryasirofficial/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/shaheeryasirofficial/CVE-2025-8088">
 - [Lewis-Ricardo/Amaranth-Project](https://github.com/Lewis-Ricardo/Amaranth-Project)	<img alt="forks" src="https://img.shields.io/github/forks/Lewis-Ricardo/Amaranth-Project">	<img alt="stars" src="https://img.shields.io/github/stars/Lewis-Ricardo/Amaranth-Project">
+- [skander1337/winrar-exploit](https://github.com/skander1337/winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/skander1337/winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/skander1337/winrar-exploit">
 
 ---
 ## CVE-2025-8081 ()
@@ -9541,11 +9542,12 @@
 > 
 - [abrewer251/CVE-2025-2945_PgAdmin_PoC](https://github.com/abrewer251/CVE-2025-2945_PgAdmin_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/abrewer251/CVE-2025-2945_PgAdmin_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/abrewer251/CVE-2025-2945_PgAdmin_PoC">
 - [Cycloctane/cve-2025-2945-poc](https://github.com/Cycloctane/cve-2025-2945-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Cycloctane/cve-2025-2945-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Cycloctane/cve-2025-2945-poc">
-- [ExtremeUday/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-](https://github.com/ExtremeUday/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/ExtremeUday/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/ExtremeUday/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-">
+- [Udayveer17/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-](https://github.com/Udayveer17/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/Udayveer17/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/Udayveer17/CVE-2025-2945-pgAdmin4-Authenticated-RCE-PoC-">
 - [I3r1h0n/pgAdminOpendoor](https://github.com/I3r1h0n/pgAdminOpendoor)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/pgAdminOpendoor">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/pgAdminOpendoor">
 - [plur1bu5/CVE-2025-2945-pgadmin-rce](https://github.com/plur1bu5/CVE-2025-2945-pgadmin-rce)	<img alt="forks" src="https://img.shields.io/github/forks/plur1bu5/CVE-2025-2945-pgadmin-rce">	<img alt="stars" src="https://img.shields.io/github/stars/plur1bu5/CVE-2025-2945-pgadmin-rce">
 - [onxvyn/CVE-2025-2945](https://github.com/onxvyn/CVE-2025-2945)	<img alt="forks" src="https://img.shields.io/github/forks/onxvyn/CVE-2025-2945">	<img alt="stars" src="https://img.shields.io/github/stars/onxvyn/CVE-2025-2945">
 - [g0d150ne/CVE-2025-2945](https://github.com/g0d150ne/CVE-2025-2945)	<img alt="forks" src="https://img.shields.io/github/forks/g0d150ne/CVE-2025-2945">	<img alt="stars" src="https://img.shields.io/github/stars/g0d150ne/CVE-2025-2945">
+- [Khashayarnzk/CVE-2025-2945-pgAdmin-RCE](https://github.com/Khashayarnzk/CVE-2025-2945-pgAdmin-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Khashayarnzk/CVE-2025-2945-pgAdmin-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Khashayarnzk/CVE-2025-2945-pgAdmin-RCE">
 
 ---
 ## CVE-2025-29448 ()
