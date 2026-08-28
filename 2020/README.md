@@ -6551,6 +6551,7 @@
 - [XTeam-Wing/CVE-2020-14882](https://github.com/XTeam-Wing/CVE-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/XTeam-Wing/CVE-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/XTeam-Wing/CVE-2020-14882">
 - [0thm4n3/cve-2020-14882](https://github.com/0thm4n3/cve-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/0thm4n3/cve-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/0thm4n3/cve-2020-14882">
 - [VelesSecurity/CVE-2020-14882-WebLogic-Analysis](https://github.com/VelesSecurity/CVE-2020-14882-WebLogic-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/VelesSecurity/CVE-2020-14882-WebLogic-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/VelesSecurity/CVE-2020-14882-WebLogic-Analysis">
+- [hyderpwn/weblogic](https://github.com/hyderpwn/weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/hyderpwn/weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/hyderpwn/weblogic">
 
 ---
 ## CVE-2020-14871 ()

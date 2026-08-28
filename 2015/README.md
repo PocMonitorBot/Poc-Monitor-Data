@@ -543,6 +543,11 @@
 - [Live-Hack-CVE/CVE-2015-5290](https://github.com/Live-Hack-CVE/CVE-2015-5290)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-5290">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-5290">
 
 ---
+## CVE-2015-5287 ()
+> 
+- [HORKimhab/CVE-2015-5287](https://github.com/HORKimhab/CVE-2015-5287)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2015-5287">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2015-5287">
+
+---
 ## CVE-2015-5275 (2015-11-23T11:59:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2015-5257. Reason: This candidate is a reservation duplicate of CVE-2015-5257. Notes: All CVE users should reference CVE-2015-5257 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage.
 - [Live-Hack-CVE/CVE-2015-5275](https://github.com/Live-Hack-CVE/CVE-2015-5275)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-5275">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-5275">
@@ -756,6 +761,11 @@
 ## CVE-2015-3247 (2015-09-08T15:59:00)
 > A race condition flaw, leading to a heap-based memory corruption, was found in spice's worker_update_monitors_config() function, which runs under the QEMU-KVM context on the host. A user in a guest could leverage this flaw to crash the host QEMU-KVM process or, possibly, execute arbitrary code with the privileges of the host QEMU-KVM process.
 - [Live-Hack-CVE/CVE-2015-3247](https://github.com/Live-Hack-CVE/CVE-2015-3247)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2015-3247">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2015-3247">
+
+---
+## CVE-2015-3246 ()
+> 
+- [HORKimhab/CVE-2015-3246](https://github.com/HORKimhab/CVE-2015-3246)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2015-3246">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2015-3246">
 
 ---
 ## CVE-2015-3239 (2015-08-26T19:59:00)

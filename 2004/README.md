@@ -20,6 +20,7 @@
 - [nulltrace1336/Metasploitable-2-Distcc-Exploit-via-Kali-Linux-CVE-2004-2687](https://github.com/nulltrace1336/Metasploitable-2-Distcc-Exploit-via-Kali-Linux-CVE-2004-2687)	<img alt="forks" src="https://img.shields.io/github/forks/nulltrace1336/Metasploitable-2-Distcc-Exploit-via-Kali-Linux-CVE-2004-2687">	<img alt="stars" src="https://img.shields.io/github/stars/nulltrace1336/Metasploitable-2-Distcc-Exploit-via-Kali-Linux-CVE-2004-2687">
 - [micheaol/distccd_rce_CVE-2004-2687](https://github.com/micheaol/distccd_rce_CVE-2004-2687)	<img alt="forks" src="https://img.shields.io/github/forks/micheaol/distccd_rce_CVE-2004-2687">	<img alt="stars" src="https://img.shields.io/github/stars/micheaol/distccd_rce_CVE-2004-2687">
 - [aish19siddiqua-commits/mtechweek_04](https://github.com/aish19siddiqua-commits/mtechweek_04)	<img alt="forks" src="https://img.shields.io/github/forks/aish19siddiqua-commits/mtechweek_04">	<img alt="stars" src="https://img.shields.io/github/stars/aish19siddiqua-commits/mtechweek_04">
+- [ocfagb/hacktivity-vulns-exploits-lab](https://github.com/ocfagb/hacktivity-vulns-exploits-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ocfagb/hacktivity-vulns-exploits-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ocfagb/hacktivity-vulns-exploits-lab">
 
 ---
 ## CVE-2004-2549 ()
