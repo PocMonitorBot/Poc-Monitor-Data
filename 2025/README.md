@@ -3240,6 +3240,8 @@
 - [Moon-Harvest/CVE-2025-59528](https://github.com/Moon-Harvest/CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/Moon-Harvest/CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/Moon-Harvest/CVE-2025-59528">
 - [Loaxert/CVE-2025-59528-PoC](https://github.com/Loaxert/CVE-2025-59528-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Loaxert/CVE-2025-59528-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Loaxert/CVE-2025-59528-PoC">
 - [sonnelon/CVE-2025-59528-PoC](https://github.com/sonnelon/CVE-2025-59528-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sonnelon/CVE-2025-59528-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sonnelon/CVE-2025-59528-PoC">
+- [hackpatato/PoC-and-yara-rules-of-CVE-2025-59528-Flowise-has-Remote-Code-Execution-vulnerability](https://github.com/hackpatato/PoC-and-yara-rules-of-CVE-2025-59528-Flowise-has-Remote-Code-Execution-vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/hackpatato/PoC-and-yara-rules-of-CVE-2025-59528-Flowise-has-Remote-Code-Execution-vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/hackpatato/PoC-and-yara-rules-of-CVE-2025-59528-Flowise-has-Remote-Code-Execution-vulnerability">
+- [Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup">
 
 ---
 ## CVE-2025-59503 ()
@@ -4969,6 +4971,7 @@
 - [PhanHoangKhang/React2Shell](https://github.com/PhanHoangKhang/React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/PhanHoangKhang/React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/PhanHoangKhang/React2Shell">
 - [h3n1s3/React2shell-Research](https://github.com/h3n1s3/React2shell-Research)	<img alt="forks" src="https://img.shields.io/github/forks/h3n1s3/React2shell-Research">	<img alt="stars" src="https://img.shields.io/github/stars/h3n1s3/React2shell-Research">
 - [Mr-Destroyer/CVE-2025-55182](https://github.com/Mr-Destroyer/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Mr-Destroyer/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Mr-Destroyer/CVE-2025-55182">
+- [UwUGreed/CVE-2025-55182-poc](https://github.com/UwUGreed/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/UwUGreed/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/UwUGreed/CVE-2025-55182-poc">
 
 ---
 ## CVE-2025-55177 ()
@@ -5256,7 +5259,7 @@
 ## CVE-2025-54068 ()
 > 
 - [flame-11/CVE-2025-54068-livewire](https://github.com/flame-11/CVE-2025-54068-livewire)	<img alt="forks" src="https://img.shields.io/github/forks/flame-11/CVE-2025-54068-livewire">	<img alt="stars" src="https://img.shields.io/github/stars/flame-11/CVE-2025-54068-livewire">
-- [e4zyy/Livewire2025CVE](https://github.com/e4zyy/Livewire2025CVE)	<img alt="forks" src="https://img.shields.io/github/forks/e4zyy/Livewire2025CVE">	<img alt="stars" src="https://img.shields.io/github/stars/e4zyy/Livewire2025CVE">
+- [e4zyy/Project-CVE-2025-54068](https://github.com/e4zyy/Project-CVE-2025-54068)	<img alt="forks" src="https://img.shields.io/github/forks/e4zyy/Project-CVE-2025-54068">	<img alt="stars" src="https://img.shields.io/github/stars/e4zyy/Project-CVE-2025-54068">
 - [synacktiv/Livepyre](https://github.com/synacktiv/Livepyre)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/Livepyre">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/Livepyre">
 - [haxorstars/CVE-2025-54068](https://github.com/haxorstars/CVE-2025-54068)	<img alt="forks" src="https://img.shields.io/github/forks/haxorstars/CVE-2025-54068">	<img alt="stars" src="https://img.shields.io/github/stars/haxorstars/CVE-2025-54068">
 - [y0uki-sec/CVE-2025-54068](https://github.com/y0uki-sec/CVE-2025-54068)	<img alt="forks" src="https://img.shields.io/github/forks/y0uki-sec/CVE-2025-54068">	<img alt="stars" src="https://img.shields.io/github/stars/y0uki-sec/CVE-2025-54068">
@@ -12653,6 +12656,11 @@
 > 
 - [hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hakaioffsec/IngressNightmare-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hakaioffsec/IngressNightmare-PoC">
 - [lufeirider/IngressNightmare-PoC](https://github.com/lufeirider/IngressNightmare-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lufeirider/IngressNightmare-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lufeirider/IngressNightmare-PoC">
+
+---
+## CVE-2025-10952 ()
+> 
+- [Khashayarnzk/CVE-2025-10952-ml-logger-AFR](https://github.com/Khashayarnzk/CVE-2025-10952-ml-logger-AFR)	<img alt="forks" src="https://img.shields.io/github/forks/Khashayarnzk/CVE-2025-10952-ml-logger-AFR">	<img alt="stars" src="https://img.shields.io/github/stars/Khashayarnzk/CVE-2025-10952-ml-logger-AFR">
 
 ---
 ## CVE-2025-10951 ()
