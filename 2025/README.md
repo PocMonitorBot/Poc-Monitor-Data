@@ -9374,7 +9374,7 @@
 - [Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927](https://github.com/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927">
 - [Gokul-Krishnan-V-R/cve-2025-29927](https://github.com/Gokul-Krishnan-V-R/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Gokul-Krishnan-V-R/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Gokul-Krishnan-V-R/cve-2025-29927">
 - [fahimalshihab/NextBypass](https://github.com/fahimalshihab/NextBypass)	<img alt="forks" src="https://img.shields.io/github/forks/fahimalshihab/NextBypass">	<img alt="stars" src="https://img.shields.io/github/stars/fahimalshihab/NextBypass">
-- [sn1p3rt3s7/NextJS_CVE-2025-29927](https://github.com/sn1p3rt3s7/NextJS_CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sn1p3rt3s7/NextJS_CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sn1p3rt3s7/NextJS_CVE-2025-29927">
+- [all3njk/NextJS_CVE-2025-29927](https://github.com/all3njk/NextJS_CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/all3njk/NextJS_CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/all3njk/NextJS_CVE-2025-29927">
 - [Balajih4kr/cve-2025-29927](https://github.com/Balajih4kr/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/Balajih4kr/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/Balajih4kr/cve-2025-29927">
 - [YEONDG/nextjs-cve-2025-29927](https://github.com/YEONDG/nextjs-cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/YEONDG/nextjs-cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/YEONDG/nextjs-cve-2025-29927">
 - [gotr00t0day/CVE-2025-29927](https://github.com/gotr00t0day/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/gotr00t0day/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/gotr00t0day/CVE-2025-29927">
@@ -9461,6 +9461,7 @@
 - [surajpandeyp/CVE-2025-29927](https://github.com/surajpandeyp/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/surajpandeyp/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/surajpandeyp/CVE-2025-29927">
 - [Ev3rPalestine/0xMiddleware](https://github.com/Ev3rPalestine/0xMiddleware)	<img alt="forks" src="https://img.shields.io/github/forks/Ev3rPalestine/0xMiddleware">	<img alt="stars" src="https://img.shields.io/github/stars/Ev3rPalestine/0xMiddleware">
 - [berraesen/nextjs-middleware-auth-bypass-lab](https://github.com/berraesen/nextjs-middleware-auth-bypass-lab)	<img alt="forks" src="https://img.shields.io/github/forks/berraesen/nextjs-middleware-auth-bypass-lab">	<img alt="stars" src="https://img.shields.io/github/stars/berraesen/nextjs-middleware-auth-bypass-lab">
+- [kuyrathdaro/cve-2025-29927](https://github.com/kuyrathdaro/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-29927">
 
 ---
 ## CVE-2025-29891 ()

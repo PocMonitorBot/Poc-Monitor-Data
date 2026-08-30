@@ -3285,6 +3285,11 @@
 - [Live-Hack-CVE/CVE-2020-2803](https://github.com/Live-Hack-CVE/CVE-2020-2803)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-2803">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-2803">
 
 ---
+## CVE-2020-28022 ()
+> 
+- [t1b4n3/CVE-2020-28022](https://github.com/t1b4n3/CVE-2020-28022)	<img alt="forks" src="https://img.shields.io/github/forks/t1b4n3/CVE-2020-28022">	<img alt="stars" src="https://img.shields.io/github/stars/t1b4n3/CVE-2020-28022">
+
+---
 ## CVE-2020-28018 ()
 > 
 - [dorkerdevil/CVE-2020-28018](https://github.com/dorkerdevil/CVE-2020-28018)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE-2020-28018">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE-2020-28018">

@@ -3024,6 +3024,7 @@ length to be included in the checksum calculation is fully consumed.
 - [vettrivel007/CVE-2024-49138](https://github.com/vettrivel007/CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/vettrivel007/CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/vettrivel007/CVE-2024-49138">
 - [Zedocun/soc-investigation-powershell-edrfreeze](https://github.com/Zedocun/soc-investigation-powershell-edrfreeze)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/soc-investigation-powershell-edrfreeze">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/soc-investigation-powershell-edrfreeze">
 - [basitsajidapply-stack/SOC-Investigation-CVE-2024-49138](https://github.com/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138">
+- [NadineElliottCyber/SOC335-CVE-2024-49138-Investigation](https://github.com/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation">
 
 ---
 ## CVE-2024-49117 ()
@@ -7926,6 +7927,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [oioio-space/maldev](https://github.com/oioio-space/maldev)	<img alt="forks" src="https://img.shields.io/github/forks/oioio-space/maldev">	<img alt="stars" src="https://img.shields.io/github/stars/oioio-space/maldev">
 - [FangFang-Yi/CVE-2024-30088](https://github.com/FangFang-Yi/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/FangFang-Yi/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/FangFang-Yi/CVE-2024-30088">
 - [th3g3ntl3m4n84/CVE-2024-30088__Windows-TOCTOU-exploit](https://github.com/th3g3ntl3m4n84/CVE-2024-30088__Windows-TOCTOU-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/th3g3ntl3m4n84/CVE-2024-30088__Windows-TOCTOU-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/th3g3ntl3m4n84/CVE-2024-30088__Windows-TOCTOU-exploit">
+- [cyghtinc/cve-2024-30088-binary-LPE-PRIVIELEGE-ESCALATION-CYGHT-TOCTOU](https://github.com/cyghtinc/cve-2024-30088-binary-LPE-PRIVIELEGE-ESCALATION-CYGHT-TOCTOU)	<img alt="forks" src="https://img.shields.io/github/forks/cyghtinc/cve-2024-30088-binary-LPE-PRIVIELEGE-ESCALATION-CYGHT-TOCTOU">	<img alt="stars" src="https://img.shields.io/github/stars/cyghtinc/cve-2024-30088-binary-LPE-PRIVIELEGE-ESCALATION-CYGHT-TOCTOU">
 
 ---
 ## CVE-2024-30085 ()
@@ -9751,7 +9753,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [brijne/CVE-2024-23897-RCE](https://github.com/brijne/CVE-2024-23897-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/brijne/CVE-2024-23897-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/brijne/CVE-2024-23897-RCE">
 - [WLXQqwer/Jenkins-CVE-2024-23897-](https://github.com/WLXQqwer/Jenkins-CVE-2024-23897-)	<img alt="forks" src="https://img.shields.io/github/forks/WLXQqwer/Jenkins-CVE-2024-23897-">	<img alt="stars" src="https://img.shields.io/github/stars/WLXQqwer/Jenkins-CVE-2024-23897-">
 - [kaanatmacaa/CVE-2024-23897](https://github.com/kaanatmacaa/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/kaanatmacaa/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/kaanatmacaa/CVE-2024-23897">
-- [Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability](https://github.com/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability">
+- [GraySignal/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability](https://github.com/GraySignal/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/GraySignal/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/GraySignal/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability">
 - [B4CK4TT4CK/CVE-2024-23897](https://github.com/B4CK4TT4CK/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/B4CK4TT4CK/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/B4CK4TT4CK/CVE-2024-23897">
 - [abdomagdy0/CVE-2024-23897-htb](https://github.com/abdomagdy0/CVE-2024-23897-htb)	<img alt="forks" src="https://img.shields.io/github/forks/abdomagdy0/CVE-2024-23897-htb">	<img alt="stars" src="https://img.shields.io/github/stars/abdomagdy0/CVE-2024-23897-htb">
 - [godylockz/CVE-2024-23897](https://github.com/godylockz/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/godylockz/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/godylockz/CVE-2024-23897">
@@ -11600,6 +11602,7 @@ authentication.   
 ## CVE-2024-12381 ()
 > 
 - [FatfishIO/CVE-2024-12381-PoC](https://github.com/FatfishIO/CVE-2024-12381-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/FatfishIO/CVE-2024-12381-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/FatfishIO/CVE-2024-12381-PoC">
+- [VictorNS69/CVE-2024-12381](https://github.com/VictorNS69/CVE-2024-12381)	<img alt="forks" src="https://img.shields.io/github/forks/VictorNS69/CVE-2024-12381">	<img alt="stars" src="https://img.shields.io/github/stars/VictorNS69/CVE-2024-12381">
 
 ---
 ## CVE-2024-12365 ()

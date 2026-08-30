@@ -18181,6 +18181,7 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [LeoChen-CoreMind/spd_flasher](https://github.com/LeoChen-CoreMind/spd_flasher)	<img alt="forks" src="https://img.shields.io/github/forks/LeoChen-CoreMind/spd_flasher">	<img alt="stars" src="https://img.shields.io/github/stars/LeoChen-CoreMind/spd_flasher">
 - [mutur4/UnisocBootROMs](https://github.com/mutur4/UnisocBootROMs)	<img alt="forks" src="https://img.shields.io/github/forks/mutur4/UnisocBootROMs">	<img alt="stars" src="https://img.shields.io/github/stars/mutur4/UnisocBootROMs">
 - [xun404/spd_dump-macos](https://github.com/xun404/spd_dump-macos)	<img alt="forks" src="https://img.shields.io/github/forks/xun404/spd_dump-macos">	<img alt="stars" src="https://img.shields.io/github/stars/xun404/spd_dump-macos">
+- [Gadorach/vankyo-s30-bootloader-unlock](https://github.com/Gadorach/vankyo-s30-bootloader-unlock)	<img alt="forks" src="https://img.shields.io/github/forks/Gadorach/vankyo-s30-bootloader-unlock">	<img alt="stars" src="https://img.shields.io/github/stars/Gadorach/vankyo-s30-bootloader-unlock">
 
 ---
 ## CVE-2022-38691 ()
@@ -34341,6 +34342,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [dom4570/CVE-2022-2588](https://github.com/dom4570/CVE-2022-2588)	<img alt="forks" src="https://img.shields.io/github/forks/dom4570/CVE-2022-2588">	<img alt="stars" src="https://img.shields.io/github/stars/dom4570/CVE-2022-2588">
 - [veritas501/CVE-2022-2588](https://github.com/veritas501/CVE-2022-2588)	<img alt="forks" src="https://img.shields.io/github/forks/veritas501/CVE-2022-2588">	<img alt="stars" src="https://img.shields.io/github/stars/veritas501/CVE-2022-2588">
 - [Igr1s-red/CVE-2022-2588](https://github.com/Igr1s-red/CVE-2022-2588)	<img alt="forks" src="https://img.shields.io/github/forks/Igr1s-red/CVE-2022-2588">	<img alt="stars" src="https://img.shields.io/github/stars/Igr1s-red/CVE-2022-2588">
+- [LSinus/CacheMeIfYouCan](https://github.com/LSinus/CacheMeIfYouCan)	<img alt="forks" src="https://img.shields.io/github/forks/LSinus/CacheMeIfYouCan">	<img alt="stars" src="https://img.shields.io/github/stars/LSinus/CacheMeIfYouCan">
 
 ---
 ## CVE-2022-25869 ()
