@@ -568,6 +568,7 @@
 - [Shams-Ul-Mehmood/CVE-2018-7600-Drupalgeddon2-RCE](https://github.com/Shams-Ul-Mehmood/CVE-2018-7600-Drupalgeddon2-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Shams-Ul-Mehmood/CVE-2018-7600-Drupalgeddon2-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Shams-Ul-Mehmood/CVE-2018-7600-Drupalgeddon2-RCE">
 - [Prapul1/VulnHub-DC1-Writeup](https://github.com/Prapul1/VulnHub-DC1-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Prapul1/VulnHub-DC1-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Prapul1/VulnHub-DC1-Writeup">
 - [elkhaoudari/CVE-2018-7600-PoC](https://github.com/elkhaoudari/CVE-2018-7600-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/elkhaoudari/CVE-2018-7600-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/elkhaoudari/CVE-2018-7600-PoC">
+- [Vaibhav91one/drupalgeddon2-cve-lab](https://github.com/Vaibhav91one/drupalgeddon2-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Vaibhav91one/drupalgeddon2-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Vaibhav91one/drupalgeddon2-cve-lab">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)

@@ -1564,7 +1564,7 @@
 - [freeqaz/react2shell](https://github.com/freeqaz/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/freeqaz/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/freeqaz/react2shell">
 - [imbas007/POC-CVE-2025-66478](https://github.com/imbas007/POC-CVE-2025-66478)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/POC-CVE-2025-66478">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/POC-CVE-2025-66478">
 - [nehkark/CVE-2025-55182](https://github.com/nehkark/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/nehkark/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/nehkark/CVE-2025-55182">
-- [Saturate/CVE-2025-55182-Scanner](https://github.com/Saturate/CVE-2025-55182-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-Scanner">
+- [Saturate/CVE-2025-55182-react2shell](https://github.com/Saturate/CVE-2025-55182-react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/Saturate/CVE-2025-55182-react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/Saturate/CVE-2025-55182-react2shell">
 - [xkey8/react2shell](https://github.com/xkey8/react2shell)	<img alt="forks" src="https://img.shields.io/github/forks/xkey8/react2shell">	<img alt="stars" src="https://img.shields.io/github/stars/xkey8/react2shell">
 - [namest504/CVE-2025-66478-Exploit-Poc](https://github.com/namest504/CVE-2025-66478-Exploit-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/namest504/CVE-2025-66478-Exploit-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/namest504/CVE-2025-66478-Exploit-Poc">
 - [cypholab/evilact](https://github.com/cypholab/evilact)	<img alt="forks" src="https://img.shields.io/github/forks/cypholab/evilact">	<img alt="stars" src="https://img.shields.io/github/stars/cypholab/evilact">
@@ -1695,6 +1695,7 @@
 - [react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-canary-16x](https://github.com/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-canary-16x)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-canary-16x">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-canary-16x">
 - [react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-canary-14x](https://github.com/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-canary-14x)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-canary-14x">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-canary-14x">
 - [react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-build-metadata](https://github.com/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-build-metadata)	<img alt="forks" src="https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-build-metadata">	<img alt="stars" src="https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-build-metadata">
+- [JotaEspig/CVE-2025-66478-PoC-Reverse-Shell](https://github.com/JotaEspig/CVE-2025-66478-PoC-Reverse-Shell)	<img alt="forks" src="https://img.shields.io/github/forks/JotaEspig/CVE-2025-66478-PoC-Reverse-Shell">	<img alt="stars" src="https://img.shields.io/github/stars/JotaEspig/CVE-2025-66478-PoC-Reverse-Shell">
 
 ---
 ## CVE-2025-66470 ()
@@ -2216,6 +2217,7 @@
 - [BastianXploited/CVE-2025-6440](https://github.com/BastianXploited/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/BastianXploited/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/BastianXploited/CVE-2025-6440">
 - [sahmsec/CVE-2025-6440](https://github.com/sahmsec/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/sahmsec/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/sahmsec/CVE-2025-6440">
 - [Cyber-DarkNay/CVE-2025-6440](https://github.com/Cyber-DarkNay/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/Cyber-DarkNay/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/Cyber-DarkNay/CVE-2025-6440">
+- [katranSefa/CVE-2025-6440](https://github.com/katranSefa/CVE-2025-6440)	<img alt="forks" src="https://img.shields.io/github/forks/katranSefa/CVE-2025-6440">	<img alt="stars" src="https://img.shields.io/github/stars/katranSefa/CVE-2025-6440">
 
 ---
 ## CVE-2025-64328 ()
@@ -3685,6 +3687,7 @@
 - [sentinel-aidefense/CVE-2025-5777](https://github.com/sentinel-aidefense/CVE-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-5777">
 - [razureink/cve-2025-5777-citrixbleed2_reproduction](https://github.com/razureink/cve-2025-5777-citrixbleed2_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-5777-citrixbleed2_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-5777-citrixbleed2_reproduction">
 - [Sheep-Hunter/CVE-2025-5777-POC](https://github.com/Sheep-Hunter/CVE-2025-5777-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Sheep-Hunter/CVE-2025-5777-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Sheep-Hunter/CVE-2025-5777-POC">
+- [maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777](https://github.com/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777)	<img alt="forks" src="https://img.shields.io/github/forks/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777">	<img alt="stars" src="https://img.shields.io/github/stars/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777">
 
 ---
 ## CVE-2025-57576 ()
@@ -12992,6 +12995,11 @@
 ## CVE-2025-0364 ()
 > 
 - [vulncheck-oss/cve-2025-0364](https://github.com/vulncheck-oss/cve-2025-0364)	<img alt="forks" src="https://img.shields.io/github/forks/vulncheck-oss/cve-2025-0364">	<img alt="stars" src="https://img.shields.io/github/stars/vulncheck-oss/cve-2025-0364">
+
+---
+## CVE-2025-0324 ()
+> 
+- [kemrec/CVE-2025-0324-axis-vapix-privesc](https://github.com/kemrec/CVE-2025-0324-axis-vapix-privesc)	<img alt="forks" src="https://img.shields.io/github/forks/kemrec/CVE-2025-0324-axis-vapix-privesc">	<img alt="stars" src="https://img.shields.io/github/stars/kemrec/CVE-2025-0324-axis-vapix-privesc">
 
 ---
 ## CVE-2025-0316 ()

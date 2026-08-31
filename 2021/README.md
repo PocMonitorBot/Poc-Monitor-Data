@@ -1678,6 +1678,7 @@
 - [vulnerable-apps/log4shell-honeypot](https://github.com/vulnerable-apps/log4shell-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/vulnerable-apps/log4shell-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/vulnerable-apps/log4shell-honeypot">
 - [manishkanyal/log4j-scanner](https://github.com/manishkanyal/log4j-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/manishkanyal/log4j-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/manishkanyal/log4j-scanner">
 - [hassaanahmad813/log4j](https://github.com/hassaanahmad813/log4j)	<img alt="forks" src="https://img.shields.io/github/forks/hassaanahmad813/log4j">	<img alt="stars" src="https://img.shields.io/github/stars/hassaanahmad813/log4j">
+- [Vaibhav91one/log4shell-cve-lab](https://github.com/Vaibhav91one/log4shell-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Vaibhav91one/log4shell-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Vaibhav91one/log4shell-cve-lab">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)

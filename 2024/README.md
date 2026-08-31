@@ -4615,6 +4615,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [h3lye/CVE-2024-42448-RCE](https://github.com/h3lye/CVE-2024-42448-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/h3lye/CVE-2024-42448-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/h3lye/CVE-2024-42448-RCE">
 
 ---
+## CVE-2024-42365 ()
+> 
+- [Raajgupta01/htb-machine-ringdown](https://github.com/Raajgupta01/htb-machine-ringdown)	<img alt="forks" src="https://img.shields.io/github/forks/Raajgupta01/htb-machine-ringdown">	<img alt="stars" src="https://img.shields.io/github/stars/Raajgupta01/htb-machine-ringdown">
+
+---
 ## CVE-2024-42364 ()
 > 
 - [ibrahmsql/CVE-2024-42364](https://github.com/ibrahmsql/CVE-2024-42364)	<img alt="forks" src="https://img.shields.io/github/forks/ibrahmsql/CVE-2024-42364">	<img alt="stars" src="https://img.shields.io/github/stars/ibrahmsql/CVE-2024-42364">
@@ -4827,6 +4832,11 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-41276 ()
 > 
 - [artemy-ccrsky/CVE-2024-41276](https://github.com/artemy-ccrsky/CVE-2024-41276)	<img alt="forks" src="https://img.shields.io/github/forks/artemy-ccrsky/CVE-2024-41276">	<img alt="stars" src="https://img.shields.io/github/stars/artemy-ccrsky/CVE-2024-41276">
+
+---
+## CVE-2024-41127 ()
+> 
+- [pvharmo2/gha-lab-83342297e0](https://github.com/pvharmo2/gha-lab-83342297e0)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-83342297e0">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-83342297e0">
 
 ---
 ## CVE-2024-41110 (2024-07-24T17:15:00)
