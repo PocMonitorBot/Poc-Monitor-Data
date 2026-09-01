@@ -337,6 +337,7 @@
 > 
 - [UdinChan/cve-2026-82222-poc](https://github.com/UdinChan/cve-2026-82222-poc)	<img alt="forks" src="https://img.shields.io/github/forks/UdinChan/cve-2026-82222-poc">	<img alt="stars" src="https://img.shields.io/github/stars/UdinChan/cve-2026-82222-poc">
 - [dinosn/givewp-cve-2026-82222-rce-lab](https://github.com/dinosn/givewp-cve-2026-82222-rce-lab)	<img alt="forks" src="https://img.shields.io/github/forks/dinosn/givewp-cve-2026-82222-rce-lab">	<img alt="stars" src="https://img.shields.io/github/stars/dinosn/givewp-cve-2026-82222-rce-lab">
+- [R0x19/CVE-2026-82222](https://github.com/R0x19/CVE-2026-82222)	<img alt="forks" src="https://img.shields.io/github/forks/R0x19/CVE-2026-82222">	<img alt="stars" src="https://img.shields.io/github/stars/R0x19/CVE-2026-82222">
 
 ---
 ## CVE-2026-8206 ()
@@ -823,6 +824,11 @@
 ## CVE-2026-71960 ()
 > 
 - [Hunt-Benito/the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt](https://github.com/Hunt-Benito/the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt)	<img alt="forks" src="https://img.shields.io/github/forks/Hunt-Benito/the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt">	<img alt="stars" src="https://img.shields.io/github/stars/Hunt-Benito/the-same-key-opens-every-box-cve-2026-71960-hard-coded-jwt-secret-in-cudy-wr3000-mesh-mqtt">
+
+---
+## CVE-2026-71851 ()
+> 
+- [brendonlee20042004-sys/weakrng-sweep](https://github.com/brendonlee20042004-sys/weakrng-sweep)	<img alt="forks" src="https://img.shields.io/github/forks/brendonlee20042004-sys/weakrng-sweep">	<img alt="stars" src="https://img.shields.io/github/stars/brendonlee20042004-sys/weakrng-sweep">
 
 ---
 ## CVE-2026-71557 ()
@@ -1772,6 +1778,11 @@
 - [DavidCarliez/cve-2026-62737-lab](https://github.com/DavidCarliez/cve-2026-62737-lab)	<img alt="forks" src="https://img.shields.io/github/forks/DavidCarliez/cve-2026-62737-lab">	<img alt="stars" src="https://img.shields.io/github/stars/DavidCarliez/cve-2026-62737-lab">
 - [loanvui/CVE-2026-62737](https://github.com/loanvui/CVE-2026-62737)	<img alt="forks" src="https://img.shields.io/github/forks/loanvui/CVE-2026-62737">	<img alt="stars" src="https://img.shields.io/github/stars/loanvui/CVE-2026-62737">
 - [loanvui/CVE-2026-62737](https://github.com/loanvui/CVE-2026-62737)	<img alt="forks" src="https://img.shields.io/github/forks/loanvui/CVE-2026-62737">	<img alt="stars" src="https://img.shields.io/github/stars/loanvui/CVE-2026-62737">
+
+---
+## CVE-2026-62735 ()
+> 
+- [nhh9905/CVE-2026-62735](https://github.com/nhh9905/CVE-2026-62735)	<img alt="forks" src="https://img.shields.io/github/forks/nhh9905/CVE-2026-62735">	<img alt="stars" src="https://img.shields.io/github/stars/nhh9905/CVE-2026-62735">
 
 ---
 ## CVE-2026-6271 ()
@@ -4619,6 +4630,7 @@
 - [ReBiliBin/ghostlock-oppo-watch3pro](https://github.com/ReBiliBin/ghostlock-oppo-watch3pro)	<img alt="forks" src="https://img.shields.io/github/forks/ReBiliBin/ghostlock-oppo-watch3pro">	<img alt="stars" src="https://img.shields.io/github/stars/ReBiliBin/ghostlock-oppo-watch3pro">
 - [asarr22/Root-My-Galaxy-S938B](https://github.com/asarr22/Root-My-Galaxy-S938B)	<img alt="forks" src="https://img.shields.io/github/forks/asarr22/Root-My-Galaxy-S938B">	<img alt="stars" src="https://img.shields.io/github/stars/asarr22/Root-My-Galaxy-S938B">
 - [alk601/Root-My-Galaxy](https://github.com/alk601/Root-My-Galaxy)	<img alt="forks" src="https://img.shields.io/github/forks/alk601/Root-My-Galaxy">	<img alt="stars" src="https://img.shields.io/github/stars/alk601/Root-My-Galaxy">
+- [xiaohj233/ghostlock-x200-app](https://github.com/xiaohj233/ghostlock-x200-app)	<img alt="forks" src="https://img.shields.io/github/forks/xiaohj233/ghostlock-x200-app">	<img alt="stars" src="https://img.shields.io/github/stars/xiaohj233/ghostlock-x200-app">
 
 ---
 ## CVE-2026-43494 ()
@@ -7880,6 +7892,16 @@
 ## CVE-2026-3030 ()
 > 
 - [George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch](https://github.com/George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch)	<img alt="forks" src="https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch">	<img alt="stars" src="https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-3030-Prototype-Pollution-in-JSON-Merge-Patch">
+
+---
+## CVE-2026-30252 ()
+> 
+- [vEnablee/CVE-2026-30252](https://github.com/vEnablee/CVE-2026-30252)	<img alt="forks" src="https://img.shields.io/github/forks/vEnablee/CVE-2026-30252">	<img alt="stars" src="https://img.shields.io/github/stars/vEnablee/CVE-2026-30252">
+
+---
+## CVE-2026-30251 ()
+> 
+- [vEnablee/CVE-2026-30251](https://github.com/vEnablee/CVE-2026-30251)	<img alt="forks" src="https://img.shields.io/github/forks/vEnablee/CVE-2026-30251">	<img alt="stars" src="https://img.shields.io/github/stars/vEnablee/CVE-2026-30251">
 
 ---
 ## CVE-2026-30082 ()
@@ -12310,6 +12332,7 @@
 - [ctn-Qvo/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN](https://github.com/ctn-Qvo/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN)	<img alt="forks" src="https://img.shields.io/github/forks/ctn-Qvo/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN">	<img alt="stars" src="https://img.shields.io/github/stars/ctn-Qvo/CVE-2026-0073-Android-ADBD-bypass-POC_zh_CN">
 - [RDTUTORIAL/aetherion](https://github.com/RDTUTORIAL/aetherion)	<img alt="forks" src="https://img.shields.io/github/forks/RDTUTORIAL/aetherion">	<img alt="stars" src="https://img.shields.io/github/stars/RDTUTORIAL/aetherion">
 - [aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass](https://github.com/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass">
+- [naheeju/POC-CVE-2026-0073](https://github.com/naheeju/POC-CVE-2026-0073)	<img alt="forks" src="https://img.shields.io/github/forks/naheeju/POC-CVE-2026-0073">	<img alt="stars" src="https://img.shields.io/github/stars/naheeju/POC-CVE-2026-0073">
 
 ---
 ## CVE-2026-0059 ()

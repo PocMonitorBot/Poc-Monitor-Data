@@ -3378,6 +3378,7 @@
 - [syriusbughunt/CVE-2018-14667](https://github.com/syriusbughunt/CVE-2018-14667)	<img alt="forks" src="https://img.shields.io/github/forks/syriusbughunt/CVE-2018-14667">	<img alt="stars" src="https://img.shields.io/github/stars/syriusbughunt/CVE-2018-14667">
 - [quandqn/cve-2018-14667](https://github.com/quandqn/cve-2018-14667)	<img alt="forks" src="https://img.shields.io/github/forks/quandqn/cve-2018-14667">	<img alt="stars" src="https://img.shields.io/github/stars/quandqn/cve-2018-14667">
 - [Venscor/CVE-2018-14667-poc](https://github.com/Venscor/CVE-2018-14667-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Venscor/CVE-2018-14667-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Venscor/CVE-2018-14667-poc">
+- [r4ch1d0/CVE-2018-14667_Lab_POC](https://github.com/r4ch1d0/CVE-2018-14667_Lab_POC)	<img alt="forks" src="https://img.shields.io/github/forks/r4ch1d0/CVE-2018-14667_Lab_POC">	<img alt="stars" src="https://img.shields.io/github/stars/r4ch1d0/CVE-2018-14667_Lab_POC">
 
 ---
 ## CVE-2018-14665 ()

@@ -2505,6 +2505,11 @@
 - [Live-Hack-CVE/CVE-2021-4282](https://github.com/Live-Hack-CVE/CVE-2021-4282)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4282">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4282">
 
 ---
+## CVE-2021-4281 ()
+> 
+- [pvharmo2/gha-lab-232af4821f](https://github.com/pvharmo2/gha-lab-232af4821f)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-232af4821f">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-232af4821f">
+
+---
 ## CVE-2021-4280 (2022-12-25T20:15:00)
 > A vulnerability was found in styler_praat_scripts. It has been classified as problematic. Affected is an unknown function of the file file_segmenter.praat of the component Slash Handler. The manipulation leads to denial of service. It is possible to launch the attack remotely. The name of the patch is 0cad44aa4a3eb0ecdba071c10eaff16023d8b35f. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB-216780.
 - [Live-Hack-CVE/CVE-2021-4280](https://github.com/Live-Hack-CVE/CVE-2021-4280)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4280">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4280">
@@ -7237,6 +7242,7 @@
 - [Ayham-Megdadi/Zero-Day-Legacy](https://github.com/Ayham-Megdadi/Zero-Day-Legacy)	<img alt="forks" src="https://img.shields.io/github/forks/Ayham-Megdadi/Zero-Day-Legacy">	<img alt="stars" src="https://img.shields.io/github/stars/Ayham-Megdadi/Zero-Day-Legacy">
 - [WhatsWrongAndWhy/CVE-2021-3493](https://github.com/WhatsWrongAndWhy/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-3493">
 - [0xlane/CVE-2021-3493](https://github.com/0xlane/CVE-2021-3493)	<img alt="forks" src="https://img.shields.io/github/forks/0xlane/CVE-2021-3493">	<img alt="stars" src="https://img.shields.io/github/stars/0xlane/CVE-2021-3493">
+- [r3dw4n48m3d/CVE-2021-3493-Exploit](https://github.com/r3dw4n48m3d/CVE-2021-3493-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/r3dw4n48m3d/CVE-2021-3493-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/r3dw4n48m3d/CVE-2021-3493-Exploit">
 
 ---
 ## CVE-2021-3492 ()
@@ -12716,6 +12722,11 @@
 > 
 - [moften/CVE-2021-21424](https://github.com/moften/CVE-2021-21424)	<img alt="forks" src="https://img.shields.io/github/forks/moften/CVE-2021-21424">	<img alt="stars" src="https://img.shields.io/github/stars/moften/CVE-2021-21424">
 - [moften/Symfony-CVE-Scanner-PoC-](https://github.com/moften/Symfony-CVE-Scanner-PoC-)	<img alt="forks" src="https://img.shields.io/github/forks/moften/Symfony-CVE-Scanner-PoC-">	<img alt="stars" src="https://img.shields.io/github/stars/moften/Symfony-CVE-Scanner-PoC-">
+
+---
+## CVE-2021-21423 ()
+> 
+- [pvharmo2/gha-lab-b9842b12c0](https://github.com/pvharmo2/gha-lab-b9842b12c0)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-b9842b12c0">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-b9842b12c0">
 
 ---
 ## CVE-2021-21408 (2022-01-10T20:15:00)

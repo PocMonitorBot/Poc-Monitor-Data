@@ -181,6 +181,11 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [sharmashreejaa/CVE-2023-6595](https://github.com/sharmashreejaa/CVE-2023-6595)	<img alt="forks" src="https://img.shields.io/github/forks/sharmashreejaa/CVE-2023-6595">	<img alt="stars" src="https://img.shields.io/github/stars/sharmashreejaa/CVE-2023-6595">
 
 ---
+## CVE-2023-6572 ()
+> 
+- [pvharmo2/gha-lab-6255f5fc33](https://github.com/pvharmo2/gha-lab-6255f5fc33)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-6255f5fc33">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-6255f5fc33">
+
+---
 ## CVE-2023-6567 (2024-01-11T09:15:00)
 > The LearnPress plugin for WordPress is vulnerable to time-based SQL Injection via the ‘order_by’ parameter in all versions up to, and including, 4.2.5.7 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 - [mimiloveexe/CVE-2023-6567-poc](https://github.com/mimiloveexe/CVE-2023-6567-poc)	<img alt="forks" src="https://img.shields.io/github/forks/mimiloveexe/CVE-2023-6567-poc">	<img alt="stars" src="https://img.shields.io/github/stars/mimiloveexe/CVE-2023-6567-poc">
@@ -1132,6 +1137,11 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 ## CVE-2023-49948 (2023-12-03T19:15:00)
 > Forgejo before 1.20.5-1 allows remote attackers to test for the existence of private user accounts by appending .rss (or another extension) to a URL.
 - [codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/codeb0ss/CVE-2023-49948-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/codeb0ss/CVE-2023-49948-PoC">
+
+---
+## CVE-2023-49792 ()
+> 
+- [CStockdale1/nextcloud-cve-2023-49792-research](https://github.com/CStockdale1/nextcloud-cve-2023-49792-research)	<img alt="forks" src="https://img.shields.io/github/forks/CStockdale1/nextcloud-cve-2023-49792-research">	<img alt="stars" src="https://img.shields.io/github/stars/CStockdale1/nextcloud-cve-2023-49792-research">
 
 ---
 ## CVE-2023-49785 (2024-03-12T00:15:00)
@@ -3902,6 +3912,7 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 - [HPT-Intern-Task-Submission/CVE-2023-39361](https://github.com/HPT-Intern-Task-Submission/CVE-2023-39361)	<img alt="forks" src="https://img.shields.io/github/forks/HPT-Intern-Task-Submission/CVE-2023-39361">	<img alt="stars" src="https://img.shields.io/github/stars/HPT-Intern-Task-Submission/CVE-2023-39361">
 - [jc0818/CVE-2023-39361---Cacti-SQL-Injection-PoC](https://github.com/jc0818/CVE-2023-39361---Cacti-SQL-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/jc0818/CVE-2023-39361---Cacti-SQL-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/jc0818/CVE-2023-39361---Cacti-SQL-Injection-PoC">
 - [ChoDeokCheol/CVE-2023-39361](https://github.com/ChoDeokCheol/CVE-2023-39361)	<img alt="forks" src="https://img.shields.io/github/forks/ChoDeokCheol/CVE-2023-39361">	<img alt="stars" src="https://img.shields.io/github/stars/ChoDeokCheol/CVE-2023-39361">
+- [spartanx-alejandro/cacti-cve-2023-39361](https://github.com/spartanx-alejandro/cacti-cve-2023-39361)	<img alt="forks" src="https://img.shields.io/github/forks/spartanx-alejandro/cacti-cve-2023-39361">	<img alt="stars" src="https://img.shields.io/github/stars/spartanx-alejandro/cacti-cve-2023-39361">
 
 ---
 ## CVE-2023-39325 ()
@@ -6002,6 +6013,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [super-oof/keepass2-password-finder](https://github.com/super-oof/keepass2-password-finder)	<img alt="forks" src="https://img.shields.io/github/forks/super-oof/keepass2-password-finder">	<img alt="stars" src="https://img.shields.io/github/stars/super-oof/keepass2-password-finder">
 - [areebashoaib42/KeePass-CVE-2023-32784-Exploitation-and-Defense](https://github.com/areebashoaib42/KeePass-CVE-2023-32784-Exploitation-and-Defense)	<img alt="forks" src="https://img.shields.io/github/forks/areebashoaib42/KeePass-CVE-2023-32784-Exploitation-and-Defense">	<img alt="stars" src="https://img.shields.io/github/stars/areebashoaib42/KeePass-CVE-2023-32784-Exploitation-and-Defense">
 - [Pugazhendii22/keepass-exfil-forensics](https://github.com/Pugazhendii22/keepass-exfil-forensics)	<img alt="forks" src="https://img.shields.io/github/forks/Pugazhendii22/keepass-exfil-forensics">	<img alt="stars" src="https://img.shields.io/github/stars/Pugazhendii22/keepass-exfil-forensics">
+- [Amperclock/CVE-2023-32784-kdbxpassdmp](https://github.com/Amperclock/CVE-2023-32784-kdbxpassdmp)	<img alt="forks" src="https://img.shields.io/github/forks/Amperclock/CVE-2023-32784-kdbxpassdmp">	<img alt="stars" src="https://img.shields.io/github/stars/Amperclock/CVE-2023-32784-kdbxpassdmp">
 
 ---
 ## CVE-2023-32749 (2023-06-08T20:15:00)
@@ -7652,6 +7664,11 @@ that it would cause a Denial of Service, so these versions are considered
 not affected by this issue in such a way that it would be cause for concern,
 and the severity is therefore considered low.
 - [hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650)	<img alt="forks" src="https://img.shields.io/github/forks/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">	<img alt="stars" src="https://img.shields.io/github/stars/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650">
+
+---
+## CVE-2023-26493 ()
+> 
+- [pvharmo2/gha-lab-fb32aba4a3](https://github.com/pvharmo2/gha-lab-fb32aba4a3)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-fb32aba4a3">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-fb32aba4a3">
 
 ---
 ## CVE-2023-26482 ()
