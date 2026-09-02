@@ -1690,6 +1690,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [0x7556/CVE-2024-55591](https://github.com/0x7556/CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/0x7556/CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/0x7556/CVE-2024-55591">
 - [binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591](https://github.com/binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591)	<img alt="forks" src="https://img.shields.io/github/forks/binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591">	<img alt="stars" src="https://img.shields.io/github/stars/binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591">
 - [UMChacker/CVE-2024-55591-POC](https://github.com/UMChacker/CVE-2024-55591-POC)	<img alt="forks" src="https://img.shields.io/github/forks/UMChacker/CVE-2024-55591-POC">	<img alt="stars" src="https://img.shields.io/github/stars/UMChacker/CVE-2024-55591-POC">
+- [uLl0a/cve-2024-55591-poc](https://github.com/uLl0a/cve-2024-55591-poc)	<img alt="forks" src="https://img.shields.io/github/forks/uLl0a/cve-2024-55591-poc">	<img alt="stars" src="https://img.shields.io/github/stars/uLl0a/cve-2024-55591-poc">
 
 ---
 ## CVE-2024-55587 ()
@@ -3025,6 +3026,7 @@ length to be included in the checksum calculation is fully consumed.
 - [Zedocun/soc-investigation-powershell-edrfreeze](https://github.com/Zedocun/soc-investigation-powershell-edrfreeze)	<img alt="forks" src="https://img.shields.io/github/forks/Zedocun/soc-investigation-powershell-edrfreeze">	<img alt="stars" src="https://img.shields.io/github/stars/Zedocun/soc-investigation-powershell-edrfreeze">
 - [basitsajidapply-stack/SOC-Investigation-CVE-2024-49138](https://github.com/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138">
 - [NadineElliottCyber/SOC335-CVE-2024-49138-Investigation](https://github.com/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation">
+- [Adisasoc/CVE-2024-49138-SOC-Investigation](https://github.com/Adisasoc/CVE-2024-49138-SOC-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/Adisasoc/CVE-2024-49138-SOC-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/Adisasoc/CVE-2024-49138-SOC-Investigation">
 
 ---
 ## CVE-2024-49117 ()
@@ -4599,6 +4601,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [KTN1990/CVE-2024-42640](https://github.com/KTN1990/CVE-2024-42640)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-42640">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-42640">
 
 ---
+## CVE-2024-4253 ()
+> 
+- [pvharmo2/gha-lab-ee08e207a8](https://github.com/pvharmo2/gha-lab-ee08e207a8)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-ee08e207a8">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-ee08e207a8">
+
+---
 ## CVE-2024-42471 ()
 > 
 - [theMcSam/CVE-2024-42471-PoC](https://github.com/theMcSam/CVE-2024-42471-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/theMcSam/CVE-2024-42471-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/theMcSam/CVE-2024-42471-PoC">
@@ -5200,6 +5207,7 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 > JupyterLab extension template is a  `copier` template for JupyterLab extensions. Repositories created using this template with `test` option include `update-integration-tests.yml` workflow which has an RCE vulnerability. Extension authors hosting their code on GitHub are urged to upgrade the template to the latest version. Users who made changes to `update-integration-tests.yml`, accept overwriting of this file and re-apply your changes later. Users may wish to temporarily disable GitHub Actions while working on the upgrade. We recommend rebasing all open pull requests from untrusted users as actions may run using the version from the `main` branch at the time when the pull request was created. Users who are upgrading from template version prior to 4.3.0 may wish to leave out proposed changes to the release workflow for now as it requires additional configuration.
 - [LOURC0D3/CVE-2024-39700-test](https://github.com/LOURC0D3/CVE-2024-39700-test)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-test">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-test">
 - [LOURC0D3/CVE-2024-39700-PoC](https://github.com/LOURC0D3/CVE-2024-39700-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/LOURC0D3/CVE-2024-39700-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/LOURC0D3/CVE-2024-39700-PoC">
+- [pvharmo2/gha-lab-0ba60e6456](https://github.com/pvharmo2/gha-lab-0ba60e6456)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-0ba60e6456">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-0ba60e6456">
 
 ---
 ## CVE-2024-39689 ()
@@ -10486,6 +10494,7 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 ## CVE-2024-21907 ()
 > 
 - [seal-sec-demo-2/seal-security-nuget-demo-net7](https://github.com/seal-sec-demo-2/seal-security-nuget-demo-net7)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sec-demo-2/seal-security-nuget-demo-net7">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sec-demo-2/seal-security-nuget-demo-net7">
+- [iSecurityTW/seal-security-nuget-demo-net7](https://github.com/iSecurityTW/seal-security-nuget-demo-net7)	<img alt="forks" src="https://img.shields.io/github/forks/iSecurityTW/seal-security-nuget-demo-net7">	<img alt="stars" src="https://img.shields.io/github/stars/iSecurityTW/seal-security-nuget-demo-net7">
 
 ---
 ## CVE-2024-21899 (2024-03-08T17:15:00)
@@ -10598,6 +10607,7 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [CrackerCat/cve-2024-21762-poc](https://github.com/CrackerCat/cve-2024-21762-poc)	<img alt="forks" src="https://img.shields.io/github/forks/CrackerCat/cve-2024-21762-poc">	<img alt="stars" src="https://img.shields.io/github/stars/CrackerCat/cve-2024-21762-poc">
 - [Sxmpl3/CVE-2024-21762-Safe-Check](https://github.com/Sxmpl3/CVE-2024-21762-Safe-Check)	<img alt="forks" src="https://img.shields.io/github/forks/Sxmpl3/CVE-2024-21762-Safe-Check">	<img alt="stars" src="https://img.shields.io/github/stars/Sxmpl3/CVE-2024-21762-Safe-Check">
 - [Vampsecure-Labs/vamp-forticheck](https://github.com/Vampsecure-Labs/vamp-forticheck)	<img alt="forks" src="https://img.shields.io/github/forks/Vampsecure-Labs/vamp-forticheck">	<img alt="stars" src="https://img.shields.io/github/stars/Vampsecure-Labs/vamp-forticheck">
+- [abraxas/Fortigate-SSL-VPN-Exploit-Kit](https://github.com/abraxas/Fortigate-SSL-VPN-Exploit-Kit)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/Fortigate-SSL-VPN-Exploit-Kit">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/Fortigate-SSL-VPN-Exploit-Kit">
 
 ---
 ## CVE-2024-21754 (2024-06-11T15:16:00)
@@ -11348,6 +11358,11 @@ This is possible because the application is vulnerable to insecure deserializati
 - [DiabloHTB/CVE-2024-1561](https://github.com/DiabloHTB/CVE-2024-1561)	<img alt="forks" src="https://img.shields.io/github/forks/DiabloHTB/CVE-2024-1561">	<img alt="stars" src="https://img.shields.io/github/stars/DiabloHTB/CVE-2024-1561">
 - [DiabloHTB/Nuclei-Template-CVE-2024-1561](https://github.com/DiabloHTB/Nuclei-Template-CVE-2024-1561)	<img alt="forks" src="https://img.shields.io/github/forks/DiabloHTB/Nuclei-Template-CVE-2024-1561">	<img alt="stars" src="https://img.shields.io/github/stars/DiabloHTB/Nuclei-Template-CVE-2024-1561">
 - [K3ysTr0K3R/CVE-2024-1561](https://github.com/K3ysTr0K3R/CVE-2024-1561)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-1561">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-1561">
+
+---
+## CVE-2024-1540 ()
+> 
+- [pvharmo2/gha-lab-8e9316151c](https://github.com/pvharmo2/gha-lab-8e9316151c)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-8e9316151c">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-8e9316151c">
 
 ---
 ## CVE-2024-1512 (2024-02-17T08:15:00)

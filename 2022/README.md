@@ -31822,6 +31822,7 @@ the client's API server credentials to third parties.
 - [test-avm-714877d2df585126/C-test-2](https://github.com/test-avm-714877d2df585126/C-test-2)	<img alt="forks" src="https://img.shields.io/github/forks/test-avm-714877d2df585126/C-test-2">	<img alt="stars" src="https://img.shields.io/github/stars/test-avm-714877d2df585126/C-test-2">
 - [taka3636/CVE-2022-29078](https://github.com/taka3636/CVE-2022-29078)	<img alt="forks" src="https://img.shields.io/github/forks/taka3636/CVE-2022-29078">	<img alt="stars" src="https://img.shields.io/github/stars/taka3636/CVE-2022-29078">
 - [seal-sec-demo-2/JavaScript-Example](https://github.com/seal-sec-demo-2/JavaScript-Example)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sec-demo-2/JavaScript-Example">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sec-demo-2/JavaScript-Example">
+- [AlonNavon/npm-demo](https://github.com/AlonNavon/npm-demo)	<img alt="forks" src="https://img.shields.io/github/forks/AlonNavon/npm-demo">	<img alt="stars" src="https://img.shields.io/github/stars/AlonNavon/npm-demo">
 
 ---
 ## CVE-2022-29072 (2022-04-15T20:15:00)

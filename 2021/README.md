@@ -1679,6 +1679,7 @@
 - [manishkanyal/log4j-scanner](https://github.com/manishkanyal/log4j-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/manishkanyal/log4j-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/manishkanyal/log4j-scanner">
 - [hassaanahmad813/log4j](https://github.com/hassaanahmad813/log4j)	<img alt="forks" src="https://img.shields.io/github/forks/hassaanahmad813/log4j">	<img alt="stars" src="https://img.shields.io/github/stars/hassaanahmad813/log4j">
 - [Vaibhav91one/log4shell-cve-lab](https://github.com/Vaibhav91one/log4shell-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Vaibhav91one/log4shell-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Vaibhav91one/log4shell-cve-lab">
+- [14free/log4j2-vuln-lab](https://github.com/14free/log4j2-vuln-lab)	<img alt="forks" src="https://img.shields.io/github/forks/14free/log4j2-vuln-lab">	<img alt="stars" src="https://img.shields.io/github/stars/14free/log4j2-vuln-lab">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)

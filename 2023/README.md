@@ -1999,6 +1999,7 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [REGGYRAIDER/CVE-2023-46604-RCE](https://github.com/REGGYRAIDER/CVE-2023-46604-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/REGGYRAIDER/CVE-2023-46604-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/REGGYRAIDER/CVE-2023-46604-RCE">
 - [aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation](https://github.com/aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/aelshimony-cloud/OpenWire-CVE-2023-46604-Investigation">
 - [stefanotractor/activemq-cve-2023-46604-lab](https://github.com/stefanotractor/activemq-cve-2023-46604-lab)	<img alt="forks" src="https://img.shields.io/github/forks/stefanotractor/activemq-cve-2023-46604-lab">	<img alt="stars" src="https://img.shields.io/github/stars/stefanotractor/activemq-cve-2023-46604-lab">
+- [Bhanunamikaze/ActiveMQ-CVE-2023-46604](https://github.com/Bhanunamikaze/ActiveMQ-CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/ActiveMQ-CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/ActiveMQ-CVE-2023-46604">
 
 ---
 ## CVE-2023-46501 (2023-11-07T18:15:00)
@@ -2731,6 +2732,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [WinnieZy/CVE-2023-4357](https://github.com/WinnieZy/CVE-2023-4357)	<img alt="forks" src="https://img.shields.io/github/forks/WinnieZy/CVE-2023-4357">	<img alt="stars" src="https://img.shields.io/github/stars/WinnieZy/CVE-2023-4357">
 - [CamillaFranceschini/CVE-2023-4357](https://github.com/CamillaFranceschini/CVE-2023-4357)	<img alt="forks" src="https://img.shields.io/github/forks/CamillaFranceschini/CVE-2023-4357">	<img alt="stars" src="https://img.shields.io/github/stars/CamillaFranceschini/CVE-2023-4357">
 - [lon5948/CVE-2023-4357-Exploitation](https://github.com/lon5948/CVE-2023-4357-Exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/lon5948/CVE-2023-4357-Exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/lon5948/CVE-2023-4357-Exploitation">
+- [shihongsu/NetSec-CVE-2023-4357](https://github.com/shihongsu/NetSec-CVE-2023-4357)	<img alt="forks" src="https://img.shields.io/github/forks/shihongsu/NetSec-CVE-2023-4357">	<img alt="stars" src="https://img.shields.io/github/stars/shihongsu/NetSec-CVE-2023-4357">
 
 ---
 ## CVE-2023-4350 (2023-08-15T18:15:00)
@@ -7301,6 +7303,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [onurkerembozkurt/fgt-cve-2023-27997-exploit](https://github.com/onurkerembozkurt/fgt-cve-2023-27997-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/onurkerembozkurt/fgt-cve-2023-27997-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/onurkerembozkurt/fgt-cve-2023-27997-exploit">
 - [george1-adel/CVE-2023-27997](https://github.com/george1-adel/CVE-2023-27997)	<img alt="forks" src="https://img.shields.io/github/forks/george1-adel/CVE-2023-27997">	<img alt="stars" src="https://img.shields.io/github/stars/george1-adel/CVE-2023-27997">
 - [Vampsecure-Labs/vamp-forticheck](https://github.com/Vampsecure-Labs/vamp-forticheck)	<img alt="forks" src="https://img.shields.io/github/forks/Vampsecure-Labs/vamp-forticheck">	<img alt="stars" src="https://img.shields.io/github/stars/Vampsecure-Labs/vamp-forticheck">
+- [abraxas/Fortigate-SSL-VPN-Exploit-Kit](https://github.com/abraxas/Fortigate-SSL-VPN-Exploit-Kit)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/Fortigate-SSL-VPN-Exploit-Kit">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/Fortigate-SSL-VPN-Exploit-Kit">
 
 ---
 ## CVE-2023-27842 (2023-03-21T15:15:00)
