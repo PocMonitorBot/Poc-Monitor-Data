@@ -1049,6 +1049,7 @@
 - [soufiane-benchahyd/vulhub-struts2](https://github.com/soufiane-benchahyd/vulhub-struts2)	<img alt="forks" src="https://img.shields.io/github/forks/soufiane-benchahyd/vulhub-struts2">	<img alt="stars" src="https://img.shields.io/github/stars/soufiane-benchahyd/vulhub-struts2">
 - [AIPEACS/SC3010-Computer-Security](https://github.com/AIPEACS/SC3010-Computer-Security)	<img alt="forks" src="https://img.shields.io/github/forks/AIPEACS/SC3010-Computer-Security">	<img alt="stars" src="https://img.shields.io/github/stars/AIPEACS/SC3010-Computer-Security">
 - [Majaktech/apache-struts-cve-2017-5638-project](https://github.com/Majaktech/apache-struts-cve-2017-5638-project)	<img alt="forks" src="https://img.shields.io/github/forks/Majaktech/apache-struts-cve-2017-5638-project">	<img alt="stars" src="https://img.shields.io/github/stars/Majaktech/apache-struts-cve-2017-5638-project">
+- [GU-007/struts2-tool](https://github.com/GU-007/struts2-tool)	<img alt="forks" src="https://img.shields.io/github/forks/GU-007/struts2-tool">	<img alt="stars" src="https://img.shields.io/github/stars/GU-007/struts2-tool">
 
 ---
 ## CVE-2017-5633 ()
@@ -3225,6 +3226,7 @@
 - [oppsec/pwnfaces](https://github.com/oppsec/pwnfaces)	<img alt="forks" src="https://img.shields.io/github/forks/oppsec/pwnfaces">	<img alt="stars" src="https://img.shields.io/github/stars/oppsec/pwnfaces">
 - [LongWayHomie/CVE-2017-1000486](https://github.com/LongWayHomie/CVE-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/LongWayHomie/CVE-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/LongWayHomie/CVE-2017-1000486">
 - [jam620/primefaces](https://github.com/jam620/primefaces)	<img alt="forks" src="https://img.shields.io/github/forks/jam620/primefaces">	<img alt="stars" src="https://img.shields.io/github/stars/jam620/primefaces">
+- [byt3l0rd/CVE-2017-1000486](https://github.com/byt3l0rd/CVE-2017-1000486)	<img alt="forks" src="https://img.shields.io/github/forks/byt3l0rd/CVE-2017-1000486">	<img alt="stars" src="https://img.shields.io/github/stars/byt3l0rd/CVE-2017-1000486">
 
 ---
 ## CVE-2017-1000475 ()

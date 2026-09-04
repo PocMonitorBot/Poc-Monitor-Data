@@ -3430,6 +3430,11 @@ The issue in versions 3.5 - 3.25 was removed in releases which dates from 10th o
 - [okkotsu1/CVE-2024-47533](https://github.com/okkotsu1/CVE-2024-47533)	<img alt="forks" src="https://img.shields.io/github/forks/okkotsu1/CVE-2024-47533">	<img alt="stars" src="https://img.shields.io/github/stars/okkotsu1/CVE-2024-47533">
 
 ---
+## CVE-2024-47179 ()
+> 
+- [pvharmo2/gha-lab-d9fd584b12](https://github.com/pvharmo2/gha-lab-d9fd584b12)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-d9fd584b12">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-d9fd584b12">
+
+---
 ## CVE-2024-47177 ()
 > 
 - [referefref/cupspot-2024-47177](https://github.com/referefref/cupspot-2024-47177)	<img alt="forks" src="https://img.shields.io/github/forks/referefref/cupspot-2024-47177">	<img alt="stars" src="https://img.shields.io/github/stars/referefref/cupspot-2024-47177">
@@ -3660,6 +3665,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 ## CVE-2024-45798 ()
 > 
 - [pvharmo2/gha-lab-16bfb18428](https://github.com/pvharmo2/gha-lab-16bfb18428)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-16bfb18428">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-16bfb18428">
+- [pvharmo2/gha-lab-6ab39df295](https://github.com/pvharmo2/gha-lab-6ab39df295)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-6ab39df295">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-6ab39df295">
 
 ---
 ## CVE-2024-4577 (2024-06-09T20:15:00)
@@ -4601,6 +4607,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [KTN1990/CVE-2024-42640](https://github.com/KTN1990/CVE-2024-42640)	<img alt="forks" src="https://img.shields.io/github/forks/KTN1990/CVE-2024-42640">	<img alt="stars" src="https://img.shields.io/github/stars/KTN1990/CVE-2024-42640">
 
 ---
+## CVE-2024-4254 ()
+> 
+- [pvharmo2/gha-lab-40e23db109](https://github.com/pvharmo2/gha-lab-40e23db109)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-40e23db109">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-40e23db109">
+
+---
 ## CVE-2024-4253 ()
 > 
 - [pvharmo2/gha-lab-ee08e207a8](https://github.com/pvharmo2/gha-lab-ee08e207a8)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-ee08e207a8">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-ee08e207a8">
@@ -4620,6 +4631,11 @@ This issue affects YARPP: from n/a through 5.30.10.
 > 
 - [zetraxz/CVE-2024-42448](https://github.com/zetraxz/CVE-2024-42448)	<img alt="forks" src="https://img.shields.io/github/forks/zetraxz/CVE-2024-42448">	<img alt="stars" src="https://img.shields.io/github/stars/zetraxz/CVE-2024-42448">
 - [h3lye/CVE-2024-42448-RCE](https://github.com/h3lye/CVE-2024-42448-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/h3lye/CVE-2024-42448-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/h3lye/CVE-2024-42448-RCE">
+
+---
+## CVE-2024-42370 ()
+> 
+- [pvharmo2/gha-lab-ba8e0c4217](https://github.com/pvharmo2/gha-lab-ba8e0c4217)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-ba8e0c4217">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-ba8e0c4217">
 
 ---
 ## CVE-2024-42365 ()
@@ -10754,6 +10770,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 ## CVE-2024-21546 ()
 > 
 - [ajdumanhug/CVE-2024-21546](https://github.com/ajdumanhug/CVE-2024-21546)	<img alt="forks" src="https://img.shields.io/github/forks/ajdumanhug/CVE-2024-21546">	<img alt="stars" src="https://img.shields.io/github/stars/ajdumanhug/CVE-2024-21546">
+- [digitalsurgn/CVE-2024-21546](https://github.com/digitalsurgn/CVE-2024-21546)	<img alt="forks" src="https://img.shields.io/github/forks/digitalsurgn/CVE-2024-21546">	<img alt="stars" src="https://img.shields.io/github/stars/digitalsurgn/CVE-2024-21546">
 
 ---
 ## CVE-2024-21545 ()
