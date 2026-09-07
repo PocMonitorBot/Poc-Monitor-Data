@@ -626,6 +626,11 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [TheUnknownSoul/CVE-2024-7808](https://github.com/TheUnknownSoul/CVE-2024-7808)	<img alt="forks" src="https://img.shields.io/github/forks/TheUnknownSoul/CVE-2024-7808">	<img alt="stars" src="https://img.shields.io/github/stars/TheUnknownSoul/CVE-2024-7808">
 
 ---
+## CVE-2024-7804 ()
+> 
+- [joaovicdev/CVE-2024-7804](https://github.com/joaovicdev/CVE-2024-7804)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/CVE-2024-7804">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/CVE-2024-7804">
+
+---
 ## CVE-2024-77200 ()
 > 
 - [gduma-phData/patch-CVE-2024-77200](https://github.com/gduma-phData/patch-CVE-2024-77200)	<img alt="forks" src="https://img.shields.io/github/forks/gduma-phData/patch-CVE-2024-77200">	<img alt="stars" src="https://img.shields.io/github/stars/gduma-phData/patch-CVE-2024-77200">
@@ -1297,6 +1302,11 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 ## CVE-2024-57609 ()
 > 
 - [nca785/CVE-2024-57609](https://github.com/nca785/CVE-2024-57609)	<img alt="forks" src="https://img.shields.io/github/forks/nca785/CVE-2024-57609">	<img alt="stars" src="https://img.shields.io/github/stars/nca785/CVE-2024-57609">
+
+---
+## CVE-2024-57551 ()
+> 
+- [amanbahiniya/cve-disclosures](https://github.com/amanbahiniya/cve-disclosures)	<img alt="forks" src="https://img.shields.io/github/forks/amanbahiniya/cve-disclosures">	<img alt="stars" src="https://img.shields.io/github/stars/amanbahiniya/cve-disclosures">
 
 ---
 ## CVE-2024-57523 ()
@@ -5653,10 +5663,12 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Skac44/CVE-2024-38063](https://github.com/Skac44/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Skac44/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Skac44/CVE-2024-38063">
 - [akozsentre/CVE-2024-38063](https://github.com/akozsentre/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/akozsentre/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/akozsentre/CVE-2024-38063">
 - [thealice01/CVE-2024-38063](https://github.com/thealice01/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/thealice01/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/thealice01/CVE-2024-38063">
-- [Avidan1/CVE-2024-38063](https://github.com/Avidan1/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Avidan1/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Avidan1/CVE-2024-38063">
+- [AvidanMaatuk/CVE-2024-38063](https://github.com/AvidanMaatuk/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/AvidanMaatuk/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/AvidanMaatuk/CVE-2024-38063">
 - [arrhenius975/CVE-2024-38063-Exploit-Refactoring](https://github.com/arrhenius975/CVE-2024-38063-Exploit-Refactoring)	<img alt="forks" src="https://img.shields.io/github/forks/arrhenius975/CVE-2024-38063-Exploit-Refactoring">	<img alt="stars" src="https://img.shields.io/github/stars/arrhenius975/CVE-2024-38063-Exploit-Refactoring">
 - [SALMA-ESSAOUD/CVE-CVSS--CVE-2024-38063-IPv6-TCP-IP-Remote-Code-Execution-Analysis](https://github.com/SALMA-ESSAOUD/CVE-CVSS--CVE-2024-38063-IPv6-TCP-IP-Remote-Code-Execution-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/SALMA-ESSAOUD/CVE-CVSS--CVE-2024-38063-IPv6-TCP-IP-Remote-Code-Execution-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/SALMA-ESSAOUD/CVE-CVSS--CVE-2024-38063-IPv6-TCP-IP-Remote-Code-Execution-Analysis">
 - [RohitMalik7/cve-2024-38063-detection-mitigation-system](https://github.com/RohitMalik7/cve-2024-38063-detection-mitigation-system)	<img alt="forks" src="https://img.shields.io/github/forks/RohitMalik7/cve-2024-38063-detection-mitigation-system">	<img alt="stars" src="https://img.shields.io/github/stars/RohitMalik7/cve-2024-38063-detection-mitigation-system">
+- [hibaNITT/CVE-2024-38063](https://github.com/hibaNITT/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/hibaNITT/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/hibaNITT/CVE-2024-38063">
+- [Mayank637-pixel/CVE-2024-38063](https://github.com/Mayank637-pixel/CVE-2024-38063)	<img alt="forks" src="https://img.shields.io/github/forks/Mayank637-pixel/CVE-2024-38063">	<img alt="stars" src="https://img.shields.io/github/stars/Mayank637-pixel/CVE-2024-38063">
 
 ---
 ## CVE-2024-3806 (2024-05-14T15:42:00)
@@ -6061,6 +6073,16 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 ## CVE-2024-36079 (2024-05-24T22:15:00)
 > An issue was discovered in Vaultize 21.07.27. When uploading files, there is no check that the filename parameter is correct. As a result, a temporary file will be created outside the specified directory when the file is downloaded. To exploit this, an authenticated user would upload a file with an incorrect file name, and then download it.
 - [DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079)	<img alt="forks" src="https://img.shields.io/github/forks/DxRvs/vaultize_CVE-2024-36079">	<img alt="stars" src="https://img.shields.io/github/stars/DxRvs/vaultize_CVE-2024-36079">
+
+---
+## CVE-2024-36058 ()
+> 
+- [hacklantic/CVE-2024-36058](https://github.com/hacklantic/CVE-2024-36058)	<img alt="forks" src="https://img.shields.io/github/forks/hacklantic/CVE-2024-36058">	<img alt="stars" src="https://img.shields.io/github/stars/hacklantic/CVE-2024-36058">
+
+---
+## CVE-2024-36057 ()
+> 
+- [hacklantic/CVE-2024-36057](https://github.com/hacklantic/CVE-2024-36057)	<img alt="forks" src="https://img.shields.io/github/forks/hacklantic/CVE-2024-36057">	<img alt="stars" src="https://img.shields.io/github/stars/hacklantic/CVE-2024-36057">
 
 ---
 ## CVE-2024-3605 ()
@@ -11656,6 +11678,7 @@ authentication.   
 ## CVE-2024-12356 ()
 > 
 - [cloudefence/CVE-2024-12356](https://github.com/cloudefence/CVE-2024-12356)	<img alt="forks" src="https://img.shields.io/github/forks/cloudefence/CVE-2024-12356">	<img alt="stars" src="https://img.shields.io/github/stars/cloudefence/CVE-2024-12356">
+- [skraft9/CVE-2024-12356](https://github.com/skraft9/CVE-2024-12356)	<img alt="forks" src="https://img.shields.io/github/forks/skraft9/CVE-2024-12356">	<img alt="stars" src="https://img.shields.io/github/stars/skraft9/CVE-2024-12356">
 
 ---
 ## CVE-2024-12345 ()

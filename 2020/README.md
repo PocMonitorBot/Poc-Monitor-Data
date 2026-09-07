@@ -1242,6 +1242,11 @@
 - [Live-Hack-CVE/CVE-2020-7019](https://github.com/Live-Hack-CVE/CVE-2020-7019)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-7019">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-7019">
 
 ---
+## CVE-2020-6950 ()
+> 
+- [TheLonelyCoder/mojarra-2.2.13-patched](https://github.com/TheLonelyCoder/mojarra-2.2.13-patched)	<img alt="forks" src="https://img.shields.io/github/forks/TheLonelyCoder/mojarra-2.2.13-patched">	<img alt="stars" src="https://img.shields.io/github/stars/TheLonelyCoder/mojarra-2.2.13-patched">
+
+---
 ## CVE-2020-6888 ()
 > 
 - [section-c/CVE-2020-6888](https://github.com/section-c/CVE-2020-6888)	<img alt="forks" src="https://img.shields.io/github/forks/section-c/CVE-2020-6888">	<img alt="stars" src="https://img.shields.io/github/stars/section-c/CVE-2020-6888">
@@ -1629,6 +1634,11 @@
 - [yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-](https://github.com/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-)	<img alt="forks" src="https://img.shields.io/github/forks/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-">	<img alt="stars" src="https://img.shields.io/github/stars/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-">
 - [Live-Hack-CVE/CVE-2020-5752](https://github.com/Live-Hack-CVE/CVE-2020-5752)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-5752">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-5752">
 - [x0rbeexd/CVE-2020-5752](https://github.com/x0rbeexd/CVE-2020-5752)	<img alt="forks" src="https://img.shields.io/github/forks/x0rbeexd/CVE-2020-5752">	<img alt="stars" src="https://img.shields.io/github/stars/x0rbeexd/CVE-2020-5752">
+
+---
+## CVE-2020-5741 ()
+> 
+- [HORKimhab/CVE-2025-34158-CVE-2020-5741](https://github.com/HORKimhab/CVE-2025-34158-CVE-2020-5741)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-34158-CVE-2020-5741">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-34158-CVE-2020-5741">
 
 ---
 ## CVE-2020-5517 (2020-05-05T18:15:00)
@@ -5213,6 +5223,34 @@
 - [Live-Hack-CVE/CVE-2020-20213](https://github.com/Live-Hack-CVE/CVE-2020-20213)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20213">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20213">
 
 ---
+## CVE-2020-2021 ()
+> 
+- [mngunibanda1-prog/Jozini-network-scanner](https://github.com/mngunibanda1-prog/Jozini-network-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/mngunibanda1-prog/Jozini-network-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/mngunibanda1-prog/Jozini-network-scanner">
+- [l0lsec/CVE-2020-5148](https://github.com/l0lsec/CVE-2020-5148)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsec/CVE-2020-5148">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsec/CVE-2020-5148">
+- [skyllpro/CVE-2021-44026-PoC](https://github.com/skyllpro/CVE-2021-44026-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/skyllpro/CVE-2021-44026-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/skyllpro/CVE-2021-44026-PoC">
+- [MrCl0wnLab/SimplesApachePathTraversal](https://github.com/MrCl0wnLab/SimplesApachePathTraversal)	<img alt="forks" src="https://img.shields.io/github/forks/MrCl0wnLab/SimplesApachePathTraversal">	<img alt="stars" src="https://img.shields.io/github/stars/MrCl0wnLab/SimplesApachePathTraversal">
+- [0xSs0rZ/Windows_Exploit](https://github.com/0xSs0rZ/Windows_Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xSs0rZ/Windows_Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xSs0rZ/Windows_Exploit">
+- [1n7erface/PocList](https://github.com/1n7erface/PocList)	<img alt="forks" src="https://img.shields.io/github/forks/1n7erface/PocList">	<img alt="stars" src="https://img.shields.io/github/stars/1n7erface/PocList">
+- [34zY/APT-Backpack](https://github.com/34zY/APT-Backpack)	<img alt="forks" src="https://img.shields.io/github/forks/34zY/APT-Backpack">	<img alt="stars" src="https://img.shields.io/github/stars/34zY/APT-Backpack">
+- [sh3d0ww01f/WaterDragon](https://github.com/sh3d0ww01f/WaterDragon)	<img alt="forks" src="https://img.shields.io/github/forks/sh3d0ww01f/WaterDragon">	<img alt="stars" src="https://img.shields.io/github/stars/sh3d0ww01f/WaterDragon">
+- [und3sc0n0c1d0/AFR-in-OMSA](https://github.com/und3sc0n0c1d0/AFR-in-OMSA)	<img alt="forks" src="https://img.shields.io/github/forks/und3sc0n0c1d0/AFR-in-OMSA">	<img alt="stars" src="https://img.shields.io/github/stars/und3sc0n0c1d0/AFR-in-OMSA">
+- [west9b/F5-BIG-IP-POC](https://github.com/west9b/F5-BIG-IP-POC)	<img alt="forks" src="https://img.shields.io/github/forks/west9b/F5-BIG-IP-POC">	<img alt="stars" src="https://img.shields.io/github/stars/west9b/F5-BIG-IP-POC">
+- [pauljrowland/BootHoleFix](https://github.com/pauljrowland/BootHoleFix)	<img alt="forks" src="https://img.shields.io/github/forks/pauljrowland/BootHoleFix">	<img alt="stars" src="https://img.shields.io/github/stars/pauljrowland/BootHoleFix">
+- [YutuSec/Apisix_Crack](https://github.com/YutuSec/Apisix_Crack)	<img alt="forks" src="https://img.shields.io/github/forks/YutuSec/Apisix_Crack">	<img alt="stars" src="https://img.shields.io/github/stars/YutuSec/Apisix_Crack">
+- [shi10587s/Sauercloude](https://github.com/shi10587s/Sauercloude)	<img alt="forks" src="https://img.shields.io/github/forks/shi10587s/Sauercloude">	<img alt="stars" src="https://img.shields.io/github/stars/shi10587s/Sauercloude">
+- [chatbottesisgmailh/Sauercloude](https://github.com/chatbottesisgmailh/Sauercloude)	<img alt="forks" src="https://img.shields.io/github/forks/chatbottesisgmailh/Sauercloude">	<img alt="stars" src="https://img.shields.io/github/stars/chatbottesisgmailh/Sauercloude">
+- [exploitblizzard/WindowsMDM-LPE-0Day](https://github.com/exploitblizzard/WindowsMDM-LPE-0Day)	<img alt="forks" src="https://img.shields.io/github/forks/exploitblizzard/WindowsMDM-LPE-0Day">	<img alt="stars" src="https://img.shields.io/github/stars/exploitblizzard/WindowsMDM-LPE-0Day">
+- [Nate0634034090/nate158g-m-w-n-l-p-d-a-o-e](https://github.com/Nate0634034090/nate158g-m-w-n-l-p-d-a-o-e)	<img alt="forks" src="https://img.shields.io/github/forks/Nate0634034090/nate158g-m-w-n-l-p-d-a-o-e">	<img alt="stars" src="https://img.shields.io/github/stars/Nate0634034090/nate158g-m-w-n-l-p-d-a-o-e">
+- [somatrasss/weblogic2021](https://github.com/somatrasss/weblogic2021)	<img alt="forks" src="https://img.shields.io/github/forks/somatrasss/weblogic2021">	<img alt="stars" src="https://img.shields.io/github/stars/somatrasss/weblogic2021">
+- [psc4re/NSE-scripts](https://github.com/psc4re/NSE-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/psc4re/NSE-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/psc4re/NSE-scripts">
+- [CENSUS/whatsapp-mitd-mitm](https://github.com/CENSUS/whatsapp-mitd-mitm)	<img alt="forks" src="https://img.shields.io/github/forks/CENSUS/whatsapp-mitd-mitm">	<img alt="stars" src="https://img.shields.io/github/stars/CENSUS/whatsapp-mitd-mitm">
+- [yuaneuro/ofbiz-poc](https://github.com/yuaneuro/ofbiz-poc)	<img alt="forks" src="https://img.shields.io/github/forks/yuaneuro/ofbiz-poc">	<img alt="stars" src="https://img.shields.io/github/stars/yuaneuro/ofbiz-poc">
+- [Magicsmx/CVE-2020.6_2021.3](https://github.com/Magicsmx/CVE-2020.6_2021.3)	<img alt="forks" src="https://img.shields.io/github/forks/Magicsmx/CVE-2020.6_2021.3">	<img alt="stars" src="https://img.shields.io/github/stars/Magicsmx/CVE-2020.6_2021.3">
+- [synacktiv/CVE-2021-27246_Pwn2Own2020](https://github.com/synacktiv/CVE-2021-27246_Pwn2Own2020)	<img alt="forks" src="https://img.shields.io/github/forks/synacktiv/CVE-2021-27246_Pwn2Own2020">	<img alt="stars" src="https://img.shields.io/github/stars/synacktiv/CVE-2021-27246_Pwn2Own2020">
+- [Sauercloud/RWCTF21-VirtualBox-61-escape](https://github.com/Sauercloud/RWCTF21-VirtualBox-61-escape)	<img alt="forks" src="https://img.shields.io/github/forks/Sauercloud/RWCTF21-VirtualBox-61-escape">	<img alt="stars" src="https://img.shields.io/github/stars/Sauercloud/RWCTF21-VirtualBox-61-escape">
+- [mr-r3b00t/CVE-2020-2021](https://github.com/mr-r3b00t/CVE-2020-2021)	<img alt="forks" src="https://img.shields.io/github/forks/mr-r3b00t/CVE-2020-2021">	<img alt="stars" src="https://img.shields.io/github/stars/mr-r3b00t/CVE-2020-2021">
+
+---
 ## CVE-2020-20124 (2021-09-28T23:15:00)
 > Wuzhi CMS v4.1.0 contains a remote code execution (RCE) vulnerability in \attachment\admin\index.php.
 - [Live-Hack-CVE/CVE-2020-20124](https://github.com/Live-Hack-CVE/CVE-2020-20124)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-20124">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-20124">
@@ -5380,6 +5418,7 @@
 - [si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3](https://github.com/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3)	<img alt="forks" src="https://img.shields.io/github/forks/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3">	<img alt="stars" src="https://img.shields.io/github/stars/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3">
 - [cyberguardsec101-sketch/ghostcat](https://github.com/cyberguardsec101-sketch/ghostcat)	<img alt="forks" src="https://img.shields.io/github/forks/cyberguardsec101-sketch/ghostcat">	<img alt="stars" src="https://img.shields.io/github/stars/cyberguardsec101-sketch/ghostcat">
 - [duckpigdog/Tomcat-AJP-CVE-2020-1938](https://github.com/duckpigdog/Tomcat-AJP-CVE-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/duckpigdog/Tomcat-AJP-CVE-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/duckpigdog/Tomcat-AJP-CVE-2020-1938">
+- [lem0n817/tomcatfileread](https://github.com/lem0n817/tomcatfileread)	<img alt="forks" src="https://img.shields.io/github/forks/lem0n817/tomcatfileread">	<img alt="stars" src="https://img.shields.io/github/stars/lem0n817/tomcatfileread">
 
 ---
 ## CVE-2020-1937 ()
@@ -8257,6 +8296,7 @@
 - [ColdFusionX/Keycloak-12.0.1-CVE-2020-10770](https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770)	<img alt="forks" src="https://img.shields.io/github/forks/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">	<img alt="stars" src="https://img.shields.io/github/stars/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770">
 - [Live-Hack-CVE/CVE-2020-10770](https://github.com/Live-Hack-CVE/CVE-2020-10770)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10770">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10770">
 - [galletitaconpate/CVEs-Keycloak-CVE-2020-10770](https://github.com/galletitaconpate/CVEs-Keycloak-CVE-2020-10770)	<img alt="forks" src="https://img.shields.io/github/forks/galletitaconpate/CVEs-Keycloak-CVE-2020-10770">	<img alt="stars" src="https://img.shields.io/github/stars/galletitaconpate/CVEs-Keycloak-CVE-2020-10770">
+- [0xlyvio/CVE-2020-10770-keycloak-exploit-poc](https://github.com/0xlyvio/CVE-2020-10770-keycloak-exploit-poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xlyvio/CVE-2020-10770-keycloak-exploit-poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xlyvio/CVE-2020-10770-keycloak-exploit-poc">
 
 ---
 ## CVE-2020-10765 (2023-01-19T18:15:00)

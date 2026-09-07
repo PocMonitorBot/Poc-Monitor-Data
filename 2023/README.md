@@ -85,6 +85,7 @@
 - [Sornphut/CVE-2023-7028-GitLab](https://github.com/Sornphut/CVE-2023-7028-GitLab)	<img alt="forks" src="https://img.shields.io/github/forks/Sornphut/CVE-2023-7028-GitLab">	<img alt="stars" src="https://img.shields.io/github/stars/Sornphut/CVE-2023-7028-GitLab">
 - [szybnev/CVE-2023-7028](https://github.com/szybnev/CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/szybnev/CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/szybnev/CVE-2023-7028">
 - [KameliaZaman/Exploiting-GitLab-CVE-2023-7028](https://github.com/KameliaZaman/Exploiting-GitLab-CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/KameliaZaman/Exploiting-GitLab-CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/KameliaZaman/Exploiting-GitLab-CVE-2023-7028">
+- [FearThePLOTO/GitLab-CVE-2023-7028](https://github.com/FearThePLOTO/GitLab-CVE-2023-7028)	<img alt="forks" src="https://img.shields.io/github/forks/FearThePLOTO/GitLab-CVE-2023-7028">	<img alt="stars" src="https://img.shields.io/github/stars/FearThePLOTO/GitLab-CVE-2023-7028">
 
 ---
 ## CVE-2023-7024 ()
@@ -3046,6 +3047,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [cxdxnt/CVE-2023-42793](https://github.com/cxdxnt/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/cxdxnt/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/cxdxnt/CVE-2023-42793">
 - [cesarbtakeda/CVE-exploit-2023-42793](https://github.com/cesarbtakeda/CVE-exploit-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/cesarbtakeda/CVE-exploit-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/cesarbtakeda/CVE-exploit-2023-42793">
 - [DDestinys/CVE-2023-42793](https://github.com/DDestinys/CVE-2023-42793)	<img alt="forks" src="https://img.shields.io/github/forks/DDestinys/CVE-2023-42793">	<img alt="stars" src="https://img.shields.io/github/stars/DDestinys/CVE-2023-42793">
+- [burakacar6/CVE-2023-42793-TeamCity-Unauthenticated-RCE](https://github.com/burakacar6/CVE-2023-42793-TeamCity-Unauthenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/burakacar6/CVE-2023-42793-TeamCity-Unauthenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/burakacar6/CVE-2023-42793-TeamCity-Unauthenticated-RCE">
 
 ---
 ## CVE-2023-42791 ()
