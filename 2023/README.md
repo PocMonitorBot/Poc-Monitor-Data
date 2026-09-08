@@ -519,6 +519,11 @@ SCM accounting on the io_uring side unnecessary.
 - [BitsByWill/ksmbd-n-day](https://github.com/BitsByWill/ksmbd-n-day)	<img alt="forks" src="https://img.shields.io/github/forks/BitsByWill/ksmbd-n-day">	<img alt="stars" src="https://img.shields.io/github/stars/BitsByWill/ksmbd-n-day">
 
 ---
+## CVE-2023-52356 ()
+> 
+- [yardenbenita/CVE-2023-52356-libtiff-analysis](https://github.com/yardenbenita/CVE-2023-52356-libtiff-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/yardenbenita/CVE-2023-52356-libtiff-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/yardenbenita/CVE-2023-52356-libtiff-analysis">
+
+---
 ## CVE-2023-52271 ()
 > 
 - [victoni/BYOVD-CVE-2023-52271-POC](https://github.com/victoni/BYOVD-CVE-2023-52271-POC)	<img alt="forks" src="https://img.shields.io/github/forks/victoni/BYOVD-CVE-2023-52271-POC">	<img alt="stars" src="https://img.shields.io/github/stars/victoni/BYOVD-CVE-2023-52271-POC">

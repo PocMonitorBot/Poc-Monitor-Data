@@ -628,7 +628,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ---
 ## CVE-2024-7804 ()
 > 
-- [joaovicdev/CVE-2024-7804](https://github.com/joaovicdev/CVE-2024-7804)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/CVE-2024-7804">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/CVE-2024-7804">
+- [joaovicdev/EXPLOIT-CVE-2024-7804](https://github.com/joaovicdev/EXPLOIT-CVE-2024-7804)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2024-7804">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2024-7804">
 
 ---
 ## CVE-2024-77200 ()
@@ -7595,6 +7595,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [x-cmd-build/xz](https://github.com/x-cmd-build/xz)	<img alt="forks" src="https://img.shields.io/github/forks/x-cmd-build/xz">	<img alt="stars" src="https://img.shields.io/github/stars/x-cmd-build/xz">
 - [Preacher98/Report-XZ-Utils-CVE-2024-3094](https://github.com/Preacher98/Report-XZ-Utils-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Preacher98/Report-XZ-Utils-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Preacher98/Report-XZ-Utils-CVE-2024-3094">
 - [namegabevictoire01-sys/cs50-cybersecurity-final-project](https://github.com/namegabevictoire01-sys/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/namegabevictoire01-sys/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/namegabevictoire01-sys/cs50-cybersecurity-final-project">
+- [mhicairo-hue/cs50-cybersecurity-final-project](https://github.com/mhicairo-hue/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/mhicairo-hue/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/mhicairo-hue/cs50-cybersecurity-final-project">
 
 ---
 ## CVE-2024-30937 ()

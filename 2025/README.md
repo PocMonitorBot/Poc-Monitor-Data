@@ -4259,6 +4259,7 @@
 - [greycat-amc/CVE-2025-5548](https://github.com/greycat-amc/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/greycat-amc/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/greycat-amc/CVE-2025-5548">
 - [CryptoMachio/CVE-2025-5548](https://github.com/CryptoMachio/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/CryptoMachio/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/CryptoMachio/CVE-2025-5548">
 - [sudoand3rs0n/CVE-2025-5548](https://github.com/sudoand3rs0n/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/sudoand3rs0n/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/sudoand3rs0n/CVE-2025-5548">
+- [VSvalinX/CVE-2025-5548](https://github.com/VSvalinX/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/VSvalinX/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/VSvalinX/CVE-2025-5548">
 
 ---
 ## CVE-2025-55462 ()
@@ -5274,6 +5275,7 @@
 > 
 - [PRE5T0/CVE-2025-54136](https://github.com/PRE5T0/CVE-2025-54136)	<img alt="forks" src="https://img.shields.io/github/forks/PRE5T0/CVE-2025-54136">	<img alt="stars" src="https://img.shields.io/github/stars/PRE5T0/CVE-2025-54136">
 - [Sushank05/mcp-doorman](https://github.com/Sushank05/mcp-doorman)	<img alt="forks" src="https://img.shields.io/github/forks/Sushank05/mcp-doorman">	<img alt="stars" src="https://img.shields.io/github/stars/Sushank05/mcp-doorman">
+- [GeeksikhSecurity/ai-tool-poisoning-guard](https://github.com/GeeksikhSecurity/ai-tool-poisoning-guard)	<img alt="forks" src="https://img.shields.io/github/forks/GeeksikhSecurity/ai-tool-poisoning-guard">	<img alt="stars" src="https://img.shields.io/github/stars/GeeksikhSecurity/ai-tool-poisoning-guard">
 
 ---
 ## CVE-2025-54135 ()
@@ -6813,6 +6815,7 @@
 > 
 - [barbaraogmgf/CVE-2025-47981-POC](https://github.com/barbaraogmgf/CVE-2025-47981-POC)	<img alt="forks" src="https://img.shields.io/github/forks/barbaraogmgf/CVE-2025-47981-POC">	<img alt="stars" src="https://img.shields.io/github/stars/barbaraogmgf/CVE-2025-47981-POC">
 - [detectrespondrepeat/CVE-2025-47981](https://github.com/detectrespondrepeat/CVE-2025-47981)	<img alt="forks" src="https://img.shields.io/github/forks/detectrespondrepeat/CVE-2025-47981">	<img alt="stars" src="https://img.shields.io/github/stars/detectrespondrepeat/CVE-2025-47981">
+- [HKenzoKimura/CVE-2025-47981](https://github.com/HKenzoKimura/CVE-2025-47981)	<img alt="forks" src="https://img.shields.io/github/forks/HKenzoKimura/CVE-2025-47981">	<img alt="stars" src="https://img.shields.io/github/stars/HKenzoKimura/CVE-2025-47981">
 
 ---
 ## CVE-2025-47962 ()

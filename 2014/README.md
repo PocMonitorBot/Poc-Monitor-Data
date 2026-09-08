@@ -50,6 +50,7 @@
 > 
 - [donfanning/MIPS-CVE-2014-9222](https://github.com/donfanning/MIPS-CVE-2014-9222)	<img alt="forks" src="https://img.shields.io/github/forks/donfanning/MIPS-CVE-2014-9222">	<img alt="stars" src="https://img.shields.io/github/stars/donfanning/MIPS-CVE-2014-9222">
 - [mercul1ninna/MIPS-CVE-2014-9222](https://github.com/mercul1ninna/MIPS-CVE-2014-9222)	<img alt="forks" src="https://img.shields.io/github/forks/mercul1ninna/MIPS-CVE-2014-9222">	<img alt="stars" src="https://img.shields.io/github/stars/mercul1ninna/MIPS-CVE-2014-9222">
+- [luel-4013/misfortune-cookie](https://github.com/luel-4013/misfortune-cookie)	<img alt="forks" src="https://img.shields.io/github/forks/luel-4013/misfortune-cookie">	<img alt="stars" src="https://img.shields.io/github/stars/luel-4013/misfortune-cookie">
 
 ---
 ## CVE-2014-9219 ()

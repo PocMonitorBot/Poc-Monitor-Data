@@ -66,6 +66,11 @@
 - [karthi-the-hacker/CVE-2006-2842](https://github.com/karthi-the-hacker/CVE-2006-2842)	<img alt="forks" src="https://img.shields.io/github/forks/karthi-the-hacker/CVE-2006-2842">	<img alt="stars" src="https://img.shields.io/github/stars/karthi-the-hacker/CVE-2006-2842">
 
 ---
+## CVE-2006-2451 ()
+> 
+- [0b0111100/2006](https://github.com/0b0111100/2006)	<img alt="forks" src="https://img.shields.io/github/forks/0b0111100/2006">	<img alt="stars" src="https://img.shields.io/github/stars/0b0111100/2006">
+
+---
 ## CVE-2006-2369 ()
 > 
 - [hacker1337itme/CVE-2006-2369](https://github.com/hacker1337itme/CVE-2006-2369)	<img alt="forks" src="https://img.shields.io/github/forks/hacker1337itme/CVE-2006-2369">	<img alt="stars" src="https://img.shields.io/github/stars/hacker1337itme/CVE-2006-2369">

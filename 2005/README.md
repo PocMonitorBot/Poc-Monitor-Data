@@ -44,6 +44,11 @@
 - [tagatac/libsafe-CVE-2005-1125](https://github.com/tagatac/libsafe-CVE-2005-1125)	<img alt="forks" src="https://img.shields.io/github/forks/tagatac/libsafe-CVE-2005-1125">	<img alt="stars" src="https://img.shields.io/github/stars/tagatac/libsafe-CVE-2005-1125">
 
 ---
+## CVE-2005-0736 ()
+> 
+- [0b0111100/2005](https://github.com/0b0111100/2005)	<img alt="forks" src="https://img.shields.io/github/forks/0b0111100/2005">	<img alt="stars" src="https://img.shields.io/github/stars/0b0111100/2005">
+
+---
 ## CVE-2005-0603 ()
 > 
 - [Parcer0/CVE-2005-0603-phpBB-2.0.12-Full-path-disclosure](https://github.com/Parcer0/CVE-2005-0603-phpBB-2.0.12-Full-path-disclosure)	<img alt="forks" src="https://img.shields.io/github/forks/Parcer0/CVE-2005-0603-phpBB-2.0.12-Full-path-disclosure">	<img alt="stars" src="https://img.shields.io/github/stars/Parcer0/CVE-2005-0603-phpBB-2.0.12-Full-path-disclosure">

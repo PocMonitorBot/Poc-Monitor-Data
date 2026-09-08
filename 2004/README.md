@@ -76,3 +76,8 @@
 ## CVE-2004-0558 ()
 > 
 - [fibonascii/CVE-2004-0558](https://github.com/fibonascii/CVE-2004-0558)	<img alt="forks" src="https://img.shields.io/github/forks/fibonascii/CVE-2004-0558">	<img alt="stars" src="https://img.shields.io/github/stars/fibonascii/CVE-2004-0558">
+
+---
+## CVE-2004-0077 ()
+> 
+- [0b0111100/2004](https://github.com/0b0111100/2004)	<img alt="forks" src="https://img.shields.io/github/forks/0b0111100/2004">	<img alt="stars" src="https://img.shields.io/github/stars/0b0111100/2004">

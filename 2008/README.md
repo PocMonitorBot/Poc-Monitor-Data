@@ -124,6 +124,11 @@
 - [Live-Hack-CVE/CVE-2008-1105](https://github.com/Live-Hack-CVE/CVE-2008-1105)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-1105">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-1105">
 
 ---
+## CVE-2008-0600 ()
+> 
+- [0b0111100/2008](https://github.com/0b0111100/2008)	<img alt="forks" src="https://img.shields.io/github/forks/0b0111100/2008">	<img alt="stars" src="https://img.shields.io/github/stars/0b0111100/2008">
+
+---
 ## CVE-2008-0456 (2008-01-25T01:00:00)
 > CRLF injection vulnerability in the mod_negotiation module in the Apache HTTP Server 2.2.6 and earlier in the 2.2.x series, 2.0.61 and earlier in the 2.0.x series, and 1.3.39 and earlier in the 1.3.x series allows remote authenticated users to inject arbitrary HTTP headers and conduct HTTP response splitting attacks by uploading a file with a multi-line name containing HTTP header sequences and a file extension, which leads to injection within a (1) "406 Not Acceptable" or (2) "300 Multiple Choices" HTTP response when the extension is omitted in a request for the file.
 - [Live-Hack-CVE/CVE-2008-0456](https://github.com/Live-Hack-CVE/CVE-2008-0456)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2008-0456">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2008-0456">

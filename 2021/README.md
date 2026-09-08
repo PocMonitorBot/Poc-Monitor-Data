@@ -1681,6 +1681,7 @@
 - [Vaibhav91one/log4shell-cve-lab](https://github.com/Vaibhav91one/log4shell-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Vaibhav91one/log4shell-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Vaibhav91one/log4shell-cve-lab">
 - [14free/log4j2-vuln-lab](https://github.com/14free/log4j2-vuln-lab)	<img alt="forks" src="https://img.shields.io/github/forks/14free/log4j2-vuln-lab">	<img alt="stars" src="https://img.shields.io/github/stars/14free/log4j2-vuln-lab">
 - [Wafeeq-Fareed/log4shell-exploitation-lab](https://github.com/Wafeeq-Fareed/log4shell-exploitation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Wafeeq-Fareed/log4shell-exploitation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Wafeeq-Fareed/log4shell-exploitation-lab">
+- [KalidouLabghaly/log4shell-exploitation-detection](https://github.com/KalidouLabghaly/log4shell-exploitation-detection)	<img alt="forks" src="https://img.shields.io/github/forks/KalidouLabghaly/log4shell-exploitation-detection">	<img alt="stars" src="https://img.shields.io/github/stars/KalidouLabghaly/log4shell-exploitation-detection">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -10241,6 +10242,11 @@
 ## CVE-2021-27180 ()
 > 
 - [chudyPB/MDaemon-Advisories](https://github.com/chudyPB/MDaemon-Advisories)	<img alt="forks" src="https://img.shields.io/github/forks/chudyPB/MDaemon-Advisories">	<img alt="stars" src="https://img.shields.io/github/stars/chudyPB/MDaemon-Advisories">
+
+---
+## CVE-2021-27101 ()
+> 
+- [luel-4013/misfortune-cookie](https://github.com/luel-4013/misfortune-cookie)	<img alt="forks" src="https://img.shields.io/github/forks/luel-4013/misfortune-cookie">	<img alt="stars" src="https://img.shields.io/github/stars/luel-4013/misfortune-cookie">
 
 ---
 ## CVE-2021-27077 (2021-03-11T16:15:00)

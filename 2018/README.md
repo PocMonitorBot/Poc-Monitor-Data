@@ -3329,6 +3329,7 @@
 - [tausifzaman/CVE-2018-14847](https://github.com/tausifzaman/CVE-2018-14847)	<img alt="forks" src="https://img.shields.io/github/forks/tausifzaman/CVE-2018-14847">	<img alt="stars" src="https://img.shields.io/github/stars/tausifzaman/CVE-2018-14847">
 - [TheMalwareGuardian/CVE-2018-14847](https://github.com/TheMalwareGuardian/CVE-2018-14847)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2018-14847">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2018-14847">
 - [mourafuseti/VULNERAVEL-CVE-2018-14847---CREDENCIAIS-EXTRAIDAS](https://github.com/mourafuseti/VULNERAVEL-CVE-2018-14847---CREDENCIAIS-EXTRAIDAS)	<img alt="forks" src="https://img.shields.io/github/forks/mourafuseti/VULNERAVEL-CVE-2018-14847---CREDENCIAIS-EXTRAIDAS">	<img alt="stars" src="https://img.shields.io/github/stars/mourafuseti/VULNERAVEL-CVE-2018-14847---CREDENCIAIS-EXTRAIDAS">
+- [luel-4013/misfortune-cookie](https://github.com/luel-4013/misfortune-cookie)	<img alt="forks" src="https://img.shields.io/github/forks/luel-4013/misfortune-cookie">	<img alt="stars" src="https://img.shields.io/github/stars/luel-4013/misfortune-cookie">
 
 ---
 ## CVE-2018-14772 ()

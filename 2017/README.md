@@ -1799,6 +1799,7 @@
 - [wilfred-wulbou/HG532d-RCE-Exploit](https://github.com/wilfred-wulbou/HG532d-RCE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/wilfred-wulbou/HG532d-RCE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/wilfred-wulbou/HG532d-RCE-Exploit">
 - [1337g/CVE-2017-17215](https://github.com/1337g/CVE-2017-17215)	<img alt="forks" src="https://img.shields.io/github/forks/1337g/CVE-2017-17215">	<img alt="stars" src="https://img.shields.io/github/stars/1337g/CVE-2017-17215">
 - [pespir/Cve-2017-17215](https://github.com/pespir/Cve-2017-17215)	<img alt="forks" src="https://img.shields.io/github/forks/pespir/Cve-2017-17215">	<img alt="stars" src="https://img.shields.io/github/stars/pespir/Cve-2017-17215">
+- [luel-4013/misfortune-cookie](https://github.com/luel-4013/misfortune-cookie)	<img alt="forks" src="https://img.shields.io/github/forks/luel-4013/misfortune-cookie">	<img alt="stars" src="https://img.shields.io/github/stars/luel-4013/misfortune-cookie">
 
 ---
 ## CVE-2017-17099 ()
