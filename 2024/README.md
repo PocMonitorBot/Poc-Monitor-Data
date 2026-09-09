@@ -6059,6 +6059,11 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [saketh-osmsec/CVE-2024-36117](https://github.com/saketh-osmsec/CVE-2024-36117)	<img alt="forks" src="https://img.shields.io/github/forks/saketh-osmsec/CVE-2024-36117">	<img alt="stars" src="https://img.shields.io/github/stars/saketh-osmsec/CVE-2024-36117">
 
 ---
+## CVE-2024-36114 ()
+> 
+- [SerpstatGlobal/ClickHouse-Native-JDBC](https://github.com/SerpstatGlobal/ClickHouse-Native-JDBC)	<img alt="forks" src="https://img.shields.io/github/forks/SerpstatGlobal/ClickHouse-Native-JDBC">	<img alt="stars" src="https://img.shields.io/github/stars/SerpstatGlobal/ClickHouse-Native-JDBC">
+
+---
 ## CVE-2024-36104 (2024-06-04T08:15:00)
 > Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Apache OFBiz. This issue affects Apache OFBiz: before 18.12.14.
 
@@ -7248,6 +7253,7 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 ## CVE-2024-31969 ()
 > 
 - [kingfakee7/CVE-2024-31969](https://github.com/kingfakee7/CVE-2024-31969)	<img alt="forks" src="https://img.shields.io/github/forks/kingfakee7/CVE-2024-31969">	<img alt="stars" src="https://img.shields.io/github/stars/kingfakee7/CVE-2024-31969">
+- [gmh5225/CVE-2024-31969](https://github.com/gmh5225/CVE-2024-31969)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2024-31969">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2024-31969">
 
 ---
 ## CVE-2024-31964 ()

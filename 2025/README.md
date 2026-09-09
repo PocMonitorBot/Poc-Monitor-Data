@@ -383,6 +383,9 @@
 - [Shirouuu/CVE-2025-8110-gogs-poc](https://github.com/Shirouuu/CVE-2025-8110-gogs-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Shirouuu/CVE-2025-8110-gogs-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Shirouuu/CVE-2025-8110-gogs-poc">
 - [ixZODiAK/CVE-2025-8110](https://github.com/ixZODiAK/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/ixZODiAK/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/ixZODiAK/CVE-2025-8110">
 - [9xh4kv/CVE-2025-8110](https://github.com/9xh4kv/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/9xh4kv/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/9xh4kv/CVE-2025-8110">
+- [r3vpwnx/CVE-2025-8110](https://github.com/r3vpwnx/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-8110">
+- [anxs3c/GhostlinkWriteup](https://github.com/anxs3c/GhostlinkWriteup)	<img alt="forks" src="https://img.shields.io/github/forks/anxs3c/GhostlinkWriteup">	<img alt="stars" src="https://img.shields.io/github/stars/anxs3c/GhostlinkWriteup">
+- [Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup">
 
 ---
 ## CVE-2025-8091 ()
@@ -3546,6 +3549,7 @@
 - [vincent-vbg/CVE-2025-58434-PoC](https://github.com/vincent-vbg/CVE-2025-58434-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/vincent-vbg/CVE-2025-58434-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/vincent-vbg/CVE-2025-58434-PoC">
 - [00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC](https://github.com/00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/00lucasm/CVE-2025-58434-Flowiseai-Auth-Bypass-PoC">
 - [Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup">
+- [r3vpwnx/CVE-2025-58434](https://github.com/r3vpwnx/CVE-2025-58434)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-58434">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-58434">
 
 ---
 ## CVE-2025-5840 ()
@@ -4252,7 +4256,7 @@
 - [jesusdominguez87/CVE-2025-5548](https://github.com/jesusdominguez87/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/jesusdominguez87/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/jesusdominguez87/CVE-2025-5548">
 - [gumbita/cve-2025-5548-freefloat-ftp-walkthrough](https://github.com/gumbita/cve-2025-5548-freefloat-ftp-walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/gumbita/cve-2025-5548-freefloat-ftp-walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/gumbita/cve-2025-5548-freefloat-ftp-walkthrough">
 - [grospomg/CVE-2025-5548-Exploit-Development](https://github.com/grospomg/CVE-2025-5548-Exploit-Development)	<img alt="forks" src="https://img.shields.io/github/forks/grospomg/CVE-2025-5548-Exploit-Development">	<img alt="stars" src="https://img.shields.io/github/stars/grospomg/CVE-2025-5548-Exploit-Development">
-- [Alvarosr16/CVE-2025-5548](https://github.com/Alvarosr16/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/Alvarosr16/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/Alvarosr16/CVE-2025-5548">
+- [alvarosr/CVE-2025-5548](https://github.com/alvarosr/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/alvarosr/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/alvarosr/CVE-2025-5548">
 - [JSantos1990/CVE-2025-5548](https://github.com/JSantos1990/CVE-2025-5548)	<img alt="forks" src="https://img.shields.io/github/forks/JSantos1990/CVE-2025-5548">	<img alt="stars" src="https://img.shields.io/github/stars/JSantos1990/CVE-2025-5548">
 - [fcamargo13/Analisis_CVE-2025-5548-](https://github.com/fcamargo13/Analisis_CVE-2025-5548-)	<img alt="forks" src="https://img.shields.io/github/forks/fcamargo13/Analisis_CVE-2025-5548-">	<img alt="stars" src="https://img.shields.io/github/stars/fcamargo13/Analisis_CVE-2025-5548-">
 - [greycat-amc/CVE-2025-5548-FreeFloatFTP](https://github.com/greycat-amc/CVE-2025-5548-FreeFloatFTP)	<img alt="forks" src="https://img.shields.io/github/forks/greycat-amc/CVE-2025-5548-FreeFloatFTP">	<img alt="stars" src="https://img.shields.io/github/stars/greycat-amc/CVE-2025-5548-FreeFloatFTP">
@@ -5011,6 +5015,7 @@
 - [UwUGreed/CVE-2025-55182-poc](https://github.com/UwUGreed/CVE-2025-55182-poc)	<img alt="forks" src="https://img.shields.io/github/forks/UwUGreed/CVE-2025-55182-poc">	<img alt="stars" src="https://img.shields.io/github/stars/UwUGreed/CVE-2025-55182-poc">
 - [ChrisBarack/cve-2025-55182](https://github.com/ChrisBarack/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisBarack/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisBarack/cve-2025-55182">
 - [Bluex707/React2Shell-CVE-2025-55182-Exploit](https://github.com/Bluex707/React2Shell-CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Bluex707/React2Shell-CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Bluex707/React2Shell-CVE-2025-55182-Exploit">
+- [r3vpwnx/CVE-2025-55182](https://github.com/r3vpwnx/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-55182">
 
 ---
 ## CVE-2025-55177 ()
