@@ -3583,6 +3583,8 @@
 - [0xBlackash/CVE-2017-0144](https://github.com/0xBlackash/CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2017-0144">
 - [KitSkater/legacyshield-CVE-2017-0144](https://github.com/KitSkater/legacyshield-CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/KitSkater/legacyshield-CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/KitSkater/legacyshield-CVE-2017-0144">
 - [probablysecure/Triage-CVE-2017-0144](https://github.com/probablysecure/Triage-CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/probablysecure/Triage-CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/probablysecure/Triage-CVE-2017-0144">
+- [quincyomoruyi6-lang/BLUE-WRITEUP-CVE-2017-0144](https://github.com/quincyomoruyi6-lang/BLUE-WRITEUP-CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/quincyomoruyi6-lang/BLUE-WRITEUP-CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/quincyomoruyi6-lang/BLUE-WRITEUP-CVE-2017-0144">
+- [porcumarcooo/TryHackMe-Blue-MS17-010](https://github.com/porcumarcooo/TryHackMe-Blue-MS17-010)	<img alt="forks" src="https://img.shields.io/github/forks/porcumarcooo/TryHackMe-Blue-MS17-010">	<img alt="stars" src="https://img.shields.io/github/stars/porcumarcooo/TryHackMe-Blue-MS17-010">
 
 ---
 ## CVE-2017-0143 (2017-03-17T00:59:00)

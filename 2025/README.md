@@ -5189,6 +5189,7 @@
 - [ScarryParrot/-CVE-2025-54352](https://github.com/ScarryParrot/-CVE-2025-54352)	<img alt="forks" src="https://img.shields.io/github/forks/ScarryParrot/-CVE-2025-54352">	<img alt="stars" src="https://img.shields.io/github/stars/ScarryParrot/-CVE-2025-54352">
 - [limmmw/CVE-2025-54352](https://github.com/limmmw/CVE-2025-54352)	<img alt="forks" src="https://img.shields.io/github/forks/limmmw/CVE-2025-54352">	<img alt="stars" src="https://img.shields.io/github/stars/limmmw/CVE-2025-54352">
 - [mufasa-noir/XML-RPC-Pingback-Vulnerability](https://github.com/mufasa-noir/XML-RPC-Pingback-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/mufasa-noir/XML-RPC-Pingback-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/mufasa-noir/XML-RPC-Pingback-Vulnerability">
+- [mufasa-noir/XMLRPC-Pingback-vulnerability-POC](https://github.com/mufasa-noir/XMLRPC-Pingback-vulnerability-POC)	<img alt="forks" src="https://img.shields.io/github/forks/mufasa-noir/XMLRPC-Pingback-vulnerability-POC">	<img alt="stars" src="https://img.shields.io/github/stars/mufasa-noir/XMLRPC-Pingback-vulnerability-POC">
 
 ---
 ## CVE-2025-54328 ()
@@ -8433,6 +8434,7 @@
 - [IyarGross/SMB-CVE-2025-33073](https://github.com/IyarGross/SMB-CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/IyarGross/SMB-CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/IyarGross/SMB-CVE-2025-33073">
 - [EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-](https://github.com/EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-)	<img alt="forks" src="https://img.shields.io/github/forks/EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-">	<img alt="stars" src="https://img.shields.io/github/stars/EgCupCake/cupntlm-Automated-Exploit-For-CVE-2025-33073-">
 - [sentinel-aidefense/CVE-2025-33073](https://github.com/sentinel-aidefense/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-33073">
+- [starscow/CVE-2025-33073](https://github.com/starscow/CVE-2025-33073)	<img alt="forks" src="https://img.shields.io/github/forks/starscow/CVE-2025-33073">	<img alt="stars" src="https://img.shields.io/github/stars/starscow/CVE-2025-33073">
 
 ---
 ## CVE-2025-33053 ()
@@ -8594,6 +8596,7 @@
 - [hideki233/CVE-2025-3248-Langflow-RCE](https://github.com/hideki233/CVE-2025-3248-Langflow-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hideki233/CVE-2025-3248-Langflow-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hideki233/CVE-2025-3248-Langflow-RCE">
 - [get-xor/coreweave-demo-2026-05](https://github.com/get-xor/coreweave-demo-2026-05)	<img alt="forks" src="https://img.shields.io/github/forks/get-xor/coreweave-demo-2026-05">	<img alt="stars" src="https://img.shields.io/github/stars/get-xor/coreweave-demo-2026-05">
 - [LeotheGGman/Langflow-RCE-CVE-2025-3248](https://github.com/LeotheGGman/Langflow-RCE-CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/LeotheGGman/Langflow-RCE-CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/LeotheGGman/Langflow-RCE-CVE-2025-3248">
+- [zoly-zoly/CVE-2025-3248](https://github.com/zoly-zoly/CVE-2025-3248)	<img alt="forks" src="https://img.shields.io/github/forks/zoly-zoly/CVE-2025-3248">	<img alt="stars" src="https://img.shields.io/github/stars/zoly-zoly/CVE-2025-3248">
 
 ---
 ## CVE-2025-32463 ()
@@ -9897,6 +9900,8 @@
 - [enochgitgamefied/CVE-2025-27636-Practical-Lab](https://github.com/enochgitgamefied/CVE-2025-27636-Practical-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/enochgitgamefied/CVE-2025-27636-Practical-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/enochgitgamefied/CVE-2025-27636-Practical-Lab">
 - [oscerd/CVE-2026-40453](https://github.com/oscerd/CVE-2026-40453)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-40453">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-40453">
 - [Crystallen1/CVE-2025-27636-demo](https://github.com/Crystallen1/CVE-2025-27636-demo)	<img alt="forks" src="https://img.shields.io/github/forks/Crystallen1/CVE-2025-27636-demo">	<img alt="stars" src="https://img.shields.io/github/stars/Crystallen1/CVE-2025-27636-demo">
+- [AC8999/CVE-2025-27636-RCE-in-Apache-Camel](https://github.com/AC8999/CVE-2025-27636-RCE-in-Apache-Camel)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-27636-RCE-in-Apache-Camel">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-27636-RCE-in-Apache-Camel">
+- [AC8999/CVE-2025-27636-RCE](https://github.com/AC8999/CVE-2025-27636-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AC8999/CVE-2025-27636-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AC8999/CVE-2025-27636-RCE">
 
 ---
 ## CVE-2025-27607 ()

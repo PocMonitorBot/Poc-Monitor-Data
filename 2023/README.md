@@ -297,6 +297,7 @@ In WhatsUp Gold versions released before 2023.1, an API endpoint was found to be
 - [hackersroot/CVE-2023-6063-PoC](https://github.com/hackersroot/CVE-2023-6063-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/hackersroot/CVE-2023-6063-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/hackersroot/CVE-2023-6063-PoC">
 - [Eulex0x/CVE-2023-6063](https://github.com/Eulex0x/CVE-2023-6063)	<img alt="forks" src="https://img.shields.io/github/forks/Eulex0x/CVE-2023-6063">	<img alt="stars" src="https://img.shields.io/github/stars/Eulex0x/CVE-2023-6063">
 - [incommatose/CVE-2023-6063-PoC](https://github.com/incommatose/CVE-2023-6063-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/incommatose/CVE-2023-6063-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/incommatose/CVE-2023-6063-PoC">
+- [zhairiazzeddine/Exploit-CVE-2023-6063-PoC-Vuln](https://github.com/zhairiazzeddine/Exploit-CVE-2023-6063-PoC-Vuln)	<img alt="forks" src="https://img.shields.io/github/forks/zhairiazzeddine/Exploit-CVE-2023-6063-PoC-Vuln">	<img alt="stars" src="https://img.shields.io/github/stars/zhairiazzeddine/Exploit-CVE-2023-6063-PoC-Vuln">
 
 ---
 ## CVE-2023-6036 (2024-02-12T16:15:00)
@@ -5512,6 +5513,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [Jeanpt/CVE-2023-34468](https://github.com/Jeanpt/CVE-2023-34468)	<img alt="forks" src="https://img.shields.io/github/forks/Jeanpt/CVE-2023-34468">	<img alt="stars" src="https://img.shields.io/github/stars/Jeanpt/CVE-2023-34468">
 - [spikeyjr/CVE-2023-34468-PoC](https://github.com/spikeyjr/CVE-2023-34468-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/spikeyjr/CVE-2023-34468-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/spikeyjr/CVE-2023-34468-PoC">
 - [ozcanpng/CVE-2023-34468](https://github.com/ozcanpng/CVE-2023-34468)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2023-34468">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2023-34468">
+- [luiskrnr/HTB_Helix_CVE-2023-34468](https://github.com/luiskrnr/HTB_Helix_CVE-2023-34468)	<img alt="forks" src="https://img.shields.io/github/forks/luiskrnr/HTB_Helix_CVE-2023-34468">	<img alt="stars" src="https://img.shields.io/github/stars/luiskrnr/HTB_Helix_CVE-2023-34468">
 
 ---
 ## CVE-2023-34458 (2023-07-13T19:15:00)
@@ -8205,6 +8207,7 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [custiya/geoserver-CVE-2023-25157](https://github.com/custiya/geoserver-CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/custiya/geoserver-CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/custiya/geoserver-CVE-2023-25157">
 - [charis3306/CVE-2023-25157](https://github.com/charis3306/CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/charis3306/CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/charis3306/CVE-2023-25157">
 - [Giangdurian/CVE-2023-25157-GeoServer-SQLi-Lab](https://github.com/Giangdurian/CVE-2023-25157-GeoServer-SQLi-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2023-25157-GeoServer-SQLi-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2023-25157-GeoServer-SQLi-Lab">
+- [ivanesk315/CVE-2023-25157](https://github.com/ivanesk315/CVE-2023-25157)	<img alt="forks" src="https://img.shields.io/github/forks/ivanesk315/CVE-2023-25157">	<img alt="stars" src="https://img.shields.io/github/stars/ivanesk315/CVE-2023-25157">
 
 ---
 ## CVE-2023-25155 ()

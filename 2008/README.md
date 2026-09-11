@@ -153,6 +153,7 @@
 - [AhegaoPsyops/sslWeakness](https://github.com/AhegaoPsyops/sslWeakness)	<img alt="forks" src="https://img.shields.io/github/forks/AhegaoPsyops/sslWeakness">	<img alt="stars" src="https://img.shields.io/github/stars/AhegaoPsyops/sslWeakness">
 - [Faizan8232403/CVE-Exploit-Research-Development](https://github.com/Faizan8232403/CVE-Exploit-Research-Development)	<img alt="forks" src="https://img.shields.io/github/forks/Faizan8232403/CVE-Exploit-Research-Development">	<img alt="stars" src="https://img.shields.io/github/stars/Faizan8232403/CVE-Exploit-Research-Development">
 - [QasimShahbaz21/CVE-Exploit-Research-Development](https://github.com/QasimShahbaz21/CVE-Exploit-Research-Development)	<img alt="forks" src="https://img.shields.io/github/forks/QasimShahbaz21/CVE-Exploit-Research-Development">	<img alt="stars" src="https://img.shields.io/github/stars/QasimShahbaz21/CVE-Exploit-Research-Development">
+- [ethicbrudhack/CVE-2008-0166-BTC-satoshi-mining-wallets](https://github.com/ethicbrudhack/CVE-2008-0166-BTC-satoshi-mining-wallets)	<img alt="forks" src="https://img.shields.io/github/forks/ethicbrudhack/CVE-2008-0166-BTC-satoshi-mining-wallets">	<img alt="stars" src="https://img.shields.io/github/stars/ethicbrudhack/CVE-2008-0166-BTC-satoshi-mining-wallets">
 
 ---
 ## CVE-2008-0132 (2008-01-08T11:46:00)

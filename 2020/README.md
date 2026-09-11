@@ -7238,6 +7238,7 @@
 > 
 - [Dungsocool/CVE-2020-13671](https://github.com/Dungsocool/CVE-2020-13671)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2020-13671">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2020-13671">
 - [Dungsocool/CVE-2020-13671-old](https://github.com/Dungsocool/CVE-2020-13671-old)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2020-13671-old">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2020-13671-old">
+- [ivanesk315/CVE-2020-13671](https://github.com/ivanesk315/CVE-2020-13671)	<img alt="forks" src="https://img.shields.io/github/forks/ivanesk315/CVE-2020-13671">	<img alt="stars" src="https://img.shields.io/github/stars/ivanesk315/CVE-2020-13671">
 
 ---
 ## CVE-2020-13659 (2020-06-02T13:15:00)
@@ -9606,6 +9607,7 @@
 - [marcinguy/CVE-2020-0022](https://github.com/marcinguy/CVE-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/marcinguy/CVE-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/marcinguy/CVE-2020-0022">
 - [themmokhtar/CVE-2020-0022](https://github.com/themmokhtar/CVE-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/themmokhtar/CVE-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/themmokhtar/CVE-2020-0022">
 - [kalibb/CVE-2020-0022](https://github.com/kalibb/CVE-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/kalibb/CVE-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/kalibb/CVE-2020-0022">
+- [idkwim/CVE-2020-0022](https://github.com/idkwim/CVE-2020-0022)	<img alt="forks" src="https://img.shields.io/github/forks/idkwim/CVE-2020-0022">	<img alt="stars" src="https://img.shields.io/github/stars/idkwim/CVE-2020-0022">
 
 ---
 ## CVE-2020-0014 (2020-02-13T15:15:00)

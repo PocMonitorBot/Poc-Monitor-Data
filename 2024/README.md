@@ -3781,6 +3781,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio](https://github.com/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio)	<img alt="forks" src="https://img.shields.io/github/forks/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio">	<img alt="stars" src="https://img.shields.io/github/stars/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigatio">
 - [DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation](https://github.com/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation">
 - [khwajasaad267-coder/cve-2024-4577-lab](https://github.com/khwajasaad267-coder/cve-2024-4577-lab)	<img alt="forks" src="https://img.shields.io/github/forks/khwajasaad267-coder/cve-2024-4577-lab">	<img alt="stars" src="https://img.shields.io/github/stars/khwajasaad267-coder/cve-2024-4577-lab">
+- [yeee3642/edu-recon](https://github.com/yeee3642/edu-recon)	<img alt="forks" src="https://img.shields.io/github/forks/yeee3642/edu-recon">	<img alt="stars" src="https://img.shields.io/github/stars/yeee3642/edu-recon">
 
 ---
 ## CVE-2024-4573 ()
@@ -4130,6 +4131,7 @@ Allocated by task 6166:
 ## CVE-2024-44625 (2024-11-15T17:15:00)
 > Gogs <=0.13.0 is vulnerable to Directory Traversal via the editFilePost function of internal/route/repo/editor.go.
 - [Fysac/CVE-2024-44625](https://github.com/Fysac/CVE-2024-44625)	<img alt="forks" src="https://img.shields.io/github/forks/Fysac/CVE-2024-44625">	<img alt="stars" src="https://img.shields.io/github/stars/Fysac/CVE-2024-44625">
+- [batj44/CVE-2024-44625-Gogs-RCE-0.13.0](https://github.com/batj44/CVE-2024-44625-Gogs-RCE-0.13.0)	<img alt="forks" src="https://img.shields.io/github/forks/batj44/CVE-2024-44625-Gogs-RCE-0.13.0">	<img alt="stars" src="https://img.shields.io/github/stars/batj44/CVE-2024-44625-Gogs-RCE-0.13.0">
 
 ---
 ## CVE-2024-44623 (2024-09-16T16:15:00)
@@ -5617,6 +5619,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Accord96/CVE-2024-38077-POC](https://github.com/Accord96/CVE-2024-38077-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Accord96/CVE-2024-38077-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Accord96/CVE-2024-38077-POC">
 - [Ermensonx/CVE-2024-38077-MadLicense-exploit](https://github.com/Ermensonx/CVE-2024-38077-MadLicense-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Ermensonx/CVE-2024-38077-MadLicense-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Ermensonx/CVE-2024-38077-MadLicense-exploit">
 - [razureink/cve-2024-38077-madlicense_reproduction](https://github.com/razureink/cve-2024-38077-madlicense_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-38077-madlicense_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-38077-madlicense_reproduction">
+- [starscow/CVE-2024-38077-POC](https://github.com/starscow/CVE-2024-38077-POC)	<img alt="forks" src="https://img.shields.io/github/forks/starscow/CVE-2024-38077-POC">	<img alt="stars" src="https://img.shields.io/github/stars/starscow/CVE-2024-38077-POC">
 
 ---
 ## CVE-2024-38063 (2024-08-13T18:15:00)
@@ -5693,6 +5696,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Anurag-Chevendra/CVE-2024-38014](https://github.com/Anurag-Chevendra/CVE-2024-38014)	<img alt="forks" src="https://img.shields.io/github/forks/Anurag-Chevendra/CVE-2024-38014">	<img alt="stars" src="https://img.shields.io/github/stars/Anurag-Chevendra/CVE-2024-38014">
 - [Naman2701B/CVE-2024-38014](https://github.com/Naman2701B/CVE-2024-38014)	<img alt="forks" src="https://img.shields.io/github/forks/Naman2701B/CVE-2024-38014">	<img alt="stars" src="https://img.shields.io/github/stars/Naman2701B/CVE-2024-38014">
 - [Naman2701B/DLL-for-2024-38014](https://github.com/Naman2701B/DLL-for-2024-38014)	<img alt="forks" src="https://img.shields.io/github/forks/Naman2701B/DLL-for-2024-38014">	<img alt="stars" src="https://img.shields.io/github/stars/Naman2701B/DLL-for-2024-38014">
+
+---
+## CVE-2024-37890 ()
+> 
+- [RazdoruNET/OMG_KILLER](https://github.com/RazdoruNET/OMG_KILLER)	<img alt="forks" src="https://img.shields.io/github/forks/RazdoruNET/OMG_KILLER">	<img alt="stars" src="https://img.shields.io/github/stars/RazdoruNET/OMG_KILLER">
 
 ---
 ## CVE-2024-37889 (2024-06-14T20:15:00)
@@ -8152,7 +8160,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 > The iconv() function in the GNU C Library versions 2.39 and older may overflow the output buffer passed to it by up to 4 bytes when converting strings to the ISO-2022-CN-EXT character set, which may be used to crash an application or overwrite a neighbouring variable.
 
 - [mattaperkins/FIX-CVE-2024-2961](https://github.com/mattaperkins/FIX-CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/mattaperkins/FIX-CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/mattaperkins/FIX-CVE-2024-2961">
-- [rvizx/CVE-2024-2961](https://github.com/rvizx/CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2024-2961">
+- [rvzsec/CVE-2024-2961](https://github.com/rvzsec/CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/CVE-2024-2961">
 - [tnishiox/cve-2024-2961](https://github.com/tnishiox/cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/tnishiox/cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/tnishiox/cve-2024-2961">
 - [exfil0/test_iconv](https://github.com/exfil0/test_iconv)	<img alt="forks" src="https://img.shields.io/github/forks/exfil0/test_iconv">	<img alt="stars" src="https://img.shields.io/github/stars/exfil0/test_iconv">
 - [absolutedesignltd/iconvfix](https://github.com/absolutedesignltd/iconvfix)	<img alt="forks" src="https://img.shields.io/github/forks/absolutedesignltd/iconvfix">	<img alt="stars" src="https://img.shields.io/github/stars/absolutedesignltd/iconvfix">
@@ -8161,12 +8169,14 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [kyotozx/CVE-2024-2961-Remote-File-Read](https://github.com/kyotozx/CVE-2024-2961-Remote-File-Read)	<img alt="forks" src="https://img.shields.io/github/forks/kyotozx/CVE-2024-2961-Remote-File-Read">	<img alt="stars" src="https://img.shields.io/github/stars/kyotozx/CVE-2024-2961-Remote-File-Read">
 - [4wayhandshake/CVE-2024-2961](https://github.com/4wayhandshake/CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/4wayhandshake/CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/4wayhandshake/CVE-2024-2961">
 - [omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961](https://github.com/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/omarelshopky/exploit_cve-2023-26326_using_cve-2024-2961">
-- [suce0155/CVE-2024-2961_buddyforms_2.7.7](https://github.com/suce0155/CVE-2024-2961_buddyforms_2.7.7)	<img alt="forks" src="https://img.shields.io/github/forks/suce0155/CVE-2024-2961_buddyforms_2.7.7">	<img alt="stars" src="https://img.shields.io/github/stars/suce0155/CVE-2024-2961_buddyforms_2.7.7">
+- [suce0155/CVE-2024-2961](https://github.com/suce0155/CVE-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/suce0155/CVE-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/suce0155/CVE-2024-2961">
 - [regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-](https://github.com/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-)	<img alt="forks" src="https://img.shields.io/github/forks/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-">	<img alt="stars" src="https://img.shields.io/github/stars/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-">
-- [rcribelar-nucleus/demo-php-cve-2024-2961](https://github.com/rcribelar-nucleus/demo-php-cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/rcribelar-nucleus/demo-php-cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/rcribelar-nucleus/demo-php-cve-2024-2961">
+- [rcribelar-nucleus/my-cool-demo-php-code](https://github.com/rcribelar-nucleus/my-cool-demo-php-code)	<img alt="forks" src="https://img.shields.io/github/forks/rcribelar-nucleus/my-cool-demo-php-code">	<img alt="stars" src="https://img.shields.io/github/stars/rcribelar-nucleus/my-cool-demo-php-code">
 - [Clarissss/osTicketFileReadIntoRCE](https://github.com/Clarissss/osTicketFileReadIntoRCE)	<img alt="forks" src="https://img.shields.io/github/forks/Clarissss/osTicketFileReadIntoRCE">	<img alt="stars" src="https://img.shields.io/github/stars/Clarissss/osTicketFileReadIntoRCE">
 - [whyuhurtz/wongpress](https://github.com/whyuhurtz/wongpress)	<img alt="forks" src="https://img.shields.io/github/forks/whyuhurtz/wongpress">	<img alt="stars" src="https://img.shields.io/github/stars/whyuhurtz/wongpress">
 - [HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977](https://github.com/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">
+- [qinglove777/CVE-2024-2961-XXE-Exploit](https://github.com/qinglove777/CVE-2024-2961-XXE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/qinglove777/CVE-2024-2961-XXE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/qinglove777/CVE-2024-2961-XXE-Exploit">
+- [muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961](https://github.com/muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961">
 
 ---
 ## CVE-2024-29510 (2024-07-03T19:15:00)
@@ -11280,6 +11290,7 @@ Note: The IS-IS protocol is a routing protocol. To exploit this vulnerability, a
 ## CVE-2024-20154 ()
 > 
 - [sneakid/CVE-2024-20154](https://github.com/sneakid/CVE-2024-20154)	<img alt="forks" src="https://img.shields.io/github/forks/sneakid/CVE-2024-20154">	<img alt="stars" src="https://img.shields.io/github/stars/sneakid/CVE-2024-20154">
+- [HarbingerSe7en/CVE-2024-20154](https://github.com/HarbingerSe7en/CVE-2024-20154)	<img alt="forks" src="https://img.shields.io/github/forks/HarbingerSe7en/CVE-2024-20154">	<img alt="stars" src="https://img.shields.io/github/stars/HarbingerSe7en/CVE-2024-20154">
 
 ---
 ## CVE-2024-20137 ()

@@ -3655,6 +3655,11 @@ use after free.
 - [Live-Hack-CVE/CVE-2019-18413](https://github.com/Live-Hack-CVE/CVE-2019-18413)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18413">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18413">
 
 ---
+## CVE-2019-18394 ()
+> 
+- [l0lsec/openfire-ssrf-cve-2019-18394](https://github.com/l0lsec/openfire-ssrf-cve-2019-18394)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsec/openfire-ssrf-cve-2019-18394">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsec/openfire-ssrf-cve-2019-18394">
+
+---
 ## CVE-2019-18391 (2019-12-23T16:15:00)
 > A heap-based buffer overflow in the vrend_renderer_transfer_write_iov function in vrend_renderer.c in virglrenderer through 0.8.0 allows guest OS users to cause a denial of service via VIRGL_CCMD_RESOURCE_INLINE_WRITE commands.
 - [Live-Hack-CVE/CVE-2019-18391](https://github.com/Live-Hack-CVE/CVE-2019-18391)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2019-18391">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2019-18391">
