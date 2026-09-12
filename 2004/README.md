@@ -21,6 +21,7 @@
 - [micheaol/distccd_rce_CVE-2004-2687](https://github.com/micheaol/distccd_rce_CVE-2004-2687)	<img alt="forks" src="https://img.shields.io/github/forks/micheaol/distccd_rce_CVE-2004-2687">	<img alt="stars" src="https://img.shields.io/github/stars/micheaol/distccd_rce_CVE-2004-2687">
 - [aish19siddiqua-commits/mtechweek_04](https://github.com/aish19siddiqua-commits/mtechweek_04)	<img alt="forks" src="https://img.shields.io/github/forks/aish19siddiqua-commits/mtechweek_04">	<img alt="stars" src="https://img.shields.io/github/stars/aish19siddiqua-commits/mtechweek_04">
 - [ocfagb/hacktivity-vulns-exploits-lab](https://github.com/ocfagb/hacktivity-vulns-exploits-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ocfagb/hacktivity-vulns-exploits-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ocfagb/hacktivity-vulns-exploits-lab">
+- [germarr93/CyberSecurity-Pentest-Lab](https://github.com/germarr93/CyberSecurity-Pentest-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/germarr93/CyberSecurity-Pentest-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/germarr93/CyberSecurity-Pentest-Lab">
 
 ---
 ## CVE-2004-2549 ()

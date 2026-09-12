@@ -718,6 +718,8 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [TheMalwareGuardian/CVE-2024-7344](https://github.com/TheMalwareGuardian/CVE-2024-7344)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2024-7344">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2024-7344">
 - [Serious-senpai/remote-access-trojan](https://github.com/Serious-senpai/remote-access-trojan)	<img alt="forks" src="https://img.shields.io/github/forks/Serious-senpai/remote-access-trojan">	<img alt="stars" src="https://img.shields.io/github/stars/Serious-senpai/remote-access-trojan">
 - [mkmk435/DanilaBagroot](https://github.com/mkmk435/DanilaBagroot)	<img alt="forks" src="https://img.shields.io/github/forks/mkmk435/DanilaBagroot">	<img alt="stars" src="https://img.shields.io/github/stars/mkmk435/DanilaBagroot">
+- [TheMalwareGuardian/UEFI-Security-Research-Howyar-SysReturn-NetCopy](https://github.com/TheMalwareGuardian/UEFI-Security-Research-Howyar-SysReturn-NetCopy)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/UEFI-Security-Research-Howyar-SysReturn-NetCopy">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/UEFI-Security-Research-Howyar-SysReturn-NetCopy">
+- [TheMalwareGuardian/CVE-2026-79298](https://github.com/TheMalwareGuardian/CVE-2026-79298)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2026-79298">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2026-79298">
 
 ---
 ## CVE-2024-7339 (2024-08-01T04:15:00)
@@ -7957,6 +7959,11 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-30485 ()
 > 
 - [Nxploited/CVE-2024-30485](https://github.com/Nxploited/CVE-2024-30485)	<img alt="forks" src="https://img.shields.io/github/forks/Nxploited/CVE-2024-30485">	<img alt="stars" src="https://img.shields.io/github/stars/Nxploited/CVE-2024-30485">
+
+---
+## CVE-2024-30350 ()
+> 
+- [lmx-071028/cve-2024-30350-research-notes](https://github.com/lmx-071028/cve-2024-30350-research-notes)	<img alt="forks" src="https://img.shields.io/github/forks/lmx-071028/cve-2024-30350-research-notes">	<img alt="stars" src="https://img.shields.io/github/stars/lmx-071028/cve-2024-30350-research-notes">
 
 ---
 ## CVE-2024-30270 (2024-04-04T21:15:00)

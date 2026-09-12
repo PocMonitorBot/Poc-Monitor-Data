@@ -19221,6 +19221,7 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [soralis0912/CVE-2022-38181-aristotle](https://github.com/soralis0912/CVE-2022-38181-aristotle)	<img alt="forks" src="https://img.shields.io/github/forks/soralis0912/CVE-2022-38181-aristotle">	<img alt="stars" src="https://img.shields.io/github/stars/soralis0912/CVE-2022-38181-aristotle">
 - [Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet](https://github.com/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet)	<img alt="forks" src="https://img.shields.io/github/forks/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet">	<img alt="stars" src="https://img.shields.io/github/stars/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet">
 - [ericpardee/fire-hd-ownership](https://github.com/ericpardee/fire-hd-ownership)	<img alt="forks" src="https://img.shields.io/github/forks/ericpardee/fire-hd-ownership">	<img alt="stars" src="https://img.shields.io/github/stars/ericpardee/fire-hd-ownership">
+- [artur9010/amazon-mustang-hack](https://github.com/artur9010/amazon-mustang-hack)	<img alt="forks" src="https://img.shields.io/github/forks/artur9010/amazon-mustang-hack">	<img alt="stars" src="https://img.shields.io/github/stars/artur9010/amazon-mustang-hack">
 
 ---
 ## CVE-2022-3818 (2022-11-10T00:15:00)
@@ -26293,6 +26294,21 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [zeroc00I/CVE-2022-34305](https://github.com/zeroc00I/CVE-2022-34305)	<img alt="forks" src="https://img.shields.io/github/forks/zeroc00I/CVE-2022-34305">	<img alt="stars" src="https://img.shields.io/github/stars/zeroc00I/CVE-2022-34305">
 
 ---
+## CVE-2022-34303 ()
+> 
+- [TheMalwareGuardian/CVE-2022-34303](https://github.com/TheMalwareGuardian/CVE-2022-34303)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2022-34303">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2022-34303">
+
+---
+## CVE-2022-34302 ()
+> 
+- [TheMalwareGuardian/CVE-2022-34302](https://github.com/TheMalwareGuardian/CVE-2022-34302)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2022-34302">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2022-34302">
+
+---
+## CVE-2022-34301 ()
+> 
+- [TheMalwareGuardian/CVE-2022-34301](https://github.com/TheMalwareGuardian/CVE-2022-34301)	<img alt="forks" src="https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2022-34301">	<img alt="stars" src="https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2022-34301">
+
+---
 ## CVE-2022-34298 ()
 > 
 - [watchtowrlabs/CVE-2022-34298](https://github.com/watchtowrlabs/CVE-2022-34298)	<img alt="forks" src="https://img.shields.io/github/forks/watchtowrlabs/CVE-2022-34298">	<img alt="stars" src="https://img.shields.io/github/stars/watchtowrlabs/CVE-2022-34298">
@@ -31174,6 +31190,11 @@ the client's API server credentials to third parties.
 - [Live-Hack-CVE/CVE-2022-29901](https://github.com/Live-Hack-CVE/CVE-2022-29901)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29901">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29901">
 
 ---
+## CVE-2022-29900 ()
+> 
+- [abdul-kalam2000/retbleed-speculative-execution-poc](https://github.com/abdul-kalam2000/retbleed-speculative-execution-poc)	<img alt="forks" src="https://img.shields.io/github/forks/abdul-kalam2000/retbleed-speculative-execution-poc">	<img alt="stars" src="https://img.shields.io/github/stars/abdul-kalam2000/retbleed-speculative-execution-poc">
+
+---
 ## CVE-2022-29899 (2023-01-04T14:15:00)
 > ** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2022. Notes: none.
 - [Live-Hack-CVE/CVE-2022-29899](https://github.com/Live-Hack-CVE/CVE-2022-29899)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-29899">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-29899">
@@ -35549,7 +35570,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 > Open Web Analytics (OWA) before 1.7.4 allows an unauthenticated remote attacker to obtain sensitive user information, which can be used to gain admin privileges by leveraging cache hashes. This occurs because files generated with '<?php (instead of the intended "<?php sequence) aren't handled by the PHP interpreter.
 - [watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce](https://github.com/watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce)	<img alt="forks" src="https://img.shields.io/github/forks/watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce">	<img alt="stars" src="https://img.shields.io/github/stars/watchdog2000/cve-2022-24637_open-web-analytics-info-disclosure-to-rce">
 - [JacobEbben/CVE-2022-24637](https://github.com/JacobEbben/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2022-24637">
-- [Lay0us1/CVE-2022-24637](https://github.com/Lay0us1/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/Lay0us1/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/Lay0us1/CVE-2022-24637">
+- [Lay0us/CVE-2022-24637](https://github.com/Lay0us/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/Lay0us/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/Lay0us/CVE-2022-24637">
 - [garySec/-CVE-2022-24637](https://github.com/garySec/-CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/garySec/-CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/garySec/-CVE-2022-24637">
 - [garySec/CVE-2022-24637](https://github.com/garySec/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/garySec/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/garySec/CVE-2022-24637">
 - [hupe1980/CVE-2022-24637](https://github.com/hupe1980/CVE-2022-24637)	<img alt="forks" src="https://img.shields.io/github/forks/hupe1980/CVE-2022-24637">	<img alt="stars" src="https://img.shields.io/github/stars/hupe1980/CVE-2022-24637">

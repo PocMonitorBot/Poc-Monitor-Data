@@ -1150,6 +1150,7 @@
 - [qianlijaingshan/n8n-cve-2026-21858](https://github.com/qianlijaingshan/n8n-cve-2026-21858)	<img alt="forks" src="https://img.shields.io/github/forks/qianlijaingshan/n8n-cve-2026-21858">	<img alt="stars" src="https://img.shields.io/github/stars/qianlijaingshan/n8n-cve-2026-21858">
 - [Giangdurian/CVE-2026-21858-and-CVE-2025-68613](https://github.com/Giangdurian/CVE-2026-21858-and-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2026-21858-and-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2026-21858-and-CVE-2025-68613">
 - [rmhowe425/POC-CVE-2025-68613](https://github.com/rmhowe425/POC-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2025-68613">
+- [ZeroDayEvil/CVE-2026-21858-n8n-FullChain](https://github.com/ZeroDayEvil/CVE-2026-21858-n8n-FullChain)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-21858-n8n-FullChain">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-21858-n8n-FullChain">
 
 ---
 ## CVE-2025-6860 ()
@@ -5016,6 +5017,7 @@
 - [ChrisBarack/cve-2025-55182](https://github.com/ChrisBarack/cve-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/ChrisBarack/cve-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/ChrisBarack/cve-2025-55182">
 - [Bluex707/React2Shell-CVE-2025-55182-Exploit](https://github.com/Bluex707/React2Shell-CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Bluex707/React2Shell-CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Bluex707/React2Shell-CVE-2025-55182-Exploit">
 - [r3vpwnx/CVE-2025-55182](https://github.com/r3vpwnx/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-55182">
+- [iapetus12/hackcar-writeup](https://github.com/iapetus12/hackcar-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/iapetus12/hackcar-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/iapetus12/hackcar-writeup">
 
 ---
 ## CVE-2025-55177 ()
@@ -8089,6 +8091,11 @@
 ## CVE-2025-3855 ()
 > 
 - [L4zyFox/RISE-Ultimate_Project_Manager_e_CRM](https://github.com/L4zyFox/RISE-Ultimate_Project_Manager_e_CRM)	<img alt="forks" src="https://img.shields.io/github/forks/L4zyFox/RISE-Ultimate_Project_Manager_e_CRM">	<img alt="stars" src="https://img.shields.io/github/stars/L4zyFox/RISE-Ultimate_Project_Manager_e_CRM">
+
+---
+## CVE-2025-38502 ()
+> 
+- [abraxas/CVE-2025-38502-Linux-LPE](https://github.com/abraxas/CVE-2025-38502-Linux-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/CVE-2025-38502-Linux-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/CVE-2025-38502-Linux-LPE">
 
 ---
 ## CVE-2025-38501 ()
