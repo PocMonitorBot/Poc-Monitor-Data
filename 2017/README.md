@@ -3585,6 +3585,7 @@
 - [probablysecure/Triage-CVE-2017-0144](https://github.com/probablysecure/Triage-CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/probablysecure/Triage-CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/probablysecure/Triage-CVE-2017-0144">
 - [quincyomoruyi6-lang/BLUE-WRITEUP-CVE-2017-0144](https://github.com/quincyomoruyi6-lang/BLUE-WRITEUP-CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/quincyomoruyi6-lang/BLUE-WRITEUP-CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/quincyomoruyi6-lang/BLUE-WRITEUP-CVE-2017-0144">
 - [porcumarcooo/TryHackMe-Blue-MS17-010](https://github.com/porcumarcooo/TryHackMe-Blue-MS17-010)	<img alt="forks" src="https://img.shields.io/github/forks/porcumarcooo/TryHackMe-Blue-MS17-010">	<img alt="stars" src="https://img.shields.io/github/stars/porcumarcooo/TryHackMe-Blue-MS17-010">
+- [ronankongala/metasploit-pentest-report](https://github.com/ronankongala/metasploit-pentest-report)	<img alt="forks" src="https://img.shields.io/github/forks/ronankongala/metasploit-pentest-report">	<img alt="stars" src="https://img.shields.io/github/stars/ronankongala/metasploit-pentest-report">
 
 ---
 ## CVE-2017-0143 (2017-03-17T00:59:00)

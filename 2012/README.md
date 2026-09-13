@@ -479,6 +479,11 @@
 - [Live-Hack-CVE/CVE-2012-0777](https://github.com/Live-Hack-CVE/CVE-2012-0777)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0777">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0777">
 
 ---
+## CVE-2012-0754 ()
+> 
+- [mbeweoo/flash-exploit-defense-system](https://github.com/mbeweoo/flash-exploit-defense-system)	<img alt="forks" src="https://img.shields.io/github/forks/mbeweoo/flash-exploit-defense-system">	<img alt="stars" src="https://img.shields.io/github/stars/mbeweoo/flash-exploit-defense-system">
+
+---
 ## CVE-2012-0578 (2013-01-17T01:55:00)
 > Unspecified vulnerability in the Server component in Oracle MySQL 5.5.28 and earlier allows remote authenticated users to affect availability via unknown vectors related to Server Optimizer.
 - [Live-Hack-CVE/CVE-2012-0578](https://github.com/Live-Hack-CVE/CVE-2012-0578)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2012-0578">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2012-0578">

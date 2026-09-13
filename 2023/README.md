@@ -13597,6 +13597,7 @@ If the server is run as root (which is the default when installing the  snap pac
 - [Pol-Ruiz/CVE-2023-1326](https://github.com/Pol-Ruiz/CVE-2023-1326)	<img alt="forks" src="https://img.shields.io/github/forks/Pol-Ruiz/CVE-2023-1326">	<img alt="stars" src="https://img.shields.io/github/stars/Pol-Ruiz/CVE-2023-1326">
 - [c0d3cr4f73r/CVE-2023-1326](https://github.com/c0d3cr4f73r/CVE-2023-1326)	<img alt="forks" src="https://img.shields.io/github/forks/c0d3cr4f73r/CVE-2023-1326">	<img alt="stars" src="https://img.shields.io/github/stars/c0d3cr4f73r/CVE-2023-1326">
 - [cve-2024/CVE-2023-1326-PoC](https://github.com/cve-2024/CVE-2023-1326-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cve-2024/CVE-2023-1326-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cve-2024/CVE-2023-1326-PoC">
+- [R3fr4kt/DEVVORTEX](https://github.com/R3fr4kt/DEVVORTEX)	<img alt="forks" src="https://img.shields.io/github/forks/R3fr4kt/DEVVORTEX">	<img alt="stars" src="https://img.shields.io/github/stars/R3fr4kt/DEVVORTEX">
 
 ---
 ## CVE-2023-1281 ()
