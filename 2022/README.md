@@ -2986,6 +2986,7 @@ Here we only need to move the of_node_put() before the check.
 - [0xmid00/CVE-2022-46364-poc](https://github.com/0xmid00/CVE-2022-46364-poc)	<img alt="forks" src="https://img.shields.io/github/forks/0xmid00/CVE-2022-46364-poc">	<img alt="stars" src="https://img.shields.io/github/stars/0xmid00/CVE-2022-46364-poc">
 - [jwsly12/CVE-2022-46364-htb-ctf](https://github.com/jwsly12/CVE-2022-46364-htb-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/jwsly12/CVE-2022-46364-htb-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/jwsly12/CVE-2022-46364-htb-ctf">
 - [c0gnit00/CVE-2022-46364](https://github.com/c0gnit00/CVE-2022-46364)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2022-46364">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2022-46364">
+- [ledksv/devarea](https://github.com/ledksv/devarea)	<img alt="forks" src="https://img.shields.io/github/forks/ledksv/devarea">	<img alt="stars" src="https://img.shields.io/github/stars/ledksv/devarea">
 
 ---
 ## CVE-2022-46363 (2022-12-13T15:15:00)

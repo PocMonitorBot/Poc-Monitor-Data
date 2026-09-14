@@ -2923,6 +2923,7 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 - [Criz117/CVE-2023-43208-PoC](https://github.com/Criz117/CVE-2023-43208-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Criz117/CVE-2023-43208-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Criz117/CVE-2023-43208-PoC">
 - [Humberto-pixel/CVE-2023-43208-PoC](https://github.com/Humberto-pixel/CVE-2023-43208-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Humberto-pixel/CVE-2023-43208-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Humberto-pixel/CVE-2023-43208-PoC">
 - [Humberto-pixel/CVE-2023-43208-PoC](https://github.com/Humberto-pixel/CVE-2023-43208-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Humberto-pixel/CVE-2023-43208-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Humberto-pixel/CVE-2023-43208-PoC">
+- [ledksv/Interpreter-HackTheBox](https://github.com/ledksv/Interpreter-HackTheBox)	<img alt="forks" src="https://img.shields.io/github/forks/ledksv/Interpreter-HackTheBox">	<img alt="stars" src="https://img.shields.io/github/stars/ledksv/Interpreter-HackTheBox">
 
 ---
 ## CVE-2023-43177 (2023-11-18T00:15:00)

@@ -2434,6 +2434,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [mattiapertusati/htb-cctv](https://github.com/mattiapertusati/htb-cctv)	<img alt="forks" src="https://img.shields.io/github/forks/mattiapertusati/htb-cctv">	<img alt="stars" src="https://img.shields.io/github/stars/mattiapertusati/htb-cctv">
 - [Revnin/CCTV-MACHINE](https://github.com/Revnin/CCTV-MACHINE)	<img alt="forks" src="https://img.shields.io/github/forks/Revnin/CCTV-MACHINE">	<img alt="stars" src="https://img.shields.io/github/stars/Revnin/CCTV-MACHINE">
 - [c0gnit00/CVE-2024-51482](https://github.com/c0gnit00/CVE-2024-51482)	<img alt="forks" src="https://img.shields.io/github/forks/c0gnit00/CVE-2024-51482">	<img alt="stars" src="https://img.shields.io/github/stars/c0gnit00/CVE-2024-51482">
+- [ledksv/cctv](https://github.com/ledksv/cctv)	<img alt="forks" src="https://img.shields.io/github/forks/ledksv/cctv">	<img alt="stars" src="https://img.shields.io/github/stars/ledksv/cctv">
 
 ---
 ## CVE-2024-51442 ()
@@ -2488,6 +2489,7 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 > 
 - [devianntsec/CVE-2024-51324](https://github.com/devianntsec/CVE-2024-51324)	<img alt="forks" src="https://img.shields.io/github/forks/devianntsec/CVE-2024-51324">	<img alt="stars" src="https://img.shields.io/github/stars/devianntsec/CVE-2024-51324">
 - [I3r1h0n/Sigurd](https://github.com/I3r1h0n/Sigurd)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/Sigurd">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/Sigurd">
+- [uLl0a/bdapiutil-bydov](https://github.com/uLl0a/bdapiutil-bydov)	<img alt="forks" src="https://img.shields.io/github/forks/uLl0a/bdapiutil-bydov">	<img alt="stars" src="https://img.shields.io/github/stars/uLl0a/bdapiutil-bydov">
 
 ---
 ## CVE-2024-5124 (2024-06-06T19:16:00)

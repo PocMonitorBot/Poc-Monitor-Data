@@ -185,6 +185,11 @@
 - [MW-HF/Drupal-CVE-2026-9082](https://github.com/MW-HF/Drupal-CVE-2026-9082)	<img alt="forks" src="https://img.shields.io/github/forks/MW-HF/Drupal-CVE-2026-9082">	<img alt="stars" src="https://img.shields.io/github/stars/MW-HF/Drupal-CVE-2026-9082">
 
 ---
+## CVE-2026-90781 ()
+> 
+- [HarshRajSinghania/CVE-2026-90781-alsa-lib-oob](https://github.com/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob)	<img alt="forks" src="https://img.shields.io/github/forks/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob">	<img alt="stars" src="https://img.shields.io/github/stars/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob">
+
+---
 ## CVE-2026-9067 ()
 > 
 - [Polosss/By-Poloss..-..CVE-2026-9067](https://github.com/Polosss/By-Poloss..-..CVE-2026-9067)	<img alt="forks" src="https://img.shields.io/github/forks/Polosss/By-Poloss..-..CVE-2026-9067">	<img alt="stars" src="https://img.shields.io/github/stars/Polosss/By-Poloss..-..CVE-2026-9067">
@@ -267,9 +272,15 @@
 - [SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.](https://github.com/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.">
 
 ---
+## CVE-2026-87492 ()
+> 
+- [valencenavy/IsolatedAnarchy-Public](https://github.com/valencenavy/IsolatedAnarchy-Public)	<img alt="forks" src="https://img.shields.io/github/forks/valencenavy/IsolatedAnarchy-Public">	<img alt="stars" src="https://img.shields.io/github/stars/valencenavy/IsolatedAnarchy-Public">
+
+---
 ## CVE-2026-87491 ()
 > 
 - [SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter](https://github.com/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter">
+- [SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.](https://github.com/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.)	<img alt="forks" src="https://img.shields.io/github/forks/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.">	<img alt="stars" src="https://img.shields.io/github/stars/SneakyNachos/CVE-2026-87575-CVE-2026-87606-CVE-2026-87491-and-CVE-2026-85046.-Escape-the-v8-carcass.">
 
 ---
 ## CVE-2026-8732 ()
@@ -358,6 +369,11 @@
 - [HarshRajSinghania/cve-2026-86547-mrubyc-op-enter](https://github.com/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter)	<img alt="forks" src="https://img.shields.io/github/forks/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter">	<img alt="stars" src="https://img.shields.io/github/stars/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter">
 
 ---
+## CVE-2026-86283 ()
+> 
+- [Freire007-byte/sentric-core](https://github.com/Freire007-byte/sentric-core)	<img alt="forks" src="https://img.shields.io/github/forks/Freire007-byte/sentric-core">	<img alt="stars" src="https://img.shields.io/github/stars/Freire007-byte/sentric-core">
+
+---
 ## CVE-2026-86218 ()
 > 
 - [HORKimhab/CVE-2026-86218](https://github.com/HORKimhab/CVE-2026-86218)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2026-86218">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2026-86218">
@@ -383,6 +399,9 @@
 - [ynsmroztas/GitLabSniper](https://github.com/ynsmroztas/GitLabSniper)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/GitLabSniper">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/GitLabSniper">
 - [jithinkrishnanrs/gitlab-cve-2026-85706-ioc](https://github.com/jithinkrishnanrs/gitlab-cve-2026-85706-ioc)	<img alt="forks" src="https://img.shields.io/github/forks/jithinkrishnanrs/gitlab-cve-2026-85706-ioc">	<img alt="stars" src="https://img.shields.io/github/stars/jithinkrishnanrs/gitlab-cve-2026-85706-ioc">
 - [0xlyvio/cve-2026-85706-poc-exploit-gitlab](https://github.com/0xlyvio/cve-2026-85706-poc-exploit-gitlab)	<img alt="forks" src="https://img.shields.io/github/forks/0xlyvio/cve-2026-85706-poc-exploit-gitlab">	<img alt="stars" src="https://img.shields.io/github/stars/0xlyvio/cve-2026-85706-poc-exploit-gitlab">
+- [brigadeops32/CVE-2026-85706](https://github.com/brigadeops32/CVE-2026-85706)	<img alt="forks" src="https://img.shields.io/github/forks/brigadeops32/CVE-2026-85706">	<img alt="stars" src="https://img.shields.io/github/stars/brigadeops32/CVE-2026-85706">
+- [gagaltotal/CVE-2026-85706-gitlab-poc](https://github.com/gagaltotal/CVE-2026-85706-gitlab-poc)	<img alt="forks" src="https://img.shields.io/github/forks/gagaltotal/CVE-2026-85706-gitlab-poc">	<img alt="stars" src="https://img.shields.io/github/stars/gagaltotal/CVE-2026-85706-gitlab-poc">
+- [plur1bu5/gitread](https://github.com/plur1bu5/gitread)	<img alt="forks" src="https://img.shields.io/github/forks/plur1bu5/gitread">	<img alt="stars" src="https://img.shields.io/github/stars/plur1bu5/gitread">
 
 ---
 ## CVE-2026-85649 ()
@@ -799,6 +818,7 @@
 ## CVE-2026-78006 ()
 > 
 - [DeadExpl0it/CVE-2026-78006-POC](https://github.com/DeadExpl0it/CVE-2026-78006-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-78006-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-78006-POC">
+- [user445213/CVE-2026-78006](https://github.com/user445213/CVE-2026-78006)	<img alt="forks" src="https://img.shields.io/github/forks/user445213/CVE-2026-78006">	<img alt="stars" src="https://img.shields.io/github/stars/user445213/CVE-2026-78006">
 
 ---
 ## CVE-2026-7791 ()
@@ -1365,6 +1385,11 @@
 ## CVE-2026-71300 ()
 > 
 - [oscerd/CVE-2026-71300](https://github.com/oscerd/CVE-2026-71300)	<img alt="forks" src="https://img.shields.io/github/forks/oscerd/CVE-2026-71300">	<img alt="stars" src="https://img.shields.io/github/stars/oscerd/CVE-2026-71300">
+
+---
+## CVE-2026-71294 ()
+> 
+- [HarshRajSinghania/cotonti-commentswidget-poc](https://github.com/HarshRajSinghania/cotonti-commentswidget-poc)	<img alt="forks" src="https://img.shields.io/github/forks/HarshRajSinghania/cotonti-commentswidget-poc">	<img alt="stars" src="https://img.shields.io/github/stars/HarshRajSinghania/cotonti-commentswidget-poc">
 
 ---
 ## CVE-2026-71211 ()
@@ -1947,6 +1972,11 @@
 ## CVE-2026-65640 ()
 > 
 - [jobusa755-a11y/CVE-2026-65640-](https://github.com/jobusa755-a11y/CVE-2026-65640-)	<img alt="forks" src="https://img.shields.io/github/forks/jobusa755-a11y/CVE-2026-65640-">	<img alt="stars" src="https://img.shields.io/github/stars/jobusa755-a11y/CVE-2026-65640-">
+
+---
+## CVE-2026-65615 ()
+> 
+- [BL0odz/JFrog_CVE-2026-65615-ByGLM](https://github.com/BL0odz/JFrog_CVE-2026-65615-ByGLM)	<img alt="forks" src="https://img.shields.io/github/forks/BL0odz/JFrog_CVE-2026-65615-ByGLM">	<img alt="stars" src="https://img.shields.io/github/stars/BL0odz/JFrog_CVE-2026-65615-ByGLM">
 
 ---
 ## CVE-2026-65591 ()
@@ -5395,6 +5425,8 @@
 - [1ndevelopment/ghostlock-s26](https://github.com/1ndevelopment/ghostlock-s26)	<img alt="forks" src="https://img.shields.io/github/forks/1ndevelopment/ghostlock-s26">	<img alt="stars" src="https://img.shields.io/github/stars/1ndevelopment/ghostlock-s26">
 - [huaguiqi/asus_i005-CVE-2026-43499](https://github.com/huaguiqi/asus_i005-CVE-2026-43499)	<img alt="forks" src="https://img.shields.io/github/forks/huaguiqi/asus_i005-CVE-2026-43499">	<img alt="stars" src="https://img.shields.io/github/stars/huaguiqi/asus_i005-CVE-2026-43499">
 - [DeveshTone/vivo-y75-v2117-ghostlock](https://github.com/DeveshTone/vivo-y75-v2117-ghostlock)	<img alt="forks" src="https://img.shields.io/github/forks/DeveshTone/vivo-y75-v2117-ghostlock">	<img alt="stars" src="https://img.shields.io/github/stars/DeveshTone/vivo-y75-v2117-ghostlock">
+- [zhubaohe123/ghostlock-kit](https://github.com/zhubaohe123/ghostlock-kit)	<img alt="forks" src="https://img.shields.io/github/forks/zhubaohe123/ghostlock-kit">	<img alt="stars" src="https://img.shields.io/github/stars/zhubaohe123/ghostlock-kit">
+- [ccp-p/ghostlock-cve-2026-43499-4.19-k40](https://github.com/ccp-p/ghostlock-cve-2026-43499-4.19-k40)	<img alt="forks" src="https://img.shields.io/github/forks/ccp-p/ghostlock-cve-2026-43499-4.19-k40">	<img alt="stars" src="https://img.shields.io/github/stars/ccp-p/ghostlock-cve-2026-43499-4.19-k40">
 
 ---
 ## CVE-2026-43494 ()
@@ -5646,6 +5678,11 @@
 ## CVE-2026-4255 ()
 > 
 - [Ard33/CVE-2026-4255](https://github.com/Ard33/CVE-2026-4255)	<img alt="forks" src="https://img.shields.io/github/forks/Ard33/CVE-2026-4255">	<img alt="stars" src="https://img.shields.io/github/stars/Ard33/CVE-2026-4255">
+
+---
+## CVE-2026-42536 ()
+> 
+- [erberkan/CVE-2026-42536-PoC](https://github.com/erberkan/CVE-2026-42536-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/erberkan/CVE-2026-42536-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/erberkan/CVE-2026-42536-PoC">
 
 ---
 ## CVE-2026-42533 ()
@@ -10249,6 +10286,7 @@
 ## CVE-2026-24332 ()
 > 
 - [WhiteTPoison100/Discord-CVE-2026-24332-demo](https://github.com/WhiteTPoison100/Discord-CVE-2026-24332-demo)	<img alt="forks" src="https://img.shields.io/github/forks/WhiteTPoison100/Discord-CVE-2026-24332-demo">	<img alt="stars" src="https://img.shields.io/github/stars/WhiteTPoison100/Discord-CVE-2026-24332-demo">
+- [0cqb/CVE-2026-24332](https://github.com/0cqb/CVE-2026-24332)	<img alt="forks" src="https://img.shields.io/github/forks/0cqb/CVE-2026-24332">	<img alt="stars" src="https://img.shields.io/github/stars/0cqb/CVE-2026-24332">
 
 ---
 ## CVE-2026-24306 ()
@@ -10517,6 +10555,7 @@
 > 
 - [oscarmine/CVE-2026-23980-Exploit](https://github.com/oscarmine/CVE-2026-23980-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oscarmine/CVE-2026-23980-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oscarmine/CVE-2026-23980-Exploit">
 - [oscar-mine/CVE-2026-23980-Exploit](https://github.com/oscar-mine/CVE-2026-23980-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/oscar-mine/CVE-2026-23980-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/oscar-mine/CVE-2026-23980-Exploit">
+- [hyphenTBG/CVE-2026-23980](https://github.com/hyphenTBG/CVE-2026-23980)	<img alt="forks" src="https://img.shields.io/github/forks/hyphenTBG/CVE-2026-23980">	<img alt="stars" src="https://img.shields.io/github/stars/hyphenTBG/CVE-2026-23980">
 
 ---
 ## CVE-2026-2395 ()
@@ -11295,6 +11334,7 @@
 - [Perufitlife/dotclaude-security](https://github.com/Perufitlife/dotclaude-security)	<img alt="forks" src="https://img.shields.io/github/forks/Perufitlife/dotclaude-security">	<img alt="stars" src="https://img.shields.io/github/stars/Perufitlife/dotclaude-security">
 - [M0broot/CVE-Archive](https://github.com/M0broot/CVE-Archive)	<img alt="forks" src="https://img.shields.io/github/forks/M0broot/CVE-Archive">	<img alt="stars" src="https://img.shields.io/github/stars/M0broot/CVE-Archive">
 - [TreRB/ai-ide-config-guard](https://github.com/TreRB/ai-ide-config-guard)	<img alt="forks" src="https://img.shields.io/github/forks/TreRB/ai-ide-config-guard">	<img alt="stars" src="https://img.shields.io/github/stars/TreRB/ai-ide-config-guard">
+- [abhishek2512mishra/claude-code-security-audit](https://github.com/abhishek2512mishra/claude-code-security-audit)	<img alt="forks" src="https://img.shields.io/github/forks/abhishek2512mishra/claude-code-security-audit">	<img alt="stars" src="https://img.shields.io/github/stars/abhishek2512mishra/claude-code-security-audit">
 
 ---
 ## CVE-2026-21847 ()
@@ -11837,6 +11877,9 @@
 - [b1gchoi/CVE-2026-20079](https://github.com/b1gchoi/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/b1gchoi/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/b1gchoi/CVE-2026-20079">
 - [0xBlackash/CVE-2026-20079](https://github.com/0xBlackash/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2026-20079">
 - [CyberAuth/CVE-2026-20079](https://github.com/CyberAuth/CVE-2026-20079)	<img alt="forks" src="https://img.shields.io/github/forks/CyberAuth/CVE-2026-20079">	<img alt="stars" src="https://img.shields.io/github/stars/CyberAuth/CVE-2026-20079">
+- [DiegoArias008/-CVE-2026-20079-checker-](https://github.com/DiegoArias008/-CVE-2026-20079-checker-)	<img alt="forks" src="https://img.shields.io/github/forks/DiegoArias008/-CVE-2026-20079-checker-">	<img alt="stars" src="https://img.shields.io/github/stars/DiegoArias008/-CVE-2026-20079-checker-">
+- [DiegoArias008/CVE-2026-20079-research-private-](https://github.com/DiegoArias008/CVE-2026-20079-research-private-)	<img alt="forks" src="https://img.shields.io/github/forks/DiegoArias008/CVE-2026-20079-research-private-">	<img alt="stars" src="https://img.shields.io/github/stars/DiegoArias008/CVE-2026-20079-research-private-">
+- [DiegoArias008/CVE-2026-20079-checker](https://github.com/DiegoArias008/CVE-2026-20079-checker)	<img alt="forks" src="https://img.shields.io/github/forks/DiegoArias008/CVE-2026-20079-checker">	<img alt="stars" src="https://img.shields.io/github/stars/DiegoArias008/CVE-2026-20079-checker">
 
 ---
 ## CVE-2026-2005 ()
