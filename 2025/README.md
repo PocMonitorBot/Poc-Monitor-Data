@@ -2151,6 +2151,7 @@
 - [saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-](https://github.com/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-)	<img alt="forks" src="https://img.shields.io/github/forks/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-">	<img alt="stars" src="https://img.shields.io/github/stars/saadhassan77/CVE-2025-64512---pdfminer.six-Remote-Code-Execution-RCE-">
 - [DodgeNefoli/CVE-2025-64512](https://github.com/DodgeNefoli/CVE-2025-64512)	<img alt="forks" src="https://img.shields.io/github/forks/DodgeNefoli/CVE-2025-64512">	<img alt="stars" src="https://img.shields.io/github/stars/DodgeNefoli/CVE-2025-64512">
 - [oguzylmzx/CVE-2025-64512-pdfminer-PoC](https://github.com/oguzylmzx/CVE-2025-64512-pdfminer-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/oguzylmzx/CVE-2025-64512-pdfminer-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/oguzylmzx/CVE-2025-64512-pdfminer-PoC">
+- [Jinook-Kim/CVE-2025-64512_PoC](https://github.com/Jinook-Kim/CVE-2025-64512_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Jinook-Kim/CVE-2025-64512_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Jinook-Kim/CVE-2025-64512_PoC">
 
 ---
 ## CVE-2025-64500 ()
@@ -7942,6 +7943,11 @@
 - [victoriaalicex/CVE-2025-40536-Analysis](https://github.com/victoriaalicex/CVE-2025-40536-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/victoriaalicex/CVE-2025-40536-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/victoriaalicex/CVE-2025-40536-Analysis">
 
 ---
+## CVE-2025-4028 ()
+> 
+- [JunZ-Leo/CVE](https://github.com/JunZ-Leo/CVE)	<img alt="forks" src="https://img.shields.io/github/forks/JunZ-Leo/CVE">	<img alt="stars" src="https://img.shields.io/github/stars/JunZ-Leo/CVE">
+
+---
 ## CVE-2025-40271 ()
 > 
 - [kaleth4/CVE-2025-40271](https://github.com/kaleth4/CVE-2025-40271)	<img alt="forks" src="https://img.shields.io/github/forks/kaleth4/CVE-2025-40271">	<img alt="stars" src="https://img.shields.io/github/stars/kaleth4/CVE-2025-40271">
@@ -8838,6 +8844,7 @@
 - [HeltonPojo/CVE-2025-32432](https://github.com/HeltonPojo/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/HeltonPojo/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/HeltonPojo/CVE-2025-32432">
 - [PsyGuy007-sys/craftcms-cve-2025-32432-rce](https://github.com/PsyGuy007-sys/craftcms-cve-2025-32432-rce)	<img alt="forks" src="https://img.shields.io/github/forks/PsyGuy007-sys/craftcms-cve-2025-32432-rce">	<img alt="stars" src="https://img.shields.io/github/stars/PsyGuy007-sys/craftcms-cve-2025-32432-rce">
 - [EzraMansor/CVE-2025-32432-PoC](https://github.com/EzraMansor/CVE-2025-32432-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/EzraMansor/CVE-2025-32432-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/EzraMansor/CVE-2025-32432-PoC">
+- [e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432](https://github.com/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432">
 
 ---
 ## CVE-2025-3243 ()

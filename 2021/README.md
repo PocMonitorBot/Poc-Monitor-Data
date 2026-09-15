@@ -1682,6 +1682,7 @@
 - [14free/log4j2-vuln-lab](https://github.com/14free/log4j2-vuln-lab)	<img alt="forks" src="https://img.shields.io/github/forks/14free/log4j2-vuln-lab">	<img alt="stars" src="https://img.shields.io/github/stars/14free/log4j2-vuln-lab">
 - [Wafeeq-Fareed/log4shell-exploitation-lab](https://github.com/Wafeeq-Fareed/log4shell-exploitation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Wafeeq-Fareed/log4shell-exploitation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Wafeeq-Fareed/log4shell-exploitation-lab">
 - [KalidouLabghaly/log4shell-exploitation-detection](https://github.com/KalidouLabghaly/log4shell-exploitation-detection)	<img alt="forks" src="https://img.shields.io/github/forks/KalidouLabghaly/log4shell-exploitation-detection">	<img alt="stars" src="https://img.shields.io/github/stars/KalidouLabghaly/log4shell-exploitation-detection">
+- [rh-rahulshetty/log4shell-CVE-2021-44228](https://github.com/rh-rahulshetty/log4shell-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/rh-rahulshetty/log4shell-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/rh-rahulshetty/log4shell-CVE-2021-44228">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -4736,6 +4737,7 @@
 - [RakhithJK/CVE-2021-4034-new](https://github.com/RakhithJK/CVE-2021-4034-new)	<img alt="forks" src="https://img.shields.io/github/forks/RakhithJK/CVE-2021-4034-new">	<img alt="stars" src="https://img.shields.io/github/stars/RakhithJK/CVE-2021-4034-new">
 - [tachote/CVE-2021-4034](https://github.com/tachote/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/tachote/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/tachote/CVE-2021-4034">
 - [iurhfiu6/CVE-2021-4034](https://github.com/iurhfiu6/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/iurhfiu6/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/iurhfiu6/CVE-2021-4034">
+- [r00t-byte/Pwnkit-CVE-2021-4034-LPE](https://github.com/r00t-byte/Pwnkit-CVE-2021-4034-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/r00t-byte/Pwnkit-CVE-2021-4034-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/r00t-byte/Pwnkit-CVE-2021-4034-LPE">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)

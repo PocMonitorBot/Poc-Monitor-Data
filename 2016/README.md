@@ -933,6 +933,7 @@
 - [voidgguy/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195](https://github.com/voidgguy/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/voidgguy/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/voidgguy/lenovo-a1000g-mt8317-A412_01_09_130907-kernel-3.4.0-root-cve-2016-5195">
 - [Minime794/CVE-2016-5195](https://github.com/Minime794/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/Minime794/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/Minime794/CVE-2016-5195">
 - [KongQBin/CVE-2016-5195](https://github.com/KongQBin/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/KongQBin/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/KongQBin/CVE-2016-5195">
+- [vudangducminh/CVE-2016-5195](https://github.com/vudangducminh/CVE-2016-5195)	<img alt="forks" src="https://img.shields.io/github/forks/vudangducminh/CVE-2016-5195">	<img alt="stars" src="https://img.shields.io/github/stars/vudangducminh/CVE-2016-5195">
 
 ---
 ## CVE-2016-5180 (2016-10-03T15:59:00)
