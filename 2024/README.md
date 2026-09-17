@@ -3041,6 +3041,7 @@ length to be included in the checksum calculation is fully consumed.
 - [basitsajidapply-stack/SOC-Investigation-CVE-2024-49138](https://github.com/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138)	<img alt="forks" src="https://img.shields.io/github/forks/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138">	<img alt="stars" src="https://img.shields.io/github/stars/basitsajidapply-stack/SOC-Investigation-CVE-2024-49138">
 - [NadineElliottCyber/SOC335-CVE-2024-49138-Investigation](https://github.com/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/NadineElliottCyber/SOC335-CVE-2024-49138-Investigation">
 - [Adisasoc/CVE-2024-49138-SOC-Investigation](https://github.com/Adisasoc/CVE-2024-49138-SOC-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/Adisasoc/CVE-2024-49138-SOC-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/Adisasoc/CVE-2024-49138-SOC-Investigation">
+- [FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected](https://github.com/FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected)	<img alt="forks" src="https://img.shields.io/github/forks/FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected">	<img alt="stars" src="https://img.shields.io/github/stars/FabianCH20/SOC335---CVE-2024-49138-Exploitation-Detected">
 
 ---
 ## CVE-2024-49117 ()
@@ -4344,6 +4345,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [yuimamur/CVE-2024-4367-hands-on-01](https://github.com/yuimamur/CVE-2024-4367-hands-on-01)	<img alt="forks" src="https://img.shields.io/github/forks/yuimamur/CVE-2024-4367-hands-on-01">	<img alt="stars" src="https://img.shields.io/github/stars/yuimamur/CVE-2024-4367-hands-on-01">
 - [yuimamur/CVE-2024-4367-hands-on](https://github.com/yuimamur/CVE-2024-4367-hands-on)	<img alt="forks" src="https://img.shields.io/github/forks/yuimamur/CVE-2024-4367-hands-on">	<img alt="stars" src="https://img.shields.io/github/stars/yuimamur/CVE-2024-4367-hands-on">
 - [DharmarajPS/pdfjs-cve-2024-4367-poc](https://github.com/DharmarajPS/pdfjs-cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DharmarajPS/pdfjs-cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DharmarajPS/pdfjs-cve-2024-4367-poc">
+- [Qq1111111111/pentest-i021-poc-1789486727](https://github.com/Qq1111111111/pentest-i021-poc-1789486727)	<img alt="forks" src="https://img.shields.io/github/forks/Qq1111111111/pentest-i021-poc-1789486727">	<img alt="stars" src="https://img.shields.io/github/stars/Qq1111111111/pentest-i021-poc-1789486727">
 
 ---
 ## CVE-2024-43639 ()
@@ -6036,7 +6038,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [amoy6228/CVE-2024-36401_Geoserver_RCE_POC](https://github.com/amoy6228/CVE-2024-36401_Geoserver_RCE_POC)	<img alt="forks" src="https://img.shields.io/github/forks/amoy6228/CVE-2024-36401_Geoserver_RCE_POC">	<img alt="stars" src="https://img.shields.io/github/stars/amoy6228/CVE-2024-36401_Geoserver_RCE_POC">
 - [cochaviz/cve-2024-36401-poc](https://github.com/cochaviz/cve-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/cochaviz/cve-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/cochaviz/cve-2024-36401-poc">
 - [lowsuet/CVE-2024-36401](https://github.com/lowsuet/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/lowsuet/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/lowsuet/CVE-2024-36401">
-- [reveravip/Exploit-CVE-2024-36401](https://github.com/reveravip/Exploit-CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/reveravip/Exploit-CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/reveravip/Exploit-CVE-2024-36401">
+- [ArcticDU/Exploit-CVE-2024-36401](https://github.com/ArcticDU/Exploit-CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/ArcticDU/Exploit-CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/ArcticDU/Exploit-CVE-2024-36401">
 - [URJACK2025/CVE-2024-36401](https://github.com/URJACK2025/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/URJACK2025/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/URJACK2025/CVE-2024-36401">
 - [funnyDog896/CVE-2024-36401-WoodpeckerPlugin](https://github.com/funnyDog896/CVE-2024-36401-WoodpeckerPlugin)	<img alt="forks" src="https://img.shields.io/github/forks/funnyDog896/CVE-2024-36401-WoodpeckerPlugin">	<img alt="stars" src="https://img.shields.io/github/stars/funnyDog896/CVE-2024-36401-WoodpeckerPlugin">
 - [azurejelly/cve-2024-36401-win](https://github.com/azurejelly/cve-2024-36401-win)	<img alt="forks" src="https://img.shields.io/github/forks/azurejelly/cve-2024-36401-win">	<img alt="stars" src="https://img.shields.io/github/stars/azurejelly/cve-2024-36401-win">
@@ -6044,6 +6046,7 @@ Versions 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A workaround 
 - [Delt-A/CVE-2024-36401-poc](https://github.com/Delt-A/CVE-2024-36401-poc)	<img alt="forks" src="https://img.shields.io/github/forks/Delt-A/CVE-2024-36401-poc">	<img alt="stars" src="https://img.shields.io/github/stars/Delt-A/CVE-2024-36401-poc">
 - [DanieleGiovanardi2408/cve-2024-36401-geoserver-rce](https://github.com/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce)	<img alt="forks" src="https://img.shields.io/github/forks/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce">	<img alt="stars" src="https://img.shields.io/github/stars/DanieleGiovanardi2408/cve-2024-36401-geoserver-rce">
 - [keelanbrady1011/CVE-2024-36401](https://github.com/keelanbrady1011/CVE-2024-36401)	<img alt="forks" src="https://img.shields.io/github/forks/keelanbrady1011/CVE-2024-36401">	<img alt="stars" src="https://img.shields.io/github/stars/keelanbrady1011/CVE-2024-36401">
+- [raniaemran/cve-2024-36401-security-simulator](https://github.com/raniaemran/cve-2024-36401-security-simulator)	<img alt="forks" src="https://img.shields.io/github/forks/raniaemran/cve-2024-36401-security-simulator">	<img alt="stars" src="https://img.shields.io/github/stars/raniaemran/cve-2024-36401-security-simulator">
 
 ---
 ## CVE-2024-3640 ()
@@ -7614,6 +7617,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [Preacher98/Report-XZ-Utils-CVE-2024-3094](https://github.com/Preacher98/Report-XZ-Utils-CVE-2024-3094)	<img alt="forks" src="https://img.shields.io/github/forks/Preacher98/Report-XZ-Utils-CVE-2024-3094">	<img alt="stars" src="https://img.shields.io/github/stars/Preacher98/Report-XZ-Utils-CVE-2024-3094">
 - [namegabevictoire01-sys/cs50-cybersecurity-final-project](https://github.com/namegabevictoire01-sys/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/namegabevictoire01-sys/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/namegabevictoire01-sys/cs50-cybersecurity-final-project">
 - [mhicairo-hue/cs50-cybersecurity-final-project](https://github.com/mhicairo-hue/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/mhicairo-hue/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/mhicairo-hue/cs50-cybersecurity-final-project">
+- [Michel-DV/xz-utils-backdoor-case-study](https://github.com/Michel-DV/xz-utils-backdoor-case-study)	<img alt="forks" src="https://img.shields.io/github/forks/Michel-DV/xz-utils-backdoor-case-study">	<img alt="stars" src="https://img.shields.io/github/stars/Michel-DV/xz-utils-backdoor-case-study">
 
 ---
 ## CVE-2024-30937 ()
@@ -8719,6 +8723,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-27815 (2024-06-10T21:15:00)
 > An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in tvOS 17.5, visionOS 1.2, iOS 17.5 and iPadOS 17.5, watchOS 10.5, macOS Sonoma 14.5. An app may be able to execute arbitrary code with kernel privileges.
 - [jprx/CVE-2024-27815](https://github.com/jprx/CVE-2024-27815)	<img alt="forks" src="https://img.shields.io/github/forks/jprx/CVE-2024-27815">	<img alt="stars" src="https://img.shields.io/github/stars/jprx/CVE-2024-27815">
+- [nomnomheapnom/CVE-2024-27815](https://github.com/nomnomheapnom/CVE-2024-27815)	<img alt="forks" src="https://img.shields.io/github/forks/nomnomheapnom/CVE-2024-27815">	<img alt="stars" src="https://img.shields.io/github/stars/nomnomheapnom/CVE-2024-27815">
 
 ---
 ## CVE-2024-27808 ()
@@ -12486,7 +12491,7 @@ SecureCore™ for Intel Meteor Lake: from 4.5.1.1 before 4.5.1.15.
 - [Nikopmpm/Fsociety-CVE-2024-0670-CheckMK-LPE](https://github.com/Nikopmpm/Fsociety-CVE-2024-0670-CheckMK-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/Nikopmpm/Fsociety-CVE-2024-0670-CheckMK-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/Nikopmpm/Fsociety-CVE-2024-0670-CheckMK-LPE">
 - [Nikopmpm/nikopmpm.github.io](https://github.com/Nikopmpm/nikopmpm.github.io)	<img alt="forks" src="https://img.shields.io/github/forks/Nikopmpm/nikopmpm.github.io">	<img alt="stars" src="https://img.shields.io/github/stars/Nikopmpm/nikopmpm.github.io">
 - [tralsesec/CVE-2024-0670](https://github.com/tralsesec/CVE-2024-0670)	<img alt="forks" src="https://img.shields.io/github/forks/tralsesec/CVE-2024-0670">	<img alt="stars" src="https://img.shields.io/github/stars/tralsesec/CVE-2024-0670">
-- [dfdxarjy/HTB-NanoCorp-CVE-2024-0670](https://github.com/dfdxarjy/HTB-NanoCorp-CVE-2024-0670)	<img alt="forks" src="https://img.shields.io/github/forks/dfdxarjy/HTB-NanoCorp-CVE-2024-0670">	<img alt="stars" src="https://img.shields.io/github/stars/dfdxarjy/HTB-NanoCorp-CVE-2024-0670">
+- [taktak0x/HTB-NanoCorp-CVE-2024-0670](https://github.com/taktak0x/HTB-NanoCorp-CVE-2024-0670)	<img alt="forks" src="https://img.shields.io/github/forks/taktak0x/HTB-NanoCorp-CVE-2024-0670">	<img alt="stars" src="https://img.shields.io/github/stars/taktak0x/HTB-NanoCorp-CVE-2024-0670">
 
 ---
 ## CVE-2024-06666 ()

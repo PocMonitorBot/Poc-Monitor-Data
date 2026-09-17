@@ -12709,6 +12709,11 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [Live-Hack-CVE/CVE-2022-41406](https://github.com/Live-Hack-CVE/CVE-2022-41406)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41406">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41406">
 
 ---
+## CVE-2022-41404 ()
+> 
+- [fdjy1234/CVE-2022-41404-DoS-Protection](https://github.com/fdjy1234/CVE-2022-41404-DoS-Protection)	<img alt="forks" src="https://img.shields.io/github/forks/fdjy1234/CVE-2022-41404-DoS-Protection">	<img alt="stars" src="https://img.shields.io/github/stars/fdjy1234/CVE-2022-41404-DoS-Protection">
+
+---
 ## CVE-2022-41403 (2022-10-12T18:15:00)
 > OpenCart 3.x Newsletter Custom Popup was discovered to contain a SQL injection vulnerability via the email parameter at index.php?route=extension/module/so_newletter_custom_popup/newsletter.
 - [Live-Hack-CVE/CVE-2022-41403](https://github.com/Live-Hack-CVE/CVE-2022-41403)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41403">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41403">
@@ -12729,6 +12734,7 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [Live-Hack-CVE/CVE-2022-41404](https://github.com/Live-Hack-CVE/CVE-2022-41404)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-41404">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-41404">
 - [anirbala98/CVE-2022-4140](https://github.com/anirbala98/CVE-2022-4140)	<img alt="forks" src="https://img.shields.io/github/forks/anirbala98/CVE-2022-4140">	<img alt="stars" src="https://img.shields.io/github/stars/anirbala98/CVE-2022-4140">
 - [ixSly/CVE-2022-41401](https://github.com/ixSly/CVE-2022-41401)	<img alt="forks" src="https://img.shields.io/github/forks/ixSly/CVE-2022-41401">	<img alt="stars" src="https://img.shields.io/github/stars/ixSly/CVE-2022-41401">
+- [fdjy1234/CVE-2022-41404-DoS-Protection](https://github.com/fdjy1234/CVE-2022-41404-DoS-Protection)	<img alt="forks" src="https://img.shields.io/github/forks/fdjy1234/CVE-2022-41404-DoS-Protection">	<img alt="stars" src="https://img.shields.io/github/stars/fdjy1234/CVE-2022-41404-DoS-Protection">
 
 ---
 ## CVE-2022-41396 (2022-11-15T03:15:00)
@@ -18186,6 +18192,7 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [mutur4/UnisocBootROMs](https://github.com/mutur4/UnisocBootROMs)	<img alt="forks" src="https://img.shields.io/github/forks/mutur4/UnisocBootROMs">	<img alt="stars" src="https://img.shields.io/github/stars/mutur4/UnisocBootROMs">
 - [xun404/spd_dump-macos](https://github.com/xun404/spd_dump-macos)	<img alt="forks" src="https://img.shields.io/github/forks/xun404/spd_dump-macos">	<img alt="stars" src="https://img.shields.io/github/stars/xun404/spd_dump-macos">
 - [Gadorach/vankyo-s30-bootloader-unlock](https://github.com/Gadorach/vankyo-s30-bootloader-unlock)	<img alt="forks" src="https://img.shields.io/github/forks/Gadorach/vankyo-s30-bootloader-unlock">	<img alt="stars" src="https://img.shields.io/github/stars/Gadorach/vankyo-s30-bootloader-unlock">
+- [redzrush101/zte-blade-v40-vita-unlock](https://github.com/redzrush101/zte-blade-v40-vita-unlock)	<img alt="forks" src="https://img.shields.io/github/forks/redzrush101/zte-blade-v40-vita-unlock">	<img alt="stars" src="https://img.shields.io/github/stars/redzrush101/zte-blade-v40-vita-unlock">
 
 ---
 ## CVE-2022-38691 ()
@@ -37497,6 +37504,11 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 ## CVE-2022-22718 ()
 > 
 - [ahmetfurkans/CVE-2022-22718](https://github.com/ahmetfurkans/CVE-2022-22718)	<img alt="forks" src="https://img.shields.io/github/forks/ahmetfurkans/CVE-2022-22718">	<img alt="stars" src="https://img.shields.io/github/stars/ahmetfurkans/CVE-2022-22718">
+
+---
+## CVE-2022-22715 ()
+> 
+- [vportal/CVE-2022-22715](https://github.com/vportal/CVE-2022-22715)	<img alt="forks" src="https://img.shields.io/github/forks/vportal/CVE-2022-22715">	<img alt="stars" src="https://img.shields.io/github/stars/vportal/CVE-2022-22715">
 
 ---
 ## CVE-2022-2271 (2022-09-05T13:15:00)

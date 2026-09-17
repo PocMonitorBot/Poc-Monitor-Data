@@ -2234,6 +2234,7 @@
 ## CVE-2021-43287 ()
 > 
 - [Wrin9/CVE-2021-43287](https://github.com/Wrin9/CVE-2021-43287)	<img alt="forks" src="https://img.shields.io/github/forks/Wrin9/CVE-2021-43287">	<img alt="stars" src="https://img.shields.io/github/stars/Wrin9/CVE-2021-43287">
+- [HigorGabrielDCF/GoCD_PoC_Supply_Chain_Attack](https://github.com/HigorGabrielDCF/GoCD_PoC_Supply_Chain_Attack)	<img alt="forks" src="https://img.shields.io/github/forks/HigorGabrielDCF/GoCD_PoC_Supply_Chain_Attack">	<img alt="stars" src="https://img.shields.io/github/stars/HigorGabrielDCF/GoCD_PoC_Supply_Chain_Attack">
 
 ---
 ## CVE-2021-43267 ()
@@ -7030,6 +7031,11 @@
 - [Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE](https://github.com/Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE">
 
 ---
+## CVE-2021-35394 ()
+> 
+- [graphworlok/cve-2021-35394-ecosystem](https://github.com/graphworlok/cve-2021-35394-ecosystem)	<img alt="forks" src="https://img.shields.io/github/forks/graphworlok/cve-2021-35394-ecosystem">	<img alt="stars" src="https://img.shields.io/github/stars/graphworlok/cve-2021-35394-ecosystem">
+
+---
 ## CVE-2021-35368 (2021-11-05T18:15:00)
 > OWASP ModSecurity Core Rule Set 3.1.x before 3.1.2, 3.2.x before 3.2.1, and 3.3.x before 3.3.2 is affected by a Request Body Bypass via a trailing pathname.
 - [Live-Hack-CVE/CVE-2021-35368](https://github.com/Live-Hack-CVE/CVE-2021-35368)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-35368">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-35368">
@@ -9638,6 +9644,7 @@
 - [rdana55/CVE-2021-29447-PoC](https://github.com/rdana55/CVE-2021-29447-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/rdana55/CVE-2021-29447-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/rdana55/CVE-2021-29447-PoC">
 - [danilo1992-sys/CVE-2021-29447](https://github.com/danilo1992-sys/CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/danilo1992-sys/CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/danilo1992-sys/CVE-2021-29447">
 - [Daemon-AT4/HTB-Lab-Writeups](https://github.com/Daemon-AT4/HTB-Lab-Writeups)	<img alt="forks" src="https://img.shields.io/github/forks/Daemon-AT4/HTB-Lab-Writeups">	<img alt="stars" src="https://img.shields.io/github/stars/Daemon-AT4/HTB-Lab-Writeups">
+- [Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447](https://github.com/Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447)	<img alt="forks" src="https://img.shields.io/github/forks/Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447">	<img alt="stars" src="https://img.shields.io/github/stars/Kashyapghodasara/Public_Exploit-1--Wordpress-CVE-2021-29447">
 
 ---
 ## CVE-2021-29442 (2021-04-27T21:15:00)
