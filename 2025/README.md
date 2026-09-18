@@ -474,6 +474,7 @@
 - [spawn451/CVE-2025-8061-Exploit](https://github.com/spawn451/CVE-2025-8061-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/spawn451/CVE-2025-8061-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/spawn451/CVE-2025-8061-Exploit">
 - [segura2010/lenovo-dispatcher-poc](https://github.com/segura2010/lenovo-dispatcher-poc)	<img alt="forks" src="https://img.shields.io/github/forks/segura2010/lenovo-dispatcher-poc">	<img alt="stars" src="https://img.shields.io/github/stars/segura2010/lenovo-dispatcher-poc">
 - [vxqs/Lenovo-CVE-2025-8061](https://github.com/vxqs/Lenovo-CVE-2025-8061)	<img alt="forks" src="https://img.shields.io/github/forks/vxqs/Lenovo-CVE-2025-8061">	<img alt="stars" src="https://img.shields.io/github/stars/vxqs/Lenovo-CVE-2025-8061">
+- [uLl0a/MSRMapper](https://github.com/uLl0a/MSRMapper)	<img alt="forks" src="https://img.shields.io/github/forks/uLl0a/MSRMapper">	<img alt="stars" src="https://img.shields.io/github/stars/uLl0a/MSRMapper">
 
 ---
 ## CVE-2025-8045 ()
@@ -3658,6 +3659,7 @@
 - [DiegoRivas1/htb-labs-connected](https://github.com/DiegoRivas1/htb-labs-connected)	<img alt="forks" src="https://img.shields.io/github/forks/DiegoRivas1/htb-labs-connected">	<img alt="stars" src="https://img.shields.io/github/stars/DiegoRivas1/htb-labs-connected">
 - [r3vpwnx/CVE-2025-57819](https://github.com/r3vpwnx/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-57819">
 - [iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX)	<img alt="forks" src="https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX">	<img alt="stars" src="https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX">
+- [shivammittal2403/cve-2025-57819-freepbx-range](https://github.com/shivammittal2403/cve-2025-57819-freepbx-range)	<img alt="forks" src="https://img.shields.io/github/forks/shivammittal2403/cve-2025-57819-freepbx-range">	<img alt="stars" src="https://img.shields.io/github/stars/shivammittal2403/cve-2025-57819-freepbx-range">
 
 ---
 ## CVE-2025-5781 ()
@@ -8992,6 +8994,7 @@
 ## CVE-2025-3194 ()
 > 
 - [LoserLab/bigint-buffer-safe](https://github.com/LoserLab/bigint-buffer-safe)	<img alt="forks" src="https://img.shields.io/github/forks/LoserLab/bigint-buffer-safe">	<img alt="stars" src="https://img.shields.io/github/stars/LoserLab/bigint-buffer-safe">
+- [disley15-collab/bigint-buffer-js](https://github.com/disley15-collab/bigint-buffer-js)	<img alt="forks" src="https://img.shields.io/github/forks/disley15-collab/bigint-buffer-js">	<img alt="stars" src="https://img.shields.io/github/stars/disley15-collab/bigint-buffer-js">
 
 ---
 ## CVE-2025-31931 ()
@@ -10764,6 +10767,7 @@
 - [xiaoqiMikko/tomcat85-check](https://github.com/xiaoqiMikko/tomcat85-check)	<img alt="forks" src="https://img.shields.io/github/forks/xiaoqiMikko/tomcat85-check">	<img alt="stars" src="https://img.shields.io/github/stars/xiaoqiMikko/tomcat85-check">
 - [SebastianMautner/nuclei-CVE-2025-24813](https://github.com/SebastianMautner/nuclei-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/SebastianMautner/nuclei-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/SebastianMautner/nuclei-CVE-2025-24813">
 - [e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-24813](https://github.com/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-24813">
+- [Affapple/CVE-2025-24813-POC](https://github.com/Affapple/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Affapple/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Affapple/CVE-2025-24813-POC">
 
 ---
 ## CVE-2025-24801 ()
@@ -11424,6 +11428,7 @@
 - [Qingizi7/cve-2025-21479_iqooneo8](https://github.com/Qingizi7/cve-2025-21479_iqooneo8)	<img alt="forks" src="https://img.shields.io/github/forks/Qingizi7/cve-2025-21479_iqooneo8">	<img alt="stars" src="https://img.shields.io/github/stars/Qingizi7/cve-2025-21479_iqooneo8">
 - [xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479](https://github.com/xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479">
 - [7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479](https://github.com/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">
+- [RamenFast/zenfone9-root](https://github.com/RamenFast/zenfone9-root)	<img alt="forks" src="https://img.shields.io/github/forks/RamenFast/zenfone9-root">	<img alt="stars" src="https://img.shields.io/github/stars/RamenFast/zenfone9-root">
 
 ---
 ## CVE-2025-21420 ()

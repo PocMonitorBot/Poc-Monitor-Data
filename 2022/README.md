@@ -4611,6 +4611,11 @@ Here we only need to move the of_node_put() before the check.
 - [Live-Hack-CVE/CVE-2022-45444](https://github.com/Live-Hack-CVE/CVE-2022-45444)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45444">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45444">
 
 ---
+## CVE-2022-45442 ()
+> 
+- [boost-legal/refile](https://github.com/boost-legal/refile)	<img alt="forks" src="https://img.shields.io/github/forks/boost-legal/refile">	<img alt="stars" src="https://img.shields.io/github/stars/boost-legal/refile">
+
+---
 ## CVE-2022-45441 (2023-02-07T02:15:00)
 > A cross-site scripting (XSS) vulnerability in Zyxel NBG-418N v2 firmware versions prior to V1.00(AARP.13)C0, which could allow an attacker to store malicious scripts in the Logs page of the GUI on a vulnerable device. A successful XSS attack could force an authenticated user to execute the stored malicious scripts and then result in a denial-of-service (DoS) condition when the user visits the Logs page of the GUI on the device.
 - [Live-Hack-CVE/CVE-2022-45441](https://github.com/Live-Hack-CVE/CVE-2022-45441)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-45441">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-45441">
