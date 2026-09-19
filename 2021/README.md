@@ -1683,6 +1683,7 @@
 - [Wafeeq-Fareed/log4shell-exploitation-lab](https://github.com/Wafeeq-Fareed/log4shell-exploitation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Wafeeq-Fareed/log4shell-exploitation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Wafeeq-Fareed/log4shell-exploitation-lab">
 - [KalidouLabghaly/log4shell-exploitation-detection](https://github.com/KalidouLabghaly/log4shell-exploitation-detection)	<img alt="forks" src="https://img.shields.io/github/forks/KalidouLabghaly/log4shell-exploitation-detection">	<img alt="stars" src="https://img.shields.io/github/stars/KalidouLabghaly/log4shell-exploitation-detection">
 - [rh-rahulshetty/log4shell-CVE-2021-44228](https://github.com/rh-rahulshetty/log4shell-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/rh-rahulshetty/log4shell-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/rh-rahulshetty/log4shell-CVE-2021-44228">
+- [mcpmark-eval-liuhezi/log4shell-audit](https://github.com/mcpmark-eval-liuhezi/log4shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -1957,6 +1958,7 @@
 - [kenuosec/grafanaExp](https://github.com/kenuosec/grafanaExp)	<img alt="forks" src="https://img.shields.io/github/forks/kenuosec/grafanaExp">	<img alt="stars" src="https://img.shields.io/github/stars/kenuosec/grafanaExp">
 - [Lim-ahmin/CVE-2021-43798](https://github.com/Lim-ahmin/CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Lim-ahmin/CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Lim-ahmin/CVE-2021-43798">
 - [sbimoxa/cve-2021-43798-lab](https://github.com/sbimoxa/cve-2021-43798-lab)	<img alt="forks" src="https://img.shields.io/github/forks/sbimoxa/cve-2021-43798-lab">	<img alt="stars" src="https://img.shields.io/github/stars/sbimoxa/cve-2021-43798-lab">
+- [Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798](https://github.com/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)

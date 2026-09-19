@@ -7653,6 +7653,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-30804 ()
 > 
 - [ekfkawl/CVE-2024-30804](https://github.com/ekfkawl/CVE-2024-30804)	<img alt="forks" src="https://img.shields.io/github/forks/ekfkawl/CVE-2024-30804">	<img alt="stars" src="https://img.shields.io/github/stars/ekfkawl/CVE-2024-30804">
+- [Geozstevenzz/CVE-2024-30804](https://github.com/Geozstevenzz/CVE-2024-30804)	<img alt="forks" src="https://img.shields.io/github/forks/Geozstevenzz/CVE-2024-30804">	<img alt="stars" src="https://img.shields.io/github/stars/Geozstevenzz/CVE-2024-30804">
 
 ---
 ## CVE-2024-30737 (2024-04-10T05:15:00)
@@ -8599,6 +8600,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-28157 ()
 > 
 - [shinigami-777/PoC_CVE-2024-28157](https://github.com/shinigami-777/PoC_CVE-2024-28157)	<img alt="forks" src="https://img.shields.io/github/forks/shinigami-777/PoC_CVE-2024-28157">	<img alt="stars" src="https://img.shields.io/github/stars/shinigami-777/PoC_CVE-2024-28157">
+- [Jayesh-Dev21/PoC_CVE-2024-28157](https://github.com/Jayesh-Dev21/PoC_CVE-2024-28157)	<img alt="forks" src="https://img.shields.io/github/forks/Jayesh-Dev21/PoC_CVE-2024-28157">	<img alt="stars" src="https://img.shields.io/github/stars/Jayesh-Dev21/PoC_CVE-2024-28157">
 
 ---
 ## CVE-2024-28116 ()
