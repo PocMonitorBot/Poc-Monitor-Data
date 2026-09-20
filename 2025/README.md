@@ -3267,7 +3267,7 @@
 - [mananispiwpiw/CVE-2025-59528-PoC](https://github.com/mananispiwpiw/CVE-2025-59528-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mananispiwpiw/CVE-2025-59528-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mananispiwpiw/CVE-2025-59528-PoC">
 - [karimelsheikh1/HTB-Silentium-Writeup](https://github.com/karimelsheikh1/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Silentium-Writeup">
 - [honney336/CVE-2025-58434_CVE-2025-59528](https://github.com/honney336/CVE-2025-58434_CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/honney336/CVE-2025-58434_CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/honney336/CVE-2025-58434_CVE-2025-59528">
-- [r3nsi15/Flowise-RCE-CVE-2025-59528](https://github.com/r3nsi15/Flowise-RCE-CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/Flowise-RCE-CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/Flowise-RCE-CVE-2025-59528">
+- [arensballiu/Flowise-RCE-CVE-2025-59528](https://github.com/arensballiu/Flowise-RCE-CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/arensballiu/Flowise-RCE-CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/arensballiu/Flowise-RCE-CVE-2025-59528">
 - [CVETeam/FlowiseAI-Critical-KillChain](https://github.com/CVETeam/FlowiseAI-Critical-KillChain)	<img alt="forks" src="https://img.shields.io/github/forks/CVETeam/FlowiseAI-Critical-KillChain">	<img alt="stars" src="https://img.shields.io/github/stars/CVETeam/FlowiseAI-Critical-KillChain">
 - [NymiiTechTips/CVE-2025-59528](https://github.com/NymiiTechTips/CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/NymiiTechTips/CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/NymiiTechTips/CVE-2025-59528">
 - [0xDaeras/Flowise-CVE-2025-58434-Chain-59528](https://github.com/0xDaeras/Flowise-CVE-2025-58434-Chain-59528)	<img alt="forks" src="https://img.shields.io/github/forks/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">	<img alt="stars" src="https://img.shields.io/github/stars/0xDaeras/Flowise-CVE-2025-58434-Chain-59528">
@@ -3543,7 +3543,7 @@
 - [kartik2005221/CVE-2025-58434-AND-59528-POC](https://github.com/kartik2005221/CVE-2025-58434-AND-59528-POC)	<img alt="forks" src="https://img.shields.io/github/forks/kartik2005221/CVE-2025-58434-AND-59528-POC">	<img alt="stars" src="https://img.shields.io/github/stars/kartik2005221/CVE-2025-58434-AND-59528-POC">
 - [honney336/CVE-2025-58434_CVE-2025-59528](https://github.com/honney336/CVE-2025-58434_CVE-2025-59528)	<img alt="forks" src="https://img.shields.io/github/forks/honney336/CVE-2025-58434_CVE-2025-59528">	<img alt="stars" src="https://img.shields.io/github/stars/honney336/CVE-2025-58434_CVE-2025-59528">
 - [r3nsi15/Flowise-CVE-2025-58434-PasswordReset](https://github.com/r3nsi15/Flowise-CVE-2025-58434-PasswordReset)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">
-- [r3nsi15/Flowise-CVE-2025-58434-PasswordReset](https://github.com/r3nsi15/Flowise-CVE-2025-58434-PasswordReset)	<img alt="forks" src="https://img.shields.io/github/forks/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">	<img alt="stars" src="https://img.shields.io/github/stars/r3nsi15/Flowise-CVE-2025-58434-PasswordReset">
+- [arensballiu/Flowise-CVE-2025-58434-PasswordReset](https://github.com/arensballiu/Flowise-CVE-2025-58434-PasswordReset)	<img alt="forks" src="https://img.shields.io/github/forks/arensballiu/Flowise-CVE-2025-58434-PasswordReset">	<img alt="stars" src="https://img.shields.io/github/stars/arensballiu/Flowise-CVE-2025-58434-PasswordReset">
 - [CVETeam/FlowiseAI-Critical-KillChain](https://github.com/CVETeam/FlowiseAI-Critical-KillChain)	<img alt="forks" src="https://img.shields.io/github/forks/CVETeam/FlowiseAI-Critical-KillChain">	<img alt="stars" src="https://img.shields.io/github/stars/CVETeam/FlowiseAI-Critical-KillChain">
 - [SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise](https://github.com/SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise)	<img alt="forks" src="https://img.shields.io/github/forks/SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise">	<img alt="stars" src="https://img.shields.io/github/stars/SteamPunk424/CVE-2025-58434-Unauthenticated-Password-Reset-Flowwise">
 - [mananispiwpiw/CVE-2025-58434-PoC](https://github.com/mananispiwpiw/CVE-2025-58434-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mananispiwpiw/CVE-2025-58434-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mananispiwpiw/CVE-2025-58434-PoC">
@@ -5029,6 +5029,8 @@
 - [Bluex707/React2Shell-CVE-2025-55182-Exploit](https://github.com/Bluex707/React2Shell-CVE-2025-55182-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Bluex707/React2Shell-CVE-2025-55182-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Bluex707/React2Shell-CVE-2025-55182-Exploit">
 - [r3vpwnx/CVE-2025-55182](https://github.com/r3vpwnx/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-55182">
 - [iapetus12/hackcar-writeup](https://github.com/iapetus12/hackcar-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/iapetus12/hackcar-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/iapetus12/hackcar-writeup">
+- [abhaybansal16/cve-2025-55182-lab](https://github.com/abhaybansal16/cve-2025-55182-lab)	<img alt="forks" src="https://img.shields.io/github/forks/abhaybansal16/cve-2025-55182-lab">	<img alt="stars" src="https://img.shields.io/github/stars/abhaybansal16/cve-2025-55182-lab">
+- [mythicemissarymall/zuvmwbnt](https://github.com/mythicemissarymall/zuvmwbnt)	<img alt="forks" src="https://img.shields.io/github/forks/mythicemissarymall/zuvmwbnt">	<img alt="stars" src="https://img.shields.io/github/stars/mythicemissarymall/zuvmwbnt">
 
 ---
 ## CVE-2025-55177 ()
@@ -11122,6 +11124,11 @@
 ## CVE-2025-23167 ()
 > 
 - [abhisek3122/CVE-2025-23167](https://github.com/abhisek3122/CVE-2025-23167)	<img alt="forks" src="https://img.shields.io/github/forks/abhisek3122/CVE-2025-23167">	<img alt="stars" src="https://img.shields.io/github/stars/abhisek3122/CVE-2025-23167">
+
+---
+## CVE-2025-23134 ()
+> 
+- [thrilokh-q123/CVE-2025-23134_fixes_code](https://github.com/thrilokh-q123/CVE-2025-23134_fixes_code)	<img alt="forks" src="https://img.shields.io/github/forks/thrilokh-q123/CVE-2025-23134_fixes_code">	<img alt="stars" src="https://img.shields.io/github/stars/thrilokh-q123/CVE-2025-23134_fixes_code">
 
 ---
 ## CVE-2025-23121 ()

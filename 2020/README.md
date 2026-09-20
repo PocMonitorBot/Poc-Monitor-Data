@@ -6898,6 +6898,7 @@
 - [j4k0m/loader-CVE-2020-14343](https://github.com/j4k0m/loader-CVE-2020-14343)	<img alt="forks" src="https://img.shields.io/github/forks/j4k0m/loader-CVE-2020-14343">	<img alt="stars" src="https://img.shields.io/github/stars/j4k0m/loader-CVE-2020-14343">
 - [sijie52/yasa-cve-2020-14343](https://github.com/sijie52/yasa-cve-2020-14343)	<img alt="forks" src="https://img.shields.io/github/forks/sijie52/yasa-cve-2020-14343">	<img alt="stars" src="https://img.shields.io/github/stars/sijie52/yasa-cve-2020-14343">
 - [seal-sec-demo-2/Python-Example](https://github.com/seal-sec-demo-2/Python-Example)	<img alt="forks" src="https://img.shields.io/github/forks/seal-sec-demo-2/Python-Example">	<img alt="stars" src="https://img.shields.io/github/stars/seal-sec-demo-2/Python-Example">
+- [saina15/cve-2020-14343-lab](https://github.com/saina15/cve-2020-14343-lab)	<img alt="forks" src="https://img.shields.io/github/forks/saina15/cve-2020-14343-lab">	<img alt="stars" src="https://img.shields.io/github/stars/saina15/cve-2020-14343-lab">
 
 ---
 ## CVE-2020-14334 (2020-07-31T13:15:00)

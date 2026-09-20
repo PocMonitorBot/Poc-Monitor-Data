@@ -1324,6 +1324,7 @@ This issue affects Nexus Repository: from 3.0.0 through 3.72.0.
 ## CVE-2024-57521 ()
 > 
 - [mrlihd/CVE-2024-57521-SQL-Injection-PoC](https://github.com/mrlihd/CVE-2024-57521-SQL-Injection-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/mrlihd/CVE-2024-57521-SQL-Injection-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/mrlihd/CVE-2024-57521-SQL-Injection-PoC">
+- [xs2024770/CVE-2024-57521-RuoYi-SQLi](https://github.com/xs2024770/CVE-2024-57521-RuoYi-SQLi)	<img alt="forks" src="https://img.shields.io/github/forks/xs2024770/CVE-2024-57521-RuoYi-SQLi">	<img alt="stars" src="https://img.shields.io/github/stars/xs2024770/CVE-2024-57521-RuoYi-SQLi">
 
 ---
 ## CVE-2024-57514 ()
@@ -5855,6 +5856,7 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [Spydomain/CVE-2024-37054-MLflow-reverse-shell](https://github.com/Spydomain/CVE-2024-37054-MLflow-reverse-shell)	<img alt="forks" src="https://img.shields.io/github/forks/Spydomain/CVE-2024-37054-MLflow-reverse-shell">	<img alt="stars" src="https://img.shields.io/github/stars/Spydomain/CVE-2024-37054-MLflow-reverse-shell">
 - [vanhari/CVE-2024-37054](https://github.com/vanhari/CVE-2024-37054)	<img alt="forks" src="https://img.shields.io/github/forks/vanhari/CVE-2024-37054">	<img alt="stars" src="https://img.shields.io/github/stars/vanhari/CVE-2024-37054">
 - [Cosm3No1de/SmartHire---Hack-The-Box-WriteUp](https://github.com/Cosm3No1de/SmartHire---Hack-The-Box-WriteUp)	<img alt="forks" src="https://img.shields.io/github/forks/Cosm3No1de/SmartHire---Hack-The-Box-WriteUp">	<img alt="stars" src="https://img.shields.io/github/stars/Cosm3No1de/SmartHire---Hack-The-Box-WriteUp">
+- [ClearLotus-git/CVE-2024-37054-PoC](https://github.com/ClearLotus-git/CVE-2024-37054-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ClearLotus-git/CVE-2024-37054-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ClearLotus-git/CVE-2024-37054-PoC">
 
 ---
 ## CVE-2024-37051 (2024-06-10T16:15:00)
