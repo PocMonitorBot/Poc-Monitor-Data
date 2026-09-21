@@ -7454,6 +7454,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 ## CVE-2024-31218 (2024-04-05T15:15:00)
 > Webhood is a self-hosted URL scanner used analyzing phishing and malicious sites. Webhood's backend container images in versions 0.9.0 and earlier are subject to Missing Authentication for Critical Function vulnerability. This vulnerability allows an unauthenticated attacker to send a HTTP request to the database (Pocketbase) admin API to create an admin account. The Pocketbase admin API does not check for authentication/authorization when creating an admin account when no admin accounts have been added. In its default deployment, Webhood does not create a database admin account. Therefore, unless users have manually created an admin account in the database, an admin account will not exist in the deployment and the deployment is vulnerable. Versions starting from 0.9.1 are patched. The patch creates a randomly generated admin account if admin accounts have not already been created i.e. the vulnerability is exploitable in the deployment. As a workaround, users can disable access to URL path starting with `/api/admins` entirely. With this workaround, the vulnerability is not exploitable via network.
 - [Chokopikkk/CVE-2024-31218_exploit](https://github.com/Chokopikkk/CVE-2024-31218_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Chokopikkk/CVE-2024-31218_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Chokopikkk/CVE-2024-31218_exploit">
+- [chandrimanath04-hue/CVE-2024-31218-WEBHOOD-LAB](https://github.com/chandrimanath04-hue/CVE-2024-31218-WEBHOOD-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/chandrimanath04-hue/CVE-2024-31218-WEBHOOD-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/chandrimanath04-hue/CVE-2024-31218-WEBHOOD-LAB">
 
 ---
 ## CVE-2024-31211 (2024-04-04T23:15:00)
@@ -8690,6 +8691,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [gh-ost00/CVE-2024-27954](https://github.com/gh-ost00/CVE-2024-27954)	<img alt="forks" src="https://img.shields.io/github/forks/gh-ost00/CVE-2024-27954">	<img alt="stars" src="https://img.shields.io/github/stars/gh-ost00/CVE-2024-27954">
 - [Quantum-Hacker/CVE-2024-27954](https://github.com/Quantum-Hacker/CVE-2024-27954)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-27954">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-27954">
 - [r0otk3r/CVE-2024-27954](https://github.com/r0otk3r/CVE-2024-27954)	<img alt="forks" src="https://img.shields.io/github/forks/r0otk3r/CVE-2024-27954">	<img alt="stars" src="https://img.shields.io/github/stars/r0otk3r/CVE-2024-27954">
+- [babydessy/CVE-2024-27954](https://github.com/babydessy/CVE-2024-27954)	<img alt="forks" src="https://img.shields.io/github/forks/babydessy/CVE-2024-27954">	<img alt="stars" src="https://img.shields.io/github/stars/babydessy/CVE-2024-27954">
 
 ---
 ## CVE-2024-27914 ()
@@ -8802,7 +8804,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 > A Server-Side Request Forgery (SSRF) in pictureproxy.php of ChatGPT commit f9f4bbc allows attackers to force the application to make arbitrary requests via injection of crafted URLs into the urlparameter.
 - [Quantum-Hacker/CVE-2024-27564](https://github.com/Quantum-Hacker/CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-27564">
 - [MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564](https://github.com/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564">
-- [Quantum-Hacker/CVE-2024-27564](https://github.com/Quantum-Hacker/CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-27564">
+- [chsxthwik/CVE-2024-27564](https://github.com/chsxthwik/CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/chsxthwik/CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/chsxthwik/CVE-2024-27564">
 - [chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564](https://github.com/chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564">
 
 ---
@@ -10943,6 +10945,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [OmarMahmoud1024/tryhackme-monikerlink-writeup](https://github.com/OmarMahmoud1024/tryhackme-monikerlink-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/OmarMahmoud1024/tryhackme-monikerlink-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/OmarMahmoud1024/tryhackme-monikerlink-writeup">
 - [yfelipecruvinel/tryhackme-moniker-link](https://github.com/yfelipecruvinel/tryhackme-moniker-link)	<img alt="forks" src="https://img.shields.io/github/forks/yfelipecruvinel/tryhackme-moniker-link">	<img alt="stars" src="https://img.shields.io/github/stars/yfelipecruvinel/tryhackme-moniker-link">
 - [shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup](https://github.com/shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/shauryarathore357-hub/thm-Moniker-Link-cve-2024-21413-writeup">
+- [PCzBuilds/monikerlink-cve-2024-21413-writeup](https://github.com/PCzBuilds/monikerlink-cve-2024-21413-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/PCzBuilds/monikerlink-cve-2024-21413-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/PCzBuilds/monikerlink-cve-2024-21413-writeup">
 
 ---
 ## CVE-2024-21412 (2024-02-13T18:15:00)
