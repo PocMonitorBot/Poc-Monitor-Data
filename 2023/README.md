@@ -1647,6 +1647,7 @@ Users are recommended to upgrade to version 18.12.10
 > Type Confusion in V8 in Google Chrome prior to 116.0.5845.179 allowed a remote attacker to execute arbitrary code via a crafted HTML page. (Chromium security severity: High)
 - [buptsb/CVE-2023-4762](https://github.com/buptsb/CVE-2023-4762)	<img alt="forks" src="https://img.shields.io/github/forks/buptsb/CVE-2023-4762">	<img alt="stars" src="https://img.shields.io/github/stars/buptsb/CVE-2023-4762">
 - [sherlocksecurity/CVE-2023-4762-Code-Review](https://github.com/sherlocksecurity/CVE-2023-4762-Code-Review)	<img alt="forks" src="https://img.shields.io/github/forks/sherlocksecurity/CVE-2023-4762-Code-Review">	<img alt="stars" src="https://img.shields.io/github/stars/sherlocksecurity/CVE-2023-4762-Code-Review">
+- [zined/CVE-2023-4762](https://github.com/zined/CVE-2023-4762)	<img alt="forks" src="https://img.shields.io/github/forks/zined/CVE-2023-4762">	<img alt="stars" src="https://img.shields.io/github/stars/zined/CVE-2023-4762">
 
 ---
 ## CVE-2023-47564 (2024-02-02T16:15:00)
@@ -7514,8 +7515,8 @@ The specific flaw exists within the Toolgate component. The issue results from t
 - [overgrowncarrot1/CVE-2023-27163](https://github.com/overgrowncarrot1/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/overgrowncarrot1/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/overgrowncarrot1/CVE-2023-27163">
 - [ThickCoco/CVE-2023-27163-POC](https://github.com/ThickCoco/CVE-2023-27163-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ThickCoco/CVE-2023-27163-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ThickCoco/CVE-2023-27163-POC">
 - [davuXVI/CVE-2023-27163](https://github.com/davuXVI/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/davuXVI/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/davuXVI/CVE-2023-27163">
-- [HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53](https://github.com/HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53)	<img alt="forks" src="https://img.shields.io/github/forks/HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53">	<img alt="stars" src="https://img.shields.io/github/stars/HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53">
-- [rvizx/CVE-2023-27163](https://github.com/rvizx/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/rvizx/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/rvizx/CVE-2023-27163">
+- [hhesenjan/CVE-2023-27163-AND-Mailtrail-v0.53](https://github.com/hhesenjan/CVE-2023-27163-AND-Mailtrail-v0.53)	<img alt="forks" src="https://img.shields.io/github/forks/hhesenjan/CVE-2023-27163-AND-Mailtrail-v0.53">	<img alt="stars" src="https://img.shields.io/github/stars/hhesenjan/CVE-2023-27163-AND-Mailtrail-v0.53">
+- [rvzsec/CVE-2023-27163](https://github.com/rvzsec/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/rvzsec/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/rvzsec/CVE-2023-27163">
 - [thomas-osgood/CVE-2023-27163](https://github.com/thomas-osgood/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/thomas-osgood/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/thomas-osgood/CVE-2023-27163">
 - [cowsecurity/CVE-2023-27163](https://github.com/cowsecurity/CVE-2023-27163)	<img alt="forks" src="https://img.shields.io/github/forks/cowsecurity/CVE-2023-27163">	<img alt="stars" src="https://img.shields.io/github/stars/cowsecurity/CVE-2023-27163">
 - [samh4cks/CVE-2023-27163-InternalProber](https://github.com/samh4cks/CVE-2023-27163-InternalProber)	<img alt="forks" src="https://img.shields.io/github/forks/samh4cks/CVE-2023-27163-InternalProber">	<img alt="stars" src="https://img.shields.io/github/stars/samh4cks/CVE-2023-27163-InternalProber">
@@ -13128,6 +13129,7 @@ An improper privilege management in the AMD Radeon™ Graphics driver may allow
 ## CVE-2023-20593 ()
 > 
 - [sbaresearch/stop-zenbleed-win](https://github.com/sbaresearch/stop-zenbleed-win)	<img alt="forks" src="https://img.shields.io/github/forks/sbaresearch/stop-zenbleed-win">	<img alt="stars" src="https://img.shields.io/github/stars/sbaresearch/stop-zenbleed-win">
+- [jiegec/LoongBleed](https://github.com/jiegec/LoongBleed)	<img alt="forks" src="https://img.shields.io/github/forks/jiegec/LoongBleed">	<img alt="stars" src="https://img.shields.io/github/stars/jiegec/LoongBleed">
 
 ---
 ## CVE-2023-20573 (2024-01-11T14:15:00)

@@ -2507,6 +2507,11 @@
 - [t4e-3/CVE-2025-63296](https://github.com/t4e-3/CVE-2025-63296)	<img alt="forks" src="https://img.shields.io/github/forks/t4e-3/CVE-2025-63296">	<img alt="stars" src="https://img.shields.io/github/stars/t4e-3/CVE-2025-63296">
 
 ---
+## CVE-2025-6325 ()
+> 
+- [JohenLastGen-JLG/CVE-2025-6325_CVE-2025-6327](https://github.com/JohenLastGen-JLG/CVE-2025-6325_CVE-2025-6327)	<img alt="forks" src="https://img.shields.io/github/forks/JohenLastGen-JLG/CVE-2025-6325_CVE-2025-6327">	<img alt="stars" src="https://img.shields.io/github/stars/JohenLastGen-JLG/CVE-2025-6325_CVE-2025-6327">
+
+---
 ## CVE-2025-62950 ()
 > 
 - [lorenzocamilli/CVE-2025-62950-PoC](https://github.com/lorenzocamilli/CVE-2025-62950-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzocamilli/CVE-2025-62950-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzocamilli/CVE-2025-62950-PoC">
@@ -11439,6 +11444,7 @@
 - [xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479](https://github.com/xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/xjoker/lenovo_y700_tb320fc_on_CVE-2025-21479">
 - [7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479](https://github.com/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">
 - [RamenFast/zenfone9-root](https://github.com/RamenFast/zenfone9-root)	<img alt="forks" src="https://img.shields.io/github/forks/RamenFast/zenfone9-root">	<img alt="stars" src="https://img.shields.io/github/stars/RamenFast/zenfone9-root">
+- [xianwan1314/cve-2025-21479-iqoo11pro](https://github.com/xianwan1314/cve-2025-21479-iqoo11pro)	<img alt="forks" src="https://img.shields.io/github/forks/xianwan1314/cve-2025-21479-iqoo11pro">	<img alt="stars" src="https://img.shields.io/github/stars/xianwan1314/cve-2025-21479-iqoo11pro">
 
 ---
 ## CVE-2025-21420 ()
