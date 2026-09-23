@@ -8335,6 +8335,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [K3ysTr0K3R/CVE-2024-29269-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-29269-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-29269-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-29269-EXPLOIT">
 - [hack-with-rohit/CVE-2024-29269-RCE](https://github.com/hack-with-rohit/CVE-2024-29269-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/hack-with-rohit/CVE-2024-29269-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/hack-with-rohit/CVE-2024-29269-RCE">
 - [Quantum-Hacker/CVE-2024-29269](https://github.com/Quantum-Hacker/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/Quantum-Hacker/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/Quantum-Hacker/CVE-2024-29269">
+- [dkstar11q/CVE-2024-29269](https://github.com/dkstar11q/CVE-2024-29269)	<img alt="forks" src="https://img.shields.io/github/forks/dkstar11q/CVE-2024-29269">	<img alt="stars" src="https://img.shields.io/github/stars/dkstar11q/CVE-2024-29269">
 
 ---
 ## CVE-2024-29201 (2024-03-29T15:15:00)
@@ -8474,6 +8475,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [0xAgun/CVE-2024-2876](https://github.com/0xAgun/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/0xAgun/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/0xAgun/CVE-2024-2876">
 - [0xlf/CVE-2024-2876](https://github.com/0xlf/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/0xlf/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/0xlf/CVE-2024-2876">
 - [issamjr/CVE-2024-2876](https://github.com/issamjr/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/issamjr/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/issamjr/CVE-2024-2876">
+- [babydessy/CVE-2024-2876](https://github.com/babydessy/CVE-2024-2876)	<img alt="forks" src="https://img.shields.io/github/forks/babydessy/CVE-2024-2876">	<img alt="stars" src="https://img.shields.io/github/stars/babydessy/CVE-2024-2876">
 
 ---
 ## CVE-2024-28757 (2024-03-10T05:15:00)
@@ -8806,6 +8808,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 - [MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564](https://github.com/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564">
 - [chsxthwik/CVE-2024-27564](https://github.com/chsxthwik/CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/chsxthwik/CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/chsxthwik/CVE-2024-27564">
 - [chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564](https://github.com/chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/chaudhrymuhammadtayab/SSRF-Exploit-CVE-2024-27564">
+- [babydessy/CVE-2024-27564](https://github.com/babydessy/CVE-2024-27564)	<img alt="forks" src="https://img.shields.io/github/forks/babydessy/CVE-2024-27564">	<img alt="stars" src="https://img.shields.io/github/stars/babydessy/CVE-2024-27564">
 
 ---
 ## CVE-2024-27518 (2024-04-29T21:15:00)

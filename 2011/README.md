@@ -219,6 +219,8 @@
 - [JUN41DS2709/vsFTPd-2.3.4-Exploit](https://github.com/JUN41DS2709/vsFTPd-2.3.4-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JUN41DS2709/vsFTPd-2.3.4-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JUN41DS2709/vsFTPd-2.3.4-Exploit">
 - [samirchapagain/metasploit-lab-report](https://github.com/samirchapagain/metasploit-lab-report)	<img alt="forks" src="https://img.shields.io/github/forks/samirchapagain/metasploit-lab-report">	<img alt="stars" src="https://img.shields.io/github/stars/samirchapagain/metasploit-lab-report">
 - [ronankongala/metasploit-pentest-report](https://github.com/ronankongala/metasploit-pentest-report)	<img alt="forks" src="https://img.shields.io/github/forks/ronankongala/metasploit-pentest-report">	<img alt="stars" src="https://img.shields.io/github/stars/ronankongala/metasploit-pentest-report">
+- [rushikesh-a-bhujbal/CVE-2011-2523](https://github.com/rushikesh-a-bhujbal/CVE-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/rushikesh-a-bhujbal/CVE-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/rushikesh-a-bhujbal/CVE-2011-2523">
+- [DanReis20/pentest-lab-metasploitable2](https://github.com/DanReis20/pentest-lab-metasploitable2)	<img alt="forks" src="https://img.shields.io/github/forks/DanReis20/pentest-lab-metasploitable2">	<img alt="stars" src="https://img.shields.io/github/stars/DanReis20/pentest-lab-metasploitable2">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)

@@ -8663,6 +8663,7 @@
 - [hzshang/CVE-2021-31956](https://github.com/hzshang/CVE-2021-31956)	<img alt="forks" src="https://img.shields.io/github/forks/hzshang/CVE-2021-31956">	<img alt="stars" src="https://img.shields.io/github/stars/hzshang/CVE-2021-31956">
 - [hoangprod/CVE-2021-31956-POC](https://github.com/hoangprod/CVE-2021-31956-POC)	<img alt="forks" src="https://img.shields.io/github/forks/hoangprod/CVE-2021-31956-POC">	<img alt="stars" src="https://img.shields.io/github/stars/hoangprod/CVE-2021-31956-POC">
 - [deletehead/Pool-Overflow-CVE-2021-31956](https://github.com/deletehead/Pool-Overflow-CVE-2021-31956)	<img alt="forks" src="https://img.shields.io/github/forks/deletehead/Pool-Overflow-CVE-2021-31956">	<img alt="stars" src="https://img.shields.io/github/stars/deletehead/Pool-Overflow-CVE-2021-31956">
+- [DaoshuReal/UAC-Elevation-CVE](https://github.com/DaoshuReal/UAC-Elevation-CVE)	<img alt="forks" src="https://img.shields.io/github/forks/DaoshuReal/UAC-Elevation-CVE">	<img alt="stars" src="https://img.shields.io/github/stars/DaoshuReal/UAC-Elevation-CVE">
 
 ---
 ## CVE-2021-31955 ()

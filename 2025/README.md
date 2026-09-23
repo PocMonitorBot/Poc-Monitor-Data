@@ -8006,6 +8006,7 @@
 > 
 - [n1k0oowang/CVE-2025-39964_EXP](https://github.com/n1k0oowang/CVE-2025-39964_EXP)	<img alt="forks" src="https://img.shields.io/github/forks/n1k0oowang/CVE-2025-39964_EXP">	<img alt="stars" src="https://img.shields.io/github/stars/n1k0oowang/CVE-2025-39964_EXP">
 - [suominen/CVE-2025-39964](https://github.com/suominen/CVE-2025-39964)	<img alt="forks" src="https://img.shields.io/github/forks/suominen/CVE-2025-39964">	<img alt="stars" src="https://img.shields.io/github/stars/suominen/CVE-2025-39964">
+- [mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-](https://github.com/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-)	<img alt="forks" src="https://img.shields.io/github/forks/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-">	<img alt="stars" src="https://img.shields.io/github/stars/mc493/linux-kernel-zero-day-mitigation-zero-downtime-kernel-defense-">
 
 ---
 ## CVE-2025-39946 ()
@@ -11324,6 +11325,7 @@
 - [B1ack4sh/Blackash-CVE-2025-22457](https://github.com/B1ack4sh/Blackash-CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-22457">
 - [benmevic/cve-2025-22457](https://github.com/benmevic/cve-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/benmevic/cve-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/benmevic/cve-2025-22457">
 - [melisakumral/CVE-2025-22457](https://github.com/melisakumral/CVE-2025-22457)	<img alt="forks" src="https://img.shields.io/github/forks/melisakumral/CVE-2025-22457">	<img alt="stars" src="https://img.shields.io/github/stars/melisakumral/CVE-2025-22457">
+- [donofly/CVE-2025-22457-vulnserver-lab](https://github.com/donofly/CVE-2025-22457-vulnserver-lab)	<img alt="forks" src="https://img.shields.io/github/forks/donofly/CVE-2025-22457-vulnserver-lab">	<img alt="stars" src="https://img.shields.io/github/stars/donofly/CVE-2025-22457-vulnserver-lab">
 
 ---
 ## CVE-2025-22442 ()

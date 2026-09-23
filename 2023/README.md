@@ -118,6 +118,7 @@
 ## CVE-2023-6931 ()
 > 
 - [K0n9-log/CVE-2023-6931](https://github.com/K0n9-log/CVE-2023-6931)	<img alt="forks" src="https://img.shields.io/github/forks/K0n9-log/CVE-2023-6931">	<img alt="stars" src="https://img.shields.io/github/stars/K0n9-log/CVE-2023-6931">
+- [Yutori-Natsu/cve-2023-6931-pipa](https://github.com/Yutori-Natsu/cve-2023-6931-pipa)	<img alt="forks" src="https://img.shields.io/github/forks/Yutori-Natsu/cve-2023-6931-pipa">	<img alt="stars" src="https://img.shields.io/github/stars/Yutori-Natsu/cve-2023-6931-pipa">
 
 ---
 ## CVE-2023-6895 (2023-12-17T08:15:00)
@@ -2435,6 +2436,11 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 ## CVE-2023-44961 (2023-10-11T19:15:00)
 > SQL Injection vulnerability in Koha Library Software 23.0.5.04 and before allows a remote attacker to obtain sensitive information via the intranet/cgi bin/cataloging/ysearch.pl. component.
 - [ggb0n/CVE-2023-44961](https://github.com/ggb0n/CVE-2023-44961)	<img alt="forks" src="https://img.shields.io/github/forks/ggb0n/CVE-2023-44961">	<img alt="stars" src="https://img.shields.io/github/stars/ggb0n/CVE-2023-44961">
+
+---
+## CVE-2023-44815 ()
+> 
+- [C12en/CVE-2023-44815](https://github.com/C12en/CVE-2023-44815)	<img alt="forks" src="https://img.shields.io/github/forks/C12en/CVE-2023-44815">	<img alt="stars" src="https://img.shields.io/github/stars/C12en/CVE-2023-44815">
 
 ---
 ## CVE-2023-44813 (2023-10-09T21:15:00)
