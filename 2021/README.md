@@ -3564,6 +3564,7 @@
 - [GlebUsalt/cybersecurity_portfolio](https://github.com/GlebUsalt/cybersecurity_portfolio)	<img alt="forks" src="https://img.shields.io/github/forks/GlebUsalt/cybersecurity_portfolio">	<img alt="stars" src="https://img.shields.io/github/stars/GlebUsalt/cybersecurity_portfolio">
 - [SANR01/CVE-2021-41773-Exploit-Lab](https://github.com/SANR01/CVE-2021-41773-Exploit-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/SANR01/CVE-2021-41773-Exploit-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/SANR01/CVE-2021-41773-Exploit-Lab">
 - [abdulrafay25-svg/CVE-2021-41773-Exploit](https://github.com/abdulrafay25-svg/CVE-2021-41773-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/abdulrafay25-svg/CVE-2021-41773-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/abdulrafay25-svg/CVE-2021-41773-Exploit">
+- [1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab](https://github.com/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -4317,6 +4318,8 @@
 - [fengjixuchui/CVE-2021-40444-docx-Generate](https://github.com/fengjixuchui/CVE-2021-40444-docx-Generate)	<img alt="forks" src="https://img.shields.io/github/forks/fengjixuchui/CVE-2021-40444-docx-Generate">	<img alt="stars" src="https://img.shields.io/github/stars/fengjixuchui/CVE-2021-40444-docx-Generate">
 - [KnoooW/CVE-2021-40444-docx-Generate](https://github.com/KnoooW/CVE-2021-40444-docx-Generate)	<img alt="forks" src="https://img.shields.io/github/forks/KnoooW/CVE-2021-40444-docx-Generate">	<img alt="stars" src="https://img.shields.io/github/stars/KnoooW/CVE-2021-40444-docx-Generate">
 - [W1kyri3/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx](https://github.com/W1kyri3/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx)	<img alt="forks" src="https://img.shields.io/github/forks/W1kyri3/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx">	<img alt="stars" src="https://img.shields.io/github/stars/W1kyri3/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx">
+- [rankthree/SOC-Detection-T1003.001-CVE-2021-40444](https://github.com/rankthree/SOC-Detection-T1003.001-CVE-2021-40444)	<img alt="forks" src="https://img.shields.io/github/forks/rankthree/SOC-Detection-T1003.001-CVE-2021-40444">	<img alt="stars" src="https://img.shields.io/github/stars/rankthree/SOC-Detection-T1003.001-CVE-2021-40444">
+- [johnson2849/kern](https://github.com/johnson2849/kern)	<img alt="forks" src="https://img.shields.io/github/forks/johnson2849/kern">	<img alt="stars" src="https://img.shields.io/github/stars/johnson2849/kern">
 
 ---
 ## CVE-2021-4044 (2021-12-14T19:15:00)

@@ -6318,6 +6318,7 @@
 > 
 - [stong/CVE-2020-15368](https://github.com/stong/CVE-2020-15368)	<img alt="forks" src="https://img.shields.io/github/forks/stong/CVE-2020-15368">	<img alt="stars" src="https://img.shields.io/github/stars/stong/CVE-2020-15368">
 - [R7flex/asrockploit](https://github.com/R7flex/asrockploit)	<img alt="forks" src="https://img.shields.io/github/forks/R7flex/asrockploit">	<img alt="stars" src="https://img.shields.io/github/stars/R7flex/asrockploit">
+- [egorrsp/CVE-2020-15368-AsrDrv103-research](https://github.com/egorrsp/CVE-2020-15368-AsrDrv103-research)	<img alt="forks" src="https://img.shields.io/github/forks/egorrsp/CVE-2020-15368-AsrDrv103-research">	<img alt="stars" src="https://img.shields.io/github/stars/egorrsp/CVE-2020-15368-AsrDrv103-research">
 
 ---
 ## CVE-2020-15367 ()
@@ -6731,6 +6732,7 @@
 - [ChenZIDu/CVE-2020-14645](https://github.com/ChenZIDu/CVE-2020-14645)	<img alt="forks" src="https://img.shields.io/github/forks/ChenZIDu/CVE-2020-14645">	<img alt="stars" src="https://img.shields.io/github/stars/ChenZIDu/CVE-2020-14645">
 - [DaBoQuan/CVE-2020-14645](https://github.com/DaBoQuan/CVE-2020-14645)	<img alt="forks" src="https://img.shields.io/github/forks/DaBoQuan/CVE-2020-14645">	<img alt="stars" src="https://img.shields.io/github/stars/DaBoQuan/CVE-2020-14645">
 - [Y4er/CVE-2020-14645](https://github.com/Y4er/CVE-2020-14645)	<img alt="forks" src="https://img.shields.io/github/forks/Y4er/CVE-2020-14645">	<img alt="stars" src="https://img.shields.io/github/stars/Y4er/CVE-2020-14645">
+- [jlvsjp/Weblogic_CVE-2020-14645](https://github.com/jlvsjp/Weblogic_CVE-2020-14645)	<img alt="forks" src="https://img.shields.io/github/forks/jlvsjp/Weblogic_CVE-2020-14645">	<img alt="stars" src="https://img.shields.io/github/stars/jlvsjp/Weblogic_CVE-2020-14645">
 
 ---
 ## CVE-2020-14644 ()
@@ -8781,6 +8783,11 @@
 ## CVE-2020-10283 (2020-08-20T09:15:00)
 > The Micro Air Vehicle Link (MAVLink) protocol presents authentication mechanisms on its version 2.0 however according to its documentation, in order to maintain backwards compatibility, GCS and autopilot negotiate the version via the AUTOPILOT_VERSION message. Since this negotiation depends on the answer, an attacker may craft packages in a way that hints the autopilot to adopt version 1.0 of MAVLink for the communication. Given the lack of authentication capabilities in such version of MAVLink (refer to CVE-2020-10282), attackers may use this method to bypass authentication capabilities and interact with the autopilot directly.
 - [Live-Hack-CVE/CVE-2020-10283](https://github.com/Live-Hack-CVE/CVE-2020-10283)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-10283">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-10283">
+
+---
+## CVE-2020-10257 ()
+> 
+- [Darkcast/CVE-2020-10257](https://github.com/Darkcast/CVE-2020-10257)	<img alt="forks" src="https://img.shields.io/github/forks/Darkcast/CVE-2020-10257">	<img alt="stars" src="https://img.shields.io/github/stars/Darkcast/CVE-2020-10257">
 
 ---
 ## CVE-2020-10239 ()

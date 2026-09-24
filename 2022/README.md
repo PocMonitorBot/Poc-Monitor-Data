@@ -14212,6 +14212,7 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [Live-Hack-CVE/CVE-2022-40769](https://github.com/Live-Hack-CVE/CVE-2022-40769)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-40769">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-40769">
 - [PLSRcoin/CVE-2022-40769](https://github.com/PLSRcoin/CVE-2022-40769)	<img alt="forks" src="https://img.shields.io/github/forks/PLSRcoin/CVE-2022-40769">	<img alt="stars" src="https://img.shields.io/github/stars/PLSRcoin/CVE-2022-40769">
 - [ethicbrudhack/CVE-2022-40769---Profanity](https://github.com/ethicbrudhack/CVE-2022-40769---Profanity)	<img alt="forks" src="https://img.shields.io/github/forks/ethicbrudhack/CVE-2022-40769---Profanity">	<img alt="stars" src="https://img.shields.io/github/stars/ethicbrudhack/CVE-2022-40769---Profanity">
+- [artsbykriss/profanity-verifier](https://github.com/artsbykriss/profanity-verifier)	<img alt="forks" src="https://img.shields.io/github/forks/artsbykriss/profanity-verifier">	<img alt="stars" src="https://img.shields.io/github/stars/artsbykriss/profanity-verifier">
 
 ---
 ## CVE-2022-40768 (2022-09-18T05:15:00)
