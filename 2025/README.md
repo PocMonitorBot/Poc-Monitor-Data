@@ -539,16 +539,17 @@
 - [Yuri08loveElaina/CVE-2025-7771](https://github.com/Yuri08loveElaina/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/Yuri08loveElaina/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/Yuri08loveElaina/CVE-2025-7771">
 - [Gabriel-Lacorte/CVE-2025-7771](https://github.com/Gabriel-Lacorte/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/Gabriel-Lacorte/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/Gabriel-Lacorte/CVE-2025-7771">
 - [Demoo1337/ThrottleStop](https://github.com/Demoo1337/ThrottleStop)	<img alt="forks" src="https://img.shields.io/github/forks/Demoo1337/ThrottleStop">	<img alt="stars" src="https://img.shields.io/github/stars/Demoo1337/ThrottleStop">
-- [fxrstor/ThrottleStopPoC](https://github.com/fxrstor/ThrottleStopPoC)	<img alt="forks" src="https://img.shields.io/github/forks/fxrstor/ThrottleStopPoC">	<img alt="stars" src="https://img.shields.io/github/stars/fxrstor/ThrottleStopPoC">
+- [wqsv/ThrottleStopPoC](https://github.com/wqsv/ThrottleStopPoC)	<img alt="forks" src="https://img.shields.io/github/forks/wqsv/ThrottleStopPoC">	<img alt="stars" src="https://img.shields.io/github/stars/wqsv/ThrottleStopPoC">
 - [AmrHuss/throttlestop-exploit-rw](https://github.com/AmrHuss/throttlestop-exploit-rw)	<img alt="forks" src="https://img.shields.io/github/forks/AmrHuss/throttlestop-exploit-rw">	<img alt="stars" src="https://img.shields.io/github/stars/AmrHuss/throttlestop-exploit-rw">
 - [xM0kht4r/CVE-2025-7771](https://github.com/xM0kht4r/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/xM0kht4r/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/xM0kht4r/CVE-2025-7771">
 - [v31l0x1/ThrottleStopPPL](https://github.com/v31l0x1/ThrottleStopPPL)	<img alt="forks" src="https://img.shields.io/github/forks/v31l0x1/ThrottleStopPPL">	<img alt="stars" src="https://img.shields.io/github/stars/v31l0x1/ThrottleStopPPL">
 - [lzty/CVE-2025-7771](https://github.com/lzty/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/lzty/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/lzty/CVE-2025-7771">
 - [I3r1h0n/Sigurd](https://github.com/I3r1h0n/Sigurd)	<img alt="forks" src="https://img.shields.io/github/forks/I3r1h0n/Sigurd">	<img alt="stars" src="https://img.shields.io/github/stars/I3r1h0n/Sigurd">
 - [D4rkks/CVE-2025-7771-Vulnerability-Exploration](https://github.com/D4rkks/CVE-2025-7771-Vulnerability-Exploration)	<img alt="forks" src="https://img.shields.io/github/forks/D4rkks/CVE-2025-7771-Vulnerability-Exploration">	<img alt="stars" src="https://img.shields.io/github/stars/D4rkks/CVE-2025-7771-Vulnerability-Exploration">
-- [DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828](https://github.com/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/0xKern3lCrush-Foreverday-BYOVD-CVE-2026-0828">
+- [DeathShotXD/0xKern3lCrush](https://github.com/DeathShotXD/0xKern3lCrush)	<img alt="forks" src="https://img.shields.io/github/forks/DeathShotXD/0xKern3lCrush">	<img alt="stars" src="https://img.shields.io/github/stars/DeathShotXD/0xKern3lCrush">
 - [mein-0/cve-2025-7771](https://github.com/mein-0/cve-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/mein-0/cve-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/mein-0/cve-2025-7771">
 - [enessakircolak/CVE-2025-7771](https://github.com/enessakircolak/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/enessakircolak/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/enessakircolak/CVE-2025-7771">
+- [yulisec/CVE-2025-7771](https://github.com/yulisec/CVE-2025-7771)	<img alt="forks" src="https://img.shields.io/github/forks/yulisec/CVE-2025-7771">	<img alt="stars" src="https://img.shields.io/github/stars/yulisec/CVE-2025-7771">
 
 ---
 ## CVE-2025-7769 ()
@@ -11447,6 +11448,7 @@
 - [7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479](https://github.com/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479">
 - [RamenFast/zenfone9-root](https://github.com/RamenFast/zenfone9-root)	<img alt="forks" src="https://img.shields.io/github/forks/RamenFast/zenfone9-root">	<img alt="stars" src="https://img.shields.io/github/stars/RamenFast/zenfone9-root">
 - [xianwan1314/cve-2025-21479-iqoo11pro](https://github.com/xianwan1314/cve-2025-21479-iqoo11pro)	<img alt="forks" src="https://img.shields.io/github/forks/xianwan1314/cve-2025-21479-iqoo11pro">	<img alt="stars" src="https://img.shields.io/github/stars/xianwan1314/cve-2025-21479-iqoo11pro">
+- [diyiqiuye/CVE-2025-21479-FX5P](https://github.com/diyiqiuye/CVE-2025-21479-FX5P)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX5P">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX5P">
 
 ---
 ## CVE-2025-21420 ()
