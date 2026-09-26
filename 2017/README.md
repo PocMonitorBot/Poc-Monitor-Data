@@ -1171,6 +1171,7 @@
 ## CVE-2017-3730 ()
 > 
 - [olivierh59500/CVE-2017-3730](https://github.com/olivierh59500/CVE-2017-3730)	<img alt="forks" src="https://img.shields.io/github/forks/olivierh59500/CVE-2017-3730">	<img alt="stars" src="https://img.shields.io/github/stars/olivierh59500/CVE-2017-3730">
+- [HavocParasite/CVE-2017-3730](https://github.com/HavocParasite/CVE-2017-3730)	<img alt="forks" src="https://img.shields.io/github/forks/HavocParasite/CVE-2017-3730">	<img alt="stars" src="https://img.shields.io/github/stars/HavocParasite/CVE-2017-3730">
 
 ---
 ## CVE-2017-3641 (2017-08-08T15:29:00)

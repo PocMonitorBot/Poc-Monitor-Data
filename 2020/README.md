@@ -1262,6 +1262,11 @@
 - [ph4r05/ledger-app-monero-1.42-vuln](https://github.com/ph4r05/ledger-app-monero-1.42-vuln)	<img alt="forks" src="https://img.shields.io/github/forks/ph4r05/ledger-app-monero-1.42-vuln">	<img alt="stars" src="https://img.shields.io/github/stars/ph4r05/ledger-app-monero-1.42-vuln">
 
 ---
+## CVE-2020-6857 ()
+> 
+- [Nefhara/CVE-2020-6857](https://github.com/Nefhara/CVE-2020-6857)	<img alt="forks" src="https://img.shields.io/github/forks/Nefhara/CVE-2020-6857">	<img alt="stars" src="https://img.shields.io/github/stars/Nefhara/CVE-2020-6857">
+
+---
 ## CVE-2020-6836 ()
 > 
 - [CQ-Tools/CVE-2020-6836-unfixed](https://github.com/CQ-Tools/CVE-2020-6836-unfixed)	<img alt="forks" src="https://img.shields.io/github/forks/CQ-Tools/CVE-2020-6836-unfixed">	<img alt="stars" src="https://img.shields.io/github/stars/CQ-Tools/CVE-2020-6836-unfixed">

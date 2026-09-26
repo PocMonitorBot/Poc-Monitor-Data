@@ -19,6 +19,7 @@
 ## CVE-2025-9974 ()
 > 
 - [Rajdave69/CVE-2025-9974](https://github.com/Rajdave69/CVE-2025-9974)	<img alt="forks" src="https://img.shields.io/github/forks/Rajdave69/CVE-2025-9974">	<img alt="stars" src="https://img.shields.io/github/stars/Rajdave69/CVE-2025-9974">
+- [HORKimhab/CVE-2025-9974](https://github.com/HORKimhab/CVE-2025-9974)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2025-9974">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2025-9974">
 
 ---
 ## CVE-2025-9967 ()
@@ -10780,6 +10781,7 @@
 - [SebastianMautner/nuclei-CVE-2025-24813](https://github.com/SebastianMautner/nuclei-CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/SebastianMautner/nuclei-CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/SebastianMautner/nuclei-CVE-2025-24813">
 - [e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-24813](https://github.com/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-24813">
 - [Affapple/CVE-2025-24813-POC](https://github.com/Affapple/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Affapple/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Affapple/CVE-2025-24813-POC">
+- [yym8538/CVE-2025-24813](https://github.com/yym8538/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yym8538/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yym8538/CVE-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
@@ -11498,7 +11500,7 @@
 ## CVE-2025-21298 ()
 > 
 - [ynwarcs/CVE-2025-21298](https://github.com/ynwarcs/CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/ynwarcs/CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/ynwarcs/CVE-2025-21298">
-- [Dit-Developers/CVE-2025-21298](https://github.com/Dit-Developers/CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/Dit-Developers/CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/Dit-Developers/CVE-2025-21298">
+- [TheBl4ckPh4nt0m/CVE-2025-21298](https://github.com/TheBl4ckPh4nt0m/CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/TheBl4ckPh4nt0m/CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/TheBl4ckPh4nt0m/CVE-2025-21298">
 - [Denyningbow/rtf-ctf-cve-2025-21298](https://github.com/Denyningbow/rtf-ctf-cve-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/Denyningbow/rtf-ctf-cve-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/Denyningbow/rtf-ctf-cve-2025-21298">
 - [mr-big-leach/CVE-2025-21298](https://github.com/mr-big-leach/CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/mr-big-leach/CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/mr-big-leach/CVE-2025-21298">
 - [B1ack4sh/Blackash-CVE-2025-21298](https://github.com/B1ack4sh/Blackash-CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/B1ack4sh/Blackash-CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/B1ack4sh/Blackash-CVE-2025-21298">
@@ -11507,6 +11509,7 @@
 - [tarunbharathe/Zero-Click-RCE-Incident-Response-CVE-2025-21298](https://github.com/tarunbharathe/Zero-Click-RCE-Incident-Response-CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/tarunbharathe/Zero-Click-RCE-Incident-Response-CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/tarunbharathe/Zero-Click-RCE-Incident-Response-CVE-2025-21298">
 - [C-G-creator/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298](https://github.com/C-G-creator/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/C-G-creator/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/C-G-creator/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298">
 - [abc1230940/SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298](https://github.com/abc1230940/SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298)	<img alt="forks" src="https://img.shields.io/github/forks/abc1230940/SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298">	<img alt="stars" src="https://img.shields.io/github/stars/abc1230940/SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298">
+- [mohamedbrek/SOC336-CVE-2025-21298-Investigation](https://github.com/mohamedbrek/SOC336-CVE-2025-21298-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/mohamedbrek/SOC336-CVE-2025-21298-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/mohamedbrek/SOC336-CVE-2025-21298-Investigation">
 
 ---
 ## CVE-2025-21293 ()
