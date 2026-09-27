@@ -6543,6 +6543,11 @@
 - [Samb102/POC-CVE-2025-48988-CVE-2025-48976](https://github.com/Samb102/POC-CVE-2025-48988-CVE-2025-48976)	<img alt="forks" src="https://img.shields.io/github/forks/Samb102/POC-CVE-2025-48988-CVE-2025-48976">	<img alt="stars" src="https://img.shields.io/github/stars/Samb102/POC-CVE-2025-48988-CVE-2025-48976">
 
 ---
+## CVE-2025-48939 ()
+> 
+- [NymiiTechTips/CVE-2025-48939](https://github.com/NymiiTechTips/CVE-2025-48939)	<img alt="forks" src="https://img.shields.io/github/forks/NymiiTechTips/CVE-2025-48939">	<img alt="stars" src="https://img.shields.io/github/stars/NymiiTechTips/CVE-2025-48939">
+
+---
 ## CVE-2025-48932 ()
 > 
 - [XploitGh0st/CVE-2025-48932---exploit](https://github.com/XploitGh0st/CVE-2025-48932---exploit)	<img alt="forks" src="https://img.shields.io/github/forks/XploitGh0st/CVE-2025-48932---exploit">	<img alt="stars" src="https://img.shields.io/github/stars/XploitGh0st/CVE-2025-48932---exploit">
@@ -12805,6 +12810,11 @@
 ## CVE-2025-11203 ()
 > 
 - [learner202649/CVE-2025-11203-PoC](https://github.com/learner202649/CVE-2025-11203-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/learner202649/CVE-2025-11203-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/learner202649/CVE-2025-11203-PoC">
+
+---
+## CVE-2025-11201 ()
+> 
+- [rmhowe425/POC-CVE-2025-11201](https://github.com/rmhowe425/POC-CVE-2025-11201)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2025-11201">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2025-11201">
 
 ---
 ## CVE-2025-11187 ()

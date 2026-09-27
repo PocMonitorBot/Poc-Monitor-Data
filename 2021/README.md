@@ -1685,6 +1685,8 @@
 - [KalidouLabghaly/log4shell-exploitation-detection](https://github.com/KalidouLabghaly/log4shell-exploitation-detection)	<img alt="forks" src="https://img.shields.io/github/forks/KalidouLabghaly/log4shell-exploitation-detection">	<img alt="stars" src="https://img.shields.io/github/stars/KalidouLabghaly/log4shell-exploitation-detection">
 - [rh-rahulshetty/log4shell-CVE-2021-44228](https://github.com/rh-rahulshetty/log4shell-CVE-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/rh-rahulshetty/log4shell-CVE-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/rh-rahulshetty/log4shell-CVE-2021-44228">
 - [mcpmark-eval-liuhezi/log4shell-audit](https://github.com/mcpmark-eval-liuhezi/log4shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit">
+- [Muskann02/cve-2021-44228-lab](https://github.com/Muskann02/cve-2021-44228-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Muskann02/cve-2021-44228-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Muskann02/cve-2021-44228-lab">
+- [osflaky/exp-logpresso-CVE-2021-44228-Scanner](https://github.com/osflaky/exp-logpresso-CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/osflaky/exp-logpresso-CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/osflaky/exp-logpresso-CVE-2021-44228-Scanner">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)

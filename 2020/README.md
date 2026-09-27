@@ -7067,6 +7067,7 @@
 > 
 - [JackHars/cve-2020-14008](https://github.com/JackHars/cve-2020-14008)	<img alt="forks" src="https://img.shields.io/github/forks/JackHars/cve-2020-14008">	<img alt="stars" src="https://img.shields.io/github/stars/JackHars/cve-2020-14008">
 - [0x0d3ad/CVE-2020-14008](https://github.com/0x0d3ad/CVE-2020-14008)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2020-14008">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2020-14008">
+- [raflesiait/CVE-2020-14008](https://github.com/raflesiait/CVE-2020-14008)	<img alt="forks" src="https://img.shields.io/github/forks/raflesiait/CVE-2020-14008">	<img alt="stars" src="https://img.shields.io/github/stars/raflesiait/CVE-2020-14008">
 
 ---
 ## CVE-2020-14005 (2020-06-24T14:15:00)
@@ -9101,6 +9102,7 @@
 - [Almorabea/SMBGhost-LPE-Metasploit-Module](https://github.com/Almorabea/SMBGhost-LPE-Metasploit-Module)	<img alt="forks" src="https://img.shields.io/github/forks/Almorabea/SMBGhost-LPE-Metasploit-Module">	<img alt="stars" src="https://img.shields.io/github/stars/Almorabea/SMBGhost-LPE-Metasploit-Module">
 - [jamf/SMBGhost-SMBleed-scanner](https://github.com/jamf/SMBGhost-SMBleed-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/jamf/SMBGhost-SMBleed-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/jamf/SMBGhost-SMBleed-scanner">
 - [p4ncontomat3/smbghost](https://github.com/p4ncontomat3/smbghost)	<img alt="forks" src="https://img.shields.io/github/forks/p4ncontomat3/smbghost">	<img alt="stars" src="https://img.shields.io/github/stars/p4ncontomat3/smbghost">
+- [linusboz12345-sys/cve-2020-0796-scanner](https://github.com/linusboz12345-sys/cve-2020-0796-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/linusboz12345-sys/cve-2020-0796-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/linusboz12345-sys/cve-2020-0796-scanner">
 
 ---
 ## CVE-2020-0787 ()
