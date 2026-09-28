@@ -4350,6 +4350,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [yuimamur/CVE-2024-4367-hands-on](https://github.com/yuimamur/CVE-2024-4367-hands-on)	<img alt="forks" src="https://img.shields.io/github/forks/yuimamur/CVE-2024-4367-hands-on">	<img alt="stars" src="https://img.shields.io/github/stars/yuimamur/CVE-2024-4367-hands-on">
 - [DharmarajPS/pdfjs-cve-2024-4367-poc](https://github.com/DharmarajPS/pdfjs-cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DharmarajPS/pdfjs-cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DharmarajPS/pdfjs-cve-2024-4367-poc">
 - [Qq1111111111/pentest-i021-poc-1789486727](https://github.com/Qq1111111111/pentest-i021-poc-1789486727)	<img alt="forks" src="https://img.shields.io/github/forks/Qq1111111111/pentest-i021-poc-1789486727">	<img alt="stars" src="https://img.shields.io/github/stars/Qq1111111111/pentest-i021-poc-1789486727">
+- [stuara1/cpc-pdfjs-poc](https://github.com/stuara1/cpc-pdfjs-poc)	<img alt="forks" src="https://img.shields.io/github/forks/stuara1/cpc-pdfjs-poc">	<img alt="stars" src="https://img.shields.io/github/stars/stuara1/cpc-pdfjs-poc">
 
 ---
 ## CVE-2024-43639 ()
@@ -9909,6 +9910,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [razureink/cve-2024-23897-jenkins_lfi_reproduction](https://github.com/razureink/cve-2024-23897-jenkins_lfi_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2024-23897-jenkins_lfi_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2024-23897-jenkins_lfi_reproduction">
 - [dheeraj-jayaswal/CICD-Goat-Vapt-Writeup](https://github.com/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup">
 - [MachiavelliII/CVE-2024-23897](https://github.com/MachiavelliII/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/MachiavelliII/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/MachiavelliII/CVE-2024-23897">
+- [Alexandertanay/jenkins-cve-2024-23897-lab](https://github.com/Alexandertanay/jenkins-cve-2024-23897-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Alexandertanay/jenkins-cve-2024-23897-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Alexandertanay/jenkins-cve-2024-23897-lab">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)

@@ -4118,6 +4118,8 @@
 > 
 - [bohmiiidd/Undocumument_RCE_PLY-yacc-CVE-2025-56005](https://github.com/bohmiiidd/Undocumument_RCE_PLY-yacc-CVE-2025-56005)	<img alt="forks" src="https://img.shields.io/github/forks/bohmiiidd/Undocumument_RCE_PLY-yacc-CVE-2025-56005">	<img alt="stars" src="https://img.shields.io/github/stars/bohmiiidd/Undocumument_RCE_PLY-yacc-CVE-2025-56005">
 - [tom025/ply_exploit_rejection](https://github.com/tom025/ply_exploit_rejection)	<img alt="forks" src="https://img.shields.io/github/forks/tom025/ply_exploit_rejection">	<img alt="stars" src="https://img.shields.io/github/stars/tom025/ply_exploit_rejection">
+- [gdfurr98/ply-cve-2025-56005-lab](https://github.com/gdfurr98/ply-cve-2025-56005-lab)	<img alt="forks" src="https://img.shields.io/github/forks/gdfurr98/ply-cve-2025-56005-lab">	<img alt="stars" src="https://img.shields.io/github/stars/gdfurr98/ply-cve-2025-56005-lab">
+- [gdfurr98/ply-safepickle](https://github.com/gdfurr98/ply-safepickle)	<img alt="forks" src="https://img.shields.io/github/forks/gdfurr98/ply-safepickle">	<img alt="stars" src="https://img.shields.io/github/stars/gdfurr98/ply-safepickle">
 
 ---
 ## CVE-2025-55998 ()
@@ -6455,7 +6457,7 @@
 - [thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE](https://github.com/thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/thealchimist86/CVE-2025-49132-Pterodactyl-Panel-RCE">
 - [scroollocker/CVE-2025-49132](https://github.com/scroollocker/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/scroollocker/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/scroollocker/CVE-2025-49132">
 - [cylentsec/CVE-2025-49132_PoC](https://github.com/cylentsec/CVE-2025-49132_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/cylentsec/CVE-2025-49132_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/cylentsec/CVE-2025-49132_PoC">
-- [rippxsec/CVE-2025-49132](https://github.com/rippxsec/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/rippxsec/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/rippxsec/CVE-2025-49132">
+- [rippsec/CVE-2025-49132-PHP-PEAR](https://github.com/rippsec/CVE-2025-49132-PHP-PEAR)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-49132-PHP-PEAR">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-49132-PHP-PEAR">
 - [popyue/CVE-2025-49132](https://github.com/popyue/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/popyue/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/popyue/CVE-2025-49132">
 - [4nuxd/CVE-2025-49132](https://github.com/4nuxd/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/4nuxd/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/4nuxd/CVE-2025-49132">
 - [revasec/CVE-2025-49132](https://github.com/revasec/CVE-2025-49132)	<img alt="forks" src="https://img.shields.io/github/forks/revasec/CVE-2025-49132">	<img alt="stars" src="https://img.shields.io/github/stars/revasec/CVE-2025-49132">
@@ -8851,6 +8853,7 @@
 - [razureink/cve-2025-32433-erlang_ssh_rce_reproduction](https://github.com/razureink/cve-2025-32433-erlang_ssh_rce_reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/razureink/cve-2025-32433-erlang_ssh_rce_reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/razureink/cve-2025-32433-erlang_ssh_rce_reproduction">
 - [Liam-Worsley/CVE-2025-32433-PoC-Analysis](https://github.com/Liam-Worsley/CVE-2025-32433-PoC-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Liam-Worsley/CVE-2025-32433-PoC-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Liam-Worsley/CVE-2025-32433-PoC-Analysis">
 - [damnkrishna/CVE-2025-32433-LAB](https://github.com/damnkrishna/CVE-2025-32433-LAB)	<img alt="forks" src="https://img.shields.io/github/forks/damnkrishna/CVE-2025-32433-LAB">	<img alt="stars" src="https://img.shields.io/github/stars/damnkrishna/CVE-2025-32433-LAB">
+- [X-Bulow/Reproduce-CVE-2025-32433](https://github.com/X-Bulow/Reproduce-CVE-2025-32433)	<img alt="forks" src="https://img.shields.io/github/forks/X-Bulow/Reproduce-CVE-2025-32433">	<img alt="stars" src="https://img.shields.io/github/stars/X-Bulow/Reproduce-CVE-2025-32433">
 
 ---
 ## CVE-2025-32432 ()

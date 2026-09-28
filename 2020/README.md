@@ -7068,6 +7068,7 @@
 - [JackHars/cve-2020-14008](https://github.com/JackHars/cve-2020-14008)	<img alt="forks" src="https://img.shields.io/github/forks/JackHars/cve-2020-14008">	<img alt="stars" src="https://img.shields.io/github/stars/JackHars/cve-2020-14008">
 - [0x0d3ad/CVE-2020-14008](https://github.com/0x0d3ad/CVE-2020-14008)	<img alt="forks" src="https://img.shields.io/github/forks/0x0d3ad/CVE-2020-14008">	<img alt="stars" src="https://img.shields.io/github/stars/0x0d3ad/CVE-2020-14008">
 - [raflesiait/CVE-2020-14008](https://github.com/raflesiait/CVE-2020-14008)	<img alt="forks" src="https://img.shields.io/github/forks/raflesiait/CVE-2020-14008">	<img alt="stars" src="https://img.shields.io/github/stars/raflesiait/CVE-2020-14008">
+- [raflesiait/CVE-2020-14008---ManageEngine](https://github.com/raflesiait/CVE-2020-14008---ManageEngine)	<img alt="forks" src="https://img.shields.io/github/forks/raflesiait/CVE-2020-14008---ManageEngine">	<img alt="stars" src="https://img.shields.io/github/stars/raflesiait/CVE-2020-14008---ManageEngine">
 
 ---
 ## CVE-2020-14005 (2020-06-24T14:15:00)
@@ -9103,6 +9104,13 @@
 - [jamf/SMBGhost-SMBleed-scanner](https://github.com/jamf/SMBGhost-SMBleed-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/jamf/SMBGhost-SMBleed-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/jamf/SMBGhost-SMBleed-scanner">
 - [p4ncontomat3/smbghost](https://github.com/p4ncontomat3/smbghost)	<img alt="forks" src="https://img.shields.io/github/forks/p4ncontomat3/smbghost">	<img alt="stars" src="https://img.shields.io/github/stars/p4ncontomat3/smbghost">
 - [linusboz12345-sys/cve-2020-0796-scanner](https://github.com/linusboz12345-sys/cve-2020-0796-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/linusboz12345-sys/cve-2020-0796-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/linusboz12345-sys/cve-2020-0796-scanner">
+- [RonnieNiu/CVE-2020_0796-exp](https://github.com/RonnieNiu/CVE-2020_0796-exp)	<img alt="forks" src="https://img.shields.io/github/forks/RonnieNiu/CVE-2020_0796-exp">	<img alt="stars" src="https://img.shields.io/github/stars/RonnieNiu/CVE-2020_0796-exp">
+- [Aurum2008/CVE2020-0796](https://github.com/Aurum2008/CVE2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/Aurum2008/CVE2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/Aurum2008/CVE2020-0796">
+- [testbugonly/Defence](https://github.com/testbugonly/Defence)	<img alt="forks" src="https://img.shields.io/github/forks/testbugonly/Defence">	<img alt="stars" src="https://img.shields.io/github/stars/testbugonly/Defence">
+- [kernelkill/cve2020-0796](https://github.com/kernelkill/cve2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/kernelkill/cve2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/kernelkill/cve2020-0796">
+- [claroty/CVE2020-0796](https://github.com/claroty/CVE2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/claroty/CVE2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/claroty/CVE2020-0796">
+- [hillu/nmap-nse-smb2-enhancement](https://github.com/hillu/nmap-nse-smb2-enhancement)	<img alt="forks" src="https://img.shields.io/github/forks/hillu/nmap-nse-smb2-enhancement">	<img alt="stars" src="https://img.shields.io/github/stars/hillu/nmap-nse-smb2-enhancement">
+- [TinToSer/cve2020-0796](https://github.com/TinToSer/cve2020-0796)	<img alt="forks" src="https://img.shields.io/github/forks/TinToSer/cve2020-0796">	<img alt="stars" src="https://img.shields.io/github/stars/TinToSer/cve2020-0796">
 
 ---
 ## CVE-2020-0787 ()
