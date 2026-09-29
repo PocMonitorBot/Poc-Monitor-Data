@@ -6316,6 +6316,7 @@ use after free.
 ## CVE-2019-10744 ()
 > 
 - [mlbrilliance/aurora-demo-lockfile](https://github.com/mlbrilliance/aurora-demo-lockfile)	<img alt="forks" src="https://img.shields.io/github/forks/mlbrilliance/aurora-demo-lockfile">	<img alt="stars" src="https://img.shields.io/github/stars/mlbrilliance/aurora-demo-lockfile">
+- [jimahub/scenario-b-warn](https://github.com/jimahub/scenario-b-warn)	<img alt="forks" src="https://img.shields.io/github/forks/jimahub/scenario-b-warn">	<img alt="stars" src="https://img.shields.io/github/stars/jimahub/scenario-b-warn">
 
 ---
 ## CVE-2019-10743 ()

@@ -2016,9 +2016,20 @@
 - [Pranjal6955/CVE-2021-4374-Testing-Package](https://github.com/Pranjal6955/CVE-2021-4374-Testing-Package)	<img alt="forks" src="https://img.shields.io/github/forks/Pranjal6955/CVE-2021-4374-Testing-Package">	<img alt="stars" src="https://img.shields.io/github/stars/Pranjal6955/CVE-2021-4374-Testing-Package">
 
 ---
+## CVE-2021-43718 ()
+> 
+- [dpfkdlemtp/CVE-2021-43718](https://github.com/dpfkdlemtp/CVE-2021-43718)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/CVE-2021-43718">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/CVE-2021-43718">
+
+---
+## CVE-2021-43717 ()
+> 
+- [dpfkdlemtp/CVE-2021-43717](https://github.com/dpfkdlemtp/CVE-2021-43717)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/CVE-2021-43717">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/CVE-2021-43717">
+
+---
 ## CVE-2021-43716 ()
 > 
 - [dpfkdlemtp/epson-eh-tw5350-advisories](https://github.com/dpfkdlemtp/epson-eh-tw5350-advisories)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/epson-eh-tw5350-advisories">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/epson-eh-tw5350-advisories">
+- [dpfkdlemtp/CVE-2021-43716](https://github.com/dpfkdlemtp/CVE-2021-43716)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/CVE-2021-43716">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/CVE-2021-43716">
 
 ---
 ## CVE-2021-43674 (2021-12-03T13:15:00)
@@ -12867,6 +12878,7 @@
 - [alikarimi999/CVE-2021-21315](https://github.com/alikarimi999/CVE-2021-21315)	<img alt="forks" src="https://img.shields.io/github/forks/alikarimi999/CVE-2021-21315">	<img alt="stars" src="https://img.shields.io/github/stars/alikarimi999/CVE-2021-21315">
 - [G01d3nW01f/CVE-2021-21315](https://github.com/G01d3nW01f/CVE-2021-21315)	<img alt="forks" src="https://img.shields.io/github/forks/G01d3nW01f/CVE-2021-21315">	<img alt="stars" src="https://img.shields.io/github/stars/G01d3nW01f/CVE-2021-21315">
 - [xMohamed0/CVE-2021-21315-POC](https://github.com/xMohamed0/CVE-2021-21315-POC)	<img alt="forks" src="https://img.shields.io/github/forks/xMohamed0/CVE-2021-21315-POC">	<img alt="stars" src="https://img.shields.io/github/stars/xMohamed0/CVE-2021-21315-POC">
+- [jimahub/scenario-d-kev](https://github.com/jimahub/scenario-d-kev)	<img alt="forks" src="https://img.shields.io/github/forks/jimahub/scenario-d-kev">	<img alt="stars" src="https://img.shields.io/github/stars/jimahub/scenario-d-kev">
 
 ---
 ## CVE-2021-21313 (2021-03-03T20:15:00)

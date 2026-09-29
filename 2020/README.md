@@ -2972,6 +2972,11 @@
 - [Qynklee/POC_CVE-2020-2883](https://github.com/Qynklee/POC_CVE-2020-2883)	<img alt="forks" src="https://img.shields.io/github/forks/Qynklee/POC_CVE-2020-2883">	<img alt="stars" src="https://img.shields.io/github/stars/Qynklee/POC_CVE-2020-2883">
 
 ---
+## CVE-2020-28707 ()
+> 
+- [sifatnotes/Learn-SecByte-Venus-Rips-Recon-PHP-CVE-CTF-Labs](https://github.com/sifatnotes/Learn-SecByte-Venus-Rips-Recon-PHP-CVE-CTF-Labs)	<img alt="forks" src="https://img.shields.io/github/forks/sifatnotes/Learn-SecByte-Venus-Rips-Recon-PHP-CVE-CTF-Labs">	<img alt="stars" src="https://img.shields.io/github/stars/sifatnotes/Learn-SecByte-Venus-Rips-Recon-PHP-CVE-CTF-Labs">
+
+---
 ## CVE-2020-28653 ()
 > 
 - [tuo4n8/CVE-2020-28653](https://github.com/tuo4n8/CVE-2020-28653)	<img alt="forks" src="https://img.shields.io/github/forks/tuo4n8/CVE-2020-28653">	<img alt="stars" src="https://img.shields.io/github/stars/tuo4n8/CVE-2020-28653">
@@ -7250,6 +7255,11 @@
 - [Dungsocool/CVE-2020-13671](https://github.com/Dungsocool/CVE-2020-13671)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2020-13671">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2020-13671">
 - [Dungsocool/CVE-2020-13671-old](https://github.com/Dungsocool/CVE-2020-13671-old)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2020-13671-old">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2020-13671-old">
 - [ivanesk315/CVE-2020-13671](https://github.com/ivanesk315/CVE-2020-13671)	<img alt="forks" src="https://img.shields.io/github/forks/ivanesk315/CVE-2020-13671">	<img alt="stars" src="https://img.shields.io/github/stars/ivanesk315/CVE-2020-13671">
+
+---
+## CVE-2020-13664 ()
+> 
+- [lorenzog/CVE-2020-13664](https://github.com/lorenzog/CVE-2020-13664)	<img alt="forks" src="https://img.shields.io/github/forks/lorenzog/CVE-2020-13664">	<img alt="stars" src="https://img.shields.io/github/stars/lorenzog/CVE-2020-13664">
 
 ---
 ## CVE-2020-13659 (2020-06-02T13:15:00)

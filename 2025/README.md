@@ -1378,6 +1378,7 @@
 - [wcnmwcis/CVE-2026-22777](https://github.com/wcnmwcis/CVE-2026-22777)	<img alt="forks" src="https://img.shields.io/github/forks/wcnmwcis/CVE-2026-22777">	<img alt="stars" src="https://img.shields.io/github/stars/wcnmwcis/CVE-2026-22777">
 - [jcaz2378/ComfyUIrce](https://github.com/jcaz2378/ComfyUIrce)	<img alt="forks" src="https://img.shields.io/github/forks/jcaz2378/ComfyUIrce">	<img alt="stars" src="https://img.shields.io/github/stars/jcaz2378/ComfyUIrce">
 - [1nhann/cm-cve-2025-67303-node](https://github.com/1nhann/cm-cve-2025-67303-node)	<img alt="forks" src="https://img.shields.io/github/forks/1nhann/cm-cve-2025-67303-node">	<img alt="stars" src="https://img.shields.io/github/stars/1nhann/cm-cve-2025-67303-node">
+- [e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777](https://github.com/e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777)	<img alt="forks" src="https://img.shields.io/github/forks/e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777">	<img alt="stars" src="https://img.shields.io/github/stars/e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777">
 
 ---
 ## CVE-2025-67294 ()
@@ -5040,6 +5041,7 @@
 - [iapetus12/hackcar-writeup](https://github.com/iapetus12/hackcar-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/iapetus12/hackcar-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/iapetus12/hackcar-writeup">
 - [abhaybansal16/cve-2025-55182-lab](https://github.com/abhaybansal16/cve-2025-55182-lab)	<img alt="forks" src="https://img.shields.io/github/forks/abhaybansal16/cve-2025-55182-lab">	<img alt="stars" src="https://img.shields.io/github/stars/abhaybansal16/cve-2025-55182-lab">
 - [mythicemissarymall/zuvmwbnt](https://github.com/mythicemissarymall/zuvmwbnt)	<img alt="forks" src="https://img.shields.io/github/forks/mythicemissarymall/zuvmwbnt">	<img alt="stars" src="https://img.shields.io/github/stars/mythicemissarymall/zuvmwbnt">
+- [Samir660x/React2Shell_CVE-2025-55182](https://github.com/Samir660x/React2Shell_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Samir660x/React2Shell_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Samir660x/React2Shell_CVE-2025-55182">
 
 ---
 ## CVE-2025-55177 ()
@@ -12683,6 +12685,7 @@
 ## CVE-2025-11926 ()
 > 
 - [prabhatverma47/CVE-2025-11926](https://github.com/prabhatverma47/CVE-2025-11926)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-11926">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-11926">
+- [prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC](https://github.com/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC">
 
 ---
 ## CVE-2025-11877 ()
