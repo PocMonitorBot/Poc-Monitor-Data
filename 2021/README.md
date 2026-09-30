@@ -2019,11 +2019,13 @@
 ## CVE-2021-43718 ()
 > 
 - [dpfkdlemtp/CVE-2021-43718](https://github.com/dpfkdlemtp/CVE-2021-43718)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/CVE-2021-43718">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/CVE-2021-43718">
+- [dpfkdlemtp/epson-eh-tw5350-advisories](https://github.com/dpfkdlemtp/epson-eh-tw5350-advisories)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/epson-eh-tw5350-advisories">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/epson-eh-tw5350-advisories">
 
 ---
 ## CVE-2021-43717 ()
 > 
 - [dpfkdlemtp/CVE-2021-43717](https://github.com/dpfkdlemtp/CVE-2021-43717)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/CVE-2021-43717">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/CVE-2021-43717">
+- [dpfkdlemtp/epson-eh-tw5350-advisories](https://github.com/dpfkdlemtp/epson-eh-tw5350-advisories)	<img alt="forks" src="https://img.shields.io/github/forks/dpfkdlemtp/epson-eh-tw5350-advisories">	<img alt="stars" src="https://img.shields.io/github/stars/dpfkdlemtp/epson-eh-tw5350-advisories">
 
 ---
 ## CVE-2021-43716 ()

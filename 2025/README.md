@@ -457,6 +457,9 @@
 - [shaheeryasirofficial/CVE-2025-8088](https://github.com/shaheeryasirofficial/CVE-2025-8088)	<img alt="forks" src="https://img.shields.io/github/forks/shaheeryasirofficial/CVE-2025-8088">	<img alt="stars" src="https://img.shields.io/github/stars/shaheeryasirofficial/CVE-2025-8088">
 - [Lewis-Ricardo/Amaranth-Project](https://github.com/Lewis-Ricardo/Amaranth-Project)	<img alt="forks" src="https://img.shields.io/github/forks/Lewis-Ricardo/Amaranth-Project">	<img alt="stars" src="https://img.shields.io/github/stars/Lewis-Ricardo/Amaranth-Project">
 - [skander1337/winrar-exploit](https://github.com/skander1337/winrar-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/skander1337/winrar-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/skander1337/winrar-exploit">
+- [roof1948576qwd/CVE-2025-8088-WinRAR-PoC-3](https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-3)	<img alt="forks" src="https://img.shields.io/github/forks/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-3">	<img alt="stars" src="https://img.shields.io/github/stars/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-3">
+- [roof1948576qwd/CVE-2025-8088-WinRAR-PoC-2](https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-2)	<img alt="forks" src="https://img.shields.io/github/forks/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-2">	<img alt="stars" src="https://img.shields.io/github/stars/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-2">
+- [roof1948576qwd/CVE-2025-8088-WinRAR-PoC-1](https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-1)	<img alt="forks" src="https://img.shields.io/github/forks/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-1">	<img alt="stars" src="https://img.shields.io/github/stars/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-1">
 
 ---
 ## CVE-2025-8081 ()
@@ -2691,6 +2694,11 @@
 - [moua1303-blip/CVE-2025-62168](https://github.com/moua1303-blip/CVE-2025-62168)	<img alt="forks" src="https://img.shields.io/github/forks/moua1303-blip/CVE-2025-62168">	<img alt="stars" src="https://img.shields.io/github/stars/moua1303-blip/CVE-2025-62168">
 
 ---
+## CVE-2025-62023 ()
+> 
+- [josemour8/CVE-2025-62023](https://github.com/josemour8/CVE-2025-62023)	<img alt="forks" src="https://img.shields.io/github/forks/josemour8/CVE-2025-62023">	<img alt="stars" src="https://img.shields.io/github/stars/josemour8/CVE-2025-62023">
+
+---
 ## CVE-2025-6202 ()
 > 
 - [demining/Phoenix-Rowhammer-Attack-CVE-2025-6202](https://github.com/demining/Phoenix-Rowhammer-Attack-CVE-2025-6202)	<img alt="forks" src="https://img.shields.io/github/forks/demining/Phoenix-Rowhammer-Attack-CVE-2025-6202">	<img alt="stars" src="https://img.shields.io/github/stars/demining/Phoenix-Rowhammer-Attack-CVE-2025-6202">
@@ -3668,6 +3676,7 @@
 - [r3vpwnx/CVE-2025-57819](https://github.com/r3vpwnx/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/r3vpwnx/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/r3vpwnx/CVE-2025-57819">
 - [iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX)	<img alt="forks" src="https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX">	<img alt="stars" src="https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX">
 - [shivammittal2403/cve-2025-57819-freepbx-range](https://github.com/shivammittal2403/cve-2025-57819-freepbx-range)	<img alt="forks" src="https://img.shields.io/github/forks/shivammittal2403/cve-2025-57819-freepbx-range">	<img alt="stars" src="https://img.shields.io/github/stars/shivammittal2403/cve-2025-57819-freepbx-range">
+- [donggle0802-code/cve-2025-57819](https://github.com/donggle0802-code/cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/donggle0802-code/cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/donggle0802-code/cve-2025-57819">
 
 ---
 ## CVE-2025-5781 ()
@@ -7845,7 +7854,7 @@
 ---
 ## CVE-2025-4123 ()
 > 
-- [NightBloodz/CVE-2025-4123](https://github.com/NightBloodz/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodz/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodz/CVE-2025-4123">
+- [NightBloodZ/CVE-2025-4123](https://github.com/NightBloodZ/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/NightBloodZ/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/NightBloodZ/CVE-2025-4123">
 - [kk12-30/CVE-2025-4123](https://github.com/kk12-30/CVE-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/kk12-30/CVE-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/kk12-30/CVE-2025-4123">
 - [imbas007/CVE-2025-4123-template](https://github.com/imbas007/CVE-2025-4123-template)	<img alt="forks" src="https://img.shields.io/github/forks/imbas007/CVE-2025-4123-template">	<img alt="stars" src="https://img.shields.io/github/stars/imbas007/CVE-2025-4123-template">
 - [ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-](https://github.com/ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-)	<img alt="forks" src="https://img.shields.io/github/forks/ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-">	<img alt="stars" src="https://img.shields.io/github/stars/ynsmroztas/CVE-2025-4123-Exploit-Tool-Grafana-">
@@ -7855,6 +7864,7 @@
 - [punitdarji/Grafana-cve-2025-4123](https://github.com/punitdarji/Grafana-cve-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/punitdarji/Grafana-cve-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/punitdarji/Grafana-cve-2025-4123">
 - [ItsNee/Grafana-CVE-2025-4123-POC](https://github.com/ItsNee/Grafana-CVE-2025-4123-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ItsNee/Grafana-CVE-2025-4123-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ItsNee/Grafana-CVE-2025-4123-POC">
 - [MorphyKutay/CVE-2025-4123-Exploit](https://github.com/MorphyKutay/CVE-2025-4123-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/MorphyKutay/CVE-2025-4123-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/MorphyKutay/CVE-2025-4123-Exploit">
+- [primesec-dev/grafana_mythos_cve-2025-4123](https://github.com/primesec-dev/grafana_mythos_cve-2025-4123)	<img alt="forks" src="https://img.shields.io/github/forks/primesec-dev/grafana_mythos_cve-2025-4123">	<img alt="stars" src="https://img.shields.io/github/stars/primesec-dev/grafana_mythos_cve-2025-4123">
 
 ---
 ## CVE-2025-412027 ()
@@ -8758,6 +8768,7 @@
 - [secvulnhub/CVE-2025-32463-EXPLOIT](https://github.com/secvulnhub/CVE-2025-32463-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/secvulnhub/CVE-2025-32463-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/secvulnhub/CVE-2025-32463-EXPLOIT">
 - [0xdak/CVE-2025-32463_exploit](https://github.com/0xdak/CVE-2025-32463_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2025-32463_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2025-32463_exploit">
 - [EthanEvans92/CVE-2025-32463](https://github.com/EthanEvans92/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/EthanEvans92/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/EthanEvans92/CVE-2025-32463">
+- [klvlo/CVE-2025-32463](https://github.com/klvlo/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/klvlo/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/klvlo/CVE-2025-32463">
 
 ---
 ## CVE-2025-32462 ()
@@ -12077,6 +12088,7 @@
 ## CVE-2025-14783 ()
 > 
 - [ZeroEthical/CVE-2025-14783-POC](https://github.com/ZeroEthical/CVE-2025-14783-POC)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroEthical/CVE-2025-14783-POC">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroEthical/CVE-2025-14783-POC">
+- [Ngagne-Demba-Dia/CVE-2025-14783-POC](https://github.com/Ngagne-Demba-Dia/CVE-2025-14783-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Ngagne-Demba-Dia/CVE-2025-14783-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Ngagne-Demba-Dia/CVE-2025-14783-POC">
 
 ---
 ## CVE-2025-14765 ()
