@@ -3778,6 +3778,7 @@
 - [llamaonsecurity/CVE-2018-12533](https://github.com/llamaonsecurity/CVE-2018-12533)	<img alt="forks" src="https://img.shields.io/github/forks/llamaonsecurity/CVE-2018-12533">	<img alt="stars" src="https://img.shields.io/github/stars/llamaonsecurity/CVE-2018-12533">
 - [Pastea/CVE-2018-12533](https://github.com/Pastea/CVE-2018-12533)	<img alt="forks" src="https://img.shields.io/github/forks/Pastea/CVE-2018-12533">	<img alt="stars" src="https://img.shields.io/github/stars/Pastea/CVE-2018-12533">
 - [LucasKatashi/paint2die](https://github.com/LucasKatashi/paint2die)	<img alt="forks" src="https://img.shields.io/github/forks/LucasKatashi/paint2die">	<img alt="stars" src="https://img.shields.io/github/stars/LucasKatashi/paint2die">
+- [arslanben/richfaces-paint2d-lab](https://github.com/arslanben/richfaces-paint2d-lab)	<img alt="forks" src="https://img.shields.io/github/forks/arslanben/richfaces-paint2d-lab">	<img alt="stars" src="https://img.shields.io/github/stars/arslanben/richfaces-paint2d-lab">
 
 ---
 ## CVE-2018-12463 ()

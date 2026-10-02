@@ -6727,6 +6727,7 @@
 - [Sajuwithgithub/CVE2020-1472](https://github.com/Sajuwithgithub/CVE2020-1472)	<img alt="forks" src="https://img.shields.io/github/forks/Sajuwithgithub/CVE2020-1472">	<img alt="stars" src="https://img.shields.io/github/stars/Sajuwithgithub/CVE2020-1472">
 - [technion/ZeroLogonAssess](https://github.com/technion/ZeroLogonAssess)	<img alt="forks" src="https://img.shields.io/github/forks/technion/ZeroLogonAssess">	<img alt="stars" src="https://img.shields.io/github/stars/technion/ZeroLogonAssess">
 - [mos165/CVE-20200-1472](https://github.com/mos165/CVE-20200-1472)	<img alt="forks" src="https://img.shields.io/github/forks/mos165/CVE-20200-1472">	<img alt="stars" src="https://img.shields.io/github/stars/mos165/CVE-20200-1472">
+- [erk3/zeroscan](https://github.com/erk3/zeroscan)	<img alt="forks" src="https://img.shields.io/github/forks/erk3/zeroscan">	<img alt="stars" src="https://img.shields.io/github/stars/erk3/zeroscan">
 
 ---
 ## CVE-2020-14664 (2020-07-15T18:15:00)

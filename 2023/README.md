@@ -7156,6 +7156,7 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [fhAnso/CVE-2023-28432](https://github.com/fhAnso/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/fhAnso/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/fhAnso/CVE-2023-28432">
 - [dcduc/CVE-2023-28432](https://github.com/dcduc/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/dcduc/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/dcduc/CVE-2023-28432">
 - [NET-Flowers/CVE-2023-28432](https://github.com/NET-Flowers/CVE-2023-28432)	<img alt="forks" src="https://img.shields.io/github/forks/NET-Flowers/CVE-2023-28432">	<img alt="stars" src="https://img.shields.io/github/stars/NET-Flowers/CVE-2023-28432">
+- [cgi-italy-insula-processing/minio](https://github.com/cgi-italy-insula-processing/minio)	<img alt="forks" src="https://img.shields.io/github/forks/cgi-italy-insula-processing/minio">	<img alt="stars" src="https://img.shields.io/github/stars/cgi-italy-insula-processing/minio">
 
 ---
 ## CVE-2023-28424 (2023-03-20T13:15:00)
