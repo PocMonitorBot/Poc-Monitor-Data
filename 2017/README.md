@@ -491,6 +491,7 @@
 - [MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026](https://github.com/MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026)	<img alt="forks" src="https://img.shields.io/github/forks/MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026">	<img alt="stars" src="https://img.shields.io/github/stars/MK-ULTRA-project-monarch/CVE-2017-7921-Writeup-2026">
 - [xjghnxhlh/hikihack](https://github.com/xjghnxhlh/hikihack)	<img alt="forks" src="https://img.shields.io/github/forks/xjghnxhlh/hikihack">	<img alt="stars" src="https://img.shields.io/github/stars/xjghnxhlh/hikihack">
 - [blacksheepstudio/CVE-2017-7921-EXP](https://github.com/blacksheepstudio/CVE-2017-7921-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/blacksheepstudio/CVE-2017-7921-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/blacksheepstudio/CVE-2017-7921-EXP">
+- [Th3Purge/CVE-2017-7921-Exploit](https://github.com/Th3Purge/CVE-2017-7921-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Purge/CVE-2017-7921-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Purge/CVE-2017-7921-Exploit">
 
 ---
 ## CVE-2017-7912 ()
@@ -2682,7 +2683,7 @@
 ---
 ## CVE-2017-12561 (2018-02-15T22:29:00)
 > A remote code execution vulnerability in HPE intelligent Management Center (iMC) PLAT version Plat 7.3 E0504P4 and earlier was found.
-- [Everdoh/CVE-2017-12561](https://github.com/Everdoh/CVE-2017-12561)	<img alt="forks" src="https://img.shields.io/github/forks/Everdoh/CVE-2017-12561">	<img alt="stars" src="https://img.shields.io/github/stars/Everdoh/CVE-2017-12561">
+- [parapapinho/CVE-2017-12561](https://github.com/parapapinho/CVE-2017-12561)	<img alt="forks" src="https://img.shields.io/github/forks/parapapinho/CVE-2017-12561">	<img alt="stars" src="https://img.shields.io/github/stars/parapapinho/CVE-2017-12561">
 
 ---
 ## CVE-2017-12542 ()
