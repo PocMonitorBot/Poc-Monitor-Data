@@ -41761,6 +41761,11 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [Live-Hack-CVE/CVE-2022-0897](https://github.com/Live-Hack-CVE/CVE-2022-0897)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0897">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0897">
 
 ---
+## CVE-2022-0891 ()
+> 
+- [flavorex0000/libtiff-cve-2022-0891-lab](https://github.com/flavorex0000/libtiff-cve-2022-0891-lab)	<img alt="forks" src="https://img.shields.io/github/forks/flavorex0000/libtiff-cve-2022-0891-lab">	<img alt="stars" src="https://img.shields.io/github/stars/flavorex0000/libtiff-cve-2022-0891-lab">
+
+---
 ## CVE-2022-0863 (2022-06-13T13:15:00)
 > The WP SVG Icons WordPress plugin through 3.2.3 does not properly validate uploaded custom icon packs, allowing an high privileged user like an admin to upload a zip file containing malicious php code, leading to remote code execution.
 - [Live-Hack-CVE/CVE-2022-0863](https://github.com/Live-Hack-CVE/CVE-2022-0863)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-0863">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-0863">

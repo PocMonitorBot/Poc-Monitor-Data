@@ -2980,6 +2980,7 @@
 - [Revnin/CCTV-MACHINE](https://github.com/Revnin/CCTV-MACHINE)	<img alt="forks" src="https://img.shields.io/github/forks/Revnin/CCTV-MACHINE">	<img alt="stars" src="https://img.shields.io/github/stars/Revnin/CCTV-MACHINE">
 - [ozcanpng/CVE-2025-60787](https://github.com/ozcanpng/CVE-2025-60787)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2025-60787">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2025-60787">
 - [ledksv/cctv](https://github.com/ledksv/cctv)	<img alt="forks" src="https://img.shields.io/github/forks/ledksv/cctv">	<img alt="stars" src="https://img.shields.io/github/stars/ledksv/cctv">
+- [diamorphine666/CVE-2025-60787](https://github.com/diamorphine666/CVE-2025-60787)	<img alt="forks" src="https://img.shields.io/github/forks/diamorphine666/CVE-2025-60787">	<img alt="stars" src="https://img.shields.io/github/stars/diamorphine666/CVE-2025-60787">
 
 ---
 ## CVE-2025-60752 ()
@@ -11577,6 +11578,11 @@
 ## CVE-2025-21082 ()
 > 
 - [kkaanozturk/HyperOS-Directory-Traversal-Analysis](https://github.com/kkaanozturk/HyperOS-Directory-Traversal-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/kkaanozturk/HyperOS-Directory-Traversal-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/kkaanozturk/HyperOS-Directory-Traversal-Analysis">
+
+---
+## CVE-2025-21065 ()
+> 
+- [Pealeap/CVE-2025-21065](https://github.com/Pealeap/CVE-2025-21065)	<img alt="forks" src="https://img.shields.io/github/forks/Pealeap/CVE-2025-21065">	<img alt="stars" src="https://img.shields.io/github/stars/Pealeap/CVE-2025-21065">
 
 ---
 ## CVE-2025-21042 ()
