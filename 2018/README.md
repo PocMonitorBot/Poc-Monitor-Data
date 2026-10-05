@@ -569,6 +569,7 @@
 - [Prapul1/VulnHub-DC1-Writeup](https://github.com/Prapul1/VulnHub-DC1-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Prapul1/VulnHub-DC1-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Prapul1/VulnHub-DC1-Writeup">
 - [elkhaoudari/CVE-2018-7600-PoC](https://github.com/elkhaoudari/CVE-2018-7600-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/elkhaoudari/CVE-2018-7600-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/elkhaoudari/CVE-2018-7600-PoC">
 - [Vaibhav91one/drupalgeddon2-cve-lab](https://github.com/Vaibhav91one/drupalgeddon2-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Vaibhav91one/drupalgeddon2-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Vaibhav91one/drupalgeddon2-cve-lab">
+- [K52-ai/CVE-2018-7600](https://github.com/K52-ai/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/K52-ai/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/K52-ai/CVE-2018-7600">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)

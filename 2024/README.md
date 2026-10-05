@@ -4358,6 +4358,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [DharmarajPS/pdfjs-cve-2024-4367-poc](https://github.com/DharmarajPS/pdfjs-cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/DharmarajPS/pdfjs-cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/DharmarajPS/pdfjs-cve-2024-4367-poc">
 - [Qq1111111111/pentest-i021-poc-1789486727](https://github.com/Qq1111111111/pentest-i021-poc-1789486727)	<img alt="forks" src="https://img.shields.io/github/forks/Qq1111111111/pentest-i021-poc-1789486727">	<img alt="stars" src="https://img.shields.io/github/stars/Qq1111111111/pentest-i021-poc-1789486727">
 - [stuara1/cpc-pdfjs-poc](https://github.com/stuara1/cpc-pdfjs-poc)	<img alt="forks" src="https://img.shields.io/github/forks/stuara1/cpc-pdfjs-poc">	<img alt="stars" src="https://img.shields.io/github/stars/stuara1/cpc-pdfjs-poc">
+- [weae26/cve-2024-4367-poc](https://github.com/weae26/cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/weae26/cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/weae26/cve-2024-4367-poc">
 
 ---
 ## CVE-2024-43639 ()
@@ -7453,6 +7454,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [vnescape/zygote-CVE-2024-31317](https://github.com/vnescape/zygote-CVE-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/vnescape/zygote-CVE-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/vnescape/zygote-CVE-2024-31317">
 - [GitAmanS/ZygoteExploitDemo](https://github.com/GitAmanS/ZygoteExploitDemo)	<img alt="forks" src="https://img.shields.io/github/forks/GitAmanS/ZygoteExploitDemo">	<img alt="stars" src="https://img.shields.io/github/stars/GitAmanS/ZygoteExploitDemo">
 - [Tinnci/cve-2024-31317](https://github.com/Tinnci/cve-2024-31317)	<img alt="forks" src="https://img.shields.io/github/forks/Tinnci/cve-2024-31317">	<img alt="stars" src="https://img.shields.io/github/stars/Tinnci/cve-2024-31317">
+- [nianfan555/PoC-Deployer-System](https://github.com/nianfan555/PoC-Deployer-System)	<img alt="forks" src="https://img.shields.io/github/forks/nianfan555/PoC-Deployer-System">	<img alt="stars" src="https://img.shields.io/github/stars/nianfan555/PoC-Deployer-System">
 
 ---
 ## CVE-2024-31286 (2024-04-07T18:15:00)

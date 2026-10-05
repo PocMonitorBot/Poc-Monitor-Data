@@ -3155,6 +3155,7 @@
 - [iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit](https://github.com/iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/iOxsec/CVE-2025-6018-CVE-2025-6019-Privilege-Escalation-Exploit">
 - [karimelsheikh1/HTB-Pterodactyl-Writeup](https://github.com/karimelsheikh1/HTB-Pterodactyl-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/karimelsheikh1/HTB-Pterodactyl-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/karimelsheikh1/HTB-Pterodactyl-Writeup">
 - [V0idW1re/HTB-Pterodactyl-Writeup](https://github.com/V0idW1re/HTB-Pterodactyl-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/V0idW1re/HTB-Pterodactyl-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/V0idW1re/HTB-Pterodactyl-Writeup">
+- [JustThinkingHard/HID-Attack](https://github.com/JustThinkingHard/HID-Attack)	<img alt="forks" src="https://img.shields.io/github/forks/JustThinkingHard/HID-Attack">	<img alt="stars" src="https://img.shields.io/github/stars/JustThinkingHard/HID-Attack">
 
 ---
 ## CVE-2025-60188 ()
@@ -5056,6 +5057,7 @@
 - [mythicemissarymall/zuvmwbnt](https://github.com/mythicemissarymall/zuvmwbnt)	<img alt="forks" src="https://img.shields.io/github/forks/mythicemissarymall/zuvmwbnt">	<img alt="stars" src="https://img.shields.io/github/stars/mythicemissarymall/zuvmwbnt">
 - [Samir660x/React2Shell_CVE-2025-55182](https://github.com/Samir660x/React2Shell_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Samir660x/React2Shell_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Samir660x/React2Shell_CVE-2025-55182">
 - [3SC0133/CVE-2025-55182-React2Shell](https://github.com/3SC0133/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/3SC0133/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/3SC0133/CVE-2025-55182-React2Shell">
+- [RashmithaDeSilva/React2Shell_CVE-2025-55182](https://github.com/RashmithaDeSilva/React2Shell_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RashmithaDeSilva/React2Shell_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RashmithaDeSilva/React2Shell_CVE-2025-55182">
 
 ---
 ## CVE-2025-55177 ()
@@ -6442,6 +6444,7 @@
 - [onniio/CVE-2025-49144](https://github.com/onniio/CVE-2025-49144)	<img alt="forks" src="https://img.shields.io/github/forks/onniio/CVE-2025-49144">	<img alt="stars" src="https://img.shields.io/github/stars/onniio/CVE-2025-49144">
 - [ammarm0010/CVE-2025-49144_PoC](https://github.com/ammarm0010/CVE-2025-49144_PoC)	<img alt="forks" src="https://img.shields.io/github/forks/ammarm0010/CVE-2025-49144_PoC">	<img alt="stars" src="https://img.shields.io/github/stars/ammarm0010/CVE-2025-49144_PoC">
 - [havertz2110/CVE-2025-49144-PoC](https://github.com/havertz2110/CVE-2025-49144-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/havertz2110/CVE-2025-49144-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/havertz2110/CVE-2025-49144-PoC">
+- [GiZcesi/HJregsvr32](https://github.com/GiZcesi/HJregsvr32)	<img alt="forks" src="https://img.shields.io/github/forks/GiZcesi/HJregsvr32">	<img alt="stars" src="https://img.shields.io/github/stars/GiZcesi/HJregsvr32">
 
 ---
 ## CVE-2025-49132 ()

@@ -8989,6 +8989,7 @@
 - [WhatsWrongAndWhy/CVE-2021-3156](https://github.com/WhatsWrongAndWhy/CVE-2021-3156)	<img alt="forks" src="https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2021-3156">	<img alt="stars" src="https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2021-3156">
 - [gmh5225/cve-2021-3156-](https://github.com/gmh5225/cve-2021-3156-)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/cve-2021-3156-">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/cve-2021-3156-">
 - [Shams-Ul-Mehmood/CVE-2021-3156-Project](https://github.com/Shams-Ul-Mehmood/CVE-2021-3156-Project)	<img alt="forks" src="https://img.shields.io/github/forks/Shams-Ul-Mehmood/CVE-2021-3156-Project">	<img alt="stars" src="https://img.shields.io/github/stars/Shams-Ul-Mehmood/CVE-2021-3156-Project">
+- [sandesh9978/CVE-2021-3156-Sudo-Checker](https://github.com/sandesh9978/CVE-2021-3156-Sudo-Checker)	<img alt="forks" src="https://img.shields.io/github/forks/sandesh9978/CVE-2021-3156-Sudo-Checker">	<img alt="stars" src="https://img.shields.io/github/stars/sandesh9978/CVE-2021-3156-Sudo-Checker">
 
 ---
 ## CVE-2021-31525 (2021-05-27T13:15:00)

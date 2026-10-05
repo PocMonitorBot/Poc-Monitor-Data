@@ -223,6 +223,8 @@
 - [DanReis20/pentest-lab-metasploitable2](https://github.com/DanReis20/pentest-lab-metasploitable2)	<img alt="forks" src="https://img.shields.io/github/forks/DanReis20/pentest-lab-metasploitable2">	<img alt="stars" src="https://img.shields.io/github/stars/DanReis20/pentest-lab-metasploitable2">
 - [delmag138/NovaShyld_Task_3](https://github.com/delmag138/NovaShyld_Task_3)	<img alt="forks" src="https://img.shields.io/github/forks/delmag138/NovaShyld_Task_3">	<img alt="stars" src="https://img.shields.io/github/stars/delmag138/NovaShyld_Task_3">
 - [Spidey1919/vsftpd-2.3.4-rce-assessment](https://github.com/Spidey1919/vsftpd-2.3.4-rce-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Spidey1919/vsftpd-2.3.4-rce-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Spidey1919/vsftpd-2.3.4-rce-assessment">
+- [Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523](https://github.com/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523">
+- [sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs](https://github.com/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs)	<img alt="forks" src="https://img.shields.io/github/forks/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs">	<img alt="stars" src="https://img.shields.io/github/stars/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
