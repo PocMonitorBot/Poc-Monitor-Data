@@ -3682,6 +3682,7 @@
 - [iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX)	<img alt="forks" src="https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX">	<img alt="stars" src="https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX">
 - [shivammittal2403/cve-2025-57819-freepbx-range](https://github.com/shivammittal2403/cve-2025-57819-freepbx-range)	<img alt="forks" src="https://img.shields.io/github/forks/shivammittal2403/cve-2025-57819-freepbx-range">	<img alt="stars" src="https://img.shields.io/github/stars/shivammittal2403/cve-2025-57819-freepbx-range">
 - [donggle0802-code/cve-2025-57819](https://github.com/donggle0802-code/cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/donggle0802-code/cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/donggle0802-code/cve-2025-57819">
+- [kelltich-756/FreePBX-Breaker](https://github.com/kelltich-756/FreePBX-Breaker)	<img alt="forks" src="https://img.shields.io/github/forks/kelltich-756/FreePBX-Breaker">	<img alt="stars" src="https://img.shields.io/github/stars/kelltich-756/FreePBX-Breaker">
 
 ---
 ## CVE-2025-5781 ()
@@ -5058,6 +5059,7 @@
 - [Samir660x/React2Shell_CVE-2025-55182](https://github.com/Samir660x/React2Shell_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Samir660x/React2Shell_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Samir660x/React2Shell_CVE-2025-55182">
 - [3SC0133/CVE-2025-55182-React2Shell](https://github.com/3SC0133/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/3SC0133/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/3SC0133/CVE-2025-55182-React2Shell">
 - [RashmithaDeSilva/React2Shell_CVE-2025-55182](https://github.com/RashmithaDeSilva/React2Shell_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RashmithaDeSilva/React2Shell_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RashmithaDeSilva/React2Shell_CVE-2025-55182">
+- [OhSoomin812/cve-2025-55182-ctf](https://github.com/OhSoomin812/cve-2025-55182-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/OhSoomin812/cve-2025-55182-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/OhSoomin812/cve-2025-55182-ctf">
 
 ---
 ## CVE-2025-55177 ()
@@ -5156,6 +5158,7 @@
 ## CVE-2025-54769 ()
 > 
 - [byteReaper77/CVE-2025-54769](https://github.com/byteReaper77/CVE-2025-54769)	<img alt="forks" src="https://img.shields.io/github/forks/byteReaper77/CVE-2025-54769">	<img alt="stars" src="https://img.shields.io/github/stars/byteReaper77/CVE-2025-54769">
+- [tunahantekeoglu/CVE-2025-54769](https://github.com/tunahantekeoglu/CVE-2025-54769)	<img alt="forks" src="https://img.shields.io/github/forks/tunahantekeoglu/CVE-2025-54769">	<img alt="stars" src="https://img.shields.io/github/stars/tunahantekeoglu/CVE-2025-54769">
 
 ---
 ## CVE-2025-54726 ()
@@ -6670,6 +6673,11 @@
 ## CVE-2025-48621 ()
 > 
 - [Layer1-Artist/POC-CVE-2025-48621](https://github.com/Layer1-Artist/POC-CVE-2025-48621)	<img alt="forks" src="https://img.shields.io/github/forks/Layer1-Artist/POC-CVE-2025-48621">	<img alt="stars" src="https://img.shields.io/github/stars/Layer1-Artist/POC-CVE-2025-48621">
+
+---
+## CVE-2025-48617 ()
+> 
+- [K1tor/PixelVolte5G](https://github.com/K1tor/PixelVolte5G)	<img alt="forks" src="https://img.shields.io/github/forks/K1tor/PixelVolte5G">	<img alt="stars" src="https://img.shields.io/github/stars/K1tor/PixelVolte5G">
 
 ---
 ## CVE-2025-48595 ()
@@ -12157,6 +12165,7 @@
 ## CVE-2025-14659 ()
 > 
 - [PeterLinccl/Vulnerability-DLink-CVE-2025-14659](https://github.com/PeterLinccl/Vulnerability-DLink-CVE-2025-14659)	<img alt="forks" src="https://img.shields.io/github/forks/PeterLinccl/Vulnerability-DLink-CVE-2025-14659">	<img alt="stars" src="https://img.shields.io/github/stars/PeterLinccl/Vulnerability-DLink-CVE-2025-14659">
+- [PeterLinccl/CVE-2025-14659-DIR-860L](https://github.com/PeterLinccl/CVE-2025-14659-DIR-860L)	<img alt="forks" src="https://img.shields.io/github/forks/PeterLinccl/CVE-2025-14659-DIR-860L">	<img alt="stars" src="https://img.shields.io/github/stars/PeterLinccl/CVE-2025-14659-DIR-860L">
 
 ---
 ## CVE-2025-14611 ()
@@ -12857,6 +12866,7 @@
 ## CVE-2025-1122 ()
 > 
 - [FWNavy/RMASmoke](https://github.com/FWNavy/RMASmoke)	<img alt="forks" src="https://img.shields.io/github/forks/FWNavy/RMASmoke">	<img alt="stars" src="https://img.shields.io/github/stars/FWNavy/RMASmoke">
+- [MCRideable3963/RMASmoke-v2](https://github.com/MCRideable3963/RMASmoke-v2)	<img alt="forks" src="https://img.shields.io/github/forks/MCRideable3963/RMASmoke-v2">	<img alt="stars" src="https://img.shields.io/github/stars/MCRideable3963/RMASmoke-v2">
 
 ---
 ## CVE-2025-11203 ()

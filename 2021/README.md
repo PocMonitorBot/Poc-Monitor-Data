@@ -8817,6 +8817,11 @@
 - [tranquac/OpenPLC_v3](https://github.com/tranquac/OpenPLC_v3)	<img alt="forks" src="https://img.shields.io/github/forks/tranquac/OpenPLC_v3">	<img alt="stars" src="https://img.shields.io/github/stars/tranquac/OpenPLC_v3">
 
 ---
+## CVE-2021-31624 ()
+> 
+- [sifatnotes/Learn-SecByte-CTF-Labs-Tabnabbing-Web-Recon-Nmap-Netdiscover-CVE-Labs](https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Tabnabbing-Web-Recon-Nmap-Netdiscover-CVE-Labs)	<img alt="forks" src="https://img.shields.io/github/forks/sifatnotes/Learn-SecByte-CTF-Labs-Tabnabbing-Web-Recon-Nmap-Netdiscover-CVE-Labs">	<img alt="stars" src="https://img.shields.io/github/stars/sifatnotes/Learn-SecByte-CTF-Labs-Tabnabbing-Web-Recon-Nmap-Netdiscover-CVE-Labs">
+
+---
 ## CVE-2021-31602 ()
 > 
 - [0cool-design/PWNtaho](https://github.com/0cool-design/PWNtaho)	<img alt="forks" src="https://img.shields.io/github/forks/0cool-design/PWNtaho">	<img alt="stars" src="https://img.shields.io/github/stars/0cool-design/PWNtaho">
@@ -13284,6 +13289,7 @@
 - [FakeShell/CVE-2021-1931-BBRY-KEY2](https://github.com/FakeShell/CVE-2021-1931-BBRY-KEY2)	<img alt="forks" src="https://img.shields.io/github/forks/FakeShell/CVE-2021-1931-BBRY-KEY2">	<img alt="stars" src="https://img.shields.io/github/stars/FakeShell/CVE-2021-1931-BBRY-KEY2">
 - [aomsin2526/xperia_5_bl_unlocker_poc](https://github.com/aomsin2526/xperia_5_bl_unlocker_poc)	<img alt="forks" src="https://img.shields.io/github/forks/aomsin2526/xperia_5_bl_unlocker_poc">	<img alt="stars" src="https://img.shields.io/github/stars/aomsin2526/xperia_5_bl_unlocker_poc">
 - [starseed12345/QuestStack](https://github.com/starseed12345/QuestStack)	<img alt="forks" src="https://img.shields.io/github/forks/starseed12345/QuestStack">	<img alt="stars" src="https://img.shields.io/github/stars/starseed12345/QuestStack">
+- [stanw47/Blackberry-Key2-Research](https://github.com/stanw47/Blackberry-Key2-Research)	<img alt="forks" src="https://img.shields.io/github/forks/stanw47/Blackberry-Key2-Research">	<img alt="stars" src="https://img.shields.io/github/stars/stanw47/Blackberry-Key2-Research">
 
 ---
 ## CVE-2021-1905 ()

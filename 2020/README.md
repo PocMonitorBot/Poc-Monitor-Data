@@ -4862,6 +4862,11 @@
 - [huzaifahussain98/CVE-2020-23582](https://github.com/huzaifahussain98/CVE-2020-23582)	<img alt="forks" src="https://img.shields.io/github/forks/huzaifahussain98/CVE-2020-23582">	<img alt="stars" src="https://img.shields.io/github/stars/huzaifahussain98/CVE-2020-23582">
 
 ---
+## CVE-2020-23546 ()
+> 
+- [sifatnotes/Learn-SecByte-CTF-Labs-Tabnabbing-Web-Recon-Nmap-Netdiscover-CVE-Labs](https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Tabnabbing-Web-Recon-Nmap-Netdiscover-CVE-Labs)	<img alt="forks" src="https://img.shields.io/github/forks/sifatnotes/Learn-SecByte-CTF-Labs-Tabnabbing-Web-Recon-Nmap-Netdiscover-CVE-Labs">	<img alt="stars" src="https://img.shields.io/github/stars/sifatnotes/Learn-SecByte-CTF-Labs-Tabnabbing-Web-Recon-Nmap-Netdiscover-CVE-Labs">
+
+---
 ## CVE-2020-23533 (2021-04-06T16:15:00)
 > Union Pay up to 1.2.0, for web based versions contains a CWE-347: Improper Verification of Cryptographic Signature vulnerability, allows attackers to shop for free in merchants' websites and mobile apps, via a crafted authentication code (MAC) which is generated based on a secret key which is NULL.
 - [Live-Hack-CVE/CVE-2020-23533](https://github.com/Live-Hack-CVE/CVE-2020-23533)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-23533">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-23533">

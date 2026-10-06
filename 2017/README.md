@@ -1054,6 +1054,7 @@
 - [AIPEACS/SC3010-Computer-Security](https://github.com/AIPEACS/SC3010-Computer-Security)	<img alt="forks" src="https://img.shields.io/github/forks/AIPEACS/SC3010-Computer-Security">	<img alt="stars" src="https://img.shields.io/github/stars/AIPEACS/SC3010-Computer-Security">
 - [Majaktech/apache-struts-cve-2017-5638-project](https://github.com/Majaktech/apache-struts-cve-2017-5638-project)	<img alt="forks" src="https://img.shields.io/github/forks/Majaktech/apache-struts-cve-2017-5638-project">	<img alt="stars" src="https://img.shields.io/github/stars/Majaktech/apache-struts-cve-2017-5638-project">
 - [GU-007/struts2-tool](https://github.com/GU-007/struts2-tool)	<img alt="forks" src="https://img.shields.io/github/forks/GU-007/struts2-tool">	<img alt="stars" src="https://img.shields.io/github/stars/GU-007/struts2-tool">
+- [Piyush-Tiwatne/struts-patch-gap-auditor](https://github.com/Piyush-Tiwatne/struts-patch-gap-auditor)	<img alt="forks" src="https://img.shields.io/github/forks/Piyush-Tiwatne/struts-patch-gap-auditor">	<img alt="stars" src="https://img.shields.io/github/stars/Piyush-Tiwatne/struts-patch-gap-auditor">
 
 ---
 ## CVE-2017-5633 ()
