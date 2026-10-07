@@ -1083,6 +1083,11 @@
 - [imjdl/CVE-2025-68705](https://github.com/imjdl/CVE-2025-68705)	<img alt="forks" src="https://img.shields.io/github/forks/imjdl/CVE-2025-68705">	<img alt="stars" src="https://img.shields.io/github/stars/imjdl/CVE-2025-68705">
 
 ---
+## CVE-2025-6867 ()
+> 
+- [richard1026/CVE-2025-6867-reproduction](https://github.com/richard1026/CVE-2025-6867-reproduction)	<img alt="forks" src="https://img.shields.io/github/forks/richard1026/CVE-2025-6867-reproduction">	<img alt="stars" src="https://img.shields.io/github/stars/richard1026/CVE-2025-6867-reproduction">
+
+---
 ## CVE-2025-68664 ()
 > 
 - [Ak-cybe/CVE-2025-68664-LangGrinch-PoC](https://github.com/Ak-cybe/CVE-2025-68664-LangGrinch-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ak-cybe/CVE-2025-68664-LangGrinch-PoC">
@@ -5060,6 +5065,7 @@
 - [3SC0133/CVE-2025-55182-React2Shell](https://github.com/3SC0133/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/3SC0133/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/3SC0133/CVE-2025-55182-React2Shell">
 - [RashmithaDeSilva/React2Shell_CVE-2025-55182](https://github.com/RashmithaDeSilva/React2Shell_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RashmithaDeSilva/React2Shell_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RashmithaDeSilva/React2Shell_CVE-2025-55182">
 - [OhSoomin812/cve-2025-55182-ctf](https://github.com/OhSoomin812/cve-2025-55182-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/OhSoomin812/cve-2025-55182-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/OhSoomin812/cve-2025-55182-ctf">
+- [Frizzardsecurity/CVE-2025-55182](https://github.com/Frizzardsecurity/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Frizzardsecurity/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Frizzardsecurity/CVE-2025-55182">
 
 ---
 ## CVE-2025-55177 ()
@@ -8468,6 +8474,11 @@
 - [salimelh94/Web-Penetration-Test](https://github.com/salimelh94/Web-Penetration-Test)	<img alt="forks" src="https://img.shields.io/github/forks/salimelh94/Web-Penetration-Test">	<img alt="stars" src="https://img.shields.io/github/stars/salimelh94/Web-Penetration-Test">
 
 ---
+## CVE-2025-34069 ()
+> 
+- [cppghoul/CVE-2025-34069](https://github.com/cppghoul/CVE-2025-34069)	<img alt="forks" src="https://img.shields.io/github/forks/cppghoul/CVE-2025-34069">	<img alt="stars" src="https://img.shields.io/github/stars/cppghoul/CVE-2025-34069">
+
+---
 ## CVE-2025-34065 ()
 > 
 - [Savanooo/avtech-cve-2025-34065-analysis](https://github.com/Savanooo/avtech-cve-2025-34065-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Savanooo/avtech-cve-2025-34065-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Savanooo/avtech-cve-2025-34065-analysis">
@@ -11509,6 +11520,8 @@
 - [diyiqiuye/CVE-2025-21479-FX5P](https://github.com/diyiqiuye/CVE-2025-21479-FX5P)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX5P">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX5P">
 - [diyiqiuye/CVE-2025-21479-FX3](https://github.com/diyiqiuye/CVE-2025-21479-FX3)	<img alt="forks" src="https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX3">	<img alt="stars" src="https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX3">
 - [longg66/cve-2025-21479_iqooneo7speed](https://github.com/longg66/cve-2025-21479_iqooneo7speed)	<img alt="forks" src="https://img.shields.io/github/forks/longg66/cve-2025-21479_iqooneo7speed">	<img alt="stars" src="https://img.shields.io/github/stars/longg66/cve-2025-21479_iqooneo7speed">
+- [Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479](https://github.com/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479)	<img alt="forks" src="https://img.shields.io/github/forks/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">	<img alt="stars" src="https://img.shields.io/github/stars/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479">
+- [linux-tools/VIVO-IQOO-Neo9-Root-Tools](https://github.com/linux-tools/VIVO-IQOO-Neo9-Root-Tools)	<img alt="forks" src="https://img.shields.io/github/forks/linux-tools/VIVO-IQOO-Neo9-Root-Tools">	<img alt="stars" src="https://img.shields.io/github/stars/linux-tools/VIVO-IQOO-Neo9-Root-Tools">
 
 ---
 ## CVE-2025-21420 ()

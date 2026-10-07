@@ -3145,6 +3145,7 @@
 - [pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt](https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt)	<img alt="forks" src="https://img.shields.io/github/forks/pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt">	<img alt="stars" src="https://img.shields.io/github/stars/pisut4152/Sigma-Rule-for-CVE-2021-41773-and-CVE-2021-42013-exploitation-attempt">
 - [berraesen/apache-cve-2021-42013-lab](https://github.com/berraesen/apache-cve-2021-42013-lab)	<img alt="forks" src="https://img.shields.io/github/forks/berraesen/apache-cve-2021-42013-lab">	<img alt="stars" src="https://img.shields.io/github/stars/berraesen/apache-cve-2021-42013-lab">
 - [andreamammano89-maker/CVE-2021-42013_821311](https://github.com/andreamammano89-maker/CVE-2021-42013_821311)	<img alt="forks" src="https://img.shields.io/github/forks/andreamammano89-maker/CVE-2021-42013_821311">	<img alt="stars" src="https://img.shields.io/github/stars/andreamammano89-maker/CVE-2021-42013_821311">
+- [lmcewen9/cve-2021-42013](https://github.com/lmcewen9/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/lmcewen9/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/lmcewen9/cve-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)

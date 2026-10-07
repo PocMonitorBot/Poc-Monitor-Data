@@ -278,6 +278,7 @@
 ## CVE-2013-3660 ()
 > 
 - [ExploitCN/CVE-2013-3660-x64-WIN7](https://github.com/ExploitCN/CVE-2013-3660-x64-WIN7)	<img alt="forks" src="https://img.shields.io/github/forks/ExploitCN/CVE-2013-3660-x64-WIN7">	<img alt="stars" src="https://img.shields.io/github/stars/ExploitCN/CVE-2013-3660-x64-WIN7">
+- [kikozz/CVE-2013-3660-win32k.sys](https://github.com/kikozz/CVE-2013-3660-win32k.sys)	<img alt="forks" src="https://img.shields.io/github/forks/kikozz/CVE-2013-3660-win32k.sys">	<img alt="stars" src="https://img.shields.io/github/stars/kikozz/CVE-2013-3660-win32k.sys">
 
 ---
 ## CVE-2013-3651 ()

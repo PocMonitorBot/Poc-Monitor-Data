@@ -11042,6 +11042,7 @@ This issue affects Juniper Networks Junos OS SRX Series and EX Series:
 - [hackyboiz/kcfg-bypass](https://github.com/hackyboiz/kcfg-bypass)	<img alt="forks" src="https://img.shields.io/github/forks/hackyboiz/kcfg-bypass">	<img alt="stars" src="https://img.shields.io/github/stars/hackyboiz/kcfg-bypass">
 - [Crowdfense/CVE-2024-21338](https://github.com/Crowdfense/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/Crowdfense/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/Crowdfense/CVE-2024-21338">
 - [wusijie/CVE-2024-21338-1](https://github.com/wusijie/CVE-2024-21338-1)	<img alt="forks" src="https://img.shields.io/github/forks/wusijie/CVE-2024-21338-1">	<img alt="stars" src="https://img.shields.io/github/stars/wusijie/CVE-2024-21338-1">
+- [kikozz/CVE-2024-21338](https://github.com/kikozz/CVE-2024-21338)	<img alt="forks" src="https://img.shields.io/github/forks/kikozz/CVE-2024-21338">	<img alt="stars" src="https://img.shields.io/github/stars/kikozz/CVE-2024-21338">
 
 ---
 ## CVE-2024-21334 (2024-03-12T17:15:00)
