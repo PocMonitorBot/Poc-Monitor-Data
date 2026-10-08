@@ -3604,6 +3604,11 @@
 - [carlzhang123/Blackash-CVE-2025-58360](https://github.com/carlzhang123/Blackash-CVE-2025-58360)	<img alt="forks" src="https://img.shields.io/github/forks/carlzhang123/Blackash-CVE-2025-58360">	<img alt="stars" src="https://img.shields.io/github/stars/carlzhang123/Blackash-CVE-2025-58360">
 
 ---
+## CVE-2025-58226 ()
+> 
+- [QASIM1401/CVE-2025-58226-PoC](https://github.com/QASIM1401/CVE-2025-58226-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/QASIM1401/CVE-2025-58226-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/QASIM1401/CVE-2025-58226-PoC">
+
+---
 ## CVE-2025-58180 ()
 > 
 - [prabhatverma47/CVE-2025-58180](https://github.com/prabhatverma47/CVE-2025-58180)	<img alt="forks" src="https://img.shields.io/github/forks/prabhatverma47/CVE-2025-58180">	<img alt="stars" src="https://img.shields.io/github/stars/prabhatverma47/CVE-2025-58180">
@@ -5066,6 +5071,7 @@
 - [RashmithaDeSilva/React2Shell_CVE-2025-55182](https://github.com/RashmithaDeSilva/React2Shell_CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/RashmithaDeSilva/React2Shell_CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/RashmithaDeSilva/React2Shell_CVE-2025-55182">
 - [OhSoomin812/cve-2025-55182-ctf](https://github.com/OhSoomin812/cve-2025-55182-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/OhSoomin812/cve-2025-55182-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/OhSoomin812/cve-2025-55182-ctf">
 - [Frizzardsecurity/CVE-2025-55182](https://github.com/Frizzardsecurity/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Frizzardsecurity/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Frizzardsecurity/CVE-2025-55182">
+- [tammin86/4thProject_Team1-CVE-2025-55182-](https://github.com/tammin86/4thProject_Team1-CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/tammin86/4thProject_Team1-CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/tammin86/4thProject_Team1-CVE-2025-55182-">
 
 ---
 ## CVE-2025-55177 ()
@@ -9678,6 +9684,7 @@
 - [kuyrathdaro/cve-2025-29927](https://github.com/kuyrathdaro/cve-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/kuyrathdaro/cve-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/kuyrathdaro/cve-2025-29927">
 - [Ritinify/CVE-2025-29927-PoC](https://github.com/Ritinify/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ritinify/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ritinify/CVE-2025-29927-PoC">
 - [vulnace/CVE-2025-29927](https://github.com/vulnace/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/vulnace/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/vulnace/CVE-2025-29927">
+- [sungue1/CVE-2025-29927](https://github.com/sungue1/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sungue1/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sungue1/CVE-2025-29927">
 
 ---
 ## CVE-2025-29891 ()

@@ -230,6 +230,7 @@
 - [Spidey1919/vsftpd-2.3.4-rce-assessment](https://github.com/Spidey1919/vsftpd-2.3.4-rce-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Spidey1919/vsftpd-2.3.4-rce-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Spidey1919/vsftpd-2.3.4-rce-assessment">
 - [Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523](https://github.com/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523)	<img alt="forks" src="https://img.shields.io/github/forks/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523">	<img alt="stars" src="https://img.shields.io/github/stars/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523">
 - [sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs](https://github.com/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs)	<img alt="forks" src="https://img.shields.io/github/forks/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs">	<img alt="stars" src="https://img.shields.io/github/stars/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs">
+- [Maalfer/vsftpd-2.3.4-exploit](https://github.com/Maalfer/vsftpd-2.3.4-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/vsftpd-2.3.4-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/vsftpd-2.3.4-exploit">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)

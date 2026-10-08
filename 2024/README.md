@@ -566,6 +566,7 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 ## CVE-2024-7971 ()
 > 
 - [mistymntncop/CVE-2024-7971](https://github.com/mistymntncop/CVE-2024-7971)	<img alt="forks" src="https://img.shields.io/github/forks/mistymntncop/CVE-2024-7971">	<img alt="stars" src="https://img.shields.io/github/stars/mistymntncop/CVE-2024-7971">
+- [pepoc3/cve-2024-7971-poc](https://github.com/pepoc3/cve-2024-7971-poc)	<img alt="forks" src="https://img.shields.io/github/forks/pepoc3/cve-2024-7971-poc">	<img alt="stars" src="https://img.shields.io/github/stars/pepoc3/cve-2024-7971-poc">
 
 ---
 ## CVE-2024-7966 ()
@@ -10111,6 +10112,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 ## CVE-2024-23652 (2024-01-31T22:15:00)
 > BuildKit is a toolkit for converting source code to build artifacts in an efficient, expressive and repeatable manner. A malicious BuildKit frontend or Dockerfile using RUN --mount could trick the feature that removes empty files created for the mountpoints into removing a file outside the container, from the host system. The issue has been fixed in v0.12.5. Workarounds include avoiding using BuildKit frontends from an untrusted source or building an untrusted Dockerfile containing RUN --mount feature.
 - [abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652)	<img alt="forks" src="https://img.shields.io/github/forks/abian2/CVE-2024-23652">	<img alt="stars" src="https://img.shields.io/github/stars/abian2/CVE-2024-23652">
+- [hgyc/CVE-stand](https://github.com/hgyc/CVE-stand)	<img alt="forks" src="https://img.shields.io/github/forks/hgyc/CVE-stand">	<img alt="stars" src="https://img.shields.io/github/stars/hgyc/CVE-stand">
 
 ---
 ## CVE-2024-23443 (2024-06-19T14:15:00)

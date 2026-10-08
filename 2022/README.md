@@ -42295,6 +42295,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [smallcat9612/CVE-2022-0492-Docker-Breakout-Checker-and-PoC](https://github.com/smallcat9612/CVE-2022-0492-Docker-Breakout-Checker-and-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/smallcat9612/CVE-2022-0492-Docker-Breakout-Checker-and-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/smallcat9612/CVE-2022-0492-Docker-Breakout-Checker-and-PoC">
 - [Perimora/cve_2022_0492](https://github.com/Perimora/cve_2022_0492)	<img alt="forks" src="https://img.shields.io/github/forks/Perimora/cve_2022_0492">	<img alt="stars" src="https://img.shields.io/github/stars/Perimora/cve_2022_0492">
 - [bb33bb/CVE-2022-0492](https://github.com/bb33bb/CVE-2022-0492)	<img alt="forks" src="https://img.shields.io/github/forks/bb33bb/CVE-2022-0492">	<img alt="stars" src="https://img.shields.io/github/stars/bb33bb/CVE-2022-0492">
+- [hgyc/CVE-stand](https://github.com/hgyc/CVE-stand)	<img alt="forks" src="https://img.shields.io/github/forks/hgyc/CVE-stand">	<img alt="stars" src="https://img.shields.io/github/stars/hgyc/CVE-stand">
 
 ---
 ## CVE-2022-0486 ()
