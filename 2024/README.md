@@ -8514,6 +8514,7 @@ SolarWinds Serv-U was susceptible to a directory transversal vulnerability that 
 ## CVE-2024-28752 ()
 > 
 - [ReaJason/CVE-2024-28752](https://github.com/ReaJason/CVE-2024-28752)	<img alt="forks" src="https://img.shields.io/github/forks/ReaJason/CVE-2024-28752">	<img alt="stars" src="https://img.shields.io/github/stars/ReaJason/CVE-2024-28752">
+- [CyberCTF/vulhub-apache-cxf-cve-2024-28752](https://github.com/CyberCTF/vulhub-apache-cxf-cve-2024-28752)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-apache-cxf-cve-2024-28752">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-apache-cxf-cve-2024-28752">
 
 ---
 ## CVE-2024-28741 (2024-04-06T19:15:00)
@@ -9923,6 +9924,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [dheeraj-jayaswal/CICD-Goat-Vapt-Writeup](https://github.com/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/dheeraj-jayaswal/CICD-Goat-Vapt-Writeup">
 - [MachiavelliII/CVE-2024-23897](https://github.com/MachiavelliII/CVE-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/MachiavelliII/CVE-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/MachiavelliII/CVE-2024-23897">
 - [Alexandertanay/jenkins-cve-2024-23897-lab](https://github.com/Alexandertanay/jenkins-cve-2024-23897-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Alexandertanay/jenkins-cve-2024-23897-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Alexandertanay/jenkins-cve-2024-23897-lab">
+- [CyberCTF/vulhub-jenkins-cve-2024-23897](https://github.com/CyberCTF/vulhub-jenkins-cve-2024-23897)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jenkins-cve-2024-23897">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jenkins-cve-2024-23897">
 
 ---
 ## CVE-2024-2389 (2024-04-02T13:15:00)

@@ -285,6 +285,7 @@
 - [jhnhnck/CVE-2019-9193](https://github.com/jhnhnck/CVE-2019-9193)	<img alt="forks" src="https://img.shields.io/github/forks/jhnhnck/CVE-2019-9193">	<img alt="stars" src="https://img.shields.io/github/stars/jhnhnck/CVE-2019-9193">
 - [Cheryanika/CVE-2019-9193---Postgresql---RCE](https://github.com/Cheryanika/CVE-2019-9193---Postgresql---RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Cheryanika/CVE-2019-9193---Postgresql---RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Cheryanika/CVE-2019-9193---Postgresql---RCE">
 - [CybersRMUTL/CVE-2019-9193-Postgresql-RCE](https://github.com/CybersRMUTL/CVE-2019-9193-Postgresql-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/CybersRMUTL/CVE-2019-9193-Postgresql-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/CybersRMUTL/CVE-2019-9193-Postgresql-RCE">
+- [CyberCTF/vulhub-postgres-cve-2019-9193](https://github.com/CyberCTF/vulhub-postgres-cve-2019-9193)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-postgres-cve-2019-9193">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-postgres-cve-2019-9193">
 
 ---
 ## CVE-2019-9184 ()
@@ -669,11 +670,12 @@
 - [hekadan/CVE-2019-7609](https://github.com/hekadan/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/hekadan/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/hekadan/CVE-2019-7609">
 - [jas502n/kibana-RCE](https://github.com/jas502n/kibana-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/jas502n/kibana-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/jas502n/kibana-RCE">
 - [OliveiraaX/cve-2019-7609-modified.py](https://github.com/OliveiraaX/cve-2019-7609-modified.py)	<img alt="forks" src="https://img.shields.io/github/forks/OliveiraaX/cve-2019-7609-modified.py">	<img alt="stars" src="https://img.shields.io/github/stars/OliveiraaX/cve-2019-7609-modified.py">
-- [OliveiraaX/CVE-2019-7609-KibanaRCE](https://github.com/OliveiraaX/CVE-2019-7609-KibanaRCE)	<img alt="forks" src="https://img.shields.io/github/forks/OliveiraaX/CVE-2019-7609-KibanaRCE">	<img alt="stars" src="https://img.shields.io/github/stars/OliveiraaX/CVE-2019-7609-KibanaRCE">
+- [d0x-awrqxavc/CVE-2019-7609-KibanaRCE](https://github.com/d0x-awrqxavc/CVE-2019-7609-KibanaRCE)	<img alt="forks" src="https://img.shields.io/github/forks/d0x-awrqxavc/CVE-2019-7609-KibanaRCE">	<img alt="stars" src="https://img.shields.io/github/stars/d0x-awrqxavc/CVE-2019-7609-KibanaRCE">
 - [hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc](https://github.com/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc)	<img alt="forks" src="https://img.shields.io/github/forks/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc">	<img alt="stars" src="https://img.shields.io/github/stars/hheeyywweellccoommee/cve-2019-7609-modified.py-etsqc">
 - [Akshay15-png/CVE-2019-7609](https://github.com/Akshay15-png/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/Akshay15-png/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/Akshay15-png/CVE-2019-7609">
-- [toxaker/CVE-2019-7609](https://github.com/toxaker/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/toxaker/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/toxaker/CVE-2019-7609">
+- [toxxxaka/CVE-2019-7609](https://github.com/toxxxaka/CVE-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/toxxxaka/CVE-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/toxxxaka/CVE-2019-7609">
 - [aleister1102/kibana-prototype-pollusion](https://github.com/aleister1102/kibana-prototype-pollusion)	<img alt="forks" src="https://img.shields.io/github/forks/aleister1102/kibana-prototype-pollusion">	<img alt="stars" src="https://img.shields.io/github/stars/aleister1102/kibana-prototype-pollusion">
+- [CyberCTF/vulhub-kibana-cve-2019-7609](https://github.com/CyberCTF/vulhub-kibana-cve-2019-7609)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-kibana-cve-2019-7609">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-kibana-cve-2019-7609">
 
 ---
 ## CVE-2019-7578 (2019-02-07T07:29:00)
@@ -778,6 +780,7 @@
 - [magicming200/CVE-2019-7238_Nexus_RCE_Tool](https://github.com/magicming200/CVE-2019-7238_Nexus_RCE_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/magicming200/CVE-2019-7238_Nexus_RCE_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/magicming200/CVE-2019-7238_Nexus_RCE_Tool">
 - [smallpiggy/CVE-2019-7238](https://github.com/smallpiggy/CVE-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/smallpiggy/CVE-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/smallpiggy/CVE-2019-7238">
 - [DannyRavi/nmap-scripts](https://github.com/DannyRavi/nmap-scripts)	<img alt="forks" src="https://img.shields.io/github/forks/DannyRavi/nmap-scripts">	<img alt="stars" src="https://img.shields.io/github/stars/DannyRavi/nmap-scripts">
+- [CyberCTF/vulhub-nexus-cve-2019-7238](https://github.com/CyberCTF/vulhub-nexus-cve-2019-7238)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-nexus-cve-2019-7238">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-nexus-cve-2019-7238">
 
 ---
 ## CVE-2019-7232 (2019-06-24T17:15:00)
@@ -1625,6 +1628,7 @@
 - [omarkurt/CVE-2019-5418](https://github.com/omarkurt/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/omarkurt/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/omarkurt/CVE-2019-5418">
 - [daehyeok0618/CVE-2019-5418](https://github.com/daehyeok0618/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/daehyeok0618/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/daehyeok0618/CVE-2019-5418">
 - [melardev/CVE-2019-5418](https://github.com/melardev/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/melardev/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/melardev/CVE-2019-5418">
+- [CyberCTF/vulhub-rails-cve-2019-5418](https://github.com/CyberCTF/vulhub-rails-cve-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-rails-cve-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-rails-cve-2019-5418">
 
 ---
 ## CVE-2019-5414 ()
@@ -2885,6 +2889,7 @@ use after free.
 - [Dungsocool/CVE-2019-20933](https://github.com/Dungsocool/CVE-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2019-20933">
 - [LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933](https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933">
 - [Hydragyrum/CVE-2019-20933](https://github.com/Hydragyrum/CVE-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/Hydragyrum/CVE-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/Hydragyrum/CVE-2019-20933">
+- [CyberCTF/vulhub-influxdb-cve-2019-20933](https://github.com/CyberCTF/vulhub-influxdb-cve-2019-20933)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-influxdb-cve-2019-20933">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-influxdb-cve-2019-20933">
 
 ---
 ## CVE-2019-20892 (2020-06-25T10:15:00)
@@ -3888,6 +3893,7 @@ use after free.
 - [Exploit-3389/CVE-2019-17564](https://github.com/Exploit-3389/CVE-2019-17564)	<img alt="forks" src="https://img.shields.io/github/forks/Exploit-3389/CVE-2019-17564">	<img alt="stars" src="https://img.shields.io/github/stars/Exploit-3389/CVE-2019-17564">
 - [Dor-Tumarkin/CVE-2019-17564-FastJson-Gadget](https://github.com/Dor-Tumarkin/CVE-2019-17564-FastJson-Gadget)	<img alt="forks" src="https://img.shields.io/github/forks/Dor-Tumarkin/CVE-2019-17564-FastJson-Gadget">	<img alt="stars" src="https://img.shields.io/github/stars/Dor-Tumarkin/CVE-2019-17564-FastJson-Gadget">
 - [fairyming/CVE-2019-17564](https://github.com/fairyming/CVE-2019-17564)	<img alt="forks" src="https://img.shields.io/github/forks/fairyming/CVE-2019-17564">	<img alt="stars" src="https://img.shields.io/github/stars/fairyming/CVE-2019-17564">
+- [CyberCTF/vulhub-dubbo-cve-2019-17564](https://github.com/CyberCTF/vulhub-dubbo-cve-2019-17564)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-dubbo-cve-2019-17564">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-dubbo-cve-2019-17564">
 
 ---
 ## CVE-2019-17563 (2019-12-23T17:15:00)
@@ -3908,8 +3914,9 @@ use after free.
 - [Imanfeng/Apache-Solr-RCE](https://github.com/Imanfeng/Apache-Solr-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Imanfeng/Apache-Solr-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Imanfeng/Apache-Solr-RCE">
 - [Ma1Dong/Solr_CVE-2019-17558](https://github.com/Ma1Dong/Solr_CVE-2019-17558)	<img alt="forks" src="https://img.shields.io/github/forks/Ma1Dong/Solr_CVE-2019-17558">	<img alt="stars" src="https://img.shields.io/github/stars/Ma1Dong/Solr_CVE-2019-17558">
 - [SDNDTeam/CVE-2019-17558_Solr_Vul_Tool](https://github.com/SDNDTeam/CVE-2019-17558_Solr_Vul_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/SDNDTeam/CVE-2019-17558_Solr_Vul_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/SDNDTeam/CVE-2019-17558_Solr_Vul_Tool">
-- [rogerzeferino/Apache-Solr-RCE-CVE-2019-17558](https://github.com/rogerzeferino/Apache-Solr-RCE-CVE-2019-17558)	<img alt="forks" src="https://img.shields.io/github/forks/rogerzeferino/Apache-Solr-RCE-CVE-2019-17558">	<img alt="stars" src="https://img.shields.io/github/stars/rogerzeferino/Apache-Solr-RCE-CVE-2019-17558">
+- [rogerzeferino/cve-2019-17558-apache-solr-rce](https://github.com/rogerzeferino/cve-2019-17558-apache-solr-rce)	<img alt="forks" src="https://img.shields.io/github/forks/rogerzeferino/cve-2019-17558-apache-solr-rce">	<img alt="stars" src="https://img.shields.io/github/stars/rogerzeferino/cve-2019-17558-apache-solr-rce">
 - [thelostworldFree/CVE-2019-17558_Solr_Vul_Tool](https://github.com/thelostworldFree/CVE-2019-17558_Solr_Vul_Tool)	<img alt="forks" src="https://img.shields.io/github/forks/thelostworldFree/CVE-2019-17558_Solr_Vul_Tool">	<img alt="stars" src="https://img.shields.io/github/stars/thelostworldFree/CVE-2019-17558_Solr_Vul_Tool">
+- [CyberCTF/vulhub-solr-cve-2019-17558](https://github.com/CyberCTF/vulhub-solr-cve-2019-17558)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-solr-cve-2019-17558">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-solr-cve-2019-17558">
 
 ---
 ## CVE-2019-17531 (2019-10-12T21:15:00)
@@ -4647,6 +4654,7 @@ use after free.
 - [viglia/cve-2019-15107](https://github.com/viglia/cve-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/viglia/cve-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/viglia/cve-2019-15107">
 - [jini135wii/CVE-2019-15107](https://github.com/jini135wii/CVE-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/jini135wii/CVE-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/jini135wii/CVE-2019-15107">
 - [shambhaviM18/cve-2019-15107-lab](https://github.com/shambhaviM18/cve-2019-15107-lab)	<img alt="forks" src="https://img.shields.io/github/forks/shambhaviM18/cve-2019-15107-lab">	<img alt="stars" src="https://img.shields.io/github/stars/shambhaviM18/cve-2019-15107-lab">
+- [CyberCTF/vulhub-webmin-cve-2019-15107](https://github.com/CyberCTF/vulhub-webmin-cve-2019-15107)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-webmin-cve-2019-15107">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-webmin-cve-2019-15107">
 
 ---
 ## CVE-2019-15053 ()
@@ -6227,6 +6235,7 @@ use after free.
 - [AndrewMas99/CVE-2019-11043-Vulnerability](https://github.com/AndrewMas99/CVE-2019-11043-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/AndrewMas99/CVE-2019-11043-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/AndrewMas99/CVE-2019-11043-Vulnerability">
 - [CodeHex083/phuip-fpizdam](https://github.com/CodeHex083/phuip-fpizdam)	<img alt="forks" src="https://img.shields.io/github/forks/CodeHex083/phuip-fpizdam">	<img alt="stars" src="https://img.shields.io/github/stars/CodeHex083/phuip-fpizdam">
 - [gon905332-jpg/cve-2019-11043.py](https://github.com/gon905332-jpg/cve-2019-11043.py)	<img alt="forks" src="https://img.shields.io/github/forks/gon905332-jpg/cve-2019-11043.py">	<img alt="stars" src="https://img.shields.io/github/stars/gon905332-jpg/cve-2019-11043.py">
+- [CyberCTF/vulhub-php-cve-2019-11043](https://github.com/CyberCTF/vulhub-php-cve-2019-11043)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-php-cve-2019-11043">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-php-cve-2019-11043">
 
 ---
 ## CVE-2019-10999 ()
@@ -6296,6 +6305,8 @@ use after free.
 > 
 - [masahiro331/CVE-2019-10758](https://github.com/masahiro331/CVE-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/masahiro331/CVE-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/masahiro331/CVE-2019-10758">
 - [lp008/CVE-2019-10758](https://github.com/lp008/CVE-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/lp008/CVE-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/lp008/CVE-2019-10758">
+- [CyberCTF/vulhub-mongo-express-cve-2019-10758](https://github.com/CyberCTF/vulhub-mongo-express-cve-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-mongo-express-cve-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-mongo-express-cve-2019-10758">
+- [ossf-cve-benchmark/CVE-2019-10758](https://github.com/ossf-cve-benchmark/CVE-2019-10758)	<img alt="forks" src="https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-10758">	<img alt="stars" src="https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-10758">
 
 ---
 ## CVE-2019-10750 ()

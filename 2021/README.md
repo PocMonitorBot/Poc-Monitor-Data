@@ -1687,6 +1687,8 @@
 - [mcpmark-eval-liuhezi/log4shell-audit](https://github.com/mcpmark-eval-liuhezi/log4shell-audit)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit">
 - [Muskann02/cve-2021-44228-lab](https://github.com/Muskann02/cve-2021-44228-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Muskann02/cve-2021-44228-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Muskann02/cve-2021-44228-lab">
 - [osflaky/exp-logpresso-CVE-2021-44228-Scanner](https://github.com/osflaky/exp-logpresso-CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/osflaky/exp-logpresso-CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/osflaky/exp-logpresso-CVE-2021-44228-Scanner">
+- [CyberCTF/vulhub-log4j-cve-2021-44228](https://github.com/CyberCTF/vulhub-log4j-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-log4j-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-log4j-cve-2021-44228">
+- [ResoluteRacoons/log4-Java-logging-poc](https://github.com/ResoluteRacoons/log4-Java-logging-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ResoluteRacoons/log4-Java-logging-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ResoluteRacoons/log4-Java-logging-poc">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -1964,6 +1966,7 @@
 - [Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798](https://github.com/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/Squ1shification/Grafana-Plugin-Enumerator-CVE-2021-43798">
 - [shivamg2004/-INE_Shivam_Gupta_23104003](https://github.com/shivamg2004/-INE_Shivam_Gupta_23104003)	<img alt="forks" src="https://img.shields.io/github/forks/shivamg2004/-INE_Shivam_Gupta_23104003">	<img alt="stars" src="https://img.shields.io/github/stars/shivamg2004/-INE_Shivam_Gupta_23104003">
 - [khanna419/cve-2021-43798-lab](https://github.com/khanna419/cve-2021-43798-lab)	<img alt="forks" src="https://img.shields.io/github/forks/khanna419/cve-2021-43798-lab">	<img alt="stars" src="https://img.shields.io/github/stars/khanna419/cve-2021-43798-lab">
+- [CyberCTF/vulhub-grafana-cve-2021-43798](https://github.com/CyberCTF/vulhub-grafana-cve-2021-43798)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-grafana-cve-2021-43798">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-grafana-cve-2021-43798">
 
 ---
 ## CVE-2021-43797 (2021-12-09T19:15:00)
@@ -3146,6 +3149,7 @@
 - [berraesen/apache-cve-2021-42013-lab](https://github.com/berraesen/apache-cve-2021-42013-lab)	<img alt="forks" src="https://img.shields.io/github/forks/berraesen/apache-cve-2021-42013-lab">	<img alt="stars" src="https://img.shields.io/github/stars/berraesen/apache-cve-2021-42013-lab">
 - [andreamammano89-maker/CVE-2021-42013_821311](https://github.com/andreamammano89-maker/CVE-2021-42013_821311)	<img alt="forks" src="https://img.shields.io/github/forks/andreamammano89-maker/CVE-2021-42013_821311">	<img alt="stars" src="https://img.shields.io/github/stars/andreamammano89-maker/CVE-2021-42013_821311">
 - [lmcewen9/cve-2021-42013](https://github.com/lmcewen9/cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/lmcewen9/cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/lmcewen9/cve-2021-42013">
+- [CyberCTF/vulhub-httpd-cve-2021-42013](https://github.com/CyberCTF/vulhub-httpd-cve-2021-42013)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2021-42013">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2021-42013">
 
 ---
 ## CVE-2021-42010 (2022-10-24T14:15:00)
@@ -3582,6 +3586,8 @@
 - [SANR01/CVE-2021-41773-Exploit-Lab](https://github.com/SANR01/CVE-2021-41773-Exploit-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/SANR01/CVE-2021-41773-Exploit-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/SANR01/CVE-2021-41773-Exploit-Lab">
 - [abdulrafay25-svg/CVE-2021-41773-Exploit](https://github.com/abdulrafay25-svg/CVE-2021-41773-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/abdulrafay25-svg/CVE-2021-41773-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/abdulrafay25-svg/CVE-2021-41773-Exploit">
 - [1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab](https://github.com/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab">
+- [CyberCTF/vulhub-httpd-cve-2021-41773](https://github.com/CyberCTF/vulhub-httpd-cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2021-41773">
+- [LordX404/CVE_2021-41773](https://github.com/LordX404/CVE_2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/LordX404/CVE_2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/LordX404/CVE_2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -5238,6 +5244,11 @@
 ## CVE-2021-39217 (2023-01-27T18:15:00)
 > OpenMage LTS is an e-commerce platform. Prior to versions 19.4.22 and 20.0.19, Custom Layout enabled admin users to execute arbitrary commands via block methods. Versions 19.4.22 and 20.0.19 contain patches for this issue.
 - [Live-Hack-CVE/CVE-2021-39217](https://github.com/Live-Hack-CVE/CVE-2021-39217)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-39217">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-39217">
+
+---
+## CVE-2021-39214 ()
+> 
+- [CyberCTF/secdevlabs-golden-hat](https://github.com/CyberCTF/secdevlabs-golden-hat)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/secdevlabs-golden-hat">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/secdevlabs-golden-hat">
 
 ---
 ## CVE-2021-39205 (2021-09-15T18:15:00)
@@ -9133,6 +9144,7 @@
 - [theNareshofficial/CVE-2021-3129-Lab](https://github.com/theNareshofficial/CVE-2021-3129-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/theNareshofficial/CVE-2021-3129-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/theNareshofficial/CVE-2021-3129-Lab">
 - [Giangdurian/CVE-2021-3129](https://github.com/Giangdurian/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2021-3129">
 - [cchiaravalentini/CVE-2021-3129](https://github.com/cchiaravalentini/CVE-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/cchiaravalentini/CVE-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/cchiaravalentini/CVE-2021-3129">
+- [CyberCTF/vulhub-laravel-cve-2021-3129](https://github.com/CyberCTF/vulhub-laravel-cve-2021-3129)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-laravel-cve-2021-3129">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-laravel-cve-2021-3129">
 
 ---
 ## CVE-2021-31233 (2023-05-31T01:15:00)
@@ -9380,6 +9392,11 @@
 ## CVE-2021-30551 (2021-06-15T22:15:00)
 > Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [xmzyshypnc/CVE-2021-30551](https://github.com/xmzyshypnc/CVE-2021-30551)	<img alt="forks" src="https://img.shields.io/github/forks/xmzyshypnc/CVE-2021-30551">	<img alt="stars" src="https://img.shields.io/github/stars/xmzyshypnc/CVE-2021-30551">
+
+---
+## CVE-2021-30535 ()
+> 
+- [califio/icu4x-crubit-demo](https://github.com/califio/icu4x-crubit-demo)	<img alt="forks" src="https://img.shields.io/github/forks/califio/icu4x-crubit-demo">	<img alt="stars" src="https://img.shields.io/github/stars/califio/icu4x-crubit-demo">
 
 ---
 ## CVE-2021-30499 (2021-05-27T00:15:00)
@@ -9698,6 +9715,7 @@
 - [hh-hunter/nacos-cve-2021-29441](https://github.com/hh-hunter/nacos-cve-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/hh-hunter/nacos-cve-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/hh-hunter/nacos-cve-2021-29441">
 - [azhao1981/CVE-2021-29441](https://github.com/azhao1981/CVE-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/azhao1981/CVE-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/azhao1981/CVE-2021-29441">
 - [K3ysTr0K3R/CVE-2021-29441](https://github.com/K3ysTr0K3R/CVE-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-29441">
+- [CyberCTF/vulhub-nacos-cve-2021-29441](https://github.com/CyberCTF/vulhub-nacos-cve-2021-29441)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-nacos-cve-2021-29441">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-nacos-cve-2021-29441">
 
 ---
 ## CVE-2021-29440 (2021-04-13T20:15:00)
@@ -9963,6 +9981,7 @@
 ## CVE-2021-28164 (2021-04-01T15:15:00)
 > In Eclipse Jetty 9.4.37.v20210219 to 9.4.38.v20210224, the default compliance mode allows requests with URIs that contain %2e or %2e%2e segments to access protected resources within the WEB-INF directory. For example a request to /context/%2e/WEB-INF/web.xml can retrieve the web.xml file. This can reveal sensitive information regarding the implementation of a web application.
 - [jammy0903/-jettyCVE-2021-28164-](https://github.com/jammy0903/-jettyCVE-2021-28164-)	<img alt="forks" src="https://img.shields.io/github/forks/jammy0903/-jettyCVE-2021-28164-">	<img alt="stars" src="https://img.shields.io/github/stars/jammy0903/-jettyCVE-2021-28164-">
+- [CyberCTF/vulhub-jetty-cve-2021-28164](https://github.com/CyberCTF/vulhub-jetty-cve-2021-28164)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jetty-cve-2021-28164">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jetty-cve-2021-28164">
 
 ---
 ## CVE-2021-28116 (2021-03-09T22:15:00)
@@ -10824,6 +10843,7 @@
 - [tiemio/RCE-PoC-CVE-2021-25646](https://github.com/tiemio/RCE-PoC-CVE-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/tiemio/RCE-PoC-CVE-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/tiemio/RCE-PoC-CVE-2021-25646">
 - [ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit](https://github.com/ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit">
 - [shahdawadfallah-sys/Cybersecurity-Capstone-Project](https://github.com/shahdawadfallah-sys/Cybersecurity-Capstone-Project)	<img alt="forks" src="https://img.shields.io/github/forks/shahdawadfallah-sys/Cybersecurity-Capstone-Project">	<img alt="stars" src="https://img.shields.io/github/stars/shahdawadfallah-sys/Cybersecurity-Capstone-Project">
+- [CyberCTF/vulhub-apache-druid-cve-2021-25646](https://github.com/CyberCTF/vulhub-apache-druid-cve-2021-25646)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-apache-druid-cve-2021-25646">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-apache-druid-cve-2021-25646">
 
 ---
 ## CVE-2021-25642 (2022-08-25T14:15:00)
@@ -12180,6 +12200,7 @@
 - [ccordeiro/CVE-2021-22205](https://github.com/ccordeiro/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/ccordeiro/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/ccordeiro/CVE-2021-22205">
 - [Jeromeyoung/CVE-2021-22210](https://github.com/Jeromeyoung/CVE-2021-22210)	<img alt="forks" src="https://img.shields.io/github/forks/Jeromeyoung/CVE-2021-22210">	<img alt="stars" src="https://img.shields.io/github/stars/Jeromeyoung/CVE-2021-22210">
 - [K3ysTr0K3R/CVE-2021-22205](https://github.com/K3ysTr0K3R/CVE-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-22205">
+- [CyberCTF/vulhub-gitlab-cve-2021-22205](https://github.com/CyberCTF/vulhub-gitlab-cve-2021-22205)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-gitlab-cve-2021-22205">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-gitlab-cve-2021-22205">
 
 ---
 ## CVE-2021-22204 (2021-04-23T18:15:00)

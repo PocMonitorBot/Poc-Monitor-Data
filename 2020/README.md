@@ -1177,6 +1177,7 @@
 - [r0lh/CVE-2020-7247](https://github.com/r0lh/CVE-2020-7247)	<img alt="forks" src="https://img.shields.io/github/forks/r0lh/CVE-2020-7247">	<img alt="stars" src="https://img.shields.io/github/stars/r0lh/CVE-2020-7247">
 - [minhluannguyen/CVE-2020-7247-reproducer](https://github.com/minhluannguyen/CVE-2020-7247-reproducer)	<img alt="forks" src="https://img.shields.io/github/forks/minhluannguyen/CVE-2020-7247-reproducer">	<img alt="stars" src="https://img.shields.io/github/stars/minhluannguyen/CVE-2020-7247-reproducer">
 - [solmin111/OpenSMTPD-CVE-2020-7247-](https://github.com/solmin111/OpenSMTPD-CVE-2020-7247-)	<img alt="forks" src="https://img.shields.io/github/forks/solmin111/OpenSMTPD-CVE-2020-7247-">	<img alt="stars" src="https://img.shields.io/github/stars/solmin111/OpenSMTPD-CVE-2020-7247-">
+- [CyberCTF/vulhub-opensmtpd-cve-2020-7247](https://github.com/CyberCTF/vulhub-opensmtpd-cve-2020-7247)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-opensmtpd-cve-2020-7247">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-opensmtpd-cve-2020-7247">
 
 ---
 ## CVE-2020-7246 (2020-01-21T14:15:00)
@@ -2608,6 +2609,7 @@
 ## CVE-2020-35476 (2020-12-16T08:15:00)
 > A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter. The yrange value is written to a gnuplot file in the /tmp directory. This file is then executed via the mygnuplot.sh shell script. (tsd/GraphHandler.java attempted to prevent command injections by blocking backticks but this is insufficient.)
 - [glowbase/CVE-2020-35476](https://github.com/glowbase/CVE-2020-35476)	<img alt="forks" src="https://img.shields.io/github/forks/glowbase/CVE-2020-35476">	<img alt="stars" src="https://img.shields.io/github/stars/glowbase/CVE-2020-35476">
+- [CyberCTF/vulhub-opentsdb-cve-2020-35476](https://github.com/CyberCTF/vulhub-opentsdb-cve-2020-35476)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-opentsdb-cve-2020-35476">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-opentsdb-cve-2020-35476">
 
 ---
 ## CVE-2020-35473 (2022-11-08T06:15:00)
@@ -5436,6 +5438,7 @@
 - [cyberguardsec101-sketch/ghostcat](https://github.com/cyberguardsec101-sketch/ghostcat)	<img alt="forks" src="https://img.shields.io/github/forks/cyberguardsec101-sketch/ghostcat">	<img alt="stars" src="https://img.shields.io/github/stars/cyberguardsec101-sketch/ghostcat">
 - [duckpigdog/Tomcat-AJP-CVE-2020-1938](https://github.com/duckpigdog/Tomcat-AJP-CVE-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/duckpigdog/Tomcat-AJP-CVE-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/duckpigdog/Tomcat-AJP-CVE-2020-1938">
 - [lem0n817/tomcatfileread](https://github.com/lem0n817/tomcatfileread)	<img alt="forks" src="https://img.shields.io/github/forks/lem0n817/tomcatfileread">	<img alt="stars" src="https://img.shields.io/github/stars/lem0n817/tomcatfileread">
+- [CyberCTF/vulhub-tomcat-cve-2020-1938](https://github.com/CyberCTF/vulhub-tomcat-cve-2020-1938)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-tomcat-cve-2020-1938">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-tomcat-cve-2020-1938">
 
 ---
 ## CVE-2020-1937 ()
@@ -5625,6 +5628,7 @@
 - [dolevf/apache-flink-directory-traversal.nse](https://github.com/dolevf/apache-flink-directory-traversal.nse)	<img alt="forks" src="https://img.shields.io/github/forks/dolevf/apache-flink-directory-traversal.nse">	<img alt="stars" src="https://img.shields.io/github/stars/dolevf/apache-flink-directory-traversal.nse">
 - [QmF0c3UK/CVE-2020-17519](https://github.com/QmF0c3UK/CVE-2020-17519)	<img alt="forks" src="https://img.shields.io/github/forks/QmF0c3UK/CVE-2020-17519">	<img alt="stars" src="https://img.shields.io/github/stars/QmF0c3UK/CVE-2020-17519">
 - [shoucheng3/apache__flink_CVE-2020-17519_1-11-2](https://github.com/shoucheng3/apache__flink_CVE-2020-17519_1-11-2)	<img alt="forks" src="https://img.shields.io/github/forks/shoucheng3/apache__flink_CVE-2020-17519_1-11-2">	<img alt="stars" src="https://img.shields.io/github/stars/shoucheng3/apache__flink_CVE-2020-17519_1-11-2">
+- [CyberCTF/vulhub-flink-cve-2020-17519](https://github.com/CyberCTF/vulhub-flink-cve-2020-17519)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-flink-cve-2020-17519">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-flink-cve-2020-17519">
 
 ---
 ## CVE-2020-17518 ()
@@ -6619,6 +6623,7 @@
 - [0thm4n3/cve-2020-14882](https://github.com/0thm4n3/cve-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/0thm4n3/cve-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/0thm4n3/cve-2020-14882">
 - [VelesSecurity/CVE-2020-14882-WebLogic-Analysis](https://github.com/VelesSecurity/CVE-2020-14882-WebLogic-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/VelesSecurity/CVE-2020-14882-WebLogic-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/VelesSecurity/CVE-2020-14882-WebLogic-Analysis">
 - [hyderpwn/weblogic](https://github.com/hyderpwn/weblogic)	<img alt="forks" src="https://img.shields.io/github/forks/hyderpwn/weblogic">	<img alt="stars" src="https://img.shields.io/github/stars/hyderpwn/weblogic">
+- [CyberCTF/vulhub-weblogic-cve-2020-14882](https://github.com/CyberCTF/vulhub-weblogic-cve-2020-14882)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-weblogic-cve-2020-14882">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-weblogic-cve-2020-14882">
 
 ---
 ## CVE-2020-14871 ()
@@ -7138,6 +7143,7 @@
 > In Apache APISIX, the user enabled the Admin API and deleted the Admin API access IP restriction rules. Eventually, the default token is allowed to access APISIX management data. This affects versions 1.2, 1.3, 1.4, 1.5.
 - [K3ysTr0K3R/CVE-2020-13945-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2020-13945-EXPLOIT)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2020-13945-EXPLOIT">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2020-13945-EXPLOIT">
 - [YutuSec/Apisix_Crack](https://github.com/YutuSec/Apisix_Crack)	<img alt="forks" src="https://img.shields.io/github/forks/YutuSec/Apisix_Crack">	<img alt="stars" src="https://img.shields.io/github/stars/YutuSec/Apisix_Crack">
+- [CyberCTF/vulhub-apisix-cve-2020-13945](https://github.com/CyberCTF/vulhub-apisix-cve-2020-13945)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-apisix-cve-2020-13945">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-apisix-cve-2020-13945">
 
 ---
 ## CVE-2020-13943 (2020-10-12T14:15:00)
@@ -7151,12 +7157,13 @@
 - [zhzyker/vulmap](https://github.com/zhzyker/vulmap)	<img alt="forks" src="https://img.shields.io/github/forks/zhzyker/vulmap">	<img alt="stars" src="https://img.shields.io/github/stars/zhzyker/vulmap">
 - [blackmarketer/CVE-2020-13942](https://github.com/blackmarketer/CVE-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/blackmarketer/CVE-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/blackmarketer/CVE-2020-13942">
 - [Prodrious/CVE-2020-13942](https://github.com/Prodrious/CVE-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/Prodrious/CVE-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/Prodrious/CVE-2020-13942">
-- [hoanx4/apche_unomi_rce](https://github.com/hoanx4/apche_unomi_rce)	<img alt="forks" src="https://img.shields.io/github/forks/hoanx4/apche_unomi_rce">	<img alt="stars" src="https://img.shields.io/github/stars/hoanx4/apche_unomi_rce">
+- [dev-team-12x/apche_unomi_rce](https://github.com/dev-team-12x/apche_unomi_rce)	<img alt="forks" src="https://img.shields.io/github/forks/dev-team-12x/apche_unomi_rce">	<img alt="stars" src="https://img.shields.io/github/stars/dev-team-12x/apche_unomi_rce">
 - [yaunsky/Unomi-CVE-2020-13942](https://github.com/yaunsky/Unomi-CVE-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/Unomi-CVE-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/Unomi-CVE-2020-13942">
 - [eugenebmx/CVE-2020-13942](https://github.com/eugenebmx/CVE-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/eugenebmx/CVE-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/eugenebmx/CVE-2020-13942">
 - [1135/unomi_exploit](https://github.com/1135/unomi_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/1135/unomi_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/1135/unomi_exploit">
 - [shifa123/CVE-2020-13942-POC-](https://github.com/shifa123/CVE-2020-13942-POC-)	<img alt="forks" src="https://img.shields.io/github/forks/shifa123/CVE-2020-13942-POC-">	<img alt="stars" src="https://img.shields.io/github/stars/shifa123/CVE-2020-13942-POC-">
 - [lp008/CVE-2020-13942](https://github.com/lp008/CVE-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/lp008/CVE-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/lp008/CVE-2020-13942">
+- [CyberCTF/vulhub-unomi-cve-2020-13942](https://github.com/CyberCTF/vulhub-unomi-cve-2020-13942)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-unomi-cve-2020-13942">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-unomi-cve-2020-13942">
 
 ---
 ## CVE-2020-13941 ()
@@ -8072,6 +8079,7 @@
 - [Drew-Alleman/CVE-2020-11651](https://github.com/Drew-Alleman/CVE-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/Drew-Alleman/CVE-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/Drew-Alleman/CVE-2020-11651">
 - [limon768/CVE-2020-11652-POC](https://github.com/limon768/CVE-2020-11652-POC)	<img alt="forks" src="https://img.shields.io/github/forks/limon768/CVE-2020-11652-POC">	<img alt="stars" src="https://img.shields.io/github/stars/limon768/CVE-2020-11652-POC">
 - [s1lentf00thold/CVE-2020-11651-Poc](https://github.com/s1lentf00thold/CVE-2020-11651-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/s1lentf00thold/CVE-2020-11651-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/s1lentf00thold/CVE-2020-11651-Poc">
+- [CyberCTF/vulhub-saltstack-cve-2020-11651](https://github.com/CyberCTF/vulhub-saltstack-cve-2020-11651)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-saltstack-cve-2020-11651">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-saltstack-cve-2020-11651">
 
 ---
 ## CVE-2020-11650 ()

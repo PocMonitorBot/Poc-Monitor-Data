@@ -58,6 +58,7 @@
 - [MR-LeonardoGomes/CVE-2017-9841](https://github.com/MR-LeonardoGomes/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/MR-LeonardoGomes/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/MR-LeonardoGomes/CVE-2017-9841">
 - [krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC](https://github.com/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC">
 - [CheLover86/CVE-2017-9841](https://github.com/CheLover86/CVE-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/CheLover86/CVE-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/CheLover86/CVE-2017-9841">
+- [CyberCTF/vulhub-phpunit-cve-2017-9841](https://github.com/CyberCTF/vulhub-phpunit-cve-2017-9841)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-phpunit-cve-2017-9841">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-phpunit-cve-2017-9841">
 
 ---
 ## CVE-2017-9833 (2017-06-24T02:29:00)
@@ -577,6 +578,7 @@
 - [Fenil2511/CVE-2017-7529-POC](https://github.com/Fenil2511/CVE-2017-7529-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Fenil2511/CVE-2017-7529-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Fenil2511/CVE-2017-7529-POC">
 - [youngmin0104/CVE-2017-7529-](https://github.com/youngmin0104/CVE-2017-7529-)	<img alt="forks" src="https://img.shields.io/github/forks/youngmin0104/CVE-2017-7529-">	<img alt="stars" src="https://img.shields.io/github/stars/youngmin0104/CVE-2017-7529-">
 - [portfolio10/nginx](https://github.com/portfolio10/nginx)	<img alt="forks" src="https://img.shields.io/github/forks/portfolio10/nginx">	<img alt="stars" src="https://img.shields.io/github/stars/portfolio10/nginx">
+- [CyberCTF/vulhub-nginx-cve-2017-7529](https://github.com/CyberCTF/vulhub-nginx-cve-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-nginx-cve-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-nginx-cve-2017-7529">
 
 ---
 ## CVE-2017-7525 ()
@@ -647,6 +649,7 @@
 - [Zanex360/cdt-vulnsamba-deploy](https://github.com/Zanex360/cdt-vulnsamba-deploy)	<img alt="forks" src="https://img.shields.io/github/forks/Zanex360/cdt-vulnsamba-deploy">	<img alt="stars" src="https://img.shields.io/github/stars/Zanex360/cdt-vulnsamba-deploy">
 - [Sadz1d/IS](https://github.com/Sadz1d/IS)	<img alt="forks" src="https://img.shields.io/github/forks/Sadz1d/IS">	<img alt="stars" src="https://img.shields.io/github/stars/Sadz1d/IS">
 - [YonLiud/CVE-2017-7494](https://github.com/YonLiud/CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/YonLiud/CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/YonLiud/CVE-2017-7494">
+- [CyberCTF/vulhub-samba-cve-2017-7494](https://github.com/CyberCTF/vulhub-samba-cve-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-samba-cve-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-samba-cve-2017-7494">
 
 ---
 ## CVE-2017-7492 (2017-05-22T15:29:00)
@@ -2269,6 +2272,7 @@
 > 
 - [whisp1830/CVE-2017-15715](https://github.com/whisp1830/CVE-2017-15715)	<img alt="forks" src="https://img.shields.io/github/forks/whisp1830/CVE-2017-15715">	<img alt="stars" src="https://img.shields.io/github/stars/whisp1830/CVE-2017-15715">
 - [ehsehs5652/CVE-2017-15715-httpd](https://github.com/ehsehs5652/CVE-2017-15715-httpd)	<img alt="forks" src="https://img.shields.io/github/forks/ehsehs5652/CVE-2017-15715-httpd">	<img alt="stars" src="https://img.shields.io/github/stars/ehsehs5652/CVE-2017-15715-httpd">
+- [CyberCTF/vulhub-httpd-cve-2017-15715](https://github.com/CyberCTF/vulhub-httpd-cve-2017-15715)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2017-15715">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2017-15715">
 
 ---
 ## CVE-2017-15708 ()
@@ -2380,6 +2384,11 @@
 ## CVE-2017-14862 (2017-09-29T01:34:00)
 > An Invalid memory address dereference was discovered in Exiv2::DataValue::read in value.cpp in Exiv2 0.26. The vulnerability causes a segmentation fault and application crash, which leads to denial of service.
 - [Live-Hack-CVE/CVE-2017-14862](https://github.com/Live-Hack-CVE/CVE-2017-14862)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-14862">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-14862">
+
+---
+## CVE-2017-14849 ()
+> 
+- [CyberCTF/vulhub-node-cve-2017-14849](https://github.com/CyberCTF/vulhub-node-cve-2017-14849)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-node-cve-2017-14849">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-node-cve-2017-14849">
 
 ---
 ## CVE-2017-14746 (2017-11-27T22:29:00)
@@ -2612,6 +2621,7 @@
 - [assalielmehdi/CVE-2017-12635](https://github.com/assalielmehdi/CVE-2017-12635)	<img alt="forks" src="https://img.shields.io/github/forks/assalielmehdi/CVE-2017-12635">	<img alt="stars" src="https://img.shields.io/github/stars/assalielmehdi/CVE-2017-12635">
 - [Dungsocool/CVE-2017-12635_36](https://github.com/Dungsocool/CVE-2017-12635_36)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-12635_36">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-12635_36">
 - [Darabium/couchdb-exploit](https://github.com/Darabium/couchdb-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Darabium/couchdb-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Darabium/couchdb-exploit">
+- [CyberCTF/vulhub-couchdb-cve-2017-12635](https://github.com/CyberCTF/vulhub-couchdb-cve-2017-12635)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-couchdb-cve-2017-12635">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-couchdb-cve-2017-12635">
 
 ---
 ## CVE-2017-12629 ()
@@ -2619,6 +2629,7 @@
 - [captain-woof/cve-2017-12629](https://github.com/captain-woof/cve-2017-12629)	<img alt="forks" src="https://img.shields.io/github/forks/captain-woof/cve-2017-12629">	<img alt="stars" src="https://img.shields.io/github/stars/captain-woof/cve-2017-12629">
 - [tdwyer/PoC_CVE-2017-3164_CVE-2017-1262](https://github.com/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262)	<img alt="forks" src="https://img.shields.io/github/forks/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">	<img alt="stars" src="https://img.shields.io/github/stars/tdwyer/PoC_CVE-2017-3164_CVE-2017-1262">
 - [Imanfeng/Apache-Solr-RCE](https://github.com/Imanfeng/Apache-Solr-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/Imanfeng/Apache-Solr-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/Imanfeng/Apache-Solr-RCE">
+- [CyberCTF/vulhub-solr-cve-2017-12629-rce](https://github.com/CyberCTF/vulhub-solr-cve-2017-12629-rce)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-solr-cve-2017-12629-rce">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-solr-cve-2017-12629-rce">
 
 ---
 ## CVE-2017-12624 ()
@@ -2673,6 +2684,7 @@
 - [Fa1c0n35/CVE-2017-12615](https://github.com/Fa1c0n35/CVE-2017-12615)	<img alt="forks" src="https://img.shields.io/github/forks/Fa1c0n35/CVE-2017-12615">	<img alt="stars" src="https://img.shields.io/github/stars/Fa1c0n35/CVE-2017-12615">
 - [netw0rk7/CVE-2017-12615-Home-Lab](https://github.com/netw0rk7/CVE-2017-12615-Home-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2017-12615-Home-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2017-12615-Home-Lab">
 - [K3ysTr0K3R/CVE-2017-12615](https://github.com/K3ysTr0K3R/CVE-2017-12615)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2017-12615">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2017-12615">
+- [CyberCTF/vulhub-tomcat-cve-2017-12615](https://github.com/CyberCTF/vulhub-tomcat-cve-2017-12615)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-tomcat-cve-2017-12615">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-tomcat-cve-2017-12615">
 
 ---
 ## CVE-2017-12611 ()
@@ -2728,6 +2740,7 @@
 - [JesseClarkND/CVE-2017-12149](https://github.com/JesseClarkND/CVE-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/JesseClarkND/CVE-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/JesseClarkND/CVE-2017-12149">
 - [zesnd/cve-2017-12149](https://github.com/zesnd/cve-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/zesnd/cve-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/zesnd/cve-2017-12149">
 - [galois17/cve-2017-12149-playground](https://github.com/galois17/cve-2017-12149-playground)	<img alt="forks" src="https://img.shields.io/github/forks/galois17/cve-2017-12149-playground">	<img alt="stars" src="https://img.shields.io/github/stars/galois17/cve-2017-12149-playground">
+- [CyberCTF/vulhub-jboss-cve-2017-12149](https://github.com/CyberCTF/vulhub-jboss-cve-2017-12149)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jboss-cve-2017-12149">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jboss-cve-2017-12149">
 
 ---
 ## CVE-2017-12129 (2018-05-14T20:29:00)
@@ -2908,6 +2921,7 @@
 - [Dungsocool/CVE-2017-11610](https://github.com/Dungsocool/CVE-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-11610">
 - [ivanitlearning/CVE-2017-11610](https://github.com/ivanitlearning/CVE-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/ivanitlearning/CVE-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/ivanitlearning/CVE-2017-11610">
 - [yaunsky/CVE-2017-11610](https://github.com/yaunsky/CVE-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/yaunsky/CVE-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/yaunsky/CVE-2017-11610">
+- [CyberCTF/vulhub-supervisor-cve-2017-11610](https://github.com/CyberCTF/vulhub-supervisor-cve-2017-11610)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-supervisor-cve-2017-11610">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-supervisor-cve-2017-11610">
 
 ---
 ## CVE-2017-11591 (2017-07-24T01:29:00)
@@ -3116,6 +3130,7 @@
 - [seoyoung-kang/CVE-2017-10271](https://github.com/seoyoung-kang/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/seoyoung-kang/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/seoyoung-kang/CVE-2017-10271">
 - [Dungsocool/CVE-2017-10271](https://github.com/Dungsocool/CVE-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2017-10271">
 - [shahdawadfallah-sys/Cybersecurity-Capstone-Project](https://github.com/shahdawadfallah-sys/Cybersecurity-Capstone-Project)	<img alt="forks" src="https://img.shields.io/github/forks/shahdawadfallah-sys/Cybersecurity-Capstone-Project">	<img alt="stars" src="https://img.shields.io/github/stars/shahdawadfallah-sys/Cybersecurity-Capstone-Project">
+- [CyberCTF/vulhub-weblogic-cve-2017-10271](https://github.com/CyberCTF/vulhub-weblogic-cve-2017-10271)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-weblogic-cve-2017-10271">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-weblogic-cve-2017-10271">
 
 ---
 ## CVE-2017-10268 (2017-10-19T17:29:00)
@@ -3366,6 +3381,7 @@
 ## CVE-2017-1000028 (2017-07-17T13:18:00)
 > Oracle, GlassFish Server Open Source Edition 4.1 is vulnerable to both authenticated and unauthenticated Directory Traversal vulnerability, that can be exploited by issuing a specially crafted HTTP GET request.
 - [NeonNOXX/CVE-2017-1000028](https://github.com/NeonNOXX/CVE-2017-1000028)	<img alt="forks" src="https://img.shields.io/github/forks/NeonNOXX/CVE-2017-1000028">	<img alt="stars" src="https://img.shields.io/github/stars/NeonNOXX/CVE-2017-1000028">
+- [CyberCTF/vulhub-glassfish-cve-2017-1000028](https://github.com/CyberCTF/vulhub-glassfish-cve-2017-1000028)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-glassfish-cve-2017-1000028">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-glassfish-cve-2017-1000028">
 
 ---
 ## CVE-2017-1000000 ()

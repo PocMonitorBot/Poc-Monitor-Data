@@ -194,6 +194,11 @@
 - [GeunSam2/CVE-2018-8718](https://github.com/GeunSam2/CVE-2018-8718)	<img alt="forks" src="https://img.shields.io/github/forks/GeunSam2/CVE-2018-8718">	<img alt="stars" src="https://img.shields.io/github/stars/GeunSam2/CVE-2018-8718">
 
 ---
+## CVE-2018-8715 ()
+> 
+- [CyberCTF/vulhub-appweb-cve-2018-8715](https://github.com/CyberCTF/vulhub-appweb-cve-2018-8715)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-appweb-cve-2018-8715">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-appweb-cve-2018-8715">
+
+---
 ## CVE-2018-8639 ()
 > 
 - [ze0r/CVE-2018-8639-exp](https://github.com/ze0r/CVE-2018-8639-exp)	<img alt="forks" src="https://img.shields.io/github/forks/ze0r/CVE-2018-8639-exp">	<img alt="stars" src="https://img.shields.io/github/stars/ze0r/CVE-2018-8639-exp">
@@ -571,6 +576,7 @@
 - [Vaibhav91one/drupalgeddon2-cve-lab](https://github.com/Vaibhav91one/drupalgeddon2-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Vaibhav91one/drupalgeddon2-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Vaibhav91one/drupalgeddon2-cve-lab">
 - [K52-ai/CVE-2018-7600](https://github.com/K52-ai/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/K52-ai/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/K52-ai/CVE-2018-7600">
 - [Aihikk/DC-1_Vulnhub_Walkthrough](https://github.com/Aihikk/DC-1_Vulnhub_Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/Aihikk/DC-1_Vulnhub_Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/Aihikk/DC-1_Vulnhub_Walkthrough">
+- [CyberCTF/vulhub-drupal-cve-2018-7600](https://github.com/CyberCTF/vulhub-drupal-cve-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-drupal-cve-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-drupal-cve-2018-7600">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)
@@ -582,6 +588,7 @@
 > uWSGI before 2.0.17 mishandles a DOCUMENT_ROOT check during use of the --php-docroot option, allowing directory traversal.
 - [qinzhu111/uWSGI-CVE-2018-7490-POC](https://github.com/qinzhu111/uWSGI-CVE-2018-7490-POC)	<img alt="forks" src="https://img.shields.io/github/forks/qinzhu111/uWSGI-CVE-2018-7490-POC">	<img alt="stars" src="https://img.shields.io/github/stars/qinzhu111/uWSGI-CVE-2018-7490-POC">
 - [qinzhu111/uWSGI-CVE-2018-7490-POC](https://github.com/qinzhu111/uWSGI-CVE-2018-7490-POC)	<img alt="forks" src="https://img.shields.io/github/forks/qinzhu111/uWSGI-CVE-2018-7490-POC">	<img alt="stars" src="https://img.shields.io/github/stars/qinzhu111/uWSGI-CVE-2018-7490-POC">
+- [CyberCTF/vulhub-uwsgi-cve-2018-7490](https://github.com/CyberCTF/vulhub-uwsgi-cve-2018-7490)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-uwsgi-cve-2018-7490">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-uwsgi-cve-2018-7490">
 
 ---
 ## CVE-2018-7489 ()
@@ -1644,6 +1651,7 @@
 - [wudidwo/CVE-2018-3760-poc](https://github.com/wudidwo/CVE-2018-3760-poc)	<img alt="forks" src="https://img.shields.io/github/forks/wudidwo/CVE-2018-3760-poc">	<img alt="stars" src="https://img.shields.io/github/stars/wudidwo/CVE-2018-3760-poc">
 - [cyberharsh/Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-](https://github.com/cyberharsh/Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-)	<img alt="forks" src="https://img.shields.io/github/forks/cyberharsh/Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-">	<img alt="stars" src="https://img.shields.io/github/stars/cyberharsh/Ruby-On-Rails-Path-Traversal-Vulnerability-CVE-2018-3760-">
 - [mpgn/CVE-2018-3760](https://github.com/mpgn/CVE-2018-3760)	<img alt="forks" src="https://img.shields.io/github/forks/mpgn/CVE-2018-3760">	<img alt="stars" src="https://img.shields.io/github/stars/mpgn/CVE-2018-3760">
+- [CyberCTF/vulhub-rails-cve-2018-3760](https://github.com/CyberCTF/vulhub-rails-cve-2018-3760)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-rails-cve-2018-3760">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-rails-cve-2018-3760">
 
 ---
 ## CVE-2018-3757 ()
@@ -3027,6 +3035,7 @@
 - [farisv/PIL-RCE-Ghostscript-CVE-2018-16509](https://github.com/farisv/PIL-RCE-Ghostscript-CVE-2018-16509)	<img alt="forks" src="https://img.shields.io/github/forks/farisv/PIL-RCE-Ghostscript-CVE-2018-16509">	<img alt="stars" src="https://img.shields.io/github/stars/farisv/PIL-RCE-Ghostscript-CVE-2018-16509">
 - [knqyf263/CVE-2018-16509](https://github.com/knqyf263/CVE-2018-16509)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2018-16509">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2018-16509">
 - [cved-sources/cve-2018-16509](https://github.com/cved-sources/cve-2018-16509)	<img alt="forks" src="https://img.shields.io/github/forks/cved-sources/cve-2018-16509">	<img alt="stars" src="https://img.shields.io/github/stars/cved-sources/cve-2018-16509">
+- [CyberCTF/vulhub-ghostscript-cve-2018-16509](https://github.com/CyberCTF/vulhub-ghostscript-cve-2018-16509)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-ghostscript-cve-2018-16509">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-ghostscript-cve-2018-16509">
 
 ---
 ## CVE-2018-16492 ()
@@ -3257,6 +3266,7 @@
 - [kikechans/SSH-Enum-CVE-2018-15473](https://github.com/kikechans/SSH-Enum-CVE-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/kikechans/SSH-Enum-CVE-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/kikechans/SSH-Enum-CVE-2018-15473">
 - [kaktus5454/CVE-2018-15473](https://github.com/kaktus5454/CVE-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/kaktus5454/CVE-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/kaktus5454/CVE-2018-15473">
 - [bdalrhmnhamdalalm-jpg/CVE-2018-15473-User-Enumeration-](https://github.com/bdalrhmnhamdalalm-jpg/CVE-2018-15473-User-Enumeration-)	<img alt="forks" src="https://img.shields.io/github/forks/bdalrhmnhamdalalm-jpg/CVE-2018-15473-User-Enumeration-">	<img alt="stars" src="https://img.shields.io/github/stars/bdalrhmnhamdalalm-jpg/CVE-2018-15473-User-Enumeration-">
+- [CyberCTF/vulhub-openssh-cve-2018-15473](https://github.com/CyberCTF/vulhub-openssh-cve-2018-15473)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-openssh-cve-2018-15473">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-openssh-cve-2018-15473">
 
 ---
 ## CVE-2018-15365 ()
@@ -3660,6 +3670,7 @@
 > When using Distributed Test only (RMI based), Apache JMeter 2.x and 3.x uses an unsecured RMI connection. This could allow an attacker to get Access to JMeterEngine and send unauthorized code.
 - [48484848484848/Jmeter-CVE-2018-1297-](https://github.com/48484848484848/Jmeter-CVE-2018-1297-)	<img alt="forks" src="https://img.shields.io/github/forks/48484848484848/Jmeter-CVE-2018-1297-">	<img alt="stars" src="https://img.shields.io/github/stars/48484848484848/Jmeter-CVE-2018-1297-">
 - [Al1ex/CVE-2018-1297](https://github.com/Al1ex/CVE-2018-1297)	<img alt="forks" src="https://img.shields.io/github/forks/Al1ex/CVE-2018-1297">	<img alt="stars" src="https://img.shields.io/github/stars/Al1ex/CVE-2018-1297">
+- [CyberCTF/vulhub-jmeter-cve-2018-1297](https://github.com/CyberCTF/vulhub-jmeter-cve-2018-1297)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jmeter-cve-2018-1297">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jmeter-cve-2018-1297">
 
 ---
 ## CVE-2018-12895 ()
@@ -3694,6 +3705,7 @@
 - [knqyf263/CVE-2018-1273](https://github.com/knqyf263/CVE-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/knqyf263/CVE-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/knqyf263/CVE-2018-1273">
 - [wearearima/poc-cve-2018-1273](https://github.com/wearearima/poc-cve-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/wearearima/poc-cve-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/wearearima/poc-cve-2018-1273">
 - [andikahilmy/CVE-2018-1273-spring-data-commons-vulnerable](https://github.com/andikahilmy/CVE-2018-1273-spring-data-commons-vulnerable)	<img alt="forks" src="https://img.shields.io/github/forks/andikahilmy/CVE-2018-1273-spring-data-commons-vulnerable">	<img alt="stars" src="https://img.shields.io/github/stars/andikahilmy/CVE-2018-1273-spring-data-commons-vulnerable">
+- [CyberCTF/vulhub-spring-cve-2018-1273](https://github.com/CyberCTF/vulhub-spring-cve-2018-1273)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2018-1273">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2018-1273">
 
 ---
 ## CVE-2018-1270 ()
@@ -3727,6 +3739,7 @@
 - [eastmountyxz/CVE-2018-12613-phpMyAdmin](https://github.com/eastmountyxz/CVE-2018-12613-phpMyAdmin)	<img alt="forks" src="https://img.shields.io/github/forks/eastmountyxz/CVE-2018-12613-phpMyAdmin">	<img alt="stars" src="https://img.shields.io/github/stars/eastmountyxz/CVE-2018-12613-phpMyAdmin">
 - [hs2131019/phpMyAdmin-CVE-2018-12613](https://github.com/hs2131019/phpMyAdmin-CVE-2018-12613)	<img alt="forks" src="https://img.shields.io/github/forks/hs2131019/phpMyAdmin-CVE-2018-12613">	<img alt="stars" src="https://img.shields.io/github/stars/hs2131019/phpMyAdmin-CVE-2018-12613">
 - [YagamiiLight/Cerberus](https://github.com/YagamiiLight/Cerberus)	<img alt="forks" src="https://img.shields.io/github/forks/YagamiiLight/Cerberus">	<img alt="stars" src="https://img.shields.io/github/stars/YagamiiLight/Cerberus">
+- [CyberCTF/vulhub-phpmyadmin-cve-2018-12613](https://github.com/CyberCTF/vulhub-phpmyadmin-cve-2018-12613)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-phpmyadmin-cve-2018-12613">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-phpmyadmin-cve-2018-12613">
 
 ---
 ## CVE-2018-1260 ()
@@ -4180,6 +4193,7 @@
 - [kn6869610/CVE-2018-10933](https://github.com/kn6869610/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/kn6869610/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/kn6869610/CVE-2018-10933">
 - [likekabin/CVE-2018-10933_ssh](https://github.com/likekabin/CVE-2018-10933_ssh)	<img alt="forks" src="https://img.shields.io/github/forks/likekabin/CVE-2018-10933_ssh">	<img alt="stars" src="https://img.shields.io/github/stars/likekabin/CVE-2018-10933_ssh">
 - [K3ysTr0K3R/CVE-2018-10933](https://github.com/K3ysTr0K3R/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2018-10933">
+- [CyberCTF/vulhub-libssh-cve-2018-10933](https://github.com/CyberCTF/vulhub-libssh-cve-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-libssh-cve-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-libssh-cve-2018-10933">
 
 ---
 ## CVE-2018-10920 ()
@@ -4349,6 +4363,7 @@
 > A code execution vulnerability exists in the Stapler web framework used by Jenkins 2.153 and earlier, LTS 2.138.3 and earlier in stapler/core/src/main/java/org/kohsuke/stapler/MetaClass.java that allows attackers to invoke some methods on Java objects by accessing crafted URLs that were not intended to be invoked this way.
 - [smokeintheshell/CVE-2018-1000861](https://github.com/smokeintheshell/CVE-2018-1000861)	<img alt="forks" src="https://img.shields.io/github/forks/smokeintheshell/CVE-2018-1000861">	<img alt="stars" src="https://img.shields.io/github/stars/smokeintheshell/CVE-2018-1000861">
 - [1NTheKut/CVE-2019-1003000_RCE-DETECTION](https://github.com/1NTheKut/CVE-2019-1003000_RCE-DETECTION)	<img alt="forks" src="https://img.shields.io/github/forks/1NTheKut/CVE-2019-1003000_RCE-DETECTION">	<img alt="stars" src="https://img.shields.io/github/stars/1NTheKut/CVE-2019-1003000_RCE-DETECTION">
+- [CyberCTF/vulhub-jenkins-cve-2018-1000861](https://github.com/CyberCTF/vulhub-jenkins-cve-2018-1000861)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-jenkins-cve-2018-1000861">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-jenkins-cve-2018-1000861">
 
 ---
 ## CVE-2018-1000850 ()

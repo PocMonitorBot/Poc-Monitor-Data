@@ -367,6 +367,7 @@
 - [FREEGUY-6/dmz-security-monitoring-hardening](https://github.com/FREEGUY-6/dmz-security-monitoring-hardening)	<img alt="forks" src="https://img.shields.io/github/forks/FREEGUY-6/dmz-security-monitoring-hardening">	<img alt="stars" src="https://img.shields.io/github/stars/FREEGUY-6/dmz-security-monitoring-hardening">
 - [Vaibhav91one/shellshock-cve-lab](https://github.com/Vaibhav91one/shellshock-cve-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Vaibhav91one/shellshock-cve-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Vaibhav91one/shellshock-cve-lab">
 - [mgiftson0/linux-env-vars-shellshock-lab](https://github.com/mgiftson0/linux-env-vars-shellshock-lab)	<img alt="forks" src="https://img.shields.io/github/forks/mgiftson0/linux-env-vars-shellshock-lab">	<img alt="stars" src="https://img.shields.io/github/stars/mgiftson0/linux-env-vars-shellshock-lab">
+- [CyberCTF/vulhub-bash-cve-2014-6271](https://github.com/CyberCTF/vulhub-bash-cve-2014-6271)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-bash-cve-2014-6271">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-bash-cve-2014-6271">
 
 ---
 ## CVE-2014-6230 (2014-10-25T00:55:00)
@@ -569,6 +570,7 @@
 - [happynote3966/CVE-2014-3704](https://github.com/happynote3966/CVE-2014-3704)	<img alt="forks" src="https://img.shields.io/github/forks/happynote3966/CVE-2014-3704">	<img alt="stars" src="https://img.shields.io/github/stars/happynote3966/CVE-2014-3704">
 - [fbm31/Audit-BlackBox-Web-to-Root](https://github.com/fbm31/Audit-BlackBox-Web-to-Root)	<img alt="forks" src="https://img.shields.io/github/forks/fbm31/Audit-BlackBox-Web-to-Root">	<img alt="stars" src="https://img.shields.io/github/stars/fbm31/Audit-BlackBox-Web-to-Root">
 - [adfortunato/metasploitable3-pentest-writeup](https://github.com/adfortunato/metasploitable3-pentest-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/adfortunato/metasploitable3-pentest-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/adfortunato/metasploitable3-pentest-writeup">
+- [CyberCTF/vulhub-drupal-cve-2014-3704](https://github.com/CyberCTF/vulhub-drupal-cve-2014-3704)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-drupal-cve-2014-3704">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-drupal-cve-2014-3704">
 
 ---
 ## CVE-2014-3656 ()
@@ -707,6 +709,7 @@
 - [echohtp/ElasticSearch-CVE-2014-3120](https://github.com/echohtp/ElasticSearch-CVE-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/echohtp/ElasticSearch-CVE-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/echohtp/ElasticSearch-CVE-2014-3120">
 - [jeffgeiger/es_inject](https://github.com/jeffgeiger/es_inject)	<img alt="forks" src="https://img.shields.io/github/forks/jeffgeiger/es_inject">	<img alt="stars" src="https://img.shields.io/github/stars/jeffgeiger/es_inject">
 - [Dungsocool/CVE-2014-3120](https://github.com/Dungsocool/CVE-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/Dungsocool/CVE-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/Dungsocool/CVE-2014-3120">
+- [CyberCTF/vulhub-elasticsearch-cve-2014-3120](https://github.com/CyberCTF/vulhub-elasticsearch-cve-2014-3120)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-elasticsearch-cve-2014-3120">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-elasticsearch-cve-2014-3120">
 
 ---
 ## CVE-2014-2815 ()
@@ -1370,6 +1373,7 @@
 - [IhsSpotlight/HeartBleed-CVE-2014-0160--SCRIPTS-python3](https://github.com/IhsSpotlight/HeartBleed-CVE-2014-0160--SCRIPTS-python3)	<img alt="forks" src="https://img.shields.io/github/forks/IhsSpotlight/HeartBleed-CVE-2014-0160--SCRIPTS-python3">	<img alt="stars" src="https://img.shields.io/github/stars/IhsSpotlight/HeartBleed-CVE-2014-0160--SCRIPTS-python3">
 - [L1LF1NG3R/heartbleed-vulnerability-exploitation](https://github.com/L1LF1NG3R/heartbleed-vulnerability-exploitation)	<img alt="forks" src="https://img.shields.io/github/forks/L1LF1NG3R/heartbleed-vulnerability-exploitation">	<img alt="stars" src="https://img.shields.io/github/stars/L1LF1NG3R/heartbleed-vulnerability-exploitation">
 - [Ayushsinha322/heartbleed-lab](https://github.com/Ayushsinha322/heartbleed-lab)	<img alt="forks" src="https://img.shields.io/github/forks/Ayushsinha322/heartbleed-lab">	<img alt="stars" src="https://img.shields.io/github/stars/Ayushsinha322/heartbleed-lab">
+- [CyberCTF/vulhub-openssl-cve-2014-0160](https://github.com/CyberCTF/vulhub-openssl-cve-2014-0160)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-openssl-cve-2014-0160">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-openssl-cve-2014-0160">
 
 ---
 ## CVE-2014-016 ()
