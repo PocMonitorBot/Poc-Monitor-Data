@@ -1058,6 +1058,7 @@
 - [Majaktech/apache-struts-cve-2017-5638-project](https://github.com/Majaktech/apache-struts-cve-2017-5638-project)	<img alt="forks" src="https://img.shields.io/github/forks/Majaktech/apache-struts-cve-2017-5638-project">	<img alt="stars" src="https://img.shields.io/github/stars/Majaktech/apache-struts-cve-2017-5638-project">
 - [GU-007/struts2-tool](https://github.com/GU-007/struts2-tool)	<img alt="forks" src="https://img.shields.io/github/forks/GU-007/struts2-tool">	<img alt="stars" src="https://img.shields.io/github/stars/GU-007/struts2-tool">
 - [Piyush-Tiwatne/struts-patch-gap-auditor](https://github.com/Piyush-Tiwatne/struts-patch-gap-auditor)	<img alt="forks" src="https://img.shields.io/github/forks/Piyush-Tiwatne/struts-patch-gap-auditor">	<img alt="stars" src="https://img.shields.io/github/stars/Piyush-Tiwatne/struts-patch-gap-auditor">
+- [NAIRBS/SC3010-Grp-33](https://github.com/NAIRBS/SC3010-Grp-33)	<img alt="forks" src="https://img.shields.io/github/forks/NAIRBS/SC3010-Grp-33">	<img alt="stars" src="https://img.shields.io/github/stars/NAIRBS/SC3010-Grp-33">
 
 ---
 ## CVE-2017-5633 ()
@@ -2685,6 +2686,7 @@
 - [netw0rk7/CVE-2017-12615-Home-Lab](https://github.com/netw0rk7/CVE-2017-12615-Home-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2017-12615-Home-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2017-12615-Home-Lab">
 - [K3ysTr0K3R/CVE-2017-12615](https://github.com/K3ysTr0K3R/CVE-2017-12615)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2017-12615">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2017-12615">
 - [CyberCTF/vulhub-tomcat-cve-2017-12615](https://github.com/CyberCTF/vulhub-tomcat-cve-2017-12615)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-tomcat-cve-2017-12615">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-tomcat-cve-2017-12615">
+- [nouhaila2030/apache-tomcat-security-audit](https://github.com/nouhaila2030/apache-tomcat-security-audit)	<img alt="forks" src="https://img.shields.io/github/forks/nouhaila2030/apache-tomcat-security-audit">	<img alt="stars" src="https://img.shields.io/github/stars/nouhaila2030/apache-tomcat-security-audit">
 
 ---
 ## CVE-2017-12611 ()

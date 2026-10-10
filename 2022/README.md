@@ -6823,7 +6823,7 @@ Here we only need to move the of_node_put() before the check.
 - [narekkay/auto-cve-2022-44268.sh](https://github.com/narekkay/auto-cve-2022-44268.sh)	<img alt="forks" src="https://img.shields.io/github/forks/narekkay/auto-cve-2022-44268.sh">	<img alt="stars" src="https://img.shields.io/github/stars/narekkay/auto-cve-2022-44268.sh">
 - [chairat095/CVE-2022-44268_By_Kyokito](https://github.com/chairat095/CVE-2022-44268_By_Kyokito)	<img alt="forks" src="https://img.shields.io/github/forks/chairat095/CVE-2022-44268_By_Kyokito">	<img alt="stars" src="https://img.shields.io/github/stars/chairat095/CVE-2022-44268_By_Kyokito">
 - [fanbyprinciple/ImageMagick-lfi-poc](https://github.com/fanbyprinciple/ImageMagick-lfi-poc)	<img alt="forks" src="https://img.shields.io/github/forks/fanbyprinciple/ImageMagick-lfi-poc">	<img alt="stars" src="https://img.shields.io/github/stars/fanbyprinciple/ImageMagick-lfi-poc">
-- [atici/Exploit-for-ImageMagick-CVE-2022-44268](https://github.com/atici/Exploit-for-ImageMagick-CVE-2022-44268)	<img alt="forks" src="https://img.shields.io/github/forks/atici/Exploit-for-ImageMagick-CVE-2022-44268">	<img alt="stars" src="https://img.shields.io/github/stars/atici/Exploit-for-ImageMagick-CVE-2022-44268">
+- [atici/ImageMagick-CVE-2022-44268-PoC](https://github.com/atici/ImageMagick-CVE-2022-44268-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/atici/ImageMagick-CVE-2022-44268-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/atici/ImageMagick-CVE-2022-44268-PoC">
 - [Vagebondcur/IMAGE-MAGICK-CVE-2022-44268](https://github.com/Vagebondcur/IMAGE-MAGICK-CVE-2022-44268)	<img alt="forks" src="https://img.shields.io/github/forks/Vagebondcur/IMAGE-MAGICK-CVE-2022-44268">	<img alt="stars" src="https://img.shields.io/github/stars/Vagebondcur/IMAGE-MAGICK-CVE-2022-44268">
 - [NataliSemi/-CVE-2022-44268](https://github.com/NataliSemi/-CVE-2022-44268)	<img alt="forks" src="https://img.shields.io/github/forks/NataliSemi/-CVE-2022-44268">	<img alt="stars" src="https://img.shields.io/github/stars/NataliSemi/-CVE-2022-44268">
 - [CygnusX-26/CVE-2022-44268-fixed-PoC](https://github.com/CygnusX-26/CVE-2022-44268-fixed-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/CygnusX-26/CVE-2022-44268-fixed-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/CygnusX-26/CVE-2022-44268-fixed-PoC">
@@ -26347,8 +26347,9 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [raheel0x01/CVE-2022-34265-modified](https://github.com/raheel0x01/CVE-2022-34265-modified)	<img alt="forks" src="https://img.shields.io/github/forks/raheel0x01/CVE-2022-34265-modified">	<img alt="stars" src="https://img.shields.io/github/stars/raheel0x01/CVE-2022-34265-modified">
 - [coco0x0a/CVE-2022-34265-mysql](https://github.com/coco0x0a/CVE-2022-34265-mysql)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CVE-2022-34265-mysql">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CVE-2022-34265-mysql">
 - [coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CTF_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CTF_CVE-2022-34265">
-- [coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/coco0x0a/CTF_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/coco0x0a/CTF_CVE-2022-34265">
+- [lnwza0x0a/CTF_Django_CVE-2022-34265](https://github.com/lnwza0x0a/CTF_Django_CVE-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/lnwza0x0a/CTF_Django_CVE-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/lnwza0x0a/CTF_Django_CVE-2022-34265">
 - [CyberCTF/vulhub-django-cve-2022-34265](https://github.com/CyberCTF/vulhub-django-cve-2022-34265)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-django-cve-2022-34265">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-django-cve-2022-34265">
+- [simonepetruzzi/WebSecurityProject](https://github.com/simonepetruzzi/WebSecurityProject)	<img alt="forks" src="https://img.shields.io/github/forks/simonepetruzzi/WebSecurityProject">	<img alt="stars" src="https://img.shields.io/github/stars/simonepetruzzi/WebSecurityProject">
 
 ---
 ## CVE-2022-3426 (2022-12-05T17:15:00)
@@ -38326,6 +38327,11 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [Live-Hack-CVE/CVE-2022-21814](https://github.com/Live-Hack-CVE/CVE-2022-21814)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21814">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21814">
 
 ---
+## CVE-2022-21812 ()
+> 
+- [NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812](https://github.com/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812)	<img alt="forks" src="https://img.shields.io/github/forks/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812">	<img alt="stars" src="https://img.shields.io/github/stars/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812">
+
+---
 ## CVE-2022-21810 (2023-01-26T21:15:00)
 > All versions of the package smartctl are vulnerable to Command Injection via the info method due to improper input sanitization.
 - [Live-Hack-CVE/CVE-2022-21810](https://github.com/Live-Hack-CVE/CVE-2022-21810)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-21810">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-21810">
@@ -42243,7 +42249,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [JacobEbben/CVE-2022-0543](https://github.com/JacobEbben/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/JacobEbben/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/JacobEbben/CVE-2022-0543">
 - [SiennaSkies/redisHack](https://github.com/SiennaSkies/redisHack)	<img alt="forks" src="https://img.shields.io/github/forks/SiennaSkies/redisHack">	<img alt="stars" src="https://img.shields.io/github/stars/SiennaSkies/redisHack">
 - [netw0rk7/CVE-2022-0543-Home-Lab](https://github.com/netw0rk7/CVE-2022-0543-Home-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/netw0rk7/CVE-2022-0543-Home-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/netw0rk7/CVE-2022-0543-Home-Lab">
-- [OpsCipher/CVE-2022-0543](https://github.com/OpsCipher/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/OpsCipher/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/OpsCipher/CVE-2022-0543">
+- [fulxey/CVE-2022-0543](https://github.com/fulxey/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/fulxey/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/fulxey/CVE-2022-0543">
 - [K3ysTr0K3R/CVE-2022-0543](https://github.com/K3ysTr0K3R/CVE-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2022-0543">
 - [CyberCTF/vulhub-redis-cve-2022-0543](https://github.com/CyberCTF/vulhub-redis-cve-2022-0543)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-redis-cve-2022-0543">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-redis-cve-2022-0543">
 

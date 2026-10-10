@@ -4360,6 +4360,7 @@ This issue affects YARPP: from n/a through 5.30.10.
 - [Qq1111111111/pentest-i021-poc-1789486727](https://github.com/Qq1111111111/pentest-i021-poc-1789486727)	<img alt="forks" src="https://img.shields.io/github/forks/Qq1111111111/pentest-i021-poc-1789486727">	<img alt="stars" src="https://img.shields.io/github/stars/Qq1111111111/pentest-i021-poc-1789486727">
 - [stuara1/cpc-pdfjs-poc](https://github.com/stuara1/cpc-pdfjs-poc)	<img alt="forks" src="https://img.shields.io/github/forks/stuara1/cpc-pdfjs-poc">	<img alt="stars" src="https://img.shields.io/github/stars/stuara1/cpc-pdfjs-poc">
 - [weae26/cve-2024-4367-poc](https://github.com/weae26/cve-2024-4367-poc)	<img alt="forks" src="https://img.shields.io/github/forks/weae26/cve-2024-4367-poc">	<img alt="stars" src="https://img.shields.io/github/stars/weae26/cve-2024-4367-poc">
+- [lewiskb/Docker-Lab-CVE-2024-4367](https://github.com/lewiskb/Docker-Lab-CVE-2024-4367)	<img alt="forks" src="https://img.shields.io/github/forks/lewiskb/Docker-Lab-CVE-2024-4367">	<img alt="stars" src="https://img.shields.io/github/stars/lewiskb/Docker-Lab-CVE-2024-4367">
 
 ---
 ## CVE-2024-43639 ()
@@ -5963,6 +5964,11 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 ## CVE-2024-36821 (2024-06-11T18:15:00)
 > Insecure permissions in Linksys Velop WiFi 5 (WHW01v1) 1.1.13.202617 allows attackers to escalate privileges from Guest to root via a directory traversal.
 - [IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821)	<img alt="forks" src="https://img.shields.io/github/forks/IvanGlinkin/CVE-2024-36821">	<img alt="stars" src="https://img.shields.io/github/stars/IvanGlinkin/CVE-2024-36821">
+
+---
+## CVE-2024-36774 ()
+> 
+- [PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC](https://github.com/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC">
 
 ---
 ## CVE-2024-3673 ()

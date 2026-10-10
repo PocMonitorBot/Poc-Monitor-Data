@@ -8491,6 +8491,11 @@
 - [salimelh94/Web-Penetration-Test](https://github.com/salimelh94/Web-Penetration-Test)	<img alt="forks" src="https://img.shields.io/github/forks/salimelh94/Web-Penetration-Test">	<img alt="stars" src="https://img.shields.io/github/stars/salimelh94/Web-Penetration-Test">
 
 ---
+## CVE-2025-34071 ()
+> 
+- [cppghoul/CVE-2025-34071](https://github.com/cppghoul/CVE-2025-34071)	<img alt="forks" src="https://img.shields.io/github/forks/cppghoul/CVE-2025-34071">	<img alt="stars" src="https://img.shields.io/github/stars/cppghoul/CVE-2025-34071">
+
+---
 ## CVE-2025-34069 ()
 > 
 - [cppghoul/CVE-2025-34069](https://github.com/cppghoul/CVE-2025-34069)	<img alt="forks" src="https://img.shields.io/github/forks/cppghoul/CVE-2025-34069">	<img alt="stars" src="https://img.shields.io/github/stars/cppghoul/CVE-2025-34069">
@@ -9696,6 +9701,7 @@
 - [Ritinify/CVE-2025-29927-PoC](https://github.com/Ritinify/CVE-2025-29927-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Ritinify/CVE-2025-29927-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Ritinify/CVE-2025-29927-PoC">
 - [vulnace/CVE-2025-29927](https://github.com/vulnace/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/vulnace/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/vulnace/CVE-2025-29927">
 - [sungue1/CVE-2025-29927](https://github.com/sungue1/CVE-2025-29927)	<img alt="forks" src="https://img.shields.io/github/forks/sungue1/CVE-2025-29927">	<img alt="stars" src="https://img.shields.io/github/stars/sungue1/CVE-2025-29927">
+- [gadaugherty/larkspur-billing](https://github.com/gadaugherty/larkspur-billing)	<img alt="forks" src="https://img.shields.io/github/forks/gadaugherty/larkspur-billing">	<img alt="stars" src="https://img.shields.io/github/stars/gadaugherty/larkspur-billing">
 
 ---
 ## CVE-2025-29891 ()
@@ -10249,6 +10255,7 @@
 - [dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466](https://github.com/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466">
 - [tpirate/CVE-2025-26466](https://github.com/tpirate/CVE-2025-26466)	<img alt="forks" src="https://img.shields.io/github/forks/tpirate/CVE-2025-26466">	<img alt="stars" src="https://img.shields.io/github/stars/tpirate/CVE-2025-26466">
 - [acidboonrs/cve-2025-26466-openssh-poc](https://github.com/acidboonrs/cve-2025-26466-openssh-poc)	<img alt="forks" src="https://img.shields.io/github/forks/acidboonrs/cve-2025-26466-openssh-poc">	<img alt="stars" src="https://img.shields.io/github/stars/acidboonrs/cve-2025-26466-openssh-poc">
+- [K0n9-log/cve-2025-26466-canvas](https://github.com/K0n9-log/cve-2025-26466-canvas)	<img alt="forks" src="https://img.shields.io/github/forks/K0n9-log/cve-2025-26466-canvas">	<img alt="stars" src="https://img.shields.io/github/stars/K0n9-log/cve-2025-26466-canvas">
 - [K0n9-log/cve-2025-26466-canvas](https://github.com/K0n9-log/cve-2025-26466-canvas)	<img alt="forks" src="https://img.shields.io/github/forks/K0n9-log/cve-2025-26466-canvas">	<img alt="stars" src="https://img.shields.io/github/stars/K0n9-log/cve-2025-26466-canvas">
 
 ---
@@ -12900,6 +12907,7 @@
 > 
 - [FWNavy/RMASmoke](https://github.com/FWNavy/RMASmoke)	<img alt="forks" src="https://img.shields.io/github/forks/FWNavy/RMASmoke">	<img alt="stars" src="https://img.shields.io/github/stars/FWNavy/RMASmoke">
 - [MCRideable3963/RMASmoke-v2](https://github.com/MCRideable3963/RMASmoke-v2)	<img alt="forks" src="https://img.shields.io/github/forks/MCRideable3963/RMASmoke-v2">	<img alt="stars" src="https://img.shields.io/github/stars/MCRideable3963/RMASmoke-v2">
+- [MCRideable3963/exploit-docs](https://github.com/MCRideable3963/exploit-docs)	<img alt="forks" src="https://img.shields.io/github/forks/MCRideable3963/exploit-docs">	<img alt="stars" src="https://img.shields.io/github/stars/MCRideable3963/exploit-docs">
 
 ---
 ## CVE-2025-11203 ()
