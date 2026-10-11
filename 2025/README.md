@@ -86,6 +86,11 @@
 - [helloandrewpaul/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2](https://github.com/helloandrewpaul/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2)	<img alt="forks" src="https://img.shields.io/github/forks/helloandrewpaul/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2">	<img alt="stars" src="https://img.shields.io/github/stars/helloandrewpaul/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2">
 
 ---
+## CVE-2025-9548 ()
+> 
+- [CyberFrenchie/CVE-2025-9548](https://github.com/CyberFrenchie/CVE-2025-9548)	<img alt="forks" src="https://img.shields.io/github/forks/CyberFrenchie/CVE-2025-9548">	<img alt="stars" src="https://img.shields.io/github/stars/CyberFrenchie/CVE-2025-9548">
+
+---
 ## CVE-2025-9519 ()
 > 
 - [Nimisha17/Poc-CVE-2025-9519](https://github.com/Nimisha17/Poc-CVE-2025-9519)	<img alt="forks" src="https://img.shields.io/github/forks/Nimisha17/Poc-CVE-2025-9519">	<img alt="stars" src="https://img.shields.io/github/stars/Nimisha17/Poc-CVE-2025-9519">
@@ -790,6 +795,11 @@
 ## CVE-2025-69906 ()
 > 
 - [cypherdavy/CVE-2025-69906-Monstra-CMS-3.0.4-Arbitrary-File-Upload-to-RCE](https://github.com/cypherdavy/CVE-2025-69906-Monstra-CMS-3.0.4-Arbitrary-File-Upload-to-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/cypherdavy/CVE-2025-69906-Monstra-CMS-3.0.4-Arbitrary-File-Upload-to-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/cypherdavy/CVE-2025-69906-Monstra-CMS-3.0.4-Arbitrary-File-Upload-to-RCE">
+
+---
+## CVE-2025-69872 ()
+> 
+- [secondwindoss/diskcache-community](https://github.com/secondwindoss/diskcache-community)	<img alt="forks" src="https://img.shields.io/github/forks/secondwindoss/diskcache-community">	<img alt="stars" src="https://img.shields.io/github/stars/secondwindoss/diskcache-community">
 
 ---
 ## CVE-2025-69848 ()
@@ -10874,6 +10884,7 @@
 - [Affapple/CVE-2025-24813-POC](https://github.com/Affapple/CVE-2025-24813-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Affapple/CVE-2025-24813-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Affapple/CVE-2025-24813-POC">
 - [yym8538/CVE-2025-24813](https://github.com/yym8538/CVE-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/yym8538/CVE-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/yym8538/CVE-2025-24813">
 - [HwangEojin/CVE-2025-24813-Tomcat11-Lab](https://github.com/HwangEojin/CVE-2025-24813-Tomcat11-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/HwangEojin/CVE-2025-24813-Tomcat11-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/HwangEojin/CVE-2025-24813-Tomcat11-Lab">
+- [toyplan/cve-2025-24813](https://github.com/toyplan/cve-2025-24813)	<img alt="forks" src="https://img.shields.io/github/forks/toyplan/cve-2025-24813">	<img alt="stars" src="https://img.shields.io/github/stars/toyplan/cve-2025-24813">
 
 ---
 ## CVE-2025-24801 ()
@@ -12908,6 +12919,7 @@
 - [FWNavy/RMASmoke](https://github.com/FWNavy/RMASmoke)	<img alt="forks" src="https://img.shields.io/github/forks/FWNavy/RMASmoke">	<img alt="stars" src="https://img.shields.io/github/stars/FWNavy/RMASmoke">
 - [MCRideable3963/RMASmoke-v2](https://github.com/MCRideable3963/RMASmoke-v2)	<img alt="forks" src="https://img.shields.io/github/forks/MCRideable3963/RMASmoke-v2">	<img alt="stars" src="https://img.shields.io/github/stars/MCRideable3963/RMASmoke-v2">
 - [MCRideable3963/exploit-docs](https://github.com/MCRideable3963/exploit-docs)	<img alt="forks" src="https://img.shields.io/github/forks/MCRideable3963/exploit-docs">	<img alt="stars" src="https://img.shields.io/github/stars/MCRideable3963/exploit-docs">
+- [MCRideable3963/RMASmoke-v2](https://github.com/MCRideable3963/RMASmoke-v2)	<img alt="forks" src="https://img.shields.io/github/forks/MCRideable3963/RMASmoke-v2">	<img alt="stars" src="https://img.shields.io/github/stars/MCRideable3963/RMASmoke-v2">
 
 ---
 ## CVE-2025-11203 ()

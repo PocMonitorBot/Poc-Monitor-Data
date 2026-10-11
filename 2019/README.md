@@ -2856,6 +2856,7 @@ use after free.
 - [Begitdj/cve-2019-2215-markw](https://github.com/Begitdj/cve-2019-2215-markw)	<img alt="forks" src="https://img.shields.io/github/forks/Begitdj/cve-2019-2215-markw">	<img alt="stars" src="https://img.shields.io/github/stars/Begitdj/cve-2019-2215-markw">
 - [saaedimam/sony-bravia-root-toolkit](https://github.com/saaedimam/sony-bravia-root-toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/saaedimam/sony-bravia-root-toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/saaedimam/sony-bravia-root-toolkit">
 - [WJNKAC/cve-2019-2215-oppo-a77t](https://github.com/WJNKAC/cve-2019-2215-oppo-a77t)	<img alt="forks" src="https://img.shields.io/github/forks/WJNKAC/cve-2019-2215-oppo-a77t">	<img alt="stars" src="https://img.shields.io/github/stars/WJNKAC/cve-2019-2215-oppo-a77t">
+- [FDLAlfrid/odin-od105-devkit](https://github.com/FDLAlfrid/odin-od105-devkit)	<img alt="forks" src="https://img.shields.io/github/forks/FDLAlfrid/odin-od105-devkit">	<img alt="stars" src="https://img.shields.io/github/stars/FDLAlfrid/odin-od105-devkit">
 
 ---
 ## CVE-2019-2205 ()

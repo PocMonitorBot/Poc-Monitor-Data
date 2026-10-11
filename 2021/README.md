@@ -1690,6 +1690,7 @@
 - [CyberCTF/vulhub-log4j-cve-2021-44228](https://github.com/CyberCTF/vulhub-log4j-cve-2021-44228)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-log4j-cve-2021-44228">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-log4j-cve-2021-44228">
 - [ResoluteRacoons/log4-Java-logging-poc](https://github.com/ResoluteRacoons/log4-Java-logging-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ResoluteRacoons/log4-Java-logging-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ResoluteRacoons/log4-Java-logging-poc">
 - [hoangvvthu/CVE-2021-44228-Log4Shell-Lab](https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">
+- [Developer-Dynamo/cs50-cybersecurity-final-project](https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/Developer-Dynamo/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/Developer-Dynamo/cs50-cybersecurity-final-project">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -3066,6 +3067,11 @@
 ## CVE-2021-4203 (2022-03-25T19:15:00)
 > A use-after-free read flaw was found in sock_getsockopt() in net/core/sock.c due to SO_PEERCRED and SO_PEERGROUPS race with listen() (and connect()) in the Linux kernel. In this flaw, an attacker with a user privileges may crash the system or leak internal kernel information.
 - [Live-Hack-CVE/CVE-2021-4203](https://github.com/Live-Hack-CVE/CVE-2021-4203)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-4203">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-4203">
+
+---
+## CVE-2021-42023 ()
+> 
+- [Geeoon/ModelSim-Decryptor](https://github.com/Geeoon/ModelSim-Decryptor)	<img alt="forks" src="https://img.shields.io/github/forks/Geeoon/ModelSim-Decryptor">	<img alt="stars" src="https://img.shields.io/github/stars/Geeoon/ModelSim-Decryptor">
 
 ---
 ## CVE-2021-4202 (2022-03-25T19:15:00)
@@ -10350,6 +10356,7 @@
 ## CVE-2021-26882 ()
 > 
 - [taiji-xo/CVE-2021-26882](https://github.com/taiji-xo/CVE-2021-26882)	<img alt="forks" src="https://img.shields.io/github/forks/taiji-xo/CVE-2021-26882">	<img alt="stars" src="https://img.shields.io/github/stars/taiji-xo/CVE-2021-26882">
+- [songjianyang/CVE-2021-26882](https://github.com/songjianyang/CVE-2021-26882)	<img alt="forks" src="https://img.shields.io/github/forks/songjianyang/CVE-2021-26882">	<img alt="stars" src="https://img.shields.io/github/stars/songjianyang/CVE-2021-26882">
 
 ---
 ## CVE-2021-26871 ()
