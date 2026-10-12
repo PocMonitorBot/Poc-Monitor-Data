@@ -443,6 +443,11 @@ to load arbitrary JavaScript code.
 - [juweihuitao/MpOperationLogs](https://github.com/juweihuitao/MpOperationLogs)	<img alt="forks" src="https://img.shields.io/github/forks/juweihuitao/MpOperationLogs">	<img alt="stars" src="https://img.shields.io/github/stars/juweihuitao/MpOperationLogs">
 
 ---
+## CVE-2023-5536 ()
+> 
+- [karthikparambil/lxd2root](https://github.com/karthikparambil/lxd2root)	<img alt="forks" src="https://img.shields.io/github/forks/karthikparambil/lxd2root">	<img alt="stars" src="https://img.shields.io/github/stars/karthikparambil/lxd2root">
+
+---
 ## CVE-2023-5521 (2023-10-11T12:15:00)
 > Incorrect Authorization in GitHub repository tiann/kernelsu prior to v0.6.9.
 - [Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521)	<img alt="forks" src="https://img.shields.io/github/forks/Ylarod/CVE-2023-5521">	<img alt="stars" src="https://img.shields.io/github/stars/Ylarod/CVE-2023-5521">
@@ -13138,6 +13143,7 @@ kernel memory, lateral privilege escalation, and container escape.
 > 
 - [kasnria001/pwnage24mtk](https://github.com/kasnria001/pwnage24mtk)	<img alt="forks" src="https://img.shields.io/github/forks/kasnria001/pwnage24mtk">	<img alt="stars" src="https://img.shields.io/github/stars/kasnria001/pwnage24mtk">
 - [wzy114514sb/pwnage24mtk](https://github.com/wzy114514sb/pwnage24mtk)	<img alt="forks" src="https://img.shields.io/github/forks/wzy114514sb/pwnage24mtk">	<img alt="stars" src="https://img.shields.io/github/stars/wzy114514sb/pwnage24mtk">
+- [ELF-RC/mtk_logo_toolkit](https://github.com/ELF-RC/mtk_logo_toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/ELF-RC/mtk_logo_toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/ELF-RC/mtk_logo_toolkit">
 
 ---
 ## CVE-2023-20598 (2023-10-17T14:15:00)

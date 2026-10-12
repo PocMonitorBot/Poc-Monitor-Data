@@ -3694,7 +3694,7 @@
 - [YuvrajSHAD/FreePBX-CVE-2025-57819](https://github.com/YuvrajSHAD/FreePBX-CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/YuvrajSHAD/FreePBX-CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/YuvrajSHAD/FreePBX-CVE-2025-57819">
 - [0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678](https://github.com/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678)	<img alt="forks" src="https://img.shields.io/github/forks/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678">	<img alt="stars" src="https://img.shields.io/github/stars/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678">
 - [ozcanpng/CVE-2025-57819-FreePBX-RCE2Root](https://github.com/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root">
-- [TheScriptKiddoz/FreePBX-SQLi-RCE](https://github.com/TheScriptKiddoz/FreePBX-SQLi-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/TheScriptKiddoz/FreePBX-SQLi-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/TheScriptKiddoz/FreePBX-SQLi-RCE">
+- [HexBytee/FreePBX-SQLi-RCE](https://github.com/HexBytee/FreePBX-SQLi-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/HexBytee/FreePBX-SQLi-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/HexBytee/FreePBX-SQLi-RCE">
 - [Its1Zero/cve-2025-57819-exploit](https://github.com/Its1Zero/cve-2025-57819-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Its1Zero/cve-2025-57819-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Its1Zero/cve-2025-57819-exploit">
 - [K3ysTr0K3R/CVE-2025-57819](https://github.com/K3ysTr0K3R/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2025-57819">
 - [Samik-Parajuli/htb-connected-writeup](https://github.com/Samik-Parajuli/htb-connected-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Samik-Parajuli/htb-connected-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Samik-Parajuli/htb-connected-writeup">
@@ -3707,6 +3707,7 @@
 - [donggle0802-code/cve-2025-57819](https://github.com/donggle0802-code/cve-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/donggle0802-code/cve-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/donggle0802-code/cve-2025-57819">
 - [kelltich-756/FreePBX-Breaker](https://github.com/kelltich-756/FreePBX-Breaker)	<img alt="forks" src="https://img.shields.io/github/forks/kelltich-756/FreePBX-Breaker">	<img alt="stars" src="https://img.shields.io/github/stars/kelltich-756/FreePBX-Breaker">
 - [foxcornlab/freepbx-rce-detector](https://github.com/foxcornlab/freepbx-rce-detector)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/freepbx-rce-detector">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/freepbx-rce-detector">
+- [Wayang1337/CVE-2025-57819](https://github.com/Wayang1337/CVE-2025-57819)	<img alt="forks" src="https://img.shields.io/github/forks/Wayang1337/CVE-2025-57819">	<img alt="stars" src="https://img.shields.io/github/stars/Wayang1337/CVE-2025-57819">
 
 ---
 ## CVE-2025-5781 ()
@@ -5087,6 +5088,7 @@
 - [Frizzardsecurity/CVE-2025-55182](https://github.com/Frizzardsecurity/CVE-2025-55182)	<img alt="forks" src="https://img.shields.io/github/forks/Frizzardsecurity/CVE-2025-55182">	<img alt="stars" src="https://img.shields.io/github/stars/Frizzardsecurity/CVE-2025-55182">
 - [tammin86/4thProject_Team1-CVE-2025-55182-](https://github.com/tammin86/4thProject_Team1-CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/tammin86/4thProject_Team1-CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/tammin86/4thProject_Team1-CVE-2025-55182-">
 - [foxcornlab/react2shell-scanner](https://github.com/foxcornlab/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/react2shell-scanner">
+- [M4rc3l08/ReactorWriteUp-HackTheBox](https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox)	<img alt="forks" src="https://img.shields.io/github/forks/M4rc3l08/ReactorWriteUp-HackTheBox">	<img alt="stars" src="https://img.shields.io/github/stars/M4rc3l08/ReactorWriteUp-HackTheBox">
 
 ---
 ## CVE-2025-55177 ()
@@ -11658,6 +11660,11 @@
 > 
 - [Burak1320demiroz/cve-2025-2082](https://github.com/Burak1320demiroz/cve-2025-2082)	<img alt="forks" src="https://img.shields.io/github/forks/Burak1320demiroz/cve-2025-2082">	<img alt="stars" src="https://img.shields.io/github/stars/Burak1320demiroz/cve-2025-2082">
 - [shirabo/cve-2025-2082-POV](https://github.com/shirabo/cve-2025-2082-POV)	<img alt="forks" src="https://img.shields.io/github/forks/shirabo/cve-2025-2082-POV">	<img alt="stars" src="https://img.shields.io/github/stars/shirabo/cve-2025-2082-POV">
+
+---
+## CVE-2025-20730 ()
+> 
+- [ELF-RC/mtk_logo_toolkit](https://github.com/ELF-RC/mtk_logo_toolkit)	<img alt="forks" src="https://img.shields.io/github/forks/ELF-RC/mtk_logo_toolkit">	<img alt="stars" src="https://img.shields.io/github/stars/ELF-RC/mtk_logo_toolkit">
 
 ---
 ## CVE-2025-20720 ()
