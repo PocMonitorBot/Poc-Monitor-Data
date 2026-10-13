@@ -2059,6 +2059,7 @@ An attacker with a knowledge of the available commands is able to perform read/w
 - [MartinxMax/CVE-2024-53677](https://github.com/MartinxMax/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/MartinxMax/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/MartinxMax/CVE-2024-53677">
 - [sangrok-jeon/CVE-2024-53677-Analysis](https://github.com/sangrok-jeon/CVE-2024-53677-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/sangrok-jeon/CVE-2024-53677-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/sangrok-jeon/CVE-2024-53677-Analysis">
 - [ctfsec/CVE-2024-53677](https://github.com/ctfsec/CVE-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/ctfsec/CVE-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/ctfsec/CVE-2024-53677">
+- [choyj358/cve-2024-53677](https://github.com/choyj358/cve-2024-53677)	<img alt="forks" src="https://img.shields.io/github/forks/choyj358/cve-2024-53677">	<img alt="stars" src="https://img.shields.io/github/stars/choyj358/cve-2024-53677">
 
 ---
 ## CVE-2024-53667 ()
@@ -3799,6 +3800,7 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation](https://github.com/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation)	<img alt="forks" src="https://img.shields.io/github/forks/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation">	<img alt="stars" src="https://img.shields.io/github/stars/DuyDuongDuyDuong/CVE-2024-4577-Exploitation-AsyncRAT-Deployment-DFIR-Investigation">
 - [khwajasaad267-coder/cve-2024-4577-lab](https://github.com/khwajasaad267-coder/cve-2024-4577-lab)	<img alt="forks" src="https://img.shields.io/github/forks/khwajasaad267-coder/cve-2024-4577-lab">	<img alt="stars" src="https://img.shields.io/github/stars/khwajasaad267-coder/cve-2024-4577-lab">
 - [yeee3642/edu-recon](https://github.com/yeee3642/edu-recon)	<img alt="forks" src="https://img.shields.io/github/forks/yeee3642/edu-recon">	<img alt="stars" src="https://img.shields.io/github/stars/yeee3642/edu-recon">
+- [lockbitblack-ai/CVE-2024-4577-new](https://github.com/lockbitblack-ai/CVE-2024-4577-new)	<img alt="forks" src="https://img.shields.io/github/forks/lockbitblack-ai/CVE-2024-4577-new">	<img alt="stars" src="https://img.shields.io/github/stars/lockbitblack-ai/CVE-2024-4577-new">
 
 ---
 ## CVE-2024-4573 ()
@@ -10834,6 +10836,7 @@ See the release notes (https://confluence.atlassian.com/doc/confluence-release-n
 - [skysbsb/CVE-2024-21626-POC](https://github.com/skysbsb/CVE-2024-21626-POC)	<img alt="forks" src="https://img.shields.io/github/forks/skysbsb/CVE-2024-21626-POC">	<img alt="stars" src="https://img.shields.io/github/stars/skysbsb/CVE-2024-21626-POC">
 - [RnW29/cve-2024-21626-runc-lab](https://github.com/RnW29/cve-2024-21626-runc-lab)	<img alt="forks" src="https://img.shields.io/github/forks/RnW29/cve-2024-21626-runc-lab">	<img alt="stars" src="https://img.shields.io/github/stars/RnW29/cve-2024-21626-runc-lab">
 - [MutagomaRaissa/container-security-lab-cve-2024-21626](https://github.com/MutagomaRaissa/container-security-lab-cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/MutagomaRaissa/container-security-lab-cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/MutagomaRaissa/container-security-lab-cve-2024-21626">
+- [ghs053020-stack/cve-2024-21626](https://github.com/ghs053020-stack/cve-2024-21626)	<img alt="forks" src="https://img.shields.io/github/forks/ghs053020-stack/cve-2024-21626">	<img alt="stars" src="https://img.shields.io/github/stars/ghs053020-stack/cve-2024-21626">
 
 ---
 ## CVE-2024-21591 (2024-01-12T01:15:00)

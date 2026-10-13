@@ -150,6 +150,7 @@
 - [rushikesh-a-bhujbal/CVE-2007-2447](https://github.com/rushikesh-a-bhujbal/CVE-2007-2447)	<img alt="forks" src="https://img.shields.io/github/forks/rushikesh-a-bhujbal/CVE-2007-2447">	<img alt="stars" src="https://img.shields.io/github/stars/rushikesh-a-bhujbal/CVE-2007-2447">
 - [malredfan/metasploitable2-pentest](https://github.com/malredfan/metasploitable2-pentest)	<img alt="forks" src="https://img.shields.io/github/forks/malredfan/metasploitable2-pentest">	<img alt="stars" src="https://img.shields.io/github/stars/malredfan/metasploitable2-pentest">
 - [sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs](https://github.com/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs)	<img alt="forks" src="https://img.shields.io/github/forks/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs">	<img alt="stars" src="https://img.shields.io/github/stars/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs">
+- [ddiazcr/home-soc-lab](https://github.com/ddiazcr/home-soc-lab)	<img alt="forks" src="https://img.shields.io/github/forks/ddiazcr/home-soc-lab">	<img alt="stars" src="https://img.shields.io/github/stars/ddiazcr/home-soc-lab">
 
 ---
 ## CVE-2007-2444 (2007-05-14T21:19:00)

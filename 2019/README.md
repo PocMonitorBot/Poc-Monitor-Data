@@ -1629,6 +1629,7 @@
 - [daehyeok0618/CVE-2019-5418](https://github.com/daehyeok0618/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/daehyeok0618/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/daehyeok0618/CVE-2019-5418">
 - [melardev/CVE-2019-5418](https://github.com/melardev/CVE-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/melardev/CVE-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/melardev/CVE-2019-5418">
 - [CyberCTF/vulhub-rails-cve-2019-5418](https://github.com/CyberCTF/vulhub-rails-cve-2019-5418)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-rails-cve-2019-5418">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-rails-cve-2019-5418">
+- [5t1ck/rails-doubletap-py](https://github.com/5t1ck/rails-doubletap-py)	<img alt="forks" src="https://img.shields.io/github/forks/5t1ck/rails-doubletap-py">	<img alt="stars" src="https://img.shields.io/github/stars/5t1ck/rails-doubletap-py">
 
 ---
 ## CVE-2019-5414 ()

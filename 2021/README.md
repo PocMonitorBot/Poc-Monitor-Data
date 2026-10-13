@@ -13331,6 +13331,7 @@
 ## CVE-2021-1905 ()
 > 
 - [TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664](https://github.com/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664)	<img alt="forks" src="https://img.shields.io/github/forks/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664">	<img alt="stars" src="https://img.shields.io/github/stars/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664">
+- [Gonvar/kgsl-1905-msm8953](https://github.com/Gonvar/kgsl-1905-msm8953)	<img alt="forks" src="https://img.shields.io/github/forks/Gonvar/kgsl-1905-msm8953">	<img alt="stars" src="https://img.shields.io/github/stars/Gonvar/kgsl-1905-msm8953">
 
 ---
 ## CVE-2021-1883 ()

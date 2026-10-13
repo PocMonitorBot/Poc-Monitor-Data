@@ -7876,6 +7876,11 @@
 - [NotItsSixtyN3in/CVE-2025-4162025](https://github.com/NotItsSixtyN3in/CVE-2025-4162025)	<img alt="forks" src="https://img.shields.io/github/forks/NotItsSixtyN3in/CVE-2025-4162025">	<img alt="stars" src="https://img.shields.io/github/stars/NotItsSixtyN3in/CVE-2025-4162025">
 
 ---
+## CVE-2025-41450 ()
+> 
+- [msuiche/fromagegate](https://github.com/msuiche/fromagegate)	<img alt="forks" src="https://img.shields.io/github/forks/msuiche/fromagegate">	<img alt="stars" src="https://img.shields.io/github/stars/msuiche/fromagegate">
+
+---
 ## CVE-2025-4138 ()
 > 
 - [DesertDemons/CVE-2025-4138-4517-POC](https://github.com/DesertDemons/CVE-2025-4138-4517-POC)	<img alt="forks" src="https://img.shields.io/github/forks/DesertDemons/CVE-2025-4138-4517-POC">	<img alt="stars" src="https://img.shields.io/github/stars/DesertDemons/CVE-2025-4138-4517-POC">
@@ -8963,8 +8968,9 @@
 - [HeltonPojo/CVE-2025-32432](https://github.com/HeltonPojo/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/HeltonPojo/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/HeltonPojo/CVE-2025-32432">
 - [PsyGuy007-sys/craftcms-cve-2025-32432-rce](https://github.com/PsyGuy007-sys/craftcms-cve-2025-32432-rce)	<img alt="forks" src="https://img.shields.io/github/forks/PsyGuy007-sys/craftcms-cve-2025-32432-rce">	<img alt="stars" src="https://img.shields.io/github/stars/PsyGuy007-sys/craftcms-cve-2025-32432-rce">
 - [EzraMansor/CVE-2025-32432-PoC](https://github.com/EzraMansor/CVE-2025-32432-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/EzraMansor/CVE-2025-32432-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/EzraMansor/CVE-2025-32432-PoC">
-- [e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432](https://github.com/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/e5dfdd568a75282b712b6d93a7a18e12/CVE-2025-32432">
+- [Si13NTTT/CVE-2025-32432](https://github.com/Si13NTTT/CVE-2025-32432)	<img alt="forks" src="https://img.shields.io/github/forks/Si13NTTT/CVE-2025-32432">	<img alt="stars" src="https://img.shields.io/github/stars/Si13NTTT/CVE-2025-32432">
 - [P34NUT2/CVE-2025-32432-exploit-by-P34NUT](https://github.com/P34NUT2/CVE-2025-32432-exploit-by-P34NUT)	<img alt="forks" src="https://img.shields.io/github/forks/P34NUT2/CVE-2025-32432-exploit-by-P34NUT">	<img alt="stars" src="https://img.shields.io/github/stars/P34NUT2/CVE-2025-32432-exploit-by-P34NUT">
+- [l0lsuit/CVE-2025-32432-craftcms-rce](https://github.com/l0lsuit/CVE-2025-32432-craftcms-rce)	<img alt="forks" src="https://img.shields.io/github/forks/l0lsuit/CVE-2025-32432-craftcms-rce">	<img alt="stars" src="https://img.shields.io/github/stars/l0lsuit/CVE-2025-32432-craftcms-rce">
 
 ---
 ## CVE-2025-3243 ()
@@ -9216,6 +9222,7 @@
 - [harshitvarma05/CVE-2025-31324-Exploits](https://github.com/harshitvarma05/CVE-2025-31324-Exploits)	<img alt="forks" src="https://img.shields.io/github/forks/harshitvarma05/CVE-2025-31324-Exploits">	<img alt="stars" src="https://img.shields.io/github/stars/harshitvarma05/CVE-2025-31324-Exploits">
 - [aristois913/CVE-2025-31324](https://github.com/aristois913/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/aristois913/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/aristois913/CVE-2025-31324">
 - [HKenzoKimura/CVE-2025-31324](https://github.com/HKenzoKimura/CVE-2025-31324)	<img alt="forks" src="https://img.shields.io/github/forks/HKenzoKimura/CVE-2025-31324">	<img alt="stars" src="https://img.shields.io/github/stars/HKenzoKimura/CVE-2025-31324">
+- [harisandhusingh-cmyk/cs50-cve-2025-31324-analysis](https://github.com/harisandhusingh-cmyk/cs50-cve-2025-31324-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/harisandhusingh-cmyk/cs50-cve-2025-31324-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/harisandhusingh-cmyk/cs50-cve-2025-31324-analysis">
 
 ---
 ## CVE-2025-31277 ()
