@@ -12821,6 +12821,11 @@
 - [pvharmo2/gha-lab-b9842b12c0](https://github.com/pvharmo2/gha-lab-b9842b12c0)	<img alt="forks" src="https://img.shields.io/github/forks/pvharmo2/gha-lab-b9842b12c0">	<img alt="stars" src="https://img.shields.io/github/stars/pvharmo2/gha-lab-b9842b12c0">
 
 ---
+## CVE-2021-21413 ()
+> 
+- [sm1ee/CVE-2021-21413](https://github.com/sm1ee/CVE-2021-21413)	<img alt="forks" src="https://img.shields.io/github/forks/sm1ee/CVE-2021-21413">	<img alt="stars" src="https://img.shields.io/github/stars/sm1ee/CVE-2021-21413">
+
+---
 ## CVE-2021-21408 (2022-01-10T20:15:00)
 > Smarty is a template engine for PHP, facilitating the separation of presentation (HTML/CSS) from application logic. Prior to versions 3.1.43 and 4.0.3, template authors could run restricted static php methods. Users should upgrade to version 3.1.43 or 4.0.3 to receive a patch.
 - [Live-Hack-CVE/CVE-2021-21408](https://github.com/Live-Hack-CVE/CVE-2021-21408)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-21408">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-21408">

@@ -411,6 +411,11 @@
 - [Live-Hack-CVE/CVE-2020-8745](https://github.com/Live-Hack-CVE/CVE-2020-8745)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-8745">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-8745">
 
 ---
+## CVE-2020-8694 ()
+> 
+- [kcherry497/tmog-rapl-gate](https://github.com/kcherry497/tmog-rapl-gate)	<img alt="forks" src="https://img.shields.io/github/forks/kcherry497/tmog-rapl-gate">	<img alt="stars" src="https://img.shields.io/github/stars/kcherry497/tmog-rapl-gate">
+
+---
 ## CVE-2020-8644 (2020-02-05T22:15:00)
 > PlaySMS before 1.4.3 does not sanitize inputs from a malicious string.
 - [H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4](https://github.com/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4)	<img alt="forks" src="https://img.shields.io/github/forks/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4">	<img alt="stars" src="https://img.shields.io/github/stars/H3rm1tR3b0rn/CVE-2020-8644-PlaySMS-1.4">
@@ -9639,6 +9644,7 @@
 - [koharin/CVE-2020-0041](https://github.com/koharin/CVE-2020-0041)	<img alt="forks" src="https://img.shields.io/github/forks/koharin/CVE-2020-0041">	<img alt="stars" src="https://img.shields.io/github/stars/koharin/CVE-2020-0041">
 - [vaginessa/CVE-2020-0041-Pixel-3a](https://github.com/vaginessa/CVE-2020-0041-Pixel-3a)	<img alt="forks" src="https://img.shields.io/github/forks/vaginessa/CVE-2020-0041-Pixel-3a">	<img alt="stars" src="https://img.shields.io/github/stars/vaginessa/CVE-2020-0041-Pixel-3a">
 - [bluefrostsecurity/CVE-2020-0041](https://github.com/bluefrostsecurity/CVE-2020-0041)	<img alt="forks" src="https://img.shields.io/github/forks/bluefrostsecurity/CVE-2020-0041">	<img alt="stars" src="https://img.shields.io/github/stars/bluefrostsecurity/CVE-2020-0041">
+- [hiratazx/CVE-2020-0041](https://github.com/hiratazx/CVE-2020-0041)	<img alt="forks" src="https://img.shields.io/github/forks/hiratazx/CVE-2020-0041">	<img alt="stars" src="https://img.shields.io/github/stars/hiratazx/CVE-2020-0041">
 
 ---
 ## CVE-2020-0023 ()

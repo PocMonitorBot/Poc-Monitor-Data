@@ -396,6 +396,7 @@
 - [Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup)	<img alt="forks" src="https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup">	<img alt="stars" src="https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup">
 - [Makis6/CVE-2025-8110](https://github.com/Makis6/CVE-2025-8110)	<img alt="forks" src="https://img.shields.io/github/forks/Makis6/CVE-2025-8110">	<img alt="stars" src="https://img.shields.io/github/stars/Makis6/CVE-2025-8110">
 - [Waynehck8/CVE-2025-8110-POC](https://github.com/Waynehck8/CVE-2025-8110-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Waynehck8/CVE-2025-8110-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Waynehck8/CVE-2025-8110-POC">
+- [eds1268/cve-2025-8110-ctf](https://github.com/eds1268/cve-2025-8110-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/eds1268/cve-2025-8110-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/eds1268/cve-2025-8110-ctf">
 
 ---
 ## CVE-2025-8091 ()
@@ -7879,6 +7880,7 @@
 ## CVE-2025-41450 ()
 > 
 - [msuiche/fromagegate](https://github.com/msuiche/fromagegate)	<img alt="forks" src="https://img.shields.io/github/forks/msuiche/fromagegate">	<img alt="stars" src="https://img.shields.io/github/stars/msuiche/fromagegate">
+- [Nero22k/CVE-2025-41450_poc](https://github.com/Nero22k/CVE-2025-41450_poc)	<img alt="forks" src="https://img.shields.io/github/forks/Nero22k/CVE-2025-41450_poc">	<img alt="stars" src="https://img.shields.io/github/stars/Nero22k/CVE-2025-41450_poc">
 
 ---
 ## CVE-2025-4138 ()

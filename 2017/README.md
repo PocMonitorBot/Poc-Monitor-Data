@@ -2874,6 +2874,7 @@
 - [futureFfff/CVE-2017](https://github.com/futureFfff/CVE-2017)	<img alt="forks" src="https://img.shields.io/github/forks/futureFfff/CVE-2017">	<img alt="stars" src="https://img.shields.io/github/stars/futureFfff/CVE-2017">
 - [zhouat/cve-2017-11882](https://github.com/zhouat/cve-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/zhouat/cve-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/zhouat/cve-2017-11882">
 - [Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis](https://github.com/Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis">
+- [SyedaQuratulain098/factura-malware-analysis-lab](https://github.com/SyedaQuratulain098/factura-malware-analysis-lab)	<img alt="forks" src="https://img.shields.io/github/forks/SyedaQuratulain098/factura-malware-analysis-lab">	<img alt="stars" src="https://img.shields.io/github/stars/SyedaQuratulain098/factura-malware-analysis-lab">
 
 ---
 ## CVE-2017-11826 ()
