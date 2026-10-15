@@ -10904,6 +10904,7 @@
 - [fatkz/CVE-2025-24801](https://github.com/fatkz/CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/fatkz/CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/fatkz/CVE-2025-24801">
 - [b4sh0xf/PoC-CVE-2025-24801](https://github.com/b4sh0xf/PoC-CVE-2025-24801)	<img alt="forks" src="https://img.shields.io/github/forks/b4sh0xf/PoC-CVE-2025-24801">	<img alt="stars" src="https://img.shields.io/github/stars/b4sh0xf/PoC-CVE-2025-24801">
 - [kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE](https://github.com/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE">
+- [PeaMatNgu/cve-2025-24801-glpi](https://github.com/PeaMatNgu/cve-2025-24801-glpi)	<img alt="forks" src="https://img.shields.io/github/forks/PeaMatNgu/cve-2025-24801-glpi">	<img alt="stars" src="https://img.shields.io/github/stars/PeaMatNgu/cve-2025-24801-glpi">
 
 ---
 ## CVE-2025-24799 ()
@@ -12500,6 +12501,11 @@
 - [p33d/cve-2025-1323](https://github.com/p33d/cve-2025-1323)	<img alt="forks" src="https://img.shields.io/github/forks/p33d/cve-2025-1323">	<img alt="stars" src="https://img.shields.io/github/stars/p33d/cve-2025-1323">
 
 ---
+## CVE-2025-13224 ()
+> 
+- [jamezx32/CVE-2025-13224](https://github.com/jamezx32/CVE-2025-13224)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2025-13224">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2025-13224">
+
+---
 ## CVE-2025-13223 ()
 > 
 - [ipsbruno3/CVE-2025-13223](https://github.com/ipsbruno3/CVE-2025-13223)	<img alt="forks" src="https://img.shields.io/github/forks/ipsbruno3/CVE-2025-13223">	<img alt="stars" src="https://img.shields.io/github/stars/ipsbruno3/CVE-2025-13223">
@@ -12690,6 +12696,11 @@
 ## CVE-2025-12437 ()
 > 
 - [callinston/CVE-2025-12437](https://github.com/callinston/CVE-2025-12437)	<img alt="forks" src="https://img.shields.io/github/forks/callinston/CVE-2025-12437">	<img alt="stars" src="https://img.shields.io/github/stars/callinston/CVE-2025-12437">
+
+---
+## CVE-2025-12433 ()
+> 
+- [jamezx32/CVE-2025-12433](https://github.com/jamezx32/CVE-2025-12433)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2025-12433">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2025-12433">
 
 ---
 ## CVE-2025-12428 ()

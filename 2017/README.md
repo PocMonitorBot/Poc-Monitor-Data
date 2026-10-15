@@ -493,6 +493,7 @@
 - [xjghnxhlh/hikihack](https://github.com/xjghnxhlh/hikihack)	<img alt="forks" src="https://img.shields.io/github/forks/xjghnxhlh/hikihack">	<img alt="stars" src="https://img.shields.io/github/stars/xjghnxhlh/hikihack">
 - [blacksheepstudio/CVE-2017-7921-EXP](https://github.com/blacksheepstudio/CVE-2017-7921-EXP)	<img alt="forks" src="https://img.shields.io/github/forks/blacksheepstudio/CVE-2017-7921-EXP">	<img alt="stars" src="https://img.shields.io/github/stars/blacksheepstudio/CVE-2017-7921-EXP">
 - [Th3Purge/CVE-2017-7921-Exploit](https://github.com/Th3Purge/CVE-2017-7921-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Th3Purge/CVE-2017-7921-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Th3Purge/CVE-2017-7921-Exploit">
+- [m7arm4n/CVE-2017-7921](https://github.com/m7arm4n/CVE-2017-7921)	<img alt="forks" src="https://img.shields.io/github/forks/m7arm4n/CVE-2017-7921">	<img alt="stars" src="https://img.shields.io/github/stars/m7arm4n/CVE-2017-7921">
 
 ---
 ## CVE-2017-7912 ()

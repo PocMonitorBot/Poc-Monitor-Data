@@ -6924,6 +6924,7 @@ use after free.
 - [NatteeSetobol/CVE-2019-0567-MS-Edge](https://github.com/NatteeSetobol/CVE-2019-0567-MS-Edge)	<img alt="forks" src="https://img.shields.io/github/forks/NatteeSetobol/CVE-2019-0567-MS-Edge">	<img alt="stars" src="https://img.shields.io/github/stars/NatteeSetobol/CVE-2019-0567-MS-Edge">
 - [ommadawn46/chakra-type-confusions](https://github.com/ommadawn46/chakra-type-confusions)	<img alt="forks" src="https://img.shields.io/github/forks/ommadawn46/chakra-type-confusions">	<img alt="stars" src="https://img.shields.io/github/stars/ommadawn46/chakra-type-confusions">
 - [ntdelta/chakra-exploit-framework](https://github.com/ntdelta/chakra-exploit-framework)	<img alt="forks" src="https://img.shields.io/github/forks/ntdelta/chakra-exploit-framework">	<img alt="stars" src="https://img.shields.io/github/stars/ntdelta/chakra-exploit-framework">
+- [jamezx32/CVE-2019-0567](https://github.com/jamezx32/CVE-2019-0567)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2019-0567">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2019-0567">
 
 ---
 ## CVE-2019-0555 ()

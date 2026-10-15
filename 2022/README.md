@@ -18202,6 +18202,7 @@ A more restrictive Jolokia configuration has been defined in default ActiveMQ di
 - [xun404/spd_dump-macos](https://github.com/xun404/spd_dump-macos)	<img alt="forks" src="https://img.shields.io/github/forks/xun404/spd_dump-macos">	<img alt="stars" src="https://img.shields.io/github/stars/xun404/spd_dump-macos">
 - [Gadorach/vankyo-s30-bootloader-unlock](https://github.com/Gadorach/vankyo-s30-bootloader-unlock)	<img alt="forks" src="https://img.shields.io/github/forks/Gadorach/vankyo-s30-bootloader-unlock">	<img alt="stars" src="https://img.shields.io/github/stars/Gadorach/vankyo-s30-bootloader-unlock">
 - [redzrush101/zte-blade-v40-vita-unlock](https://github.com/redzrush101/zte-blade-v40-vita-unlock)	<img alt="forks" src="https://img.shields.io/github/forks/redzrush101/zte-blade-v40-vita-unlock">	<img alt="stars" src="https://img.shields.io/github/stars/redzrush101/zte-blade-v40-vita-unlock">
+- [mpse-engineering/BLU_G35](https://github.com/mpse-engineering/BLU_G35)	<img alt="forks" src="https://img.shields.io/github/forks/mpse-engineering/BLU_G35">	<img alt="stars" src="https://img.shields.io/github/stars/mpse-engineering/BLU_G35">
 
 ---
 ## CVE-2022-38691 ()
@@ -41205,6 +41206,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [Live-Hack-CVE/CVE-2022-1364](https://github.com/Live-Hack-CVE/CVE-2022-1364)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-1364">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-1364">
 - [A1Lin/cve-2022-1364](https://github.com/A1Lin/cve-2022-1364)	<img alt="forks" src="https://img.shields.io/github/forks/A1Lin/cve-2022-1364">	<img alt="stars" src="https://img.shields.io/github/stars/A1Lin/cve-2022-1364">
 - [interruptlabs/uc_browser_poc_CVE-2022-1364](https://github.com/interruptlabs/uc_browser_poc_CVE-2022-1364)	<img alt="forks" src="https://img.shields.io/github/forks/interruptlabs/uc_browser_poc_CVE-2022-1364">	<img alt="stars" src="https://img.shields.io/github/stars/interruptlabs/uc_browser_poc_CVE-2022-1364">
+- [jamezx32/CVE-2022-1364](https://github.com/jamezx32/CVE-2022-1364)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2022-1364">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2022-1364">
 
 ---
 ## CVE-2022-1353 (2022-04-29T16:15:00)

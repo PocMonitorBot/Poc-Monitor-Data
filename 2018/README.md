@@ -577,6 +577,7 @@
 - [K52-ai/CVE-2018-7600](https://github.com/K52-ai/CVE-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/K52-ai/CVE-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/K52-ai/CVE-2018-7600">
 - [Aihikk/DC-1_Vulnhub_Walkthrough](https://github.com/Aihikk/DC-1_Vulnhub_Walkthrough)	<img alt="forks" src="https://img.shields.io/github/forks/Aihikk/DC-1_Vulnhub_Walkthrough">	<img alt="stars" src="https://img.shields.io/github/stars/Aihikk/DC-1_Vulnhub_Walkthrough">
 - [CyberCTF/vulhub-drupal-cve-2018-7600](https://github.com/CyberCTF/vulhub-drupal-cve-2018-7600)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-drupal-cve-2018-7600">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-drupal-cve-2018-7600">
+- [SanCody/DC1-Penetration-Testing-Report](https://github.com/SanCody/DC1-Penetration-Testing-Report)	<img alt="forks" src="https://img.shields.io/github/forks/SanCody/DC1-Penetration-Testing-Report">	<img alt="stars" src="https://img.shields.io/github/stars/SanCody/DC1-Penetration-Testing-Report">
 
 ---
 ## CVE-2018-7557 (2018-02-28T07:29:00)
@@ -1328,6 +1329,11 @@
 - [Jailbreaks/CVE-2018-4150](https://github.com/Jailbreaks/CVE-2018-4150)	<img alt="forks" src="https://img.shields.io/github/forks/Jailbreaks/CVE-2018-4150">	<img alt="stars" src="https://img.shields.io/github/stars/Jailbreaks/CVE-2018-4150">
 - [mirdhan/LovelySn0w](https://github.com/mirdhan/LovelySn0w)	<img alt="forks" src="https://img.shields.io/github/forks/mirdhan/LovelySn0w">	<img alt="stars" src="https://img.shields.io/github/stars/mirdhan/LovelySn0w">
 - [littlelailo/incomplete-exploit-for-CVE-2018-4150-bpf-filter-poc-](https://github.com/littlelailo/incomplete-exploit-for-CVE-2018-4150-bpf-filter-poc-)	<img alt="forks" src="https://img.shields.io/github/forks/littlelailo/incomplete-exploit-for-CVE-2018-4150-bpf-filter-poc-">	<img alt="stars" src="https://img.shields.io/github/stars/littlelailo/incomplete-exploit-for-CVE-2018-4150-bpf-filter-poc-">
+
+---
+## CVE-2018-4125 ()
+> 
+- [jamezx32/CVE-2018-4125-4161-4162-4163](https://github.com/jamezx32/CVE-2018-4125-4161-4162-4163)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2018-4125-4161-4162-4163">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2018-4125-4161-4162-4163">
 
 ---
 ## CVE-2018-4124 ()

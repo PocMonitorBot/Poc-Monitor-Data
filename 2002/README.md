@@ -97,3 +97,4 @@
 > 
 - [ratiros01/CVE-2002-0082](https://github.com/ratiros01/CVE-2002-0082)	<img alt="forks" src="https://img.shields.io/github/forks/ratiros01/CVE-2002-0082">	<img alt="stars" src="https://img.shields.io/github/stars/ratiros01/CVE-2002-0082">
 - [anilkashyap01/Binary-Exploitation-and-Kernel-Escalation](https://github.com/anilkashyap01/Binary-Exploitation-and-Kernel-Escalation)	<img alt="forks" src="https://img.shields.io/github/forks/anilkashyap01/Binary-Exploitation-and-Kernel-Escalation">	<img alt="stars" src="https://img.shields.io/github/stars/anilkashyap01/Binary-Exploitation-and-Kernel-Escalation">
+- [Nutsulejustine/pentest-kioptrix](https://github.com/Nutsulejustine/pentest-kioptrix)	<img alt="forks" src="https://img.shields.io/github/forks/Nutsulejustine/pentest-kioptrix">	<img alt="stars" src="https://img.shields.io/github/stars/Nutsulejustine/pentest-kioptrix">

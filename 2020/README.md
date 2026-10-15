@@ -4464,6 +4464,7 @@
 - [Nguyen-id/CVE-2020-25213](https://github.com/Nguyen-id/CVE-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/Nguyen-id/CVE-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/Nguyen-id/CVE-2020-25213">
 - [Cmadhushanka/wordpress-rce-vapt-cve-2020-25213](https://github.com/Cmadhushanka/wordpress-rce-vapt-cve-2020-25213)	<img alt="forks" src="https://img.shields.io/github/forks/Cmadhushanka/wordpress-rce-vapt-cve-2020-25213">	<img alt="stars" src="https://img.shields.io/github/stars/Cmadhushanka/wordpress-rce-vapt-cve-2020-25213">
 - [KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon](https://github.com/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon)	<img alt="forks" src="https://img.shields.io/github/forks/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon">	<img alt="stars" src="https://img.shields.io/github/stars/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon">
+- [Maalfer/CVE-2020-25213-exploit](https://github.com/Maalfer/CVE-2020-25213-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2020-25213-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2020-25213-exploit">
 
 ---
 ## CVE-2020-25206 (2021-07-20T19:15:00)
@@ -5778,6 +5779,7 @@
 - [mohammadzarnian1357/MiniPlasma](https://github.com/mohammadzarnian1357/MiniPlasma)	<img alt="forks" src="https://img.shields.io/github/forks/mohammadzarnian1357/MiniPlasma">	<img alt="stars" src="https://img.shields.io/github/stars/mohammadzarnian1357/MiniPlasma">
 - [rfranca777/miniplasma-advisory](https://github.com/rfranca777/miniplasma-advisory)	<img alt="forks" src="https://img.shields.io/github/forks/rfranca777/miniplasma-advisory">	<img alt="stars" src="https://img.shields.io/github/stars/rfranca777/miniplasma-advisory">
 - [0xBlackash/CVE-2020-17103](https://github.com/0xBlackash/CVE-2020-17103)	<img alt="forks" src="https://img.shields.io/github/forks/0xBlackash/CVE-2020-17103">	<img alt="stars" src="https://img.shields.io/github/stars/0xBlackash/CVE-2020-17103">
+- [dooodad/MiniPlasma](https://github.com/dooodad/MiniPlasma)	<img alt="forks" src="https://img.shields.io/github/forks/dooodad/MiniPlasma">	<img alt="stars" src="https://img.shields.io/github/stars/dooodad/MiniPlasma">
 
 ---
 ## CVE-2020-1709 (2020-03-20T15:15:00)

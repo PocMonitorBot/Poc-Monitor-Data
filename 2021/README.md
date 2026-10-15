@@ -4776,6 +4776,7 @@
 - [tachote/CVE-2021-4034](https://github.com/tachote/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/tachote/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/tachote/CVE-2021-4034">
 - [iurhfiu6/CVE-2021-4034](https://github.com/iurhfiu6/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/iurhfiu6/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/iurhfiu6/CVE-2021-4034">
 - [r00t-byte/Pwnkit-CVE-2021-4034-LPE](https://github.com/r00t-byte/Pwnkit-CVE-2021-4034-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/r00t-byte/Pwnkit-CVE-2021-4034-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/r00t-byte/Pwnkit-CVE-2021-4034-LPE">
+- [SerhiiMaruniak/CVE-2021-4034](https://github.com/SerhiiMaruniak/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/SerhiiMaruniak/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/SerhiiMaruniak/CVE-2021-4034">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -5852,6 +5853,7 @@
 > Inappropriate implementation in V8 in Google Chrome prior to 95.0.4638.69 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 - [SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003](https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003)	<img alt="forks" src="https://img.shields.io/github/forks/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003">	<img alt="stars" src="https://img.shields.io/github/stars/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003">
 - [caffeinedoom/CVE-2021-38003](https://github.com/caffeinedoom/CVE-2021-38003)	<img alt="forks" src="https://img.shields.io/github/forks/caffeinedoom/CVE-2021-38003">	<img alt="stars" src="https://img.shields.io/github/stars/caffeinedoom/CVE-2021-38003">
+- [jamezx32/CVE-2021-38003](https://github.com/jamezx32/CVE-2021-38003)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2021-38003">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2021-38003">
 
 ---
 ## CVE-2021-38001 (2021-11-23T22:15:00)
@@ -9404,6 +9406,11 @@
 ## CVE-2021-30535 ()
 > 
 - [califio/icu4x-crubit-demo](https://github.com/califio/icu4x-crubit-demo)	<img alt="forks" src="https://img.shields.io/github/forks/califio/icu4x-crubit-demo">	<img alt="stars" src="https://img.shields.io/github/stars/califio/icu4x-crubit-demo">
+
+---
+## CVE-2021-30517 ()
+> 
+- [jamezx32/CVE-2021-30517](https://github.com/jamezx32/CVE-2021-30517)	<img alt="forks" src="https://img.shields.io/github/forks/jamezx32/CVE-2021-30517">	<img alt="stars" src="https://img.shields.io/github/stars/jamezx32/CVE-2021-30517">
 
 ---
 ## CVE-2021-30499 (2021-05-27T00:15:00)

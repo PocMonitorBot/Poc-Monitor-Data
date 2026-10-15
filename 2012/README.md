@@ -290,6 +290,7 @@
 > 
 - [systemslibrarian/crypto-lab-merkle-proofs](https://github.com/systemslibrarian/crypto-lab-merkle-proofs)	<img alt="forks" src="https://img.shields.io/github/forks/systemslibrarian/crypto-lab-merkle-proofs">	<img alt="stars" src="https://img.shields.io/github/stars/systemslibrarian/crypto-lab-merkle-proofs">
 - [condeDeveloper/arvore-merkle](https://github.com/condeDeveloper/arvore-merkle)	<img alt="forks" src="https://img.shields.io/github/forks/condeDeveloper/arvore-merkle">	<img alt="stars" src="https://img.shields.io/github/stars/condeDeveloper/arvore-merkle">
+- [GJ504b123/merkle-lab](https://github.com/GJ504b123/merkle-lab)	<img alt="forks" src="https://img.shields.io/github/forks/GJ504b123/merkle-lab">	<img alt="stars" src="https://img.shields.io/github/stars/GJ504b123/merkle-lab">
 
 ---
 ## CVE-2012-2386 (2012-07-07T10:21:00)

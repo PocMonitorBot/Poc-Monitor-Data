@@ -232,6 +232,7 @@
 - [sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs](https://github.com/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs)	<img alt="forks" src="https://img.shields.io/github/forks/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs">	<img alt="stars" src="https://img.shields.io/github/stars/sagarjain0456/Metasploit-Project-using-KaliLinux-plus-Metasploitable2-VMs">
 - [Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit](https://github.com/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit">
 - [diceverick/vulnerability-assessment-lab](https://github.com/diceverick/vulnerability-assessment-lab)	<img alt="forks" src="https://img.shields.io/github/forks/diceverick/vulnerability-assessment-lab">	<img alt="stars" src="https://img.shields.io/github/stars/diceverick/vulnerability-assessment-lab">
+- [Nutsulejustine/pentest-metasploitable](https://github.com/Nutsulejustine/pentest-metasploitable)	<img alt="forks" src="https://img.shields.io/github/forks/Nutsulejustine/pentest-metasploitable">	<img alt="stars" src="https://img.shields.io/github/stars/Nutsulejustine/pentest-metasploitable">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)
