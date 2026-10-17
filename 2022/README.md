@@ -41188,6 +41188,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [bandit92/CVE2022-1388_TestAPI](https://github.com/bandit92/CVE2022-1388_TestAPI)	<img alt="forks" src="https://img.shields.io/github/forks/bandit92/CVE2022-1388_TestAPI">	<img alt="stars" src="https://img.shields.io/github/stars/bandit92/CVE2022-1388_TestAPI">
 - [mr-vill4in/CVE-2022-1388](https://github.com/mr-vill4in/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/mr-vill4in/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/mr-vill4in/CVE-2022-1388">
 - [pauloink/CVE-2022-1388](https://github.com/pauloink/CVE-2022-1388)	<img alt="forks" src="https://img.shields.io/github/forks/pauloink/CVE-2022-1388">	<img alt="stars" src="https://img.shields.io/github/stars/pauloink/CVE-2022-1388">
+- [jermainlaforce/CVE-2022-1388-POC](https://github.com/jermainlaforce/CVE-2022-1388-POC)	<img alt="forks" src="https://img.shields.io/github/forks/jermainlaforce/CVE-2022-1388-POC">	<img alt="stars" src="https://img.shields.io/github/stars/jermainlaforce/CVE-2022-1388-POC">
 
 ---
 ## CVE-2022-1386 (2022-05-16T15:15:00)

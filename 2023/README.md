@@ -3313,6 +3313,7 @@ We recommend upgrading past commit b80b829e9e2c1b3f7aae34855e04d8f6ecaf13c8.
 - [ZZY3312/CVE-2023-41991](https://github.com/ZZY3312/CVE-2023-41991)	<img alt="forks" src="https://img.shields.io/github/forks/ZZY3312/CVE-2023-41991">	<img alt="stars" src="https://img.shields.io/github/stars/ZZY3312/CVE-2023-41991">
 - [itsgiddd/CVE-2023-41991](https://github.com/itsgiddd/CVE-2023-41991)	<img alt="forks" src="https://img.shields.io/github/forks/itsgiddd/CVE-2023-41991">	<img alt="stars" src="https://img.shields.io/github/stars/itsgiddd/CVE-2023-41991">
 - [dmytrozykov/appsign](https://github.com/dmytrozykov/appsign)	<img alt="forks" src="https://img.shields.io/github/forks/dmytrozykov/appsign">	<img alt="stars" src="https://img.shields.io/github/stars/dmytrozykov/appsign">
+- [lambertse/MOcha](https://github.com/lambertse/MOcha)	<img alt="forks" src="https://img.shields.io/github/forks/lambertse/MOcha">	<img alt="stars" src="https://img.shields.io/github/stars/lambertse/MOcha">
 
 ---
 ## CVE-2023-4197 (2023-11-01T08:15:00)

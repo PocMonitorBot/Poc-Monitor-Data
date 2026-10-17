@@ -871,6 +871,7 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 ## CVE-2024-6648 ()
 > 
 - [n0d0n/CVE-2024-6648](https://github.com/n0d0n/CVE-2024-6648)	<img alt="forks" src="https://img.shields.io/github/forks/n0d0n/CVE-2024-6648">	<img alt="stars" src="https://img.shields.io/github/stars/n0d0n/CVE-2024-6648">
+- [alexb616/CVE-2024-6648-RCE](https://github.com/alexb616/CVE-2024-6648-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/alexb616/CVE-2024-6648-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/alexb616/CVE-2024-6648-RCE">
 
 ---
 ## CVE-2024-6646 (2024-07-10T18:15:00)
@@ -7655,6 +7656,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [namegabevictoire01-sys/cs50-cybersecurity-final-project](https://github.com/namegabevictoire01-sys/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/namegabevictoire01-sys/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/namegabevictoire01-sys/cs50-cybersecurity-final-project">
 - [mhicairo-hue/cs50-cybersecurity-final-project](https://github.com/mhicairo-hue/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/mhicairo-hue/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/mhicairo-hue/cs50-cybersecurity-final-project">
 - [Michel-DV/xz-utils-backdoor-case-study](https://github.com/Michel-DV/xz-utils-backdoor-case-study)	<img alt="forks" src="https://img.shields.io/github/forks/Michel-DV/xz-utils-backdoor-case-study">	<img alt="stars" src="https://img.shields.io/github/stars/Michel-DV/xz-utils-backdoor-case-study">
+- [Subzero710/CVE-2024-3094-demo](https://github.com/Subzero710/CVE-2024-3094-demo)	<img alt="forks" src="https://img.shields.io/github/forks/Subzero710/CVE-2024-3094-demo">	<img alt="stars" src="https://img.shields.io/github/stars/Subzero710/CVE-2024-3094-demo">
 
 ---
 ## CVE-2024-30937 ()
@@ -8228,6 +8230,7 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977](https://github.com/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977)	<img alt="forks" src="https://img.shields.io/github/forks/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">	<img alt="stars" src="https://img.shields.io/github/stars/HORKimhab/CVE-2022-31626-CVE-2024-2961-CVE-2019-6977">
 - [qinglove777/CVE-2024-2961-XXE-Exploit](https://github.com/qinglove777/CVE-2024-2961-XXE-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/qinglove777/CVE-2024-2961-XXE-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/qinglove777/CVE-2024-2961-XXE-Exploit">
 - [muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961](https://github.com/muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/muffinthecoder/CNEXT_BufferOverflow_CVE2024-2961">
+- [Sib1110/cve-2024-2961](https://github.com/Sib1110/cve-2024-2961)	<img alt="forks" src="https://img.shields.io/github/forks/Sib1110/cve-2024-2961">	<img alt="stars" src="https://img.shields.io/github/stars/Sib1110/cve-2024-2961">
 
 ---
 ## CVE-2024-29510 (2024-07-03T19:15:00)
@@ -10168,6 +10171,7 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [BestDevOfc/CVE-2024-23334-PoC](https://github.com/BestDevOfc/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/BestDevOfc/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/BestDevOfc/CVE-2024-23334-PoC">
 - [Sn0wBaall/CVE-2024-23334-PoC](https://github.com/Sn0wBaall/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sn0wBaall/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sn0wBaall/CVE-2024-23334-PoC">
 - [Sn0wBaall/CVE-2024-23334-PoC](https://github.com/Sn0wBaall/CVE-2024-23334-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/Sn0wBaall/CVE-2024-23334-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/Sn0wBaall/CVE-2024-23334-PoC">
+- [begzodxasanboev/Driftnet](https://github.com/begzodxasanboev/Driftnet)	<img alt="forks" src="https://img.shields.io/github/forks/begzodxasanboev/Driftnet">	<img alt="stars" src="https://img.shields.io/github/stars/begzodxasanboev/Driftnet">
 
 ---
 ## CVE-2024-23298 ()
@@ -12122,6 +12126,7 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 - [ademto/wordpress-cve-2024-10924-pentest](https://github.com/ademto/wordpress-cve-2024-10924-pentest)	<img alt="forks" src="https://img.shields.io/github/forks/ademto/wordpress-cve-2024-10924-pentest">	<img alt="stars" src="https://img.shields.io/github/stars/ademto/wordpress-cve-2024-10924-pentest">
 - [bodoinon/CVE-2024-10924](https://github.com/bodoinon/CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/bodoinon/CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/bodoinon/CVE-2024-10924">
 - [JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924](https://github.com/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924)	<img alt="forks" src="https://img.shields.io/github/forks/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924">	<img alt="stars" src="https://img.shields.io/github/stars/JoshuaProvoste/0-click-RCE-Exploit-for-CVE-2024-10924">
+- [rafaelsoje/infosec-audit-tools](https://github.com/rafaelsoje/infosec-audit-tools)	<img alt="forks" src="https://img.shields.io/github/forks/rafaelsoje/infosec-audit-tools">	<img alt="stars" src="https://img.shields.io/github/stars/rafaelsoje/infosec-audit-tools">
 
 ---
 ## CVE-2024-10920 (2024-11-06T16:15:00)

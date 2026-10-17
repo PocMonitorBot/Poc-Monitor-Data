@@ -1156,7 +1156,7 @@
 - [JohannesLks/CVE-2025-68613-Python-Exploit](https://github.com/JohannesLks/CVE-2025-68613-Python-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JohannesLks/CVE-2025-68613-Python-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JohannesLks/CVE-2025-68613-Python-Exploit">
 - [hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate](https://github.com/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate)	<img alt="forks" src="https://img.shields.io/github/forks/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate">	<img alt="stars" src="https://img.shields.io/github/stars/hackersatyamrastogi/n8n-exploit-CVE-2025-68613-n8n-God-Mode-Ultimate">
 - [mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613](https://github.com/mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/mbanyamer/n8n-Authenticated-Expression-Injection-RCE-CVE-2025-68613">
-- [releaseown/analysis-and-poc-n8n-CVE-2025-68613](https://github.com/releaseown/analysis-and-poc-n8n-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/releaseown/analysis-and-poc-n8n-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/releaseown/analysis-and-poc-n8n-CVE-2025-68613">
+- [RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613](https://github.com/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613">
 - [Dlanang/homelab-CVE-2025-68613](https://github.com/Dlanang/homelab-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Dlanang/homelab-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Dlanang/homelab-CVE-2025-68613">
 - [Khin-96/n8n-cve-2025-68613-thm](https://github.com/Khin-96/n8n-cve-2025-68613-thm)	<img alt="forks" src="https://img.shields.io/github/forks/Khin-96/n8n-cve-2025-68613-thm">	<img alt="stars" src="https://img.shields.io/github/stars/Khin-96/n8n-cve-2025-68613-thm">
 - [J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe](https://github.com/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe)	<img alt="forks" src="https://img.shields.io/github/forks/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe">	<img alt="stars" src="https://img.shields.io/github/stars/J4ck3LSyN-Gen2/n8n-CVE-2025-68613-TryHackMe">
@@ -1178,6 +1178,7 @@
 - [Giangdurian/CVE-2026-21858-and-CVE-2025-68613](https://github.com/Giangdurian/CVE-2026-21858-and-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/Giangdurian/CVE-2026-21858-and-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/Giangdurian/CVE-2026-21858-and-CVE-2025-68613">
 - [rmhowe425/POC-CVE-2025-68613](https://github.com/rmhowe425/POC-CVE-2025-68613)	<img alt="forks" src="https://img.shields.io/github/forks/rmhowe425/POC-CVE-2025-68613">	<img alt="stars" src="https://img.shields.io/github/stars/rmhowe425/POC-CVE-2025-68613">
 - [ZeroDayEvil/CVE-2026-21858-n8n-FullChain](https://github.com/ZeroDayEvil/CVE-2026-21858-n8n-FullChain)	<img alt="forks" src="https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-21858-n8n-FullChain">	<img alt="stars" src="https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-21858-n8n-FullChain">
+- [bijoumj/cve-2025-68613-ctf](https://github.com/bijoumj/cve-2025-68613-ctf)	<img alt="forks" src="https://img.shields.io/github/forks/bijoumj/cve-2025-68613-ctf">	<img alt="stars" src="https://img.shields.io/github/stars/bijoumj/cve-2025-68613-ctf">
 
 ---
 ## CVE-2025-6860 ()
@@ -1558,6 +1559,11 @@
 ## CVE-2025-666666 ()
 > 
 - [anderruiz/CVE-2025-666666](https://github.com/anderruiz/CVE-2025-666666)	<img alt="forks" src="https://img.shields.io/github/forks/anderruiz/CVE-2025-666666">	<img alt="stars" src="https://img.shields.io/github/stars/anderruiz/CVE-2025-666666">
+
+---
+## CVE-2025-66645 ()
+> 
+- [prokeon5991-wq/cve-2025-66645](https://github.com/prokeon5991-wq/cve-2025-66645)	<img alt="forks" src="https://img.shields.io/github/forks/prokeon5991-wq/cve-2025-66645">	<img alt="stars" src="https://img.shields.io/github/stars/prokeon5991-wq/cve-2025-66645">
 
 ---
 ## CVE-2025-66644 ()
@@ -5090,6 +5096,7 @@
 - [tammin86/4thProject_Team1-CVE-2025-55182-](https://github.com/tammin86/4thProject_Team1-CVE-2025-55182-)	<img alt="forks" src="https://img.shields.io/github/forks/tammin86/4thProject_Team1-CVE-2025-55182-">	<img alt="stars" src="https://img.shields.io/github/stars/tammin86/4thProject_Team1-CVE-2025-55182-">
 - [foxcornlab/react2shell-scanner](https://github.com/foxcornlab/react2shell-scanner)	<img alt="forks" src="https://img.shields.io/github/forks/foxcornlab/react2shell-scanner">	<img alt="stars" src="https://img.shields.io/github/stars/foxcornlab/react2shell-scanner">
 - [M4rc3l08/ReactorWriteUp-HackTheBox](https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox)	<img alt="forks" src="https://img.shields.io/github/forks/M4rc3l08/ReactorWriteUp-HackTheBox">	<img alt="stars" src="https://img.shields.io/github/stars/M4rc3l08/ReactorWriteUp-HackTheBox">
+- [Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell)	<img alt="forks" src="https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">	<img alt="stars" src="https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell">
 
 ---
 ## CVE-2025-55177 ()
@@ -5409,6 +5416,7 @@
 - [zycoder0day/CVE-2025-54068](https://github.com/zycoder0day/CVE-2025-54068)	<img alt="forks" src="https://img.shields.io/github/forks/zycoder0day/CVE-2025-54068">	<img alt="stars" src="https://img.shields.io/github/stars/zycoder0day/CVE-2025-54068">
 - [HelgeSverre/livewire-honeypot](https://github.com/HelgeSverre/livewire-honeypot)	<img alt="forks" src="https://img.shields.io/github/forks/HelgeSverre/livewire-honeypot">	<img alt="stars" src="https://img.shields.io/github/stars/HelgeSverre/livewire-honeypot">
 - [luisdalmolin/recon-test-livewire](https://github.com/luisdalmolin/recon-test-livewire)	<img alt="forks" src="https://img.shields.io/github/forks/luisdalmolin/recon-test-livewire">	<img alt="stars" src="https://img.shields.io/github/stars/luisdalmolin/recon-test-livewire">
+- [GustavoLopreto/cve-2025-54068-vuln-intel](https://github.com/GustavoLopreto/cve-2025-54068-vuln-intel)	<img alt="forks" src="https://img.shields.io/github/forks/GustavoLopreto/cve-2025-54068-vuln-intel">	<img alt="stars" src="https://img.shields.io/github/stars/GustavoLopreto/cve-2025-54068-vuln-intel">
 
 ---
 ## CVE-2025-53964 ()
@@ -5541,6 +5549,7 @@
 - [gmh5225/ZeroPoint](https://github.com/gmh5225/ZeroPoint)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/ZeroPoint">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/ZeroPoint">
 - [doerrdan/it-sec-toolshell](https://github.com/doerrdan/it-sec-toolshell)	<img alt="forks" src="https://img.shields.io/github/forks/doerrdan/it-sec-toolshell">	<img alt="stars" src="https://img.shields.io/github/stars/doerrdan/it-sec-toolshell">
 - [mfarshad-abdullah-khan/cve-2025-53770-research](https://github.com/mfarshad-abdullah-khan/cve-2025-53770-research)	<img alt="forks" src="https://img.shields.io/github/forks/mfarshad-abdullah-khan/cve-2025-53770-research">	<img alt="stars" src="https://img.shields.io/github/stars/mfarshad-abdullah-khan/cve-2025-53770-research">
+- [thiconickid/sharepoint-zero-day-cs50-cybersecurity](https://github.com/thiconickid/sharepoint-zero-day-cs50-cybersecurity)	<img alt="forks" src="https://img.shields.io/github/forks/thiconickid/sharepoint-zero-day-cs50-cybersecurity">	<img alt="stars" src="https://img.shields.io/github/stars/thiconickid/sharepoint-zero-day-cs50-cybersecurity">
 
 ---
 ## CVE-2025-53744 ()
@@ -8852,6 +8861,7 @@
 - [0xdak/CVE-2025-32463_exploit](https://github.com/0xdak/CVE-2025-32463_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/0xdak/CVE-2025-32463_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/0xdak/CVE-2025-32463_exploit">
 - [EthanEvans92/CVE-2025-32463](https://github.com/EthanEvans92/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/EthanEvans92/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/EthanEvans92/CVE-2025-32463">
 - [klvlo/CVE-2025-32463](https://github.com/klvlo/CVE-2025-32463)	<img alt="forks" src="https://img.shields.io/github/forks/klvlo/CVE-2025-32463">	<img alt="stars" src="https://img.shields.io/github/stars/klvlo/CVE-2025-32463">
+- [begzodxasanboev/Driftnet](https://github.com/begzodxasanboev/Driftnet)	<img alt="forks" src="https://img.shields.io/github/forks/begzodxasanboev/Driftnet">	<img alt="stars" src="https://img.shields.io/github/stars/begzodxasanboev/Driftnet">
 
 ---
 ## CVE-2025-32462 ()
@@ -10090,6 +10100,7 @@
 - [Stp1t/CVE-2025-27591](https://github.com/Stp1t/CVE-2025-27591)	<img alt="forks" src="https://img.shields.io/github/forks/Stp1t/CVE-2025-27591">	<img alt="stars" src="https://img.shields.io/github/stars/Stp1t/CVE-2025-27591">
 - [rippsec/CVE-2025-27591-Meta-below-LPE](https://github.com/rippsec/CVE-2025-27591-Meta-below-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/rippsec/CVE-2025-27591-Meta-below-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/rippsec/CVE-2025-27591-Meta-below-LPE">
 - [MoTechStore/CVE-2025-27591-PoC](https://github.com/MoTechStore/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/MoTechStore/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/MoTechStore/CVE-2025-27591-PoC">
+- [sefafl77/CVE-2025-27591-PoC](https://github.com/sefafl77/CVE-2025-27591-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/sefafl77/CVE-2025-27591-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/sefafl77/CVE-2025-27591-PoC">
 
 ---
 ## CVE-2025-27590 ()

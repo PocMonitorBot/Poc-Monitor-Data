@@ -2692,6 +2692,7 @@
 - [Moshe-ship/bidi-guard](https://github.com/Moshe-ship/bidi-guard)	<img alt="forks" src="https://img.shields.io/github/forks/Moshe-ship/bidi-guard">	<img alt="stars" src="https://img.shields.io/github/stars/Moshe-ship/bidi-guard">
 - [LuisCastellanos-dev/cobol-shield](https://github.com/LuisCastellanos-dev/cobol-shield)	<img alt="forks" src="https://img.shields.io/github/forks/LuisCastellanos-dev/cobol-shield">	<img alt="stars" src="https://img.shields.io/github/stars/LuisCastellanos-dev/cobol-shield">
 - [rakib-nyc/nullorigin](https://github.com/rakib-nyc/nullorigin)	<img alt="forks" src="https://img.shields.io/github/forks/rakib-nyc/nullorigin">	<img alt="stars" src="https://img.shields.io/github/stars/rakib-nyc/nullorigin">
+- [gitstq/GlyphGuard](https://github.com/gitstq/GlyphGuard)	<img alt="forks" src="https://img.shields.io/github/forks/gitstq/GlyphGuard">	<img alt="stars" src="https://img.shields.io/github/stars/gitstq/GlyphGuard">
 
 ---
 ## CVE-2021-4257 (2022-12-18T22:15:00)
@@ -3595,6 +3596,7 @@
 - [1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab](https://github.com/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/1833ravikumar-max/CVE-2021-41773-Apache-Path-Traversal-Lab">
 - [CyberCTF/vulhub-httpd-cve-2021-41773](https://github.com/CyberCTF/vulhub-httpd-cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2021-41773">
 - [LordX404/CVE_2021-41773](https://github.com/LordX404/CVE_2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/LordX404/CVE_2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/LordX404/CVE_2021-41773">
+- [Joapath/CVE-2021-41773](https://github.com/Joapath/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Joapath/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Joapath/CVE-2021-41773">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -5192,6 +5194,7 @@
 > A DMA reentrancy issue was found in the NVM Express Controller (NVME) emulation in QEMU. This CVE is similar to CVE-2021-3750 and, just like it, when the reentrancy write triggers the reset function nvme_ctrl_reset(), data structs will be freed leading to a use-after-free issue. A malicious guest could use this flaw to crash the QEMU process on the host, resulting in a denial of service condition or, potentially, executing arbitrary code within the context of the QEMU process on the host.
 - [Live-Hack-CVE/CVE-2021-3929](https://github.com/Live-Hack-CVE/CVE-2021-3929)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2021-3929">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2021-3929">
 - [QiuhaoLi/CVE-2021-3929-3947](https://github.com/QiuhaoLi/CVE-2021-3929-3947)	<img alt="forks" src="https://img.shields.io/github/forks/QiuhaoLi/CVE-2021-3929-3947">	<img alt="stars" src="https://img.shields.io/github/stars/QiuhaoLi/CVE-2021-3929-3947">
+- [abraxas/qemu-nvme-sgl-bar](https://github.com/abraxas/qemu-nvme-sgl-bar)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/qemu-nvme-sgl-bar">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/qemu-nvme-sgl-bar">
 
 ---
 ## CVE-2021-39287 ()
@@ -12242,6 +12245,7 @@
 - [Roronoawjd/CVE-2021-22204](https://github.com/Roronoawjd/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/Roronoawjd/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/Roronoawjd/CVE-2021-22204">
 - [TeddyEngel/CVE-2021-22204](https://github.com/TeddyEngel/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/TeddyEngel/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/TeddyEngel/CVE-2021-22204">
 - [d4ytox/CVE-2021-22204](https://github.com/d4ytox/CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/d4ytox/CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/d4ytox/CVE-2021-22204">
+- [cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204](https://github.com/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204)	<img alt="forks" src="https://img.shields.io/github/forks/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204">	<img alt="stars" src="https://img.shields.io/github/stars/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204">
 
 ---
 ## CVE-2021-22201 ()
