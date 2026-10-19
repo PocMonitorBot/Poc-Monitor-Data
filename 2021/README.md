@@ -7641,6 +7641,7 @@
 - [KaritaMW/printnightmare-detection-mitigation-lab](https://github.com/KaritaMW/printnightmare-detection-mitigation-lab)	<img alt="forks" src="https://img.shields.io/github/forks/KaritaMW/printnightmare-detection-mitigation-lab">	<img alt="stars" src="https://img.shields.io/github/stars/KaritaMW/printnightmare-detection-mitigation-lab">
 - [joertx07/printnightmare-detection-lab](https://github.com/joertx07/printnightmare-detection-lab)	<img alt="forks" src="https://img.shields.io/github/forks/joertx07/printnightmare-detection-lab">	<img alt="stars" src="https://img.shields.io/github/stars/joertx07/printnightmare-detection-lab">
 - [twi1ight00/PrintNightmare](https://github.com/twi1ight00/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/twi1ight00/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/twi1ight00/PrintNightmare">
+- [s1kh/Vulnerability-Analysis-and-Mitigation](https://github.com/s1kh/Vulnerability-Analysis-and-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/s1kh/Vulnerability-Analysis-and-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/s1kh/Vulnerability-Analysis-and-Mitigation">
 
 ---
 ## CVE-2021-34523 (2021-07-14T18:15:00)

@@ -1060,6 +1060,7 @@
 - [GU-007/struts2-tool](https://github.com/GU-007/struts2-tool)	<img alt="forks" src="https://img.shields.io/github/forks/GU-007/struts2-tool">	<img alt="stars" src="https://img.shields.io/github/stars/GU-007/struts2-tool">
 - [Piyush-Tiwatne/struts-patch-gap-auditor](https://github.com/Piyush-Tiwatne/struts-patch-gap-auditor)	<img alt="forks" src="https://img.shields.io/github/forks/Piyush-Tiwatne/struts-patch-gap-auditor">	<img alt="stars" src="https://img.shields.io/github/stars/Piyush-Tiwatne/struts-patch-gap-auditor">
 - [NAIRBS/SC3010-Grp-33](https://github.com/NAIRBS/SC3010-Grp-33)	<img alt="forks" src="https://img.shields.io/github/forks/NAIRBS/SC3010-Grp-33">	<img alt="stars" src="https://img.shields.io/github/stars/NAIRBS/SC3010-Grp-33">
+- [s1kh/Vulnerability-Analysis-and-Mitigation](https://github.com/s1kh/Vulnerability-Analysis-and-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/s1kh/Vulnerability-Analysis-and-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/s1kh/Vulnerability-Analysis-and-Mitigation">
 
 ---
 ## CVE-2017-5633 ()
@@ -2876,6 +2877,7 @@
 - [zhouat/cve-2017-11882](https://github.com/zhouat/cve-2017-11882)	<img alt="forks" src="https://img.shields.io/github/forks/zhouat/cve-2017-11882">	<img alt="stars" src="https://img.shields.io/github/stars/zhouat/cve-2017-11882">
 - [Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis](https://github.com/Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Mo200909/Office-Malware-Forensics-Lab-REMnux-Static-Analysis">
 - [SyedaQuratulain098/factura-malware-analysis-lab](https://github.com/SyedaQuratulain098/factura-malware-analysis-lab)	<img alt="forks" src="https://img.shields.io/github/forks/SyedaQuratulain098/factura-malware-analysis-lab">	<img alt="stars" src="https://img.shields.io/github/stars/SyedaQuratulain098/factura-malware-analysis-lab">
+- [danielakin417/CVE-2017-11882-analysis](https://github.com/danielakin417/CVE-2017-11882-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/danielakin417/CVE-2017-11882-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/danielakin417/CVE-2017-11882-analysis">
 
 ---
 ## CVE-2017-11826 ()

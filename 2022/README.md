@@ -30977,6 +30977,7 @@ the client's API server credentials to third parties.
 - [czabatta/THM-Tempest](https://github.com/czabatta/THM-Tempest)	<img alt="forks" src="https://img.shields.io/github/forks/czabatta/THM-Tempest">	<img alt="stars" src="https://img.shields.io/github/stars/czabatta/THM-Tempest">
 - [zavikhttak/Follina-CVE-2022-30190-Analysis](https://github.com/zavikhttak/Follina-CVE-2022-30190-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/zavikhttak/Follina-CVE-2022-30190-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/zavikhttak/Follina-CVE-2022-30190-Analysis">
 - [zavikhttak/follina-msdt-threat-investigation](https://github.com/zavikhttak/follina-msdt-threat-investigation)	<img alt="forks" src="https://img.shields.io/github/forks/zavikhttak/follina-msdt-threat-investigation">	<img alt="stars" src="https://img.shields.io/github/stars/zavikhttak/follina-msdt-threat-investigation">
+- [dayobamiii/OMOTOSO-AYOBAMI](https://github.com/dayobamiii/OMOTOSO-AYOBAMI)	<img alt="forks" src="https://img.shields.io/github/forks/dayobamiii/OMOTOSO-AYOBAMI">	<img alt="stars" src="https://img.shields.io/github/stars/dayobamiii/OMOTOSO-AYOBAMI">
 
 ---
 ## CVE-2022-30166 (2022-06-15T22:15:00)
@@ -36630,6 +36631,7 @@ For versions 9.34.0 and higher, an option to disable this functionality is provi
 - [HynekPetrak/log4shell-finder](https://github.com/HynekPetrak/log4shell-finder)	<img alt="forks" src="https://img.shields.io/github/forks/HynekPetrak/log4shell-finder">	<img alt="stars" src="https://img.shields.io/github/stars/HynekPetrak/log4shell-finder">
 - [logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner">
 - [AlphabugX/CVE-2022-RCE](https://github.com/AlphabugX/CVE-2022-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/AlphabugX/CVE-2022-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/AlphabugX/CVE-2022-RCE">
+- [hoor113/CVE-2022-23305-Demo-and-Whitebox-Report](https://github.com/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report)	<img alt="forks" src="https://img.shields.io/github/forks/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report">	<img alt="stars" src="https://img.shields.io/github/stars/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report">
 
 ---
 ## CVE-2022-23303 ()
@@ -37538,6 +37540,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 ## CVE-2022-22706 ()
 > 
 - [byt3quester/CVE-2022-22706-poc](https://github.com/byt3quester/CVE-2022-22706-poc)	<img alt="forks" src="https://img.shields.io/github/forks/byt3quester/CVE-2022-22706-poc">	<img alt="stars" src="https://img.shields.io/github/stars/byt3quester/CVE-2022-22706-poc">
+- [BennyWaitWhat/Sony-XBR-65X850D](https://github.com/BennyWaitWhat/Sony-XBR-65X850D)	<img alt="forks" src="https://img.shields.io/github/forks/BennyWaitWhat/Sony-XBR-65X850D">	<img alt="stars" src="https://img.shields.io/github/stars/BennyWaitWhat/Sony-XBR-65X850D">
 
 ---
 ## CVE-2022-2268 (2022-07-04T13:15:00)
