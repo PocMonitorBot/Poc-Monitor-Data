@@ -580,6 +580,7 @@
 - [youngmin0104/CVE-2017-7529-](https://github.com/youngmin0104/CVE-2017-7529-)	<img alt="forks" src="https://img.shields.io/github/forks/youngmin0104/CVE-2017-7529-">	<img alt="stars" src="https://img.shields.io/github/stars/youngmin0104/CVE-2017-7529-">
 - [portfolio10/nginx](https://github.com/portfolio10/nginx)	<img alt="forks" src="https://img.shields.io/github/forks/portfolio10/nginx">	<img alt="stars" src="https://img.shields.io/github/stars/portfolio10/nginx">
 - [CyberCTF/vulhub-nginx-cve-2017-7529](https://github.com/CyberCTF/vulhub-nginx-cve-2017-7529)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-nginx-cve-2017-7529">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-nginx-cve-2017-7529">
+- [Guanyu-Zhou/hdu-is-work1-secure-flask-api](https://github.com/Guanyu-Zhou/hdu-is-work1-secure-flask-api)	<img alt="forks" src="https://img.shields.io/github/forks/Guanyu-Zhou/hdu-is-work1-secure-flask-api">	<img alt="stars" src="https://img.shields.io/github/stars/Guanyu-Zhou/hdu-is-work1-secure-flask-api">
 
 ---
 ## CVE-2017-7525 ()
@@ -651,6 +652,7 @@
 - [Sadz1d/IS](https://github.com/Sadz1d/IS)	<img alt="forks" src="https://img.shields.io/github/forks/Sadz1d/IS">	<img alt="stars" src="https://img.shields.io/github/stars/Sadz1d/IS">
 - [YonLiud/CVE-2017-7494](https://github.com/YonLiud/CVE-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/YonLiud/CVE-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/YonLiud/CVE-2017-7494">
 - [CyberCTF/vulhub-samba-cve-2017-7494](https://github.com/CyberCTF/vulhub-samba-cve-2017-7494)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-samba-cve-2017-7494">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-samba-cve-2017-7494">
+- [JA-Cyber365/home-network-security-assessment](https://github.com/JA-Cyber365/home-network-security-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/JA-Cyber365/home-network-security-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/JA-Cyber365/home-network-security-assessment">
 
 ---
 ## CVE-2017-7492 (2017-05-22T15:29:00)
@@ -3614,6 +3616,7 @@
 - [quincyomoruyi6-lang/BLUE-WRITEUP-CVE-2017-0144](https://github.com/quincyomoruyi6-lang/BLUE-WRITEUP-CVE-2017-0144)	<img alt="forks" src="https://img.shields.io/github/forks/quincyomoruyi6-lang/BLUE-WRITEUP-CVE-2017-0144">	<img alt="stars" src="https://img.shields.io/github/stars/quincyomoruyi6-lang/BLUE-WRITEUP-CVE-2017-0144">
 - [porcumarcooo/TryHackMe-Blue-MS17-010](https://github.com/porcumarcooo/TryHackMe-Blue-MS17-010)	<img alt="forks" src="https://img.shields.io/github/forks/porcumarcooo/TryHackMe-Blue-MS17-010">	<img alt="stars" src="https://img.shields.io/github/stars/porcumarcooo/TryHackMe-Blue-MS17-010">
 - [ronankongala/metasploit-pentest-report](https://github.com/ronankongala/metasploit-pentest-report)	<img alt="forks" src="https://img.shields.io/github/forks/ronankongala/metasploit-pentest-report">	<img alt="stars" src="https://img.shields.io/github/stars/ronankongala/metasploit-pentest-report">
+- [duycao2311/eternalblue-ms17010-study](https://github.com/duycao2311/eternalblue-ms17010-study)	<img alt="forks" src="https://img.shields.io/github/forks/duycao2311/eternalblue-ms17010-study">	<img alt="stars" src="https://img.shields.io/github/stars/duycao2311/eternalblue-ms17010-study">
 
 ---
 ## CVE-2017-0143 (2017-03-17T00:59:00)

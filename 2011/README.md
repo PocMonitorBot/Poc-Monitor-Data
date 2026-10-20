@@ -233,6 +233,7 @@
 - [Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit](https://github.com/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit">
 - [diceverick/vulnerability-assessment-lab](https://github.com/diceverick/vulnerability-assessment-lab)	<img alt="forks" src="https://img.shields.io/github/forks/diceverick/vulnerability-assessment-lab">	<img alt="stars" src="https://img.shields.io/github/stars/diceverick/vulnerability-assessment-lab">
 - [Nutsulejustine/pentest-metasploitable](https://github.com/Nutsulejustine/pentest-metasploitable)	<img alt="forks" src="https://img.shields.io/github/forks/Nutsulejustine/pentest-metasploitable">	<img alt="stars" src="https://img.shields.io/github/stars/Nutsulejustine/pentest-metasploitable">
+- [secwitness/CVE-2011-2523-vsftpd-backdoor-analysis](https://github.com/secwitness/CVE-2011-2523-vsftpd-backdoor-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/secwitness/CVE-2011-2523-vsftpd-backdoor-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/secwitness/CVE-2011-2523-vsftpd-backdoor-analysis">
 
 ---
 ## CVE-2011-2522 (2011-07-29T20:55:00)

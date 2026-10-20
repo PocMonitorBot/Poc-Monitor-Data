@@ -1691,6 +1691,7 @@
 - [ResoluteRacoons/log4-Java-logging-poc](https://github.com/ResoluteRacoons/log4-Java-logging-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ResoluteRacoons/log4-Java-logging-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ResoluteRacoons/log4-Java-logging-poc">
 - [hoangvvthu/CVE-2021-44228-Log4Shell-Lab](https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">
 - [Developer-Dynamo/cs50-cybersecurity-final-project](https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/Developer-Dynamo/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/Developer-Dynamo/cs50-cybersecurity-final-project">
+- [mcpmark-eval-liuhezi/log4shell-remediation](https://github.com/mcpmark-eval-liuhezi/log4shell-remediation)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-remediation">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-remediation">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -3597,6 +3598,7 @@
 - [CyberCTF/vulhub-httpd-cve-2021-41773](https://github.com/CyberCTF/vulhub-httpd-cve-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2021-41773">
 - [LordX404/CVE_2021-41773](https://github.com/LordX404/CVE_2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/LordX404/CVE_2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/LordX404/CVE_2021-41773">
 - [Joapath/CVE-2021-41773](https://github.com/Joapath/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Joapath/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Joapath/CVE-2021-41773">
+- [AlaIchhe/hdu-is-work1-secure-api](https://github.com/AlaIchhe/hdu-is-work1-secure-api)	<img alt="forks" src="https://img.shields.io/github/forks/AlaIchhe/hdu-is-work1-secure-api">	<img alt="stars" src="https://img.shields.io/github/stars/AlaIchhe/hdu-is-work1-secure-api">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)

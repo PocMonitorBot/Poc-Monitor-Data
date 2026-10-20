@@ -461,7 +461,9 @@ to load arbitrary JavaScript code.
 ## CVE-2023-54391 ()
 > 
 - [disqualifier/psa-2026-00043-recovery](https://github.com/disqualifier/psa-2026-00043-recovery)	<img alt="forks" src="https://img.shields.io/github/forks/disqualifier/psa-2026-00043-recovery">	<img alt="stars" src="https://img.shields.io/github/stars/disqualifier/psa-2026-00043-recovery">
-- [alexandrov666/CVE-2023-54391-RCE](https://github.com/alexandrov666/CVE-2023-54391-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/alexandrov666/CVE-2023-54391-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/alexandrov666/CVE-2023-54391-RCE">
+- [alexand0www/CVE-2023-54391-RCE](https://github.com/alexand0www/CVE-2023-54391-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/alexand0www/CVE-2023-54391-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/alexand0www/CVE-2023-54391-RCE">
+- [Lewis1766/CVE-2023-54391-POC](https://github.com/Lewis1766/CVE-2023-54391-POC)	<img alt="forks" src="https://img.shields.io/github/forks/Lewis1766/CVE-2023-54391-POC">	<img alt="stars" src="https://img.shields.io/github/stars/Lewis1766/CVE-2023-54391-POC">
+- [neeythann/Proxmox-VE-7-RCE](https://github.com/neeythann/Proxmox-VE-7-RCE)	<img alt="forks" src="https://img.shields.io/github/forks/neeythann/Proxmox-VE-7-RCE">	<img alt="stars" src="https://img.shields.io/github/stars/neeythann/Proxmox-VE-7-RCE">
 
 ---
 ## CVE-2023-5412 (2023-10-31T09:15:00)
@@ -1339,6 +1341,7 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 - [0xMOGA/CVE-2023-4911-Lab](https://github.com/0xMOGA/CVE-2023-4911-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/0xMOGA/CVE-2023-4911-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/0xMOGA/CVE-2023-4911-Lab">
 - [jarpex/cve-2023-4911-exploit-optimized](https://github.com/jarpex/cve-2023-4911-exploit-optimized)	<img alt="forks" src="https://img.shields.io/github/forks/jarpex/cve-2023-4911-exploit-optimized">	<img alt="stars" src="https://img.shields.io/github/stars/jarpex/cve-2023-4911-exploit-optimized">
 - [baeseungwon1010/CVE-2023-4911](https://github.com/baeseungwon1010/CVE-2023-4911)	<img alt="forks" src="https://img.shields.io/github/forks/baeseungwon1010/CVE-2023-4911">	<img alt="stars" src="https://img.shields.io/github/stars/baeseungwon1010/CVE-2023-4911">
+- [adewlee87-rgb/cve-2023-4911-looney-tunables](https://github.com/adewlee87-rgb/cve-2023-4911-looney-tunables)	<img alt="forks" src="https://img.shields.io/github/forks/adewlee87-rgb/cve-2023-4911-looney-tunables">	<img alt="stars" src="https://img.shields.io/github/stars/adewlee87-rgb/cve-2023-4911-looney-tunables">
 
 ---
 ## CVE-2023-49109 ()
@@ -13400,6 +13403,7 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 - [telly251/forwardnetworksdemo](https://github.com/telly251/forwardnetworksdemo)	<img alt="forks" src="https://img.shields.io/github/forks/telly251/forwardnetworksdemo">	<img alt="stars" src="https://img.shields.io/github/stars/telly251/forwardnetworksdemo">
 - [charlesjson/CVE-2023-20198](https://github.com/charlesjson/CVE-2023-20198)	<img alt="forks" src="https://img.shields.io/github/forks/charlesjson/CVE-2023-20198">	<img alt="stars" src="https://img.shields.io/github/stars/charlesjson/CVE-2023-20198">
 - [abrahamsurf/CVE-2023-20198-Scanner](https://github.com/abrahamsurf/CVE-2023-20198-Scanner)	<img alt="forks" src="https://img.shields.io/github/forks/abrahamsurf/CVE-2023-20198-Scanner">	<img alt="stars" src="https://img.shields.io/github/stars/abrahamsurf/CVE-2023-20198-Scanner">
+- [waynec1eated-bot/CVE-2023-20198-Cisco-IOS-XE](https://github.com/waynec1eated-bot/CVE-2023-20198-Cisco-IOS-XE)	<img alt="forks" src="https://img.shields.io/github/forks/waynec1eated-bot/CVE-2023-20198-Cisco-IOS-XE">	<img alt="stars" src="https://img.shields.io/github/stars/waynec1eated-bot/CVE-2023-20198-Cisco-IOS-XE">
 
 ---
 ## CVE-2023-20178 (2023-06-28T15:15:00)

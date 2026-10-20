@@ -10164,6 +10164,7 @@
 ## CVE-2025-27515 ()
 > 
 - [joaovicdev/EXPLOIT-CVE-2025-27515](https://github.com/joaovicdev/EXPLOIT-CVE-2025-27515)	<img alt="forks" src="https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2025-27515">	<img alt="stars" src="https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2025-27515">
+- [Shanks2001/Progetto-sicurezza](https://github.com/Shanks2001/Progetto-sicurezza)	<img alt="forks" src="https://img.shields.io/github/forks/Shanks2001/Progetto-sicurezza">	<img alt="stars" src="https://img.shields.io/github/stars/Shanks2001/Progetto-sicurezza">
 
 ---
 ## CVE-2025-27480 ()
