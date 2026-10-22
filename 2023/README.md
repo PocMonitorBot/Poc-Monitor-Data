@@ -1747,6 +1747,11 @@ Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
 - [gmh5225/CVE-2023-47253](https://github.com/gmh5225/CVE-2023-47253)	<img alt="forks" src="https://img.shields.io/github/forks/gmh5225/CVE-2023-47253">	<img alt="stars" src="https://img.shields.io/github/stars/gmh5225/CVE-2023-47253">
 
 ---
+## CVE-2023-47250 ()
+> 
+- [christinasm1th/CVE-2023-47250-break-fix](https://github.com/christinasm1th/CVE-2023-47250-break-fix)	<img alt="forks" src="https://img.shields.io/github/forks/christinasm1th/CVE-2023-47250-break-fix">	<img alt="stars" src="https://img.shields.io/github/stars/christinasm1th/CVE-2023-47250-break-fix">
+
+---
 ## CVE-2023-47248 ()
 > 
 - [Prodigysec/pyarrow-CVE-2023-47248](https://github.com/Prodigysec/pyarrow-CVE-2023-47248)	<img alt="forks" src="https://img.shields.io/github/forks/Prodigysec/pyarrow-CVE-2023-47248">	<img alt="stars" src="https://img.shields.io/github/stars/Prodigysec/pyarrow-CVE-2023-47248">
@@ -2026,6 +2031,12 @@ Users are recommended to upgrade to version 5.15.16, 5.16.7, 5.17.6, or 5.18.3, 
 - [stefanotractor/activemq-cve-2023-46604-lab](https://github.com/stefanotractor/activemq-cve-2023-46604-lab)	<img alt="forks" src="https://img.shields.io/github/forks/stefanotractor/activemq-cve-2023-46604-lab">	<img alt="stars" src="https://img.shields.io/github/stars/stefanotractor/activemq-cve-2023-46604-lab">
 - [Bhanunamikaze/ActiveMQ-CVE-2023-46604](https://github.com/Bhanunamikaze/ActiveMQ-CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/Bhanunamikaze/ActiveMQ-CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/Bhanunamikaze/ActiveMQ-CVE-2023-46604">
 - [CyberCTF/vulhub-activemq-cve-2023-46604](https://github.com/CyberCTF/vulhub-activemq-cve-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-activemq-cve-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-activemq-cve-2023-46604">
+- [Theocyg/CVE-2023-46604](https://github.com/Theocyg/CVE-2023-46604)	<img alt="forks" src="https://img.shields.io/github/forks/Theocyg/CVE-2023-46604">	<img alt="stars" src="https://img.shields.io/github/stars/Theocyg/CVE-2023-46604">
+
+---
+## CVE-2023-46580 ()
+> 
+- [ersinerenler/Code-Projects-Inventory-Management-1.0](https://github.com/ersinerenler/Code-Projects-Inventory-Management-1.0)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/Code-Projects-Inventory-Management-1.0">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/Code-Projects-Inventory-Management-1.0">
 
 ---
 ## CVE-2023-46501 (2023-11-07T18:15:00)
@@ -2138,6 +2149,16 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 - [JawadPy/WerkGhost](https://github.com/JawadPy/WerkGhost)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/WerkGhost">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/WerkGhost">
 
 ---
+## CVE-2023-46024 ()
+> 
+- [ersinerenler/PHPGurukul-Teacher-Subject-Allocation-Management-System-1.0](https://github.com/ersinerenler/PHPGurukul-Teacher-Subject-Allocation-Management-System-1.0)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/PHPGurukul-Teacher-Subject-Allocation-Management-System-1.0">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/PHPGurukul-Teacher-Subject-Allocation-Management-System-1.0">
+
+---
+## CVE-2023-46023 ()
+> 
+- [ersinerenler/Code-Projects-Simple-Task-List-1.0](https://github.com/ersinerenler/Code-Projects-Simple-Task-List-1.0)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/Code-Projects-Simple-Task-List-1.0">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/Code-Projects-Simple-Task-List-1.0">
+
+---
 ## CVE-2023-46022 (2023-11-14T22:15:00)
 > SQL Injection vulnerability in delete.php in Code-Projects Blood Bank 1.0 allows attackers to run arbitrary SQL commands via the 'bid' parameter.
 - [ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability">
@@ -2182,6 +2203,7 @@ We recommend upgrading past commit 790c2f9d15b594350ae9bca7b236f2b1859de02c.
 ## CVE-2023-46014 (2023-11-13T22:15:00)
 > SQL Injection vulnerability in hospitalLogin.php in Code-Projects Blood Bank 1.0 allows attackers to run arbitrary SQL commands via 'hemail' and 'hpassword' parameters.
 - [ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2023-46014-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability">
+- [ersinerenler/Code-Projects-Blood-Bank-1.0](https://github.com/ersinerenler/Code-Projects-Blood-Bank-1.0)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/Code-Projects-Blood-Bank-1.0">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/Code-Projects-Blood-Bank-1.0">
 
 ---
 ## CVE-2023-46012 (2024-05-07T14:15:00)
@@ -5584,6 +5606,7 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [khengar9274-web/moveit-transfer-2023-breach](https://github.com/khengar9274-web/moveit-transfer-2023-breach)	<img alt="forks" src="https://img.shields.io/github/forks/khengar9274-web/moveit-transfer-2023-breach">	<img alt="stars" src="https://img.shields.io/github/stars/khengar9274-web/moveit-transfer-2023-breach">
 - [tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.](https://github.com/tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.)	<img alt="forks" src="https://img.shields.io/github/forks/tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.">	<img alt="stars" src="https://img.shields.io/github/stars/tubaaiftikhar-ui/MOVEit-Transfer-Data-Breach-Analysis.">
 - [horrister/moveit-transfer-cve-2023-34362](https://github.com/horrister/moveit-transfer-cve-2023-34362)	<img alt="forks" src="https://img.shields.io/github/forks/horrister/moveit-transfer-cve-2023-34362">	<img alt="stars" src="https://img.shields.io/github/stars/horrister/moveit-transfer-cve-2023-34362">
+- [k9yk5zkn76-op/-CVE-2023-34362-Analysis](https://github.com/k9yk5zkn76-op/-CVE-2023-34362-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/k9yk5zkn76-op/-CVE-2023-34362-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/k9yk5zkn76-op/-CVE-2023-34362-Analysis">
 
 ---
 ## CVE-2023-34312 (2023-06-01T03:15:00)
@@ -6096,6 +6119,7 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 
 
 - [hardikmodha/POC-CVE-2023-32681](https://github.com/hardikmodha/POC-CVE-2023-32681)	<img alt="forks" src="https://img.shields.io/github/forks/hardikmodha/POC-CVE-2023-32681">	<img alt="stars" src="https://img.shields.io/github/stars/hardikmodha/POC-CVE-2023-32681">
+- [mcpmark-eval-liuhezi/requests-sec-notes](https://github.com/mcpmark-eval-liuhezi/requests-sec-notes)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/requests-sec-notes">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/requests-sec-notes">
 
 ---
 ## CVE-2023-32629 (2023-07-26T02:15:00)
@@ -8882,6 +8906,7 @@ A vulnerability has been discovered in the customer-managed ShareFile storage zo
 - [JawadPy/CVE-2023-24329-Exploit](https://github.com/JawadPy/CVE-2023-24329-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/JawadPy/CVE-2023-24329-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/JawadPy/CVE-2023-24329-Exploit">
 - [jithinodattu/CVE-2023-24329-lab](https://github.com/jithinodattu/CVE-2023-24329-lab)	<img alt="forks" src="https://img.shields.io/github/forks/jithinodattu/CVE-2023-24329-lab">	<img alt="stars" src="https://img.shields.io/github/stars/jithinodattu/CVE-2023-24329-lab">
 - [PenTestMano/CVE-2023-24329-Exploit](https://github.com/PenTestMano/CVE-2023-24329-Exploit)	<img alt="forks" src="https://img.shields.io/github/forks/PenTestMano/CVE-2023-24329-Exploit">	<img alt="stars" src="https://img.shields.io/github/stars/PenTestMano/CVE-2023-24329-Exploit">
+- [UpWguyy/CVE-2023-24329-PoC](https://github.com/UpWguyy/CVE-2023-24329-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/UpWguyy/CVE-2023-24329-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/UpWguyy/CVE-2023-24329-PoC">
 
 ---
 ## CVE-2023-24323 (2023-02-09T20:15:00)
@@ -14618,6 +14643,7 @@ If the server is run as root (which is the default when installing the  snap pac
 ## CVE-2023-0482 (2023-02-17T22:15:00)
 > In RESTEasy the insecure File.createTempFile() is used in the DataSourceProvider, FileProvider and Mime4JWorkaround classes which creates temp files with insecure permissions that could be read by a local user.
 - [Live-Hack-CVE/CVE-2023-0482](https://github.com/Live-Hack-CVE/CVE-2023-0482)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2023-0482">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2023-0482">
+- [Bethel904/CVE-2023-0482-Analysis](https://github.com/Bethel904/CVE-2023-0482-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Bethel904/CVE-2023-0482-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Bethel904/CVE-2023-0482-Analysis">
 
 ---
 ## CVE-2023-0474 (2023-01-30T09:15:00)
@@ -14994,6 +15020,7 @@ We recommend upgrading past commit 2c02d41d71f90a5168391b6a5f2954112ba2307c
 - [S4MY9/CVE-2023-0297](https://github.com/S4MY9/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/S4MY9/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/S4MY9/CVE-2023-0297">
 - [oxapavan/CVE-2023-0297](https://github.com/oxapavan/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/oxapavan/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/oxapavan/CVE-2023-0297">
 - [hazeyez/CVE-2023-0297](https://github.com/hazeyez/CVE-2023-0297)	<img alt="forks" src="https://img.shields.io/github/forks/hazeyez/CVE-2023-0297">	<img alt="stars" src="https://img.shields.io/github/stars/hazeyez/CVE-2023-0297">
+- [ferralon-demo/pyload-js2py-rce](https://github.com/ferralon-demo/pyload-js2py-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ferralon-demo/pyload-js2py-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ferralon-demo/pyload-js2py-rce">
 
 ---
 ## CVE-2023-0296 (2023-01-17T21:15:00)

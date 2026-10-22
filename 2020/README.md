@@ -1828,6 +1828,11 @@
 - [copethomas/datapower-redis-rce-exploit](https://github.com/copethomas/datapower-redis-rce-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/copethomas/datapower-redis-rce-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/copethomas/datapower-redis-rce-exploit">
 
 ---
+## CVE-2020-4949 ()
+> 
+- [Anuhimen/CVE-2020-4949-Analysis](https://github.com/Anuhimen/CVE-2020-4949-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/Anuhimen/CVE-2020-4949-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/Anuhimen/CVE-2020-4949-Analysis">
+
+---
 ## CVE-2020-4870 (2020-12-21T18:15:00)
 > IBM MQ 9.2 CD and LTS are vulnerable to a denial of service attack caused by an error processing connecting applications. IBM X-Force ID: 190833.
 - [Live-Hack-CVE/CVE-2020-4870](https://github.com/Live-Hack-CVE/CVE-2020-4870)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2020-4870">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2020-4870">
@@ -5772,6 +5777,11 @@
 - [cssxn/CVE-2020-17136](https://github.com/cssxn/CVE-2020-17136)	<img alt="forks" src="https://img.shields.io/github/forks/cssxn/CVE-2020-17136">	<img alt="stars" src="https://img.shields.io/github/stars/cssxn/CVE-2020-17136">
 
 ---
+## CVE-2020-1712 ()
+> 
+- [davidajagbe/Vulnerability-assessment](https://github.com/davidajagbe/Vulnerability-assessment)	<img alt="forks" src="https://img.shields.io/github/forks/davidajagbe/Vulnerability-assessment">	<img alt="stars" src="https://img.shields.io/github/stars/davidajagbe/Vulnerability-assessment">
+
+---
 ## CVE-2020-17103 ()
 > 
 - [CaptainChicky/MiniPlasma](https://github.com/CaptainChicky/MiniPlasma)	<img alt="forks" src="https://img.shields.io/github/forks/CaptainChicky/MiniPlasma">	<img alt="stars" src="https://img.shields.io/github/stars/CaptainChicky/MiniPlasma">
@@ -6746,6 +6756,7 @@
 - [technion/ZeroLogonAssess](https://github.com/technion/ZeroLogonAssess)	<img alt="forks" src="https://img.shields.io/github/forks/technion/ZeroLogonAssess">	<img alt="stars" src="https://img.shields.io/github/stars/technion/ZeroLogonAssess">
 - [mos165/CVE-20200-1472](https://github.com/mos165/CVE-20200-1472)	<img alt="forks" src="https://img.shields.io/github/forks/mos165/CVE-20200-1472">	<img alt="stars" src="https://img.shields.io/github/stars/mos165/CVE-20200-1472">
 - [erk3/zeroscan](https://github.com/erk3/zeroscan)	<img alt="forks" src="https://img.shields.io/github/forks/erk3/zeroscan">	<img alt="stars" src="https://img.shields.io/github/stars/erk3/zeroscan">
+- [Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment](https://github.com/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment)	<img alt="forks" src="https://img.shields.io/github/forks/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment">	<img alt="stars" src="https://img.shields.io/github/stars/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment">
 
 ---
 ## CVE-2020-14664 (2020-07-15T18:15:00)
@@ -7197,6 +7208,11 @@
 - [lyy289065406/CVE-2020-13933](https://github.com/lyy289065406/CVE-2020-13933)	<img alt="forks" src="https://img.shields.io/github/forks/lyy289065406/CVE-2020-13933">	<img alt="stars" src="https://img.shields.io/github/stars/lyy289065406/CVE-2020-13933">
 - [KingBangQ/CVE-2020-13933Project](https://github.com/KingBangQ/CVE-2020-13933Project)	<img alt="forks" src="https://img.shields.io/github/forks/KingBangQ/CVE-2020-13933Project">	<img alt="stars" src="https://img.shields.io/github/stars/KingBangQ/CVE-2020-13933Project">
 - [0xkami/cve-2020-13933](https://github.com/0xkami/cve-2020-13933)	<img alt="forks" src="https://img.shields.io/github/forks/0xkami/cve-2020-13933">	<img alt="stars" src="https://img.shields.io/github/stars/0xkami/cve-2020-13933">
+
+---
+## CVE-2020-13927 ()
+> 
+- [ferralon-demo/airflow-experimental-api-rce](https://github.com/ferralon-demo/airflow-experimental-api-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ferralon-demo/airflow-experimental-api-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ferralon-demo/airflow-experimental-api-rce">
 
 ---
 ## CVE-2020-13925 ()

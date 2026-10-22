@@ -3008,6 +3008,7 @@
 - [SOME-1HING/CVE-2018-16763](https://github.com/SOME-1HING/CVE-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/SOME-1HING/CVE-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/SOME-1HING/CVE-2018-16763">
 - [ShadowR-Root/fuel-cms-cve-2018-16763-python3-port](https://github.com/ShadowR-Root/fuel-cms-cve-2018-16763-python3-port)	<img alt="forks" src="https://img.shields.io/github/forks/ShadowR-Root/fuel-cms-cve-2018-16763-python3-port">	<img alt="stars" src="https://img.shields.io/github/stars/ShadowR-Root/fuel-cms-cve-2018-16763-python3-port">
 - [gh0stuncle/CVE-2018-16763_fuel_cms_exploit](https://github.com/gh0stuncle/CVE-2018-16763_fuel_cms_exploit)	<img alt="forks" src="https://img.shields.io/github/forks/gh0stuncle/CVE-2018-16763_fuel_cms_exploit">	<img alt="stars" src="https://img.shields.io/github/stars/gh0stuncle/CVE-2018-16763_fuel_cms_exploit">
+- [fahise/cve-2018-16763](https://github.com/fahise/cve-2018-16763)	<img alt="forks" src="https://img.shields.io/github/forks/fahise/cve-2018-16763">	<img alt="stars" src="https://img.shields.io/github/stars/fahise/cve-2018-16763">
 
 ---
 ## CVE-2018-16713 ()
@@ -4207,6 +4208,7 @@
 - [likekabin/CVE-2018-10933_ssh](https://github.com/likekabin/CVE-2018-10933_ssh)	<img alt="forks" src="https://img.shields.io/github/forks/likekabin/CVE-2018-10933_ssh">	<img alt="stars" src="https://img.shields.io/github/stars/likekabin/CVE-2018-10933_ssh">
 - [K3ysTr0K3R/CVE-2018-10933](https://github.com/K3ysTr0K3R/CVE-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2018-10933">
 - [CyberCTF/vulhub-libssh-cve-2018-10933](https://github.com/CyberCTF/vulhub-libssh-cve-2018-10933)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-libssh-cve-2018-10933">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-libssh-cve-2018-10933">
+- [AVA-CEO/CVE-2018-10933-Assessment-](https://github.com/AVA-CEO/CVE-2018-10933-Assessment-)	<img alt="forks" src="https://img.shields.io/github/forks/AVA-CEO/CVE-2018-10933-Assessment-">	<img alt="stars" src="https://img.shields.io/github/stars/AVA-CEO/CVE-2018-10933-Assessment-">
 
 ---
 ## CVE-2018-10920 ()

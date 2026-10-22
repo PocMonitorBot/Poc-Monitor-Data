@@ -1692,6 +1692,13 @@
 - [hoangvvthu/CVE-2021-44228-Log4Shell-Lab](https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/hoangvvthu/CVE-2021-44228-Log4Shell-Lab">
 - [Developer-Dynamo/cs50-cybersecurity-final-project](https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project)	<img alt="forks" src="https://img.shields.io/github/forks/Developer-Dynamo/cs50-cybersecurity-final-project">	<img alt="stars" src="https://img.shields.io/github/stars/Developer-Dynamo/cs50-cybersecurity-final-project">
 - [mcpmark-eval-liuhezi/log4shell-remediation](https://github.com/mcpmark-eval-liuhezi/log4shell-remediation)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-remediation">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-remediation">
+- [mcpmark-eval-liuhezi/log4shell-audit-2026](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2026)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-2026">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-2026">
+- [TurlaFSB/logshield](https://github.com/TurlaFSB/logshield)	<img alt="forks" src="https://img.shields.io/github/forks/TurlaFSB/logshield">	<img alt="stars" src="https://img.shields.io/github/stars/TurlaFSB/logshield">
+- [dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell](https://github.com/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell">
+- [ferralon-demo/log4shell-chain](https://github.com/ferralon-demo/log4shell-chain)	<img alt="forks" src="https://img.shields.io/github/forks/ferralon-demo/log4shell-chain">	<img alt="stars" src="https://img.shields.io/github/stars/ferralon-demo/log4shell-chain">
+- [mcpmark-eval-liuhezi/log4shell-drill](https://github.com/mcpmark-eval-liuhezi/log4shell-drill)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-drill">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-drill">
+- [yomiplush/2026-world-is-a-fuck-incident](https://github.com/yomiplush/2026-world-is-a-fuck-incident)	<img alt="forks" src="https://img.shields.io/github/forks/yomiplush/2026-world-is-a-fuck-incident">	<img alt="stars" src="https://img.shields.io/github/stars/yomiplush/2026-world-is-a-fuck-incident">
+- [mcpmark-eval-liuhezi/log4shell-audit-1](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-1)	<img alt="forks" src="https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-1">	<img alt="stars" src="https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-1">
 
 ---
 ## CVE-2021-44226 (2022-03-23T22:15:00)
@@ -3599,6 +3606,8 @@
 - [LordX404/CVE_2021-41773](https://github.com/LordX404/CVE_2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/LordX404/CVE_2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/LordX404/CVE_2021-41773">
 - [Joapath/CVE-2021-41773](https://github.com/Joapath/CVE-2021-41773)	<img alt="forks" src="https://img.shields.io/github/forks/Joapath/CVE-2021-41773">	<img alt="stars" src="https://img.shields.io/github/stars/Joapath/CVE-2021-41773">
 - [AlaIchhe/hdu-is-work1-secure-api](https://github.com/AlaIchhe/hdu-is-work1-secure-api)	<img alt="forks" src="https://img.shields.io/github/forks/AlaIchhe/hdu-is-work1-secure-api">	<img alt="stars" src="https://img.shields.io/github/stars/AlaIchhe/hdu-is-work1-secure-api">
+- [twq0316/work1-secure-rest-api](https://github.com/twq0316/work1-secure-rest-api)	<img alt="forks" src="https://img.shields.io/github/forks/twq0316/work1-secure-rest-api">	<img alt="stars" src="https://img.shields.io/github/stars/twq0316/work1-secure-rest-api">
+- [foreverlanterns/secure-demo-api](https://github.com/foreverlanterns/secure-demo-api)	<img alt="forks" src="https://img.shields.io/github/forks/foreverlanterns/secure-demo-api">	<img alt="stars" src="https://img.shields.io/github/stars/foreverlanterns/secure-demo-api">
 
 ---
 ## CVE-2021-41771 (2021-11-08T06:15:00)
@@ -4781,6 +4790,7 @@
 - [iurhfiu6/CVE-2021-4034](https://github.com/iurhfiu6/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/iurhfiu6/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/iurhfiu6/CVE-2021-4034">
 - [r00t-byte/Pwnkit-CVE-2021-4034-LPE](https://github.com/r00t-byte/Pwnkit-CVE-2021-4034-LPE)	<img alt="forks" src="https://img.shields.io/github/forks/r00t-byte/Pwnkit-CVE-2021-4034-LPE">	<img alt="stars" src="https://img.shields.io/github/stars/r00t-byte/Pwnkit-CVE-2021-4034-LPE">
 - [SerhiiMaruniak/CVE-2021-4034](https://github.com/SerhiiMaruniak/CVE-2021-4034)	<img alt="forks" src="https://img.shields.io/github/forks/SerhiiMaruniak/CVE-2021-4034">	<img alt="stars" src="https://img.shields.io/github/stars/SerhiiMaruniak/CVE-2021-4034">
+- [DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab](https://github.com/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab)	<img alt="forks" src="https://img.shields.io/github/forks/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab">	<img alt="stars" src="https://img.shields.io/github/stars/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab">
 
 ---
 ## CVE-2021-40326 (2022-08-29T05:15:00)
@@ -7644,6 +7654,8 @@
 - [joertx07/printnightmare-detection-lab](https://github.com/joertx07/printnightmare-detection-lab)	<img alt="forks" src="https://img.shields.io/github/forks/joertx07/printnightmare-detection-lab">	<img alt="stars" src="https://img.shields.io/github/stars/joertx07/printnightmare-detection-lab">
 - [twi1ight00/PrintNightmare](https://github.com/twi1ight00/PrintNightmare)	<img alt="forks" src="https://img.shields.io/github/forks/twi1ight00/PrintNightmare">	<img alt="stars" src="https://img.shields.io/github/stars/twi1ight00/PrintNightmare">
 - [s1kh/Vulnerability-Analysis-and-Mitigation](https://github.com/s1kh/Vulnerability-Analysis-and-Mitigation)	<img alt="forks" src="https://img.shields.io/github/forks/s1kh/Vulnerability-Analysis-and-Mitigation">	<img alt="stars" src="https://img.shields.io/github/stars/s1kh/Vulnerability-Analysis-and-Mitigation">
+- [honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md](https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md)	<img alt="forks" src="https://img.shields.io/github/forks/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md">	<img alt="stars" src="https://img.shields.io/github/stars/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md">
+- [HKenzoKimura/CVE-2021-1675](https://github.com/HKenzoKimura/CVE-2021-1675)	<img alt="forks" src="https://img.shields.io/github/forks/HKenzoKimura/CVE-2021-1675">	<img alt="stars" src="https://img.shields.io/github/stars/HKenzoKimura/CVE-2021-1675">
 
 ---
 ## CVE-2021-34523 (2021-07-14T18:15:00)
@@ -10458,6 +10470,12 @@
 - [wysssadda/ExchangeSmash](https://github.com/wysssadda/ExchangeSmash)	<img alt="forks" src="https://img.shields.io/github/forks/wysssadda/ExchangeSmash">	<img alt="stars" src="https://img.shields.io/github/stars/wysssadda/ExchangeSmash">
 - [probablysecure/Triage-CVE-2021-26855-ProxyLogon---Microsoft-Exchange-](https://github.com/probablysecure/Triage-CVE-2021-26855-ProxyLogon---Microsoft-Exchange-)	<img alt="forks" src="https://img.shields.io/github/forks/probablysecure/Triage-CVE-2021-26855-ProxyLogon---Microsoft-Exchange-">	<img alt="stars" src="https://img.shields.io/github/stars/probablysecure/Triage-CVE-2021-26855-ProxyLogon---Microsoft-Exchange-">
 - [byinarie/Zirconium](https://github.com/byinarie/Zirconium)	<img alt="forks" src="https://img.shields.io/github/forks/byinarie/Zirconium">	<img alt="stars" src="https://img.shields.io/github/stars/byinarie/Zirconium">
+- [layee27/JIMOH-ABDULLAHI](https://github.com/layee27/JIMOH-ABDULLAHI)	<img alt="forks" src="https://img.shields.io/github/forks/layee27/JIMOH-ABDULLAHI">	<img alt="stars" src="https://img.shields.io/github/stars/layee27/JIMOH-ABDULLAHI">
+- [ifeoluwaayodeji/CVE-2021-26855-Analysis](https://github.com/ifeoluwaayodeji/CVE-2021-26855-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/ifeoluwaayodeji/CVE-2021-26855-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/ifeoluwaayodeji/CVE-2021-26855-Analysis">
+- [WiredPulse/Invoke-HAFNIUMCheck.ps1](https://github.com/WiredPulse/Invoke-HAFNIUMCheck.ps1)	<img alt="forks" src="https://img.shields.io/github/forks/WiredPulse/Invoke-HAFNIUMCheck.ps1">	<img alt="stars" src="https://img.shields.io/github/stars/WiredPulse/Invoke-HAFNIUMCheck.ps1">
+- [0xmahmoudJo0/Check_Emails_For_CVE_2021_26855](https://github.com/0xmahmoudJo0/Check_Emails_For_CVE_2021_26855)	<img alt="forks" src="https://img.shields.io/github/forks/0xmahmoudJo0/Check_Emails_For_CVE_2021_26855">	<img alt="stars" src="https://img.shields.io/github/stars/0xmahmoudJo0/Check_Emails_For_CVE_2021_26855">
+- [dorkerdevil/CVE_2021_26855_Exploit_Hub](https://github.com/dorkerdevil/CVE_2021_26855_Exploit_Hub)	<img alt="forks" src="https://img.shields.io/github/forks/dorkerdevil/CVE_2021_26855_Exploit_Hub">	<img alt="stars" src="https://img.shields.io/github/stars/dorkerdevil/CVE_2021_26855_Exploit_Hub">
+- [stressboi/hafnium-exchange-splunk-csvs](https://github.com/stressboi/hafnium-exchange-splunk-csvs)	<img alt="forks" src="https://img.shields.io/github/forks/stressboi/hafnium-exchange-splunk-csvs">	<img alt="stars" src="https://img.shields.io/github/stars/stressboi/hafnium-exchange-splunk-csvs">
 
 ---
 ## CVE-2021-26837 ()

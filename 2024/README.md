@@ -254,6 +254,7 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [yeonchoda/CVE-2024-9264](https://github.com/yeonchoda/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/yeonchoda/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/yeonchoda/CVE-2024-9264">
 - [ozcanpng/CVE-2024-9264](https://github.com/ozcanpng/CVE-2024-9264)	<img alt="forks" src="https://img.shields.io/github/forks/ozcanpng/CVE-2024-9264">	<img alt="stars" src="https://img.shields.io/github/stars/ozcanpng/CVE-2024-9264">
 - [barun121/CVE-2024-9264-in-Grafana-11.x](https://github.com/barun121/CVE-2024-9264-in-Grafana-11.x)	<img alt="forks" src="https://img.shields.io/github/forks/barun121/CVE-2024-9264-in-Grafana-11.x">	<img alt="stars" src="https://img.shields.io/github/stars/barun121/CVE-2024-9264-in-Grafana-11.x">
+- [ferralon-demo/grafana-cve-2024-9264-duckdb-rce](https://github.com/ferralon-demo/grafana-cve-2024-9264-duckdb-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ferralon-demo/grafana-cve-2024-9264-duckdb-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ferralon-demo/grafana-cve-2024-9264-duckdb-rce">
 
 ---
 ## CVE-2024-9263 (2024-10-17T04:15:00)
@@ -1672,6 +1673,11 @@ An attacker with a knowledge of the available commands is able to perform read/w
 ## CVE-2024-55963 ()
 > 
 - [superswan/CVE-2024-55963](https://github.com/superswan/CVE-2024-55963)	<img alt="forks" src="https://img.shields.io/github/forks/superswan/CVE-2024-55963">	<img alt="stars" src="https://img.shields.io/github/stars/superswan/CVE-2024-55963">
+
+---
+## CVE-2024-55947 ()
+> 
+- [ferralon-demo/gogs-symlink-chain](https://github.com/ferralon-demo/gogs-symlink-chain)	<img alt="forks" src="https://img.shields.io/github/forks/ferralon-demo/gogs-symlink-chain">	<img alt="stars" src="https://img.shields.io/github/stars/ferralon-demo/gogs-symlink-chain">
 
 ---
 ## CVE-2024-55890 ()
@@ -3693,6 +3699,11 @@ Due to the service binding to `*:631 ( INADDR_ANY )`, multiple bugs in `cups-bro
 - [bshyuunn/bandiview-7.05-vuln-PoC](https://github.com/bshyuunn/bandiview-7.05-vuln-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/bshyuunn/bandiview-7.05-vuln-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/bshyuunn/bandiview-7.05-vuln-PoC">
 
 ---
+## CVE-2024-45846 ()
+> 
+- [ferralon-demo/mindsdb-vectordb-eval-rce](https://github.com/ferralon-demo/mindsdb-vectordb-eval-rce)	<img alt="forks" src="https://img.shields.io/github/forks/ferralon-demo/mindsdb-vectordb-eval-rce">	<img alt="stars" src="https://img.shields.io/github/stars/ferralon-demo/mindsdb-vectordb-eval-rce">
+
+---
 ## CVE-2024-45827 ()
 > 
 - [0xNslabs/CVE-2024-45827-PoC](https://github.com/0xNslabs/CVE-2024-45827-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xNslabs/CVE-2024-45827-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xNslabs/CVE-2024-45827-PoC">
@@ -3931,6 +3942,7 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 - [NHAS/VULNERABLE-CVE-2024-45337](https://github.com/NHAS/VULNERABLE-CVE-2024-45337)	<img alt="forks" src="https://img.shields.io/github/forks/NHAS/VULNERABLE-CVE-2024-45337">	<img alt="stars" src="https://img.shields.io/github/stars/NHAS/VULNERABLE-CVE-2024-45337">
 - [peace-maker/CVE-2024-45337](https://github.com/peace-maker/CVE-2024-45337)	<img alt="forks" src="https://img.shields.io/github/forks/peace-maker/CVE-2024-45337">	<img alt="stars" src="https://img.shields.io/github/stars/peace-maker/CVE-2024-45337">
 - [Backline-playground/gogs](https://github.com/Backline-playground/gogs)	<img alt="forks" src="https://img.shields.io/github/forks/Backline-playground/gogs">	<img alt="stars" src="https://img.shields.io/github/stars/Backline-playground/gogs">
+- [ferralon-demo/gitea-cve-2024-45337](https://github.com/ferralon-demo/gitea-cve-2024-45337)	<img alt="forks" src="https://img.shields.io/github/forks/ferralon-demo/gitea-cve-2024-45337">	<img alt="stars" src="https://img.shields.io/github/stars/ferralon-demo/gitea-cve-2024-45337">
 
 ---
 ## CVE-2024-45265 (2024-08-26T18:15:00)
@@ -6936,6 +6948,11 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 - [truonghuuphuc/CVE-2024-3293-Poc](https://github.com/truonghuuphuc/CVE-2024-3293-Poc)	<img alt="forks" src="https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-3293-Poc">	<img alt="stars" src="https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-3293-Poc">
 
 ---
+## CVE-2024-32868 ()
+> 
+- [taiwoonileowo16-creator/CVE-2024-32868-Assignment-1](https://github.com/taiwoonileowo16-creator/CVE-2024-32868-Assignment-1)	<img alt="forks" src="https://img.shields.io/github/forks/taiwoonileowo16-creator/CVE-2024-32868-Assignment-1">	<img alt="stars" src="https://img.shields.io/github/stars/taiwoonileowo16-creator/CVE-2024-32868-Assignment-1">
+
+---
 ## CVE-2024-32830 ()
 > 
 - [ptrstr/CVE-2024-32830-poc](https://github.com/ptrstr/CVE-2024-32830-poc)	<img alt="forks" src="https://img.shields.io/github/forks/ptrstr/CVE-2024-32830-poc">	<img alt="stars" src="https://img.shields.io/github/stars/ptrstr/CVE-2024-32830-poc">
@@ -8067,6 +8084,7 @@ If a principal is compromised it means the attacker would be able to retrieve ti
 - [FangFang-Yi/CVE-2024-30088](https://github.com/FangFang-Yi/CVE-2024-30088)	<img alt="forks" src="https://img.shields.io/github/forks/FangFang-Yi/CVE-2024-30088">	<img alt="stars" src="https://img.shields.io/github/stars/FangFang-Yi/CVE-2024-30088">
 - [th3g3ntl3m4n84/CVE-2024-30088__Windows-TOCTOU-exploit](https://github.com/th3g3ntl3m4n84/CVE-2024-30088__Windows-TOCTOU-exploit)	<img alt="forks" src="https://img.shields.io/github/forks/th3g3ntl3m4n84/CVE-2024-30088__Windows-TOCTOU-exploit">	<img alt="stars" src="https://img.shields.io/github/stars/th3g3ntl3m4n84/CVE-2024-30088__Windows-TOCTOU-exploit">
 - [cyghtinc/cve-2024-30088-binary-LPE-PRIVIELEGE-ESCALATION-CYGHT-TOCTOU](https://github.com/cyghtinc/cve-2024-30088-binary-LPE-PRIVIELEGE-ESCALATION-CYGHT-TOCTOU)	<img alt="forks" src="https://img.shields.io/github/forks/cyghtinc/cve-2024-30088-binary-LPE-PRIVIELEGE-ESCALATION-CYGHT-TOCTOU">	<img alt="stars" src="https://img.shields.io/github/stars/cyghtinc/cve-2024-30088-binary-LPE-PRIVIELEGE-ESCALATION-CYGHT-TOCTOU">
+- [davidiroanya123-jpg/CVE-2024-30088-Microsoft-Windows-Kernel-Elevation-of-Privilege-Vulnerability](https://github.com/davidiroanya123-jpg/CVE-2024-30088-Microsoft-Windows-Kernel-Elevation-of-Privilege-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/davidiroanya123-jpg/CVE-2024-30088-Microsoft-Windows-Kernel-Elevation-of-Privilege-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/davidiroanya123-jpg/CVE-2024-30088-Microsoft-Windows-Kernel-Elevation-of-Privilege-Vulnerability">
 
 ---
 ## CVE-2024-30085 ()
@@ -10567,6 +10585,11 @@ Dell Unity, versions prior to 5.4, contains an OS Command Injection Vulnerabilit
 - [JohnnyBradvo/CVE-2024-2222](https://github.com/JohnnyBradvo/CVE-2024-2222)	<img alt="forks" src="https://img.shields.io/github/forks/JohnnyBradvo/CVE-2024-2222">	<img alt="stars" src="https://img.shields.io/github/stars/JohnnyBradvo/CVE-2024-2222">
 
 ---
+## CVE-2024-22203 ()
+> 
+- [ferralon-demo/whoogle-search-ssrf-path-traversal](https://github.com/ferralon-demo/whoogle-search-ssrf-path-traversal)	<img alt="forks" src="https://img.shields.io/github/forks/ferralon-demo/whoogle-search-ssrf-path-traversal">	<img alt="stars" src="https://img.shields.io/github/stars/ferralon-demo/whoogle-search-ssrf-path-traversal">
+
+---
 ## CVE-2024-22198 (2024-01-11T20:15:00)
 > Nginx-UI is a web interface to manage Nginx configurations. It is vulnerable to arbitrary command execution by abusing the configuration settings. The `Home > Preference` page exposes a list of system settings such as `Run Mode`, `Jwt Secret`, `Node Secret` and `Terminal Start Command`. While the UI doesn't allow users to modify the `Terminal Start Command` setting, it is possible to do so by sending a request to the API. This issue may lead to authenticated remote code execution, privilege escalation, and information disclosure. This vulnerability has been patched in version 2.0.0.beta.9.
 - [xiw1ll/CVE-2024-22198_Checker](https://github.com/xiw1ll/CVE-2024-22198_Checker)	<img alt="forks" src="https://img.shields.io/github/forks/xiw1ll/CVE-2024-22198_Checker">	<img alt="stars" src="https://img.shields.io/github/stars/xiw1ll/CVE-2024-22198_Checker">
@@ -10749,6 +10772,7 @@ An OData injection vulnerability exists in the BIG-IP Next Central Manager API (
 - [Sxmpl3/CVE-2024-21762-Safe-Check](https://github.com/Sxmpl3/CVE-2024-21762-Safe-Check)	<img alt="forks" src="https://img.shields.io/github/forks/Sxmpl3/CVE-2024-21762-Safe-Check">	<img alt="stars" src="https://img.shields.io/github/stars/Sxmpl3/CVE-2024-21762-Safe-Check">
 - [Vampsecure-Labs/vamp-forticheck](https://github.com/Vampsecure-Labs/vamp-forticheck)	<img alt="forks" src="https://img.shields.io/github/forks/Vampsecure-Labs/vamp-forticheck">	<img alt="stars" src="https://img.shields.io/github/stars/Vampsecure-Labs/vamp-forticheck">
 - [abraxas/Fortigate-SSL-VPN-Exploit-Kit](https://github.com/abraxas/Fortigate-SSL-VPN-Exploit-Kit)	<img alt="forks" src="https://img.shields.io/github/forks/abraxas/Fortigate-SSL-VPN-Exploit-Kit">	<img alt="stars" src="https://img.shields.io/github/stars/abraxas/Fortigate-SSL-VPN-Exploit-Kit">
+- [Deekshitha2203/security-triage-agent-cybersec590](https://github.com/Deekshitha2203/security-triage-agent-cybersec590)	<img alt="forks" src="https://img.shields.io/github/forks/Deekshitha2203/security-triage-agent-cybersec590">	<img alt="stars" src="https://img.shields.io/github/stars/Deekshitha2203/security-triage-agent-cybersec590">
 
 ---
 ## CVE-2024-21754 (2024-06-11T15:16:00)
@@ -11547,6 +11571,7 @@ authentication.   
 ---
 ## CVE-2024-14027 ()
 > 
+- [lcfr-hax/CVE-2024-14027_slop](https://github.com/lcfr-hax/CVE-2024-14027_slop)	<img alt="forks" src="https://img.shields.io/github/forks/lcfr-hax/CVE-2024-14027_slop">	<img alt="stars" src="https://img.shields.io/github/stars/lcfr-hax/CVE-2024-14027_slop">
 - [lcfr-eth/CVE-2024-14027_slop](https://github.com/lcfr-eth/CVE-2024-14027_slop)	<img alt="forks" src="https://img.shields.io/github/forks/lcfr-eth/CVE-2024-14027_slop">	<img alt="stars" src="https://img.shields.io/github/stars/lcfr-eth/CVE-2024-14027_slop">
 
 ---
@@ -12070,6 +12095,11 @@ The specific flaw exists within the implementation of Zstandard decompression. T
 ## CVE-2024-11199 (2024-11-23T10:15:00)
 > The Rescue Shortcodes plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the plugin's rescue_progressbar shortcode in all versions up to, and including, 2.9 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 - [windz3r0day/CVE-2024-11199](https://github.com/windz3r0day/CVE-2024-11199)	<img alt="forks" src="https://img.shields.io/github/forks/windz3r0day/CVE-2024-11199">	<img alt="stars" src="https://img.shields.io/github/stars/windz3r0day/CVE-2024-11199">
+
+---
+## CVE-2024-11142 ()
+> 
+- [ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability](https://github.com/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability)	<img alt="forks" src="https://img.shields.io/github/forks/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability">	<img alt="stars" src="https://img.shields.io/github/stars/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability">
 
 ---
 ## CVE-2024-11120 ()

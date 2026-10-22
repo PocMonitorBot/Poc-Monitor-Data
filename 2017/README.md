@@ -424,6 +424,11 @@
 - [kienquoc102/CVE-2017-8225](https://github.com/kienquoc102/CVE-2017-8225)	<img alt="forks" src="https://img.shields.io/github/forks/kienquoc102/CVE-2017-8225">	<img alt="stars" src="https://img.shields.io/github/stars/kienquoc102/CVE-2017-8225">
 
 ---
+## CVE-2017-8176 ()
+> 
+- [klks/swproxy](https://github.com/klks/swproxy)	<img alt="forks" src="https://img.shields.io/github/forks/klks/swproxy">	<img alt="stars" src="https://img.shields.io/github/stars/klks/swproxy">
+
+---
 ## CVE-2017-8085 ()
 > 
 - [dimitrop/synthetic-cve-2017-8085](https://github.com/dimitrop/synthetic-cve-2017-8085)	<img alt="forks" src="https://img.shields.io/github/forks/dimitrop/synthetic-cve-2017-8085">	<img alt="stars" src="https://img.shields.io/github/stars/dimitrop/synthetic-cve-2017-8085">
@@ -1648,6 +1653,11 @@
 ## CVE-2017-20045 (2022-06-13T07:15:00)
 > A vulnerability was found in Navetti PricePoint 4.6.0.0. It has been declared as critical. This vulnerability affects unknown code. The manipulation leads to cross-site request forgery. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. Upgrading to version 4.7.0.0 is able to address this issue. It is recommended to upgrade the affected component.
 - [Live-Hack-CVE/CVE-2017-20045](https://github.com/Live-Hack-CVE/CVE-2017-20045)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2017-20045">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2017-20045">
+
+---
+## CVE-2017-20001 ()
+> 
+- [abiolaexcellence1-sketch/vulnerability-](https://github.com/abiolaexcellence1-sketch/vulnerability-)	<img alt="forks" src="https://img.shields.io/github/forks/abiolaexcellence1-sketch/vulnerability-">	<img alt="stars" src="https://img.shields.io/github/stars/abiolaexcellence1-sketch/vulnerability-">
 
 ---
 ## CVE-2017-18926 (2020-11-06T18:15:00)
@@ -3634,6 +3644,7 @@
 - [Mafiosohack/offensive-security-lab-1](https://github.com/Mafiosohack/offensive-security-lab-1)	<img alt="forks" src="https://img.shields.io/github/forks/Mafiosohack/offensive-security-lab-1">	<img alt="stars" src="https://img.shields.io/github/stars/Mafiosohack/offensive-security-lab-1">
 - [hackingyseguridad/smb](https://github.com/hackingyseguridad/smb)	<img alt="forks" src="https://img.shields.io/github/forks/hackingyseguridad/smb">	<img alt="stars" src="https://img.shields.io/github/stars/hackingyseguridad/smb">
 - [FernandoTDalcin/thm-blue-writeup](https://github.com/FernandoTDalcin/thm-blue-writeup)	<img alt="forks" src="https://img.shields.io/github/forks/FernandoTDalcin/thm-blue-writeup">	<img alt="stars" src="https://img.shields.io/github/stars/FernandoTDalcin/thm-blue-writeup">
+- [BlessingOlaniyan/cve-2017-0143-smbv1-analysis](https://github.com/BlessingOlaniyan/cve-2017-0143-smbv1-analysis)	<img alt="forks" src="https://img.shields.io/github/forks/BlessingOlaniyan/cve-2017-0143-smbv1-analysis">	<img alt="stars" src="https://img.shields.io/github/stars/BlessingOlaniyan/cve-2017-0143-smbv1-analysis">
 
 ---
 ## CVE-2017-0108 ()

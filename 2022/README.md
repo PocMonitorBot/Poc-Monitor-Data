@@ -22252,6 +22252,11 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 - [0xNslabs/CVE-2022-36553-PoC](https://github.com/0xNslabs/CVE-2022-36553-PoC)	<img alt="forks" src="https://img.shields.io/github/forks/0xNslabs/CVE-2022-36553-PoC">	<img alt="stars" src="https://img.shields.io/github/stars/0xNslabs/CVE-2022-36553-PoC">
 
 ---
+## CVE-2022-36551 ()
+> 
+- [ferralon-demo/label-studio-url-import-ssrf](https://github.com/ferralon-demo/label-studio-url-import-ssrf)	<img alt="forks" src="https://img.shields.io/github/forks/ferralon-demo/label-studio-url-import-ssrf">	<img alt="stars" src="https://img.shields.io/github/stars/ferralon-demo/label-studio-url-import-ssrf">
+
+---
 ## CVE-2022-3655 (2022-11-01T23:15:00)
 > Heap buffer overflow in Media Galleries in Google Chrome prior to 107.0.5304.62 allowed an attacker who convinced a user to install a malicious extension to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: Medium)
 - [Live-Hack-CVE/CVE-2022-3655](https://github.com/Live-Hack-CVE/CVE-2022-3655)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-3655">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-3655">
@@ -24997,6 +25002,11 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 > SWFTools commit 772e55a2 was discovered to contain a heap-buffer overflow via __asan_memcpy at /asan/asan_interceptors_memintrinsics.cpp:.
 - [Live-Hack-CVE/CVE-2022-35090](https://github.com/Live-Hack-CVE/CVE-2022-35090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35090">
 - [Live-Hack-CVE/CVE-2022-35090](https://github.com/Live-Hack-CVE/CVE-2022-35090)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2022-35090">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2022-35090">
+
+---
+## CVE-2022-3509 ()
+> 
+- [toluwanimidurosomo/CYB-401-](https://github.com/toluwanimidurosomo/CYB-401-)	<img alt="forks" src="https://img.shields.io/github/forks/toluwanimidurosomo/CYB-401-">	<img alt="stars" src="https://img.shields.io/github/stars/toluwanimidurosomo/CYB-401-">
 
 ---
 ## CVE-2022-35089 (2022-09-21T00:15:00)
@@ -30978,6 +30988,8 @@ the client's API server credentials to third parties.
 - [zavikhttak/Follina-CVE-2022-30190-Analysis](https://github.com/zavikhttak/Follina-CVE-2022-30190-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/zavikhttak/Follina-CVE-2022-30190-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/zavikhttak/Follina-CVE-2022-30190-Analysis">
 - [zavikhttak/follina-msdt-threat-investigation](https://github.com/zavikhttak/follina-msdt-threat-investigation)	<img alt="forks" src="https://img.shields.io/github/forks/zavikhttak/follina-msdt-threat-investigation">	<img alt="stars" src="https://img.shields.io/github/stars/zavikhttak/follina-msdt-threat-investigation">
 - [dayobamiii/OMOTOSO-AYOBAMI](https://github.com/dayobamiii/OMOTOSO-AYOBAMI)	<img alt="forks" src="https://img.shields.io/github/forks/dayobamiii/OMOTOSO-AYOBAMI">	<img alt="stars" src="https://img.shields.io/github/stars/dayobamiii/OMOTOSO-AYOBAMI">
+- [jamespelumi79-ctrl/CVE-2022-30190-Follina-Research](https://github.com/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research)	<img alt="forks" src="https://img.shields.io/github/forks/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research">	<img alt="stars" src="https://img.shields.io/github/stars/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research">
+- [KaritaMW/follina-vulnerability-analysis-lab](https://github.com/KaritaMW/follina-vulnerability-analysis-lab)	<img alt="forks" src="https://img.shields.io/github/forks/KaritaMW/follina-vulnerability-analysis-lab">	<img alt="stars" src="https://img.shields.io/github/stars/KaritaMW/follina-vulnerability-analysis-lab">
 
 ---
 ## CVE-2022-30166 (2022-06-15T22:15:00)
@@ -37060,6 +37072,7 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [meng-security/spring4shell-local-verification-lab](https://github.com/meng-security/spring4shell-local-verification-lab)	<img alt="forks" src="https://img.shields.io/github/forks/meng-security/spring4shell-local-verification-lab">	<img alt="stars" src="https://img.shields.io/github/stars/meng-security/spring4shell-local-verification-lab">
 - [PrinceH4k/Spring4Shell-POC](https://github.com/PrinceH4k/Spring4Shell-POC)	<img alt="forks" src="https://img.shields.io/github/forks/PrinceH4k/Spring4Shell-POC">	<img alt="stars" src="https://img.shields.io/github/stars/PrinceH4k/Spring4Shell-POC">
 - [CyberCTF/vulhub-spring-cve-2022-22965](https://github.com/CyberCTF/vulhub-spring-cve-2022-22965)	<img alt="forks" src="https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2022-22965">	<img alt="stars" src="https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2022-22965">
+- [beulahhh-coder/-CVE-2022-22965-Spring4Shell](https://github.com/beulahhh-coder/-CVE-2022-22965-Spring4Shell)	<img alt="forks" src="https://img.shields.io/github/forks/beulahhh-coder/-CVE-2022-22965-Spring4Shell">	<img alt="stars" src="https://img.shields.io/github/stars/beulahhh-coder/-CVE-2022-22965-Spring4Shell">
 
 ---
 ## CVE-2022-22963 (2022-04-01T23:15:00)
