@@ -1,9 +1,184 @@
 # 2000 List
 
 ---
-## CVE-2000-0979 ()
+## CVE-2000-1221.REFS ()
 > 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1220.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1216.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1207.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1196.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1103.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1088.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1087.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1086.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1085.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1084.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1083.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1082.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1081.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1079.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1056.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1055.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1054.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1053.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1050.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1049.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1038.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1034.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-1022.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0984.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0979.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0979 (2000-12-19) [MEDIUM 6.4]
+> File and Print Sharing service in Windows 95, Windows 98, and Windows Me does not properly check the password for a file share, which allows remote attackers to bypass share access controls by sending a 1-byte password that matches the first character of the real password, aka the "Share Level Password" vulnerability.
 - [Z6543/CVE-2000-0979](https://github.com/Z6543/CVE-2000-0979)	<img alt="forks" src="https://img.shields.io/github/forks/Z6543/CVE-2000-0979">	<img alt="stars" src="https://img.shields.io/github/stars/Z6543/CVE-2000-0979">
+
+---
+## CVE-2000-0975 (2000-12-19) [MEDIUM 5.0]
+> Directory traversal vulnerability in apexec.pl in Anaconda Foundation Directory allows remote attackers to read arbitrary files via a .. (dot dot) attack.
+- [ARPSyndicate/cve-scores](https://github.com/ARPSyndicate/cve-scores)	<img alt="forks" src="https://img.shields.io/github/forks/ARPSyndicate/cve-scores">	<img alt="stars" src="https://img.shields.io/github/stars/ARPSyndicate/cve-scores">
+
+---
+## CVE-2000-0892.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0867.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0848.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0778.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0700.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0673.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0673 (2000-07-27) [MEDIUM 5.0]
+> The NetBIOS Name Server (NBNS) protocol does not perform authentication, which allows remote attackers to cause a denial of service by sending a spoofed Name Conflict or Name Release datagram, aka the "NetBIOS Name Server Protocol Spoofing" vulnerability.
+- [beniah2/Nmap-scanning-project](https://github.com/beniah2/Nmap-scanning-project)	<img alt="forks" src="https://img.shields.io/github/forks/beniah2/Nmap-scanning-project">	<img alt="stars" src="https://img.shields.io/github/stars/beniah2/Nmap-scanning-project">
+
+---
+## CVE-2000-0660.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
 
 ---
 ## CVE-2000-0649 (2000-07-13T04:00:00)
@@ -13,9 +188,140 @@
 - [Downgraderz/PoC-CVE-2000-0649](https://github.com/Downgraderz/PoC-CVE-2000-0649)	<img alt="forks" src="https://img.shields.io/github/forks/Downgraderz/PoC-CVE-2000-0649">	<img alt="stars" src="https://img.shields.io/github/stars/Downgraderz/PoC-CVE-2000-0649">
 
 ---
+## CVE-2000-0635.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0632.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0625.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0622.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0613.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0538.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0505 (2000-05-31) [MEDIUM 5.0]
+> The Apache 1.3.x HTTP server for Windows platforms allows remote attackers to list directory contents by requesting a URL containing a large number of / characters.
+- [LyticOnaope/ZHVA](https://github.com/LyticOnaope/ZHVA)	<img alt="forks" src="https://img.shields.io/github/forks/LyticOnaope/ZHVA">	<img alt="stars" src="https://img.shields.io/github/stars/LyticOnaope/ZHVA">
+
+---
+## CVE-2000-0500.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0497.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0465 (2000-05-17) [MEDIUM 5.1]
+> Internet Explorer 4.x and 5.x does not properly verify the domain of a  frame within a browser window, which allows a remote attacker to read client files via the frame, aka the "Frame Domain Verification" vulnerability.
+- [ARPSyndicate/cve-scores](https://github.com/ARPSyndicate/cve-scores)	<img alt="forks" src="https://img.shields.io/github/forks/ARPSyndicate/cve-scores">	<img alt="stars" src="https://img.shields.io/github/stars/ARPSyndicate/cve-scores">
+
+---
+## CVE-2000-0455.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0428.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0427.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0415 (2000-05-12) [MEDIUM 5.0]
+> Buffer overflow in Outlook Express 4.x allows attackers to cause a denial of service via a mail or news message that has a .jpg or .bmp attachment with a long file name.
+- [GuiMatosInfra/explorer2sectool](https://github.com/GuiMatosInfra/explorer2sectool)	<img alt="forks" src="https://img.shields.io/github/forks/GuiMatosInfra/explorer2sectool">	<img alt="stars" src="https://img.shields.io/github/stars/GuiMatosInfra/explorer2sectool">
+- [xaitax/SploitScan](https://github.com/xaitax/SploitScan)	<img alt="forks" src="https://img.shields.io/github/forks/xaitax/SploitScan">	<img alt="stars" src="https://img.shields.io/github/stars/xaitax/SploitScan">
+
+---
+## CVE-2000-0405.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0384.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0380.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0368.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0359.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0358.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0357.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0342.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0275.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0268.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
+## CVE-2000-0267.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
 ## CVE-2000-0220 (2000-02-24T05:00:00)
 > ZoneAlarm sends sensitive system and network information in cleartext to the Zone Labs server if a user requests more information about an event.
 - [Live-Hack-CVE/CVE-2000-0220](https://github.com/Live-Hack-CVE/CVE-2000-0220)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0220">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0220">
+
+---
+## CVE-2000-0219.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
 
 ---
 ## CVE-2000-0182 (2000-02-23T05:00:00)
@@ -24,13 +330,13 @@
 - [Live-Hack-CVE/CVE-2000-0182](https://github.com/Live-Hack-CVE/CVE-2000-0182)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0182">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0182">
 
 ---
-## CVE-2000-0170 ()
-> 
+## CVE-2000-0170 (2000-02-26) [HIGH 7.2]
+> Buffer overflow in the man program in Linux allows local users to gain privileges via the MANPAGER environmental variable.
 - [mike182/exploit](https://github.com/mike182/exploit)	<img alt="forks" src="https://img.shields.io/github/forks/mike182/exploit">	<img alt="stars" src="https://img.shields.io/github/stars/mike182/exploit">
 
 ---
-## CVE-2000-0168 ()
-> 
+## CVE-2000-0168 (2000-03-04) [MEDIUM 5.0]
+> Microsoft Windows 9x operating systems allow an attacker to cause a denial of service via a pathname that includes file device names, aka the "DOS Device in Path Name" vulnerability.
 - [adk86/CVE-Vulnerability-Research-Exploit-Analysis](https://github.com/adk86/CVE-Vulnerability-Research-Exploit-Analysis)	<img alt="forks" src="https://img.shields.io/github/forks/adk86/CVE-Vulnerability-Research-Exploit-Analysis">	<img alt="stars" src="https://img.shields.io/github/stars/adk86/CVE-Vulnerability-Research-Exploit-Analysis">
 
 ---
@@ -88,6 +394,11 @@
 ## CVE-2000-0123 (2000-02-01T05:00:00)
 > The shopping cart application provided with Filemaker allows remote users to modify sensitive purchase information via hidden form fields.
 - [Live-Hack-CVE/CVE-2000-0123](https://github.com/Live-Hack-CVE/CVE-2000-0123)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0123">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0123">
+
+---
+## CVE-2000-0119.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
 
 ---
 ## CVE-2000-0115 (2000-01-21T05:00:00)
@@ -194,10 +505,20 @@
 - [Live-Hack-CVE/CVE-2000-0065](https://github.com/Live-Hack-CVE/CVE-2000-0065)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0065">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0065">
 
 ---
+## CVE-2000-0052.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
+
+---
 ## CVE-2000-0047 (1999-10-01T04:00:00)
 > Buffer overflow in Yahoo Pager/Messenger client allows remote attackers to cause a denial of service via a long URL within a message.
 - [Live-Hack-CVE/CVE-2000-0047](https://github.com/Live-Hack-CVE/CVE-2000-0047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0047">
 - [Live-Hack-CVE/CVE-2000-0047](https://github.com/Live-Hack-CVE/CVE-2000-0047)	<img alt="forks" src="https://img.shields.io/github/forks/Live-Hack-CVE/CVE-2000-0047">	<img alt="stars" src="https://img.shields.io/github/stars/Live-Hack-CVE/CVE-2000-0047">
+
+---
+## CVE-2000-0045.REFS ()
+> 
+- []()	<img alt="forks" src="https://img.shields.io/github/forks">	<img alt="stars" src="https://img.shields.io/github/stars">
 
 ---
 ## CVE-2000-0040 (1999-12-23T05:00:00)
