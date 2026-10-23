@@ -1,0 +1,73 @@
+name: schedule
+
+on:
+  # 公共仓库 Actions 不限量：频率从每2小时提升至每30分钟
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+# GITHUB_TOKEN 推送本仓库（公共仓库，Actions 免费不限量）
+permissions:
+  contents: write
+
+# 与 merge 共享并发组，串行化推送防冲突
+concurrency:
+  group: poc-data-repo
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ===== 步骤1：拉取本数据仓库到 data/ 子目录 =====
+      - name: Check out data repo (self)
+        uses: actions/checkout@v4
+        with:
+          path: data
+          fetch-depth: 1
+
+      # ===== 步骤2：只读拉取私有源码仓库到 src/ 子目录 =====
+      # 保密性：源码仅存在于 runner 临时目录，与 data/ 物理隔离，
+      # 推送步骤只在 data/ 内执行，源码不会进入公共仓库
+      - name: Check out private source repo
+        uses: actions/checkout@v4
+        with:
+          repository: PocMonitorBot/Poc-Monitor-Source
+          token: ${{ secrets.SRC_REPO_TOKEN }}
+          path: src
+          fetch-depth: 1
+
+      - name: Set up Go 1.18
+        uses: actions/setup-go@v4
+        with:
+          go-version: 1.18
+
+      # ===== 步骤3：编译并运行监控 =====
+      # githubToken 使用 SRC_REPO_TOKEN（PAT，Search 30/min + GraphQL 5000点/时）
+      - name: Build and run monitor
+        env:
+          barkToken: ${{ secrets.BARK_TOKEN }}
+          githubToken: ${{ secrets.SRC_REPO_TOKEN }}
+        run: |
+          cd src
+          go build -o poc-monitor .
+          cp poc-monitor blacklist.yaml ../data/
+          cd ../data
+          ./poc-monitor
+          rm poc-monitor blacklist.yaml
+
+      # ===== 步骤4：推送数据（仅 data/ 目录，GITHUB_TOKEN） =====
+      - name: Push data
+        run: |
+          cd data
+          git config user.email "${{ vars.BOT_EMAIL || format('{0}@users.noreply.github.com', github.actor) }}"
+          git config user.name "${{ vars.BOT_NAME || github.actor }}"
+          git add .
+          git diff --staged --quiet || git commit -m "Auto Update $(date --rfc-3339=seconds)"
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            echo "push 失败，20s 后重试 ($i/3)"
+            sleep 20
+          done
+          exit 1
