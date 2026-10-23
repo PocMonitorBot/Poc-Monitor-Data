@@ -1,0 +1,75 @@
+name: merge
+
+on:
+  # 每天凌晨1:30（UTC）= 北京时间 9:30
+  schedule:
+    - cron: "30 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: poc-data-repo
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out data repo (self)
+        uses: actions/checkout@v4
+        with:
+          path: data
+          fetch-depth: 10
+
+      # 源码仅检出到 runner 临时目录 src/，不进入公共仓库
+      - name: Check out private source repo
+        uses: actions/checkout@v4
+        with:
+          repository: PocMonitorBot/Poc-Monitor-Source
+          token: ${{ secrets.SRC_REPO_TOKEN }}
+          path: src
+          fetch-depth: 10
+
+      - name: Clone PoC-in-GitHub
+        run: git clone --depth 10 https://github.com/nomi-sec/PoC-in-GitHub.git poc-in-github
+
+      - name: Clone trickest/cve
+        run: git clone --depth 50 https://github.com/trickest/cve.git trickest-cve
+
+      - name: Set up Go 1.18
+        uses: actions/setup-go@v4
+        with:
+          go-version: 1.18
+
+      # 公共仓库不限量：trickest 日预算提升至 50000（GraphQL 批量 ≈ 500 次请求）
+      - name: Build and run merge
+        run: |
+          cd src
+          go build -o poc-monitor .
+          cp poc-monitor blacklist.yaml ../data/
+          cd ../data
+          ./poc-monitor merge
+          ./poc-monitor trickest
+          rm poc-monitor blacklist.yaml
+        env:
+          POC_IN_GITHUB_DIR: ${{ github.workspace }}/poc-in-github
+          TRICEST_CVE_DIR: ${{ github.workspace }}/trickest-cve
+          githubToken: ${{ secrets.SRC_REPO_TOKEN }}
+          TRICEST_BUDGET: 50000
+
+      - name: Push data
+        run: |
+          cd data
+          git config user.email "${{ vars.BOT_EMAIL || format('{0}@users.noreply.github.com', github.actor) }}"
+          git config user.name "${{ vars.BOT_NAME || github.actor }}"
+          git add .
+          git diff --staged --quiet || git commit -m "Merge PoC-in-GitHub + trickest $(date --rfc-3339=seconds)"
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            echo "push 失败，20s 后重试 ($i/3)"
+            sleep 20
+          done
+          exit 1
