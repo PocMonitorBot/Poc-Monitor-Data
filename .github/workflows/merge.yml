@@ -1,9 +1,10 @@
 name: merge
 
 on:
-  # 每天凌晨1:30（UTC）= 北京时间 9:30
+  # 每6小时（UTC 1:30/7:30/13:30/19:30）= 北京时间 9:30/15:30/21:30/3:30
+  # 提速依据: PoC-in-GitHub 上游每天更新4-5次；trickest 存量队列消化期 20万条/天
   schedule:
-    - cron: "30 1 * * *"
+    - cron: "30 1,7,13,19 * * *"
   workflow_dispatch:
 
 permissions:
