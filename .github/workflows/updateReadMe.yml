@@ -1,0 +1,65 @@
+name: updateReadMe
+
+on:
+  # 定时已停用：NVD 元数据由独立 nvd_monitor 程序抓取，下游平台按 CVE ID 关联。
+  # 本工作流保留手动触发作为备用。恢复定时：取消下方两行注释。
+  # schedule:
+  #   - cron: "30 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: poc-data-repo
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out data repo (self)
+        uses: actions/checkout@v4
+        with:
+          path: data
+          fetch-depth: 1
+
+      - name: Check out private source repo
+        uses: actions/checkout@v4
+        with:
+          repository: PocMonitorBot/Poc-Monitor-Source
+          token: ${{ secrets.SRC_REPO_TOKEN }}
+          path: src
+          fetch-depth: 1
+
+      - name: Set up Go 1.18
+        uses: actions/setup-go@v4
+        with:
+          go-version: 1.18
+
+      - name: Build and run update
+        run: |
+          cd src
+          go build -o poc-monitor .
+          cp poc-monitor blacklist.yaml ../data/
+          cd ../data
+          ./poc-monitor update
+          rm poc-monitor blacklist.yaml
+        env:
+          nvdApiKey: ${{ secrets.NVD_API_KEY }}
+          NVD_BUDGET: 200
+
+      - name: Push data
+        run: |
+          cd data
+          git config user.email "${{ vars.BOT_EMAIL || format('{0}@users.noreply.github.com', github.actor) }}"
+          git config user.name "${{ vars.BOT_NAME || github.actor }}"
+          git add .
+          git diff --staged --quiet || git commit -m "Update README $(date --rfc-3339=seconds)"
+          for i in 1 2 3; do
+            git pull --rebase && git push && exit 0
+            echo "push 失败，20s 后重试 ($i/3)"
+            sleep 20
+          done
+          exit 1
