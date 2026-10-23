@@ -1,10 +1,11 @@
 name: merge
 
 on:
-  # 每6小时（UTC 1:30/7:30/13:30/19:30）= 北京时间 9:30/15:30/21:30/3:30
-  # 提速依据: PoC-in-GitHub 上游每天更新4-5次；trickest 存量队列消化期 20万条/天
+  # 每2小时（UTC 每偶数小时的 :20）
+  # 依据: PoC-in-GitHub 上游每天更新4-5次；trickest 存量消化期 60万条/天（1天内完成）
+  # trickest 上游每天仅更新1次，无变更时 git diff 秒级跳过不耗资源
   schedule:
-    - cron: "30 1,7,13,19 * * *"
+    - cron: "20 */2 * * *"
   workflow_dispatch:
 
 permissions:
