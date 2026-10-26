@@ -1,9 +1,10 @@
 name: schedule
 
 on:
-  # 公共仓库 Actions 不限量：频率从每2小时提升至每30分钟
+# 每小时 :13 执行（错开整点拥堵分钟槽，GitHub 高负载时段 cron 会被延迟/丢弃，
+  # 实测 */30 在 :00/:30 触发执行率仅16%，错峰单小时实际有效频率反而更高）
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "13 * * * *"
   workflow_dispatch:
 
 # GITHUB_TOKEN 推送本仓库（公共仓库，Actions 免费不限量）
