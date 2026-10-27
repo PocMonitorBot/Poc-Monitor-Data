@@ -50,15 +50,25 @@ jobs:
           nvdApiKey: ${{ secrets.NVD_API_KEY }}
           NVD_BUDGET: 200
 
+      # ===== 推送（冲突自动恢复版） =====
       - name: Push data
         run: |
           cd data
           git config user.email "${{ vars.BOT_EMAIL || format('{0}@users.noreply.github.com', github.actor) }}"
           git config user.name "${{ vars.BOT_NAME || github.actor }}"
+          MSG="Update README $(date --rfc-3339=seconds)"
           git add .
-          git diff --staged --quiet || git commit -m "Update README $(date --rfc-3339=seconds)"
+          git diff --staged --quiet || git commit -m "$MSG"
           for i in 1 2 3; do
-            git pull --rebase && git push && exit 0
+            if git pull --rebase; then
+              git push && exit 0
+            fi
+            # 修复: rebase 冲突时中止并基于远端重建提交
+            git rebase --abort 2>/dev/null || true
+            git reset --soft origin/main
+            git add -A
+            git commit -m "$MSG (conflict-rebuild)" --allow-empty
+            git push && exit 0
             echo "push 失败，20s 后重试 ($i/3)"
             sleep 20
           done
