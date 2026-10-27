@@ -1,15 +1,16 @@
 name: merge
 
 on:
-  # 每2小时（UTC 每偶数小时的 :20）
-  # 依据: PoC-in-GitHub 上游每天更新4-5次；trickest 存量消化期 60万条/天（1天内完成）
-  # trickest 上游每天仅更新1次，无变更时 git diff 秒级跳过不耗资源
+  # 每2小时（UTC 每偶数小时的 :20）= 北京时间偶数小时 :20
+  # 依据: PoC-in-GitHub 上游每天更新4-5次；trickest 上游每天更新1次（无变更时 git diff 秒级跳过）
   schedule:
     - cron: "20 */2 * * *"
   workflow_dispatch:
 
+# actions: write 用于 merge 成功后联动触发 schedule（cron 限流补偿）
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: poc-data-repo
@@ -46,7 +47,7 @@ jobs:
         with:
           go-version: 1.18
 
-      # 公共仓库不限量：trickest 日预算提升至 50000（GraphQL 批量 ≈ 500 次请求）
+      # trickest 日预算 50000（GraphQL 批量 ≈ 500 次请求）
       - name: Build and run merge
         run: |
           cd src
@@ -62,16 +63,38 @@ jobs:
           githubToken: ${{ secrets.SRC_REPO_TOKEN }}
           TRICEST_BUDGET: 50000
 
+      # ===== 推送（冲突自动恢复版） =====
       - name: Push data
         run: |
           cd data
           git config user.email "${{ vars.BOT_EMAIL || format('{0}@users.noreply.github.com', github.actor) }}"
           git config user.name "${{ vars.BOT_NAME || github.actor }}"
+          MSG="Merge PoC-in-GitHub + trickest $(date --rfc-3339=seconds)"
           git add .
-          git diff --staged --quiet || git commit -m "Merge PoC-in-GitHub + trickest $(date --rfc-3339=seconds)"
+          git diff --staged --quiet || git commit -m "$MSG"
           for i in 1 2 3; do
-            git pull --rebase && git push && exit 0
+            if git pull --rebase; then
+              git push && exit 0
+            fi
+            # 修复: rebase 冲突时中止并基于远端重建提交（10/26 两次失败根因）
+            git rebase --abort 2>/dev/null || true
+            git reset --soft origin/main
+            git add -A
+            git commit -m "$MSG (conflict-rebuild)" --allow-empty
+            git push && exit 0
             echo "push 失败，20s 后重试 ($i/3)"
             sleep 20
           done
           exit 1
+
+      # ===== cron 限流补偿：merge 成功后联动触发 schedule =====
+      # 实测 GitHub 丢弃 ~85% 的 scheduled 触发；GITHUB_TOKEN 的 workflow_dispatch
+      # 是官方明确豁免递归限制的触发方式，把 merge 的每次成功转化为 schedule 的一次执行
+      - name: Trigger schedule (cron-drop compensation)
+        if: success()
+        run: |
+          curl -s -X POST \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/PocMonitorBot/Poc-Monitor-Data/actions/workflows/schedule.yml/dispatches \
+            -d '{"ref":"main"}' || true
